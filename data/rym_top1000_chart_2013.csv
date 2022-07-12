@@ -1,0 +1,1001 @@
+position,artist,album,release_date,primary_genres,secondary_genres,descriptors,number_ratings,number_reviews,avg_rating,id_spotify
+1,Ichiko Aoba 青葉市子,0,23 October 2013,"Contemporary Folk, Singer-Songwriter","Field Recordings, Avant-Folk","soft, female vocals, calm, warm, sparse, soothing, acoustic, mellow","7,424",42,3.95,4yqm0ZLcphXs8M8cVvLKym
+2,Kanye West,Yeezus,18 June 2013,"Experimental Hip Hop, Industrial Hip Hop","Industrial Hip Hop, Hardcore Hip Hop, Electro-Industrial","vulgar, manic, aggressive, boastful, sampling, noisy, angry, sexual","43,148",413,3.79,7D2NdGvBHIavgLhmcwhluK
+3,Farazi v Kayra,Hayalet Islığı,13 September 2013,"Boom Bap, Abstract Hip Hop",Turntablism,"passionate, funereal, concept album, male vocals, rhythmic, death, sampling, depressive","1,176",12,3.90,0HsnIuxYBYTX9nXBibFPEo
+4,Tim Hecker,Virgins,14 October 2013,"Ambient, Drone, Electroacoustic","Glitch, Noise, Post-Minimalism, Dark Ambient","dark, instrumental, dense, atmospheric, noisy, surreal, dissonant, ominous","10,320",79,3.86,2v5w7kFTvULw4d5jHtWhA6
+5,Queens of the Stone Age,...Like Clockwork,3 June 2013,Alternative Rock,"Hard Rock, Stoner Rock, Art Rock","death, sombre, male vocals, lonely, melancholic, melodic, desert, existential","14,369",156,3.83,06S2JBsr4U1Dz3YaenPdVq
+6,Gorguts,Colored Sands,30 August 2013,"Technical Death Metal, Dissonant Death Metal","Avant-Garde Metal, Progressive Metal","technical, dissonant, complex, atmospheric, heavy, dense, ominous, history","4,470",57,3.82,1qhgbP27HYf4iCiLbquXys
+7,Devon Hendryx,The Ghost~Pop Tape,11 November 2013,"Alternative R&B, Ambient Pop, Art Pop","Vaporwave, Hypnagogic Pop, Cloud Rap, Downtempo, Experimental Hip Hop","lo-fi, ethereal, atmospheric, nocturnal, lonely, sexual, melancholic, sampling","4,173",46,3.81,
+8,Candy Claws,Ceres & Calypso in the Deep Time,25 June 2013,"Dream Pop, Neo-Psychedelia, Shoegaze","Psychedelic Pop, Noise Pop, Exotica","psychedelic, lush, Wall of Sound, tropical, warm, dense, playful, fantasy","11,368",85,3.77,5KkGAZrad4N4rc5FriwgzU
+9,Jon Hopkins,Immunity,3 June 2013,"Microhouse, IDM","Tech House, Ambient, Ambient Techno","atmospheric, instrumental, rhythmic, hypnotic, nocturnal, lush, calm, futuristic","9,780",88,3.76,1rxWlYQcH945S3jpIMYR35
+10,Deafheaven,Sunbather,11 June 2013,"Blackgaze, Post-Metal","Post-Rock, Screamo","melancholic, passionate, atmospheric, warm, male vocals, dense, existential, lonely","18,834",188,3.69,2kKXGWaCEl06EKZ4DxBJIT
+11,The Dillinger Escape Plan,One of Us Is the Killer,14 May 2013,Mathcore,"Alternative Metal, Post-Hardcore","uncommon time signatures, energetic, chaotic, aggressive, technical, male vocals, angry, complex","4,547",35,3.75,3hVzkA43GoKicPTs5rDr0u
+12,Oneohtrix Point Never,R Plus Seven,30 September 2013,Progressive Electronic,"Ambient, Glitch, Utopian Virtual, Sound Collage, Sequencer & Tracker","futuristic, atmospheric, surreal, mysterious, ethereal, instrumental, progressive, sampling","10,869",59,3.73,68PRq4zj7YXMwiUq6FNGvR
+13,Yayayi,Yayayi,30 September 2013,"Chopped and Screwed, Glitch Hop, Experimental Hip Hop","Trap, Wonky, Snap, Cloud Rap","surreal, psychedelic, sampling, eclectic, hypnotic, futuristic, urban, male vocals","2,139",23,3.75,6C1kxJUSIF3lszIz5oVAyZ
+14,Julia Holter,Loud City Song,19 August 2013,"Art Pop, Ambient Pop","Chamber Pop, Jazz Pop, Chamber Jazz, Ambient","nocturnal, ethereal, mysterious, atmospheric, urban, poetic, female vocals, lush","6,890",74,3.72,3JhMmVL9ISUnRaVbrJ72OB
+15,Car Seat Headrest,Nervous Young Man,23 August 2013,"Lo-Fi / Slacker Rock, Singer-Songwriter","Noise Pop, Indietronica, Indie Folk","lo-fi, male vocals, lonely, anxious, love, introspective, death, alienation","3,348",31,3.73,4cARAECW98cS10AGV2CH8Z
+16,Nick Cave & The Bad Seeds,Push the Sky Away,18 February 2013,"Art Rock, Singer-Songwriter","Chamber Pop, Ambient Pop","atmospheric, sparse, cryptic, poetic, sombre, male vocals, melancholic, ominous","7,301",109,3.71,6Yl951bwCSY70QjvLm1AEG
+17,Vampire Weekend,Modern Vampires of the City,14 May 2013,Indie Pop,"Chamber Pop, Art Pop","warm, melodic, lush, male vocals, playful, philosophical, melancholic, urban","12,700",135,3.67,2Qi2SySN2ePZwMLDSv9Krn
+18,Jason Isbell,Southeastern,11 June 2013,"Americana, Singer-Songwriter, Country","Alt-Country, Southern Rock","sad, soft, introspective, serious, lonely, melancholic, bittersweet, pastoral","1,613",23,3.73,1bg476ZQn7hmcXaU05SHV4
+19,tricot,T H E,2 October 2013,"Math Rock, J-Rock",Post-Hardcore,"female vocals, passionate, complex, energetic, melodic, uncommon time signatures, playful, quirky","4,981",25,3.72,6hn3uEbxXpQUVY3dmidqXu
+20,Gravity Boys,GTBSG,12 August 2013,"Cloud Rap, Alternative R&B","Trap, Experimental Hip Hop, Vaportrap, Emo Rap, Ambient Pop","ethereal, futuristic, winter, cold, male vocals, dense, bittersweet, atmospheric","1,590",9,3.73,
+21,Melt-Banana,Fetch,1 October 2013,"Noise Rock, Experimental Rock","Art Punk, Noisecore","playful, noisy, energetic, manic, female vocals, chaotic, quirky, rhythmic","6,615",41,3.69,4C8VqFE4h4KWIsbAViqIby
+22,Daft Punk,Random Access Memories,20 May 2013,"Disco, Electronic","Synth Funk, Electro-Disco, Smooth Soul","rhythmic, party, melodic, uplifting, male vocals, playful, lush, warm","22,613",288,3.61,4m2880jivSbbyEGAKfITCa
+23,Steven Wilson,The Raven That Refused to Sing (And Other Stories),25 February 2013,Progressive Rock,"Jazz-Rock, Symphonic Prog, Art Rock","sombre, progressive, eclectic, passionate, male vocals, complex, melancholic, atmospheric","6,236",119,3.67,2xJFvV7JzoYYMere5rqjVf
+24,Estas Tonne,Internal Flight,1 June 2013,"New Age, Flamenco nuevo","Post-Minimalism, Progressive Folk","instrumental, ethereal, acoustic, atmospheric, uplifting, meditative, spiritual, technical",750,6,3.72,3nWd5bJ9Sgu7jfJzIJyD9Z
+25,Kinoko Teikoku きのこ帝国,Eureka,6 February 2013,"Indie Rock, Shoegaze","Dream Pop, Post-Rock, J-Rock","passionate, female vocals, melodic, ethereal, romantic, lush, dense, atmospheric","3,436",9,3.70,3PYWQo89juaAr0HooKtfEH
+26,Paysage d'Hiver,Das Tor,22 February 2013,Atmospheric Black Metal,"Dark Ambient, Nature Recordings, Field Recordings","cold, lo-fi, winter, atmospheric, raw, hypnotic, repetitive, dark","2,198",36,3.70,7CdtVhk66Beb5wAN069BBt
+27,Haken,The Mountain,2 September 2013,"Progressive Rock, Progressive Metal",,"technical, progressive, melodic, male vocals, epic, uplifting, lush, eclectic","2,654",49,3.68,3RBULTZJ97bvVzZLpxcB0j
+28,Leprous,Coal,20 May 2013,Progressive Metal,Avant-Garde Metal,"male vocals, melodic, uncommon time signatures, progressive, passionate, atmospheric, melancholic, rhythmic","2,132",36,3.69,1lG3iYVRwaTDseNfP458Sb
+29,Satan,Life Sentence,29 April 2013,Heavy Metal,Speed Metal,"male vocals, energetic, heavy, melodic, aggressive","1,003",16,3.69,4o5cbXU8LgncNOKAMnJYEn
+30,Altar of Plagues,Teethed Glory and Injury,30 April 2013,"Atmospheric Black Metal, Post-Metal","Atmospheric Sludge Metal, Post-Rock, Avant-Garde Metal, Industrial Metal","dark, ominous, cold, atmospheric, heavy, male vocals, dissonant, avant-garde","3,973",41,3.67,0rxVvUpRrgYMYT6zxDb4SK
+31,Lil Ugly Mane,Three Sided Tape Volume One,7 August 2013,"Experimental Hip Hop, Instrumental Hip Hop, Southern Hip Hop","Trap, Jazz Rap, Neo-Psychedelia, Sound Collage","eclectic, sampling, male vocals, drugs, urban, crime, boastful, rhythmic","3,428",7,3.68,626ZncYGLJ9UTZEjQcz3MA
+32,The Drones,I See Seaweed,1 March 2013,"Punk Blues, Art Rock","Noise Rock, Post-Rock","poetic, sombre, male vocals, angry, political, misanthropic, passionate, raw","2,871",47,3.67,41uUEhLnPAriHE4jZalkEq
+33,DJ Rashad,Double Cup,22 October 2013,Footwork,"Ghettotech, Trap, Juke","rhythmic, urban, sampling, repetitive, energetic, drugs, nocturnal, party","3,719",38,3.67,4J7qkorMbPmJQy79SntDA8
+34,Mark Kozelek & Jimmy LaValle,Perils From the Sea,30 April 2013,"Folktronica, Singer-Songwriter","Slowcore, Ambient Pop, Downtempo","introspective, melancholic, calm, death, atmospheric, sad, male vocals, sombre","1,829",20,3.68,3LQb2ysLpZyl6KcnRoEjND
+35,My Bloody Valentine,m b v,3 February 2013,"Shoegaze, Dream Pop","Noise Pop, Neo-Psychedelia","noisy, hypnotic, dense, psychedelic, male vocals, female vocals, ethereal, atmospheric","17,213",241,3.60,2SlSnUYW5bgtdWXVymv18a
+36,The Ocean,Pelagial,26 April 2013,"Progressive Metal, Atmospheric Sludge Metal",Post-Rock,"heavy, male vocals, concept album, aquatic, progressive, complex, atmospheric, epic","2,117",30,3.67,6R9cHdJ7hljxDDYq2tUCdO
+37,Nails,Abandon All Life,19 March 2013,"Grindcore, Powerviolence",Metalcore,"aggressive, heavy, chaotic, angry, misanthropic, rebellious, violence, passionate","4,219",37,3.66,0HCZqugYM0BJmzsJJs5Mb5
+38,Lord Snow,Solitude,30 September 2013,Emoviolence,Mathcore,"noisy, chaotic, female vocals, aggressive, anxious, lonely, energetic, lo-fi","2,104",14,3.67,1wP5WbgOVPFOcLKXvgiHqN
+39,Kayo Dot,Hubardo,30 August 2013,"Avant-Garde Metal, Avant-Prog, Post-Metal","Black Metal, Jazz Fusion, Experimental Rock, Chamber Music","complex, uncommon time signatures, dark, epic, chaotic, atmospheric, abstract, eclectic","1,712",36,3.65,1NbCHKiZBgdftwEKSt1FM0
+40,The Wonder Years,The Greatest Generation,14 May 2013,Pop Punk,"Emo-Pop, Alternative Rock","passionate, introspective, male vocals, melodic, depressive, melancholic, existential, anthemic","1,390",18,3.65,1X3Jx7Bm2D4atIHXomiSCE
+41,Gris,"À l'âme enflammée, l'âme constellée...",9 July 2013,"Atmospheric Black Metal, Depressive Black Metal, Progressive Metal","Dark Folk, Neoclassical Darkwave, Post-Metal","progressive, atmospheric, uncommon time signatures, melancholic, depressive, sombre, mysterious, apocalyptic","1,264",19,3.66,
+42,Marietta,Summer Death,21 October 2013,Midwest Emo,Math Rock,"male vocals, autumn, summer, self-hatred, lonely, introspective, melancholic, passionate","1,609",15,3.66,1SYDjwymTAVIIpJcu2y30K
+43,Cult of Luna,Vertikal,25 January 2013,Atmospheric Sludge Metal,"Post-Rock, Post-Industrial","mechanical, concept album, epic, atmospheric, apocalyptic, dark, dense, sombre","2,672",59,3.65,42gzKaEcCeqH0QaC2gEutv
+44,Kacey Musgraves,Same Trailer Different Park,19 March 2013,Contemporary Country,"Country Pop, Americana","sarcastic, conscious, warm, humorous, female vocals, existential, mellow, bittersweet","1,926",21,3.66,6IGpQUt0KNi5rBUXZZOFI6
+45,Sigur Rós,Kveikur,14 June 2013,Post-Rock,"Dream Pop, Industrial Rock, Post-Industrial","dark, ethereal, atmospheric, winter, melancholic, epic, sombre, nocturnal","6,958",87,3.63,1rRNqn4MTZfh393GzGvBtY
+46,SubRosa,More Constant Than the Gods,17 September 2013,"Doom Metal, Post-Metal","Atmospheric Sludge Metal, Stoner Metal","atmospheric, dark, female vocals, heavy, ominous, apocalyptic, epic, sombre","1,423",17,3.66,62sOSIi6JDhUeOkXXzeNoq
+47,Mélanie de Biasio,No Deal,18 March 2013,Vocal Jazz,"Cool Jazz, Dark Jazz, Post-Minimalism","nocturnal, urban, sensual, female vocals, soothing, love, introspective, mysterious",663,6,3.67,7l4vP6Sg9wezL0GQywj7N8
+48,Maximum the Hormone マキシマム ザ ホルモン,予襲復讐 (Yoshū fukushū),31 July 2013,Alternative Metal,"Pop Punk, Metalcore, Japanese Hardcore, J-Rock, J-Pop","playful, heavy, aggressive, male vocals, eclectic, humorous, manic, melodic",853,9,3.65,5hQ7cw4d3lnUu8LRFLeOwf
+49,Big Big Train,English Electric (Part Two),4 March 2013,Progressive Rock,,,448,16,3.65,4Y6EQSpyK0AIIxkX1nPhqr
+50,Falkenbach,Asa,1 November 2013,"Folk Metal, Viking Metal",Melodic Black Metal,"atmospheric, male vocals, pagan, mythology",550,3,3.67,37vxRdTeOv7PscRyaZW1RQ
+51,Wardruna,Runaljod – Yggdrasil,15 March 2013,"Nordic Folk Music, Dark Folk, Neo-Pagan Folk","Tribal Ambient, Norwegian Folk Music, Nature Recordings, Slavic Folk Music","mythology, pagan, nature, male vocals, folklore, ritualistic, spiritual, atmospheric","1,600",22,3.64,0rA5rQVW5kPq0SmUGFtbO1
+52,Autechre,Exai,4 March 2013,"IDM, Experimental",Glitch,"futuristic, dark, mechanical, complex, chaotic, instrumental, heavy, dense","3,868",66,3.62,0vczEfoTXdjFAERCLMrc0Z
+53,Summoning,Old Mornings Dawn,7 June 2013,"Atmospheric Black Metal, Symphonic Black Metal",Dungeon Synth,"epic, fantasy, sombre, male vocals, medieval, melodic, forest, atmospheric","1,686",27,3.63,7kA7rpusIboqEBli9mtz0x
+54,Aosoth,IV: An Arrow in Heart,16 April 2013,Black Metal,Progressive Metal,"heavy, atmospheric, satanic, ominous, misanthropic, dark, male vocals, occult",857,8,3.65,6Q7Ve532tafGJI4UWcSa5R
+55,Caligula's Horse,"The Tide, the Thief & River's End",4 October 2013,"Progressive Metal, Progressive Rock",,"melodic, uncommon time signatures, male vocals, atmospheric, technical, introspective, progressive, peaceful",549,11,3.65,4ddRx20FxcGU2ZJhateVym
+56,RetcH,Polo Sporting Goods,17 December 2013,"East Coast Hip Hop, Hardcore Hip Hop","Boom Bap, Gangsta Rap, Cloud Rap, Drumless, Jazz Rap","urban, rhythmic, vulgar, raw, sampling, nocturnal, violence, aggressive",343,1,3.67,6KsCwALkzuzlMNxZRSHAwH
+57,Inquisition,Obscure Verses for the Multiverse,25 October 2013,Black Metal,,"dark, ominous, male vocals, infernal, aggressive, space, energetic, satanic","1,256",20,3.63,5NSF2QHvB2G5bHMSJE4oWy
+58,Cats Millionaire,Fun Fun Fun,1 August 2013,Indietronica,"Electropop, Electroclash, Bitpop","fantasy, female vocals, alienation, deadpan, anxious, quirky, playful, sarcastic",632,11,3.63,7ssARVOUqqjgaxF3i6SVXM
+59,Lindsheaven Virtual Plaza,Transversal Worldwide Shopping,15 July 2013,"Ambient, Vaporwave","Mallsoft, Illbient, Trip Hop","ethereal, atmospheric, rain, peaceful, surreal, soft, longing, instrumental",568,8,3.65,
+60,Chelsea Wolfe,Pain Is Beauty,3 September 2013,"Darkwave, Ethereal Wave",Gothic Rock,"sombre, melancholic, ethereal, nocturnal, female vocals, cold, atmospheric, apocalyptic","4,382",27,3.62,4rpm9Ez8nfVsQvNmHDbgyp
+61,Cult of Fire,मृत्यु का तापसी अनुध्यान,2 December 2013,Black Metal,"Atmospheric Black Metal, Hindustani Classical Music","spiritual, mysterious, occult, ritualistic, atmospheric, mythology, male vocals, ethereal","1,265",14,3.63,6mhIhyGBRzGEnjKJTzhprL
+62,Cultes des Ghoules,Henbane,27 January 2013,Black Metal,,"ritualistic, heavy, occult, aggressive, male vocals, ominous, raw, satanic",965,15,3.63,1B41pXp01TdsYTDWPpEvjx
+63,In Solitude,Sister,27 September 2013,Heavy Metal,"Gothic Rock, Post-Punk, Gothic Metal, Deathrock","male vocals, ominous, melodic, occult, satanic, mysterious, melancholic, progressive",780,20,3.63,7dozEDYcswMbvJTnEBBLGU
+64,Obliteration,Black Death Horizon,4 November 2013,Death Metal,Death Doom Metal,"atmospheric, dark, death, occult, aggressive, angry, manic, heavy",707,7,3.64,63cOfpyU6Rd7XqgdviIDnk
+65,Atlantean Kodex,The White Goddess (A Grammar of Poetic Myth),4 October 2013,"Heavy Metal, Epic Doom Metal","Epic Doom Metal, Doom Metal","epic, male vocals, fantasy, mythology",505,8,3.63,6wcUtNoQK4D6D3GsOTmehg
+66,Avatarium,Avatarium,1 November 2013,Doom Metal,Heavy Psych,"female vocals, melancholic, psychedelic, fantasy, atmospheric, sombre, heavy",750,20,3.62,7cwOjoJ7RpXQBFpWxMDSv7
+67,Ulcerate,Vermis,17 September 2013,"Technical Death Metal, Dissonant Death Metal",Atmospheric Sludge Metal,"technical, dense, heavy, dark, dissonant, pessimistic, atmospheric, misanthropic","1,370",18,3.61,0FR1Vn0vo2p8J8WT67eTYz
+68,Kikuo きくお,きくおミク3 (Kikuo Miku 3),12 August 2013,Art Pop,"Electropop, Folktronica, Musette, Nu Jazz, Glitch Pop","death, female vocals, playful, cryptic, bittersweet, abstract, disturbing, dark",347,2,3.65,5eSuy3Rr40DI0qcPOMFgX0
+69,Oranssi Pazuzu,Valonielu,11 October 2013,Black Metal,"Space Rock, Psychedelic Rock, Post-Metal, Avant-Garde Metal","psychedelic, space, ominous, avant-garde, dense, male vocals, hypnotic, heavy","1,673",18,3.62,6hZeJdfSgJ7fcICxGYItAK
+70,Matt Elliott,Only Myocardial Infarction Can Break Your Heart,28 October 2013,"Singer-Songwriter, Progressive Folk","Chamber Folk, Slowcore","sombre, melancholic, acoustic, autumn, melodic, longing, dark, male vocals",685,9,3.63,4A52dHykAX3try9mvBjt41
+71,Camel,The Snow Goose,4 November 2013,"Symphonic Prog, Progressive Rock",,"concept album, instrumental",326,11,3.62,
+72,Soilwork,The Living Infinite,27 February 2013,Melodic Death Metal,,"energetic, heavy, passionate, male vocals, aggressive, progressive, melodic, technical","1,168",34,3.60,2GNlVu4aMhujMGnak101O5
+73,Counterparts,The Difference Between Hell and Home,23 July 2013,"Metalcore, Melodic Hardcore",,"passionate, anxious, depressive, angry, male vocals, aggressive, melodic, lonely",619,8,3.62,3spKVCgi7C0A4ybIN69RZM
+74,Adrianne Lenker,Hours Were the Birds,1 December 2013,"Singer-Songwriter, Indie Folk, Contemporary Folk",,"female vocals, acoustic, melodic, passionate",490,5,3.63,5WlYqEqCp7CZjPDaXM8LWU
+75,Blood Ceremony,The Eldritch Dark,27 May 2013,Heavy Psych,"Folk Rock, Progressive Rock, Traditional Doom Metal","mythology, pagan, psychedelic, occult, energetic, dark, satanic, female vocals","1,284",32,3.61,4Syg4ygPBaQLuDYs5HEALA
+76,Darkside,Psychic,8 October 2013,"Electronic, Art Pop","Ambient Pop, Microhouse, Art Rock, Neo-Psychedelia","atmospheric, mysterious, psychedelic, rhythmic, ethereal, mellow, hypnotic, progressive","5,130",33,3.59,7jqNrm1l4wSxNYSjgK7tmF
+77,Magic Circle,Magic Circle,28 January 2013,Traditional Doom Metal,Heavy Metal,male vocals,468,14,3.61,1wUStFOJ7ycg84iGD553HF
+78,Hell,Curse & Chapter,22 November 2013,Heavy Metal,,"occult, male vocals",476,13,3.60,380Tzrx0UgXYRDJBmlN0kW
+79,Lorde,Pure Heroine,27 September 2013,Alt-Pop,"Synthpop, Alternative R&B, Indietronica, Art Pop","introspective, female vocals, mellow, atmospheric, melodic, sparse, sombre, bittersweet","12,460",127,3.55,0rmhjUgoVa17LZuS8xWQ3v
+80,Israel Nash,Israel Nash's Rain Plans,30 September 2013,"Americana, Singer-Songwriter, Folk Rock","Country Rock, Psychedelic Rock, Nashville Sound","warm, male vocals, calm, psychedelic, autumn, melodic, pastoral, melancholic",364,6,3.62,6kkxItOIVaW1mwe6UKwezk
+81,Run the Jewels,Run the Jewels,July 2013,Hardcore Hip Hop,Experimental Hip Hop,"aggressive, urban, crime, energetic, male vocals, drugs, boastful, political","14,861",103,3.54,4Kg4MRg91XfDHbI6Sc0CWN
+82,Persefone,Spiritual Migration,29 March 2013,"Progressive Metal, Death Metal","Melodic Death Metal, Technical Death Metal, Symphonic Metal","existential, introspective, spiritual, meditative, manic, concept album, philosophical, uplifting",978,16,3.59,2XdTS0Etn3ys9fVqD6RVps
+83,Kauan,Pirut,15 December 2013,"Post-Rock, Doom Metal, Post-Metal","Ambient, Neofolk","heavy, apocalyptic, rhythmic, melancholic, epic, suite, male vocals, depressive",406,3,3.62,2OMXxPZ39Xr0XXWI3gW4Cw
+84,David Maxim Micic,Bilo 3.0,17 November 2013,Progressive Metal,"Djent, Jazz Fusion, Avant-Garde Metal","male vocals, lush, eclectic, female vocals, progressive, uplifting, melodic, sentimental",381,7,3.61,6kkkWal9VG9HTlQ020J42V
+85,Birds and Buildings,Multipurpose Trap,2013,Progressive Rock,"Avant-Prog, Symphonic Prog, Zeuhl, Jazz-Rock","uncommon time signatures, progressive, eclectic, anxious, complex, technical, male vocals, female vocals",280,9,3.62,
+86,Kurt Vile,Wakin on a Pretty Daze,9 April 2013,"Folk Rock, Singer-Songwriter","Psychedelic Folk, Dream Pop","mellow, warm, summer, introspective, male vocals, psychedelic, melodic, lush","5,034",82,3.58,2imxOfDIDk2voAYCZP88u2
+87,Graham Lambkin / Jason Lescalleet,Photographs,27 September 2013,"Electroacoustic, Musique concrète","Field Recordings, Drone, Spoken Word","mysterious, eclectic, ominous, sampling, instrumental",426,2,3.59,
+88,Riverside,Shrine of New Generation Slaves,21 January 2013,Progressive Rock,Progressive Metal,"melodic, melancholic, romantic, progressive, male vocals, complex","1,947",50,3.58,6bS5UWfIw3nnDBvvLlwTdW
+89,Obscure Sphinx,Void Mother,15 November 2013,"Atmospheric Sludge Metal, Post-Metal",Post-Rock,"atmospheric, female vocals, dark, ominous, occult, heavy, aggressive, epic",590,12,3.60,4lGyWEOqbXFMTIci7agiew
+90,Marnero,Il sopravvissuto,20 June 2013,Post-Hardcore,Spoken Word,"misanthropic, existential, concept album, philosophical, pessimistic, nihilistic, aggressive, male vocals",393,6,3.61,0hjxAiB9DOfPCNJ9s7PzCf
+91,Clutch,Earth Rocker,19 March 2013,"Hard Rock, Stoner Rock","Blues Rock, Southern Rock","male vocals, psychedelic, heavy, energetic, rhythmic","1,303",27,3.58,6TEafnAPUmdSLBqNqPat4N
+92,The Ruins of Beverast,Blood Vaults: The Blazing Gospels of Heinrich Kramer,6 September 2013,Death Doom Metal,"Atmospheric Black Metal, Funeral Doom Metal","male vocals, ritualistic, occult, dark, atmospheric, heavy, anti-religious, serious",780,13,3.60,3ZexOPAnuDdKYWyzR6L3Nj
+93,ERRA,Augment,29 October 2013,"Progressive Metal, Melodic Metalcore, Metalcore",Djent,"passionate, uncommon time signatures, heavy, technical, complex, aggressive, progressive, ethereal",560,8,3.59,0SHApkUnsJkdt6a6xoSC0z
+94,Jakob Ullmann / Hans-Peter Schulz,Fremde Zeit Addendum 4,2013,"Modern Classical, Reductionism","Microtonal Classical, Drone","sparse, dark, atmospheric, atonal, soft, microtonal, minimalistic",282,3,3.67,
+95,Bill Callahan,Dream River,17 September 2013,"Americana, Singer-Songwriter",Progressive Folk,"calm, male vocals, warm, romantic, pastoral, introspective, atmospheric, lush","2,400",34,3.58,09o1j1zgl0n8H6EJZXIvRi
+96,The National,Trouble Will Find Me,21 May 2013,Indie Rock,"Chamber Pop, Post-Punk Revival, Big Music, Art Rock","melancholic, lonely, sombre, male vocals, introspective, mellow, depressive, breakup","8,006",130,3.54,2JhR4tjuc3MIKa8v2JaKze
+97,Caladan Brood,Echoes of Battle,15 February 2013,"Atmospheric Black Metal, Symphonic Black Metal",Dungeon Synth,"epic, triumphant, fantasy, melodic, atmospheric, medieval, war, male vocals","1,183",24,3.57,1frb56r2K4Trem7czARB1s
+98,Rasmentalism,Za młodzi na Heroda,10 December 2013,"Hip Hop, Conscious Hip Hop",Chipmunk Soul,"urban, warm, sampling, mellow, alcohol, introspective, drugs",371,3,3.60,2jXr6sbHAe8gVF2NphxQul
+99,Fire! Orchestra,Exit!,11 January 2013,Experimental Big Band,"Vocal Jazz, Free Jazz, Jazz Fusion","avant-garde, hypnotic, rhythmic, female vocals, improvisation, complex, chaotic, surreal","2,563",41,3.57,5tRzcKC7mPREnomHr1IIQp
+100,Spock's Beard,Brief Nocturnes and Dreamless Sleep,March 2013,"Progressive Rock, Symphonic Prog",,,452,18,3.59,4jvfINK922vXYKLBcdsZXd
+101,Earthless,From the Ages,8 October 2013,"Jam Band, Psychedelic Rock, Space Rock","Stoner Rock, Heavy Psych","instrumental, improvisation, heavy, psychedelic",705,15,3.59,3bv7hBgSjgcyo3Tj2P3nYS
+102,Monster Magnet,Last Patrol,15 October 2013,"Stoner Rock, Hard Rock",Heavy Psych,"psychedelic, male vocals",579,7,3.60,2LlTe4yvTMN6F1X8QXEFcb
+103,Enforcer,Death by Fire,1 February 2013,"Speed Metal, Heavy Metal",,"male vocals, energetic, melodic",598,13,3.58,5ToFVNmcoc0fbt8lpbVUJX
+104,Dennis Johnson / R. Andrew Lee,November,April 2013,Minimalism,,"melancholic, sparse, autumn",473,9,3.58,
+105,Boards of Canada,Tomorrow's Harvest,10 June 2013,"IDM, Ambient Techno","Ambient, Downtempo, Progressive Electronic","apocalyptic, cold, melancholic, atmospheric, ominous, lonely, mysterious, concept album","8,939",118,3.54,159ORixBSSemxiualv1Woj
+106,The Kniφe,Shaking the Habitual,8 April 2013,"Electronic, Post-Industrial, Experimental","Dark Ambient, Art Pop, Tech House, Drone, Industrial Techno","political, anxious, LGBT, eclectic, cold, ominous, rhythmic, abstract","7,428",139,3.53,6GWQ6fq8krujlglglMPyPu
+107,Tribulation,The Formulas of Death,1 March 2013,Death Metal,"Black Metal, Progressive Rock, Psychedelic Rock","dark, psychedelic, atmospheric, male vocals",876,21,3.58,0MxNrLyjArscDgiocOC52u
+108,Àrsaidh,Roots,16 May 2013,"Atmospheric Black Metal, Pagan Black Metal","Celtic Metal, Folk Metal, Blackgaze","atmospheric, male vocals, melancholic, folklore, sombre, passionate, nature, aggressive","1,040",16,3.57,4XFz7UNiXikFlDhWFNW1CG
+109,Agnes Obel,Aventine,30 September 2013,"Singer-Songwriter, Chamber Pop","Chamber Pop, Ambient Pop","female vocals, mysterious, ethereal, lush, dark, atmospheric, introspective","1,359",11,3.58,3eVwN9Qju2pxBERkOQQv1Q
+110,Charles Bradley,Victim of Love,2 April 2013,"Soul, Southern Soul, Deep Soul","Funk, Psychedelic Soul","passionate, love, male vocals, romantic, longing, lush, sentimental, melodic",861,16,3.59,3rimYQyKq7BatxuUoPIBrb
+111,Weed,Deserve,10 September 2013,"Noise Rock, Shoegaze","Lo-Fi / Slacker Rock, Noise Pop","noisy, heavy, male vocals, melodic, lo-fi, energetic, raw, dense",792,7,3.59,1rrGKvNKhDF1wptEM8TpBz
+112,"Oh, Yoko",I Love You ...,1 August 2013,"Ambient Pop, Ambient","Field Recordings, Indietronica, Drone","peaceful, soft, ethereal, melancholic, atmospheric, mellow, love, female vocals",663,6,3.59,1kzul6VNTH1cCwwniO9cGT
+113,Goldfrapp,Tales of Us,9 September 2013,"Chamber Pop, Art Pop, Chamber Folk","Dream Pop, Ambient Pop","female vocals, introspective, minimalistic, lush, melancholic, ethereal, mysterious, LGBT","1,685",33,3.57,0D7fkBCl0eMCI4b6zFgEJ7
+114,Laura Marling,Once I Was an Eagle,27 May 2013,"Contemporary Folk, Singer-Songwriter","Indie Folk, Chamber Folk, Folk Rock","melancholic, acoustic, lonely, breakup, mellow, female vocals, introspective, melodic","1,962",41,3.56,2sys0w1WpiB1k6ZhfYCbBY
+115,Windhand,Soma,17 September 2013,Doom Metal,Stoner Metal,"heavy, female vocals, hypnotic, dense, atmospheric, psychedelic, cold, mysterious","1,060",6,3.58,1uT455zoyeabAFnd8er1F3
+116,Beastmilk,Climax,29 November 2013,Post-Punk,Deathrock,"melodic, death, dark, apocalyptic, male vocals, energetic, war, ominous","1,452",11,3.57,4trDpfuKKioeoFjVJiLXwz
+117,The Flower Kings,Desolation Rose,October 2013,Progressive Rock,,"technical, melodic, epic, lush, eclectic, male vocals",323,11,3.59,02kZ2Kw6DxlfaebRBVAKLR
+118,Civil War,The Killer Angels,11 June 2013,"Power Metal, Heavy Metal",,"energetic, male vocals",297,9,3.58,3KxwT69ImokLmfQBYzqsb1
+119,Ovlov,am,2 July 2013,"Indie Rock, Shoegaze, Noise Pop","Emo, Post-Hardcore, Lo-Fi / Slacker Rock","dense, noisy, warm, melodic, heavy, bittersweet, summer, male vocals","1,524",12,3.57,3wsAvXXxzYt8Q6yHirXaw4
+120,State Faults,Resonate / Desperate,12 November 2013,"Screamo, Post-Hardcore",Post-Rock,"melancholic, sentimental, passionate, anxious, heavy, dark, atmospheric, introspective",423,3,3.59,4nFxNtkaiJnWR42GOzKivg
+121,E+E,The Light That You Gave Me to See You,18 December 2013,"Deconstructed Club, Epic Collage, Latin Electronic","Digital Cumbia, Ambient Pop, Contemporary R&B, Huayno","chaotic, dense, rhythmic, energetic, sampling, tribal, atmospheric, raw",704,2,3.57,
+122,King Krule,6 Feet Beneath the Moon,24 August 2013,"Singer-Songwriter, Art Rock","Trip Hop, Post-Punk, Alternative R&B, Jazz-Rock, Art Pop","melancholic, urban, male vocals, lonely, introspective, nocturnal, cold, raw","6,886",42,3.53,6DAL46eCFRxgj624atbOYY
+123,Airbag,The Greatest Show on Earth,25 October 2013,Progressive Rock,Art Rock,"progressive, atmospheric, melancholic",348,15,3.58,7pZJKVpz7U91UHdt9govfE
+124,Touché Amoré,Is Survived By,24 September 2013,"Post-Hardcore, Screamo","Melodic Hardcore, Emo, Emocore","passionate, death, energetic, existential, angry, anxious, introspective, male vocals","2,633",17,3.55,2Qs1H2KjF6Bk2lSgFjQpOj
+125,Oathbreaker,Eros|Anteros,20 August 2013,"Metalcore, Crust Punk, Blackened Crust","Sludge Metal, Black Metal, Post-Metal","aggressive, passionate, female vocals, angry, heavy, dark, sombre, nihilistic","1,366",9,3.57,42lF4VUn5wSf3BmRpq7jd8
+126,Streetlight Manifesto,The Hands That Thieve,30 April 2013,Ska Punk,"Folk Punk, Progressive Rock, Folk Rock, Gypsy Punk","epic, bittersweet, optimistic, energetic, triumphant, war, anthemic, melodic",975,8,3.56,3sZ300pdz8v0l1Jd4NFQbY
+127,Omnium Gatherum,Beyond,25 February 2013,Melodic Death Metal,Progressive Metal,"melodic, heavy, male vocals, ethereal, uplifting, introspective, happy, bittersweet",740,24,3.55,1kHaDapR7NE370HH6bIJr2
+128,Billy Woods,Dour Candy,2 July 2013,"East Coast Hip Hop, Abstract Hip Hop","Boom Bap, Conscious Hip Hop, Political Hip Hop","political, sampling, nocturnal, poetic, male vocals, dark, complex, cryptic","1,222",6,3.57,0xNc2ff7Q6CX3wkfZ1iIMO
+129,Wędrujący Wiatr,"Tam, gdzie miesiąc opłakuje świt",June 2013,Atmospheric Black Metal,"Dark Folk, Pagan Black Metal","atmospheric, nature, male vocals, raw, forest, melancholic, atmosphere",567,3,3.58,57vIhOh8HoL6nB73LAoq8t
+130,Beyond,Fatal Power of Death,July 2013,Death Metal,,"death, occult, chaotic, aggressive, atmospheric, infernal, heavy",280,5,3.61,ironboneheadproduction
+131,Xenia Rubinos,Magic Trix,April 2013,"Art Rock, Jazz-Rock, Progressive Pop","Neo-Soul, Math Rock","quirky, progressive, passionate, uncommon time signatures, complex, female vocals, playful",353,6,3.58,3OKgk5txabR3sdRKCtcDne
+132,Perfume,Level3,2 October 2013,"Electropop, J-Pop, Dance-Pop","Electro House, Dance-Pop, Progressive House, Complextro","futuristic, energetic, female vocals, playful, rhythmic, melodic, uplifting, love","1,163",15,3.56,2DdXcewGp8Akqutak3yLDg
+133,Earl Sweatshirt,Doris,20 August 2013,West Coast Hip Hop,"Abstract Hip Hop, Hardcore Hip Hop","introspective, dark, male vocals, deadpan, apathetic, drugs, ominous, nocturnal","14,541",73,3.50,5vRfIDOPJHy3W2wHWbzLlE
+134,Plaga,Magia gwiezdnej entropii,March 2013,Black Metal,Melodic Black Metal,"space, lo-fi, raw, cold, ominous, dark, melodic, death",573,4,3.57,1WiLR0Bwd1ThNJtQKjWcaM
+135,Causa Sui,Euporie Tide,5 August 2013,"Psychedelic Rock, Jam Band","Heavy Psych, Space Rock","instrumental, psychedelic, rhythmic, warm",521,5,3.57,5Ylo2MVt7UMcv7gPGyC3hu
+136,Roy Harper,Man & Myth,23 September 2013,"Progressive Folk, Singer-Songwriter",Chamber Folk,,283,10,3.57,
+137,Defeated Sanity,Passages Into Deformity,5 February 2013,Brutal Death Metal,"Technical Death Metal, Slam Death Metal","aggressive, heavy, disturbing, technical, energetic, dark, male vocals, death",629,8,3.55,0ZmpryTCiRx25kRMu20UHX
+138,Blindead,Absence,2 October 2013,"Progressive Metal, Post-Metal","Atmospheric Sludge Metal, Post-Rock","melancholic, atmospheric, male vocals, progressive, dark, heavy, passionate",486,10,3.55,5zRHzHa3vdOQx1v8S6gSP9
+139,Altars,Paramnesia,6 September 2013,Death Metal,"Dissonant Death Metal, Technical Death Metal","heavy, dark, dissonant, male vocals, mythology, technical, aggressive, chaotic",316,7,3.58,1dir3rhUhYSR6HT7Tq8ROW
+140,Dead in the Dirt,The Blind Hole,6 August 2013,"Powerviolence, Grindcore",Crust Punk,"heavy, infernal, dark, passionate, aggressive, angry, energetic, dissonant",867,5,3.55,6WkdJkAffibFMN5tiWE4Dt
+141,Purson,The Circle and the Blue Door,29 April 2013,"Heavy Psych, Hard Rock",Progressive Rock,"occult, female vocals, playful, dark, psychedelic",517,17,3.56,4PcI4cy6cGEc6BPrMtiMLZ
+142,Tigran Hamasyan,Shadow Theater,26 August 2013,"Armenian Folk Music, Jazz Fusion","Chamber Jazz, Avant-Garde Jazz, Jazz Fusion, Avant-Prog","male vocals, folklore, uncommon time signatures, improvisation, rhythmic, female vocals, melodic",308,4,3.57,3cH2LQH41G3PO5XxmLVxJo
+143,Stara Rzeka,Cień chmury nad ukrytym polem,11 April 2013,"Drone, Post-Rock","Black Metal, Ambient, Avant-Folk, Post-Rock","hypnotic, atmospheric, ritualistic, dark, psychedelic, eclectic, complex, male vocals","1,168",11,3.55,11gK31t01ictIPjrWJwSlQ
+144,Carcass,Surgical Steel,17 September 2013,Melodic Death Metal,Death Metal,"male vocals, heavy, death, violence, aggressive, energetic, melodic","2,725",48,3.53,2nTVbtBxQK6XgD4RyUKFIU
+145,Jonathan Wilson,Fanfare,14 October 2013,"Singer-Songwriter, Folk Rock","Americana, Psychedelic Rock, Country Rock, Progressive Folk",,489,13,3.56,0oFgCWCbCPdLcDBVblR65z
+146,The Haxan Cloak,Excavation,15 April 2013,"Dark Ambient, Ambient Dub","Drone, Dubstep","ominous, dark, atmospheric, sparse, mysterious, nocturnal, instrumental, disturbing","3,728",38,3.53,2iMuDUx0AkuUemuFtmhUG1
+147,King Gizzard & The Lizard Wizard,Float Along - Fill Your Lungs,27 September 2013,"Psychedelic Rock, Garage Rock, Acid Rock","Blues Rock, Neo-Psychedelia, Raga Rock, Krautrock, Noise Rock","psychedelic, male vocals, noisy, hypnotic, playful, lo-fi, energetic, raw","3,732",29,3.54,2ejooTHUieuzc8Lh9IfTTG
+148,Klô Pelgag,L'alchimie des monstres,24 September 2013,"Singer-Songwriter, Art Pop, Chamber Folk","Chamber Pop, Nouvelle chanson française","poetic, surreal, female vocals",330,1,3.57,16ezGOdAs9jGN1sEps6Gsv
+149,Vulture Industries,The Tower,27 September 2013,Progressive Metal,Avant-Garde Metal,"ominous, male vocals, progressive, death, concept album, fantasy",291,6,3.56,2HD5yiWWoG8SHVfC5rLTzz
+150,Colin Stetson,New History Warfare Vol. 3: To See More Light,30 April 2013,"Post-Minimalism, Experimental",Avant-Garde Jazz,"noisy, technical, minimalistic, avant-garde, atmospheric, spiritual, passionate, anxious","1,574",27,3.54,5UTflDsfTAvheGvWaVD65d
+151,In Vain,Ænigma,8 March 2013,"Progressive Metal, Death Metal","Melodic Black Metal, Melodic Death Metal","epic, melodic, progressive, heavy, male vocals",842,15,3.53,2R7DRoTuRqWLydbch4qwKp
+152,Cloud Rat,Moksha,22 January 2013,Grindcore,"Screamo, Crust Punk, Blackened Crust, Sludge Metal","female vocals, aggressive, passionate, angry",401,7,3.56,5uaX5Ml5ivj8BnaEzfWXEF
+153,Armand Hammer,Race Music,22 October 2013,"East Coast Hip Hop, Hardcore Hip Hop, Abstract Hip Hop","Conscious Hip Hop, Experimental Hip Hop, Political Hip Hop","male vocals, abstract, political, cryptic, complex, dark, conscious, rhythmic",962,7,3.55,19LWNrdEQop8uFOIwpKNJS
+154,Thee Oh Sees,Floating Coffin,16 April 2013,"Psychedelic Rock, Garage Punk",Noise Rock,"psychedelic, energetic, playful, male vocals, raw, noisy, cryptic, heavy","3,641",37,3.53,6UpdRU3P0AAMA6MVCzsW3c
+155,Monkey3,The 5th Sun,25 October 2013,"Space Rock, Stoner Rock",Post-Rock,,267,3,3.61,1AjSIOFGyTKfZDxctvHGCl
+156,Grave Miasma,Odori Sepulcrorum,17 September 2013,Death Metal,Black Metal,"heavy, ritualistic, dark, philosophical, spiritual, death, occult, atmospheric",593,8,3.55,4DpxVmAubw4NmZxkGHVgz2
+157,Enshine,Origin,15 May 2013,"Melodic Death Metal, Death Doom Metal","Progressive Metal, Post-Metal","melancholic, atmospheric, space, melodic, ethereal, male vocals",468,15,3.55,44ygfJfQQg1AiOooZeeVEA
+158,Shade Empire,Omega Arcane,3 May 2013,"Symphonic Black Metal, Melodic Death Metal",Progressive Metal,"apocalyptic, dark, sombre, epic, male vocals",547,18,3.53,5fmTvxWVUA0yNGbkzGKbSL
+159,Motorpsycho,Still Life With Eggplant,12 April 2013,Psychedelic Rock,"Progressive Rock, Alternative Rock","male vocals, psychedelic, complex, uplifting, progressive, uncommon time signatures, energetic, anthemic",305,7,3.56,1lwHzPaeF4yRMszh2h7jWF
+160,Janelle Monáe,The Electric Lady,10 September 2013,"Contemporary R&B, Funk","Neo-Soul, Philly Soul, Psychedelic Soul, Art Pop","energetic, uplifting, science fiction, melodic, concept album, romantic, futuristic, political","4,221",50,3.52,3bnHtSmmsgJiG82hGCmsq9
+161,Daniel Avery,Drone Logic,4 October 2013,Tech House,"Acid House, Microhouse, Deep House, Minimal Techno, Acid Breaks","hypnotic, atmospheric, sampling, rhythmic, repetitive, mechanical, nocturnal, futuristic","1,741",10,3.54,40CBXF9jJwK21mrqlmBr92
+162,Ghostface Killah & Adrian Younge,Twelve Reasons to Die,16 April 2013,"East Coast Hip Hop, Boom Bap","Jazz Rap, Hardcore Hip Hop","nocturnal, dark, concept album, aggressive, violence, ominous, rhythmic, male vocals","2,188",36,3.53,2fPz4Kn1vZTFZVbP0ia8Vq
+163,Amorphis,Circle,19 April 2013,Progressive Metal,"Melodic Death Metal, Folk Metal","melodic, fantasy, male vocals, epic, heavy, nature, concept album, sombre","1,187",18,3.53,7it0r7jA4RiAIjEaUSv949
+164,f(x),Pink Tape,29 July 2013,"K-Pop, Dance-Pop","Electropop, Contemporary R&B","quirky, female vocals, melodic, eclectic, love, energetic, boastful, playful","1,559",15,3.52,62tuEHFtjk3L6Xjdkzyt4z
+165,Vàli,Skogslandskap,30 August 2013,Dark Folk,"Norwegian Folk Music, Ambient","instrumental, forest, acoustic, peaceful, autumn, melancholic, nature, calm",684,8,3.55,1jDGHYqPJv2YnColtdUE6x
+166,Teho Teardo & Blixa Bargeld,Still Smiling,22 April 2013,"Chamber Pop, Art Pop","Modern Classical, Electroacoustic","melodic, poetic, poem, bittersweet, chamber music, male vocals",568,4,3.54,7k0WGXPrNROKbejJ2Zhq90
+167,Stratovarius,Nemesis,22 February 2013,Power Metal,"Progressive Metal, Trance Metal, Heavy Metal","melodic, energetic, anthemic, uplifting, male vocals, fantasy, triumphant, epic",743,22,3.51,37qdr3nW8foSCx7SRHP5La
+168,Wormed,Exodromos,26 March 2013,"Brutal Death Metal, Technical Death Metal",,"science fiction, energetic, dissonant, apocalyptic, futuristic",592,14,3.53,0rz0cSVZtrjmyVjvmsIeZW
+169,Lil Ugly Mane,Three Sided Tape Volume Two,11 August 2013,"Experimental Hip Hop, Instrumental Hip Hop, Cloud Rap","Jazz Rap, Abstract Hip Hop","sampling, atmospheric, instrumental, lo-fi, ethereal, eclectic, urban, warm","2,188",2,3.53,7jJFYqXJt45z6F8TjGrrhX
+170,She Past Away,Belirdi Gece,28 February 2013,"Darkwave, Gothic Rock","Post-Punk, Minimal Wave","dark, male vocals, nocturnal, rhythmic, energetic, sombre, depressive, ominous",823,6,3.54,5yRJLea73tCtrtdRhDjaxC
+171,Matana Roberts,Coin Coin Chapter Two: Mississippi Moonchile,1 October 2013,"Avant-Garde Jazz, Spiritual Jazz","Jazz Poetry, Spirituals, Modern Creative","improvisation, rhythmic, female vocals, concept album, complex, progressive, avant-garde, male vocals","1,209",14,3.53,2c6tVMYL1aeIdoOQeBIvti
+172,Etsuko Yakushimaru やくしまるえつこ,Radio Onsen Eutopia,10 April 2013,"Art Pop, J-Pop","Indie Pop, Progressive Pop","eclectic, playful, female vocals, lush, space, science fiction, bittersweet, progressive",704,8,3.54,3txAqR7xThb5LKKu8kGQrw
+173,Fuzz,Fuzz,1 October 2013,"Heavy Psych, Garage Rock",Stoner Rock,"psychedelic, male vocals, raw, heavy, energetic, fantasy, manic, passionate","1,991",22,3.52,1D3YttJsWvUUSvOVRbic0o
+174,Neko Case,"The Worse Things Get, the Harder I Fight, the Harder I Fight, the More I Love You",3 September 2013,"Singer-Songwriter, Indie Rock",Alt-Country,"female vocals, autumn, love, poetic, introspective","1,268",25,3.53,56PXLjwRAZTqpZjM07FeR5
+175,Orphaned Land,All Is One,24 June 2013,"Folk Metal, Progressive Metal","Israeli Folk Music, Arabic Folk Music, Symphonic Metal","male vocals, war, philosophical, melodic, political, protest, concept album, progressive",825,16,3.52,4xgrsrvs48uTdDOHfyk5aK
+176,Spectral Lore & Mare Cognitum,Sol,June 2013,Atmospheric Black Metal,Space Ambient,"space, epic, atmospheric, dense, poetic, dark, progressive, male vocals",371,6,3.55,2i4J0cNfsbB9p6hQJfTahd
+177,Moonface,Julia With Blue Jeans On,29 October 2013,Singer-Songwriter,"Modern Classical, Piano Rock","male vocals, passionate",403,9,3.54,2tz0aMsdB042gCLfFuKy86
+178,David Bowie,The Next Day,11 March 2013,Art Rock,Art Pop,"energetic, introspective, sombre, male vocals, poetic, lonely, bittersweet, melodic","8,726",152,3.49,16F7X7WOFZhMwQNsMil7lq
+179,Car Seat Headrest,Disjecta membra,23 August 2013,Lo-Fi / Slacker Rock,"Noise Rock, Singer-Songwriter, Noise Pop","LGBT, depressive, longing, lonely, lo-fi, drugs, raw, dark",918,12,3.51,
+180,Black Milk,No Poison No Paradise,15 October 2013,"Hip Hop, Conscious Hip Hop","Jazz Rap, Boom Bap, Neo-Soul, Conscious Hip Hop, Instrumental Hip Hop","cold, crime, sampling, dark, urban, religious, atmospheric, male vocals",981,13,3.53,19pFdxG3feVWRFoXDJjPpM
+181,Exivious,Liminal,8 November 2013,Progressive Metal,Jazz Fusion,"instrumental, space, melodic, progressive",394,8,3.52,2mWagyGiYtBQ1zcLhIpxzk
+182,Gregory Alan Isakov,The Weatherman,9 July 2013,"Singer-Songwriter, Indie Folk","Americana, Chamber Folk","mellow, acoustic, melodic, bittersweet, pastoral, male vocals",303,6,3.55,3gYOm060ReL5pAx8Z7jsA8
+183,Sky Ferreira,"Night Time, My Time",29 October 2013,"Synthpop, Noise Pop","Alternative Dance, Synth Punk, New Wave","bittersweet, female vocals, melancholic, nocturnal, lonely, breakup, angry, melodic","5,504",46,3.49,0DucmDrdJM4evPXMbFJXBS
+184,Steve Earle & The Dukes (& Duchesses),The Low Highway,16 April 2013,"Americana, Alt-Country, Singer-Songwriter",Bluegrass,,281,9,3.54,6PmyoWqAJPV8AebAIw7xzN
+185,Paramore,Paramore,9 April 2013,"Power Pop, Pop Rock","Alternative Rock, Pop Punk, New Wave, Post-Rock","female vocals, melodic, energetic, anthemic, passionate, sentimental, melancholic, eclectic","4,646",57,3.49,4sgYpkIASM1jVlNC8Wp9oF
+186,Prefab Sprout,Crimson / Red,4 October 2013,Sophisti-Pop,"Jangle Pop, Art Pop","male vocals, lush, romantic, uplifting, urban, melodic, bittersweet, passionate",772,18,3.52,38Dob99MyGYAYdShDtWK0q
+187,All Them Witches,Lightning at the Door,5 November 2013,"Psychedelic Rock, Blues Rock","Stoner Rock, Heavy Psych","psychedelic, male vocals, occult, rhythmic, ominous, dark, atmospheric, heavy",766,14,3.53,4ViTtcecbZ1kjNAkZ4BYNh
+188,Mark Kozelek & Desertshore,Mark Kozelek & Desertshore,20 August 2013,"Contemporary Folk, Folk Rock","Slowcore, Americana","introspective, death, melancholic, sparse, bittersweet, pastoral, sombre, calm",566,3,3.53,1RY1NjOuYlpodtc2YT6h90
+189,Sons of Kemet,Burn,9 September 2013,Afro-Jazz,"Avant-Garde Jazz, Spiritual Jazz","instrumental, warm, repetitive, rhythmic, playful, passionate, melodic, energetic",403,4,3.54,4j8dNKka5bADjZcK2fvKhZ
+190,Holden,The Inheritors,24 June 2013,IDM,"Progressive Electronic, Microhouse, Post-Minimalism","rhythmic, psychedelic, futuristic, instrumental, ritualistic, tribal, dense, dissonant","1,836",22,3.51,6ljTPjGb8hwaRT6HPJYbfb
+191,Ulver With Tromsø Chamber Orchestra,Messe I.X–VI.X,1 August 2013,"Ambient, Modern Classical","Dark Ambient, Chamber Music","melancholic, dark, atmospheric, male vocals, ominous, avant-garde, chamber music","1,702",27,3.51,2Qnfp8GLuzecgtsqK4JuON
+192,Battle Beast,Battle Beast,17 May 2013,Heavy Metal,Power Metal,"female vocals, energetic, triumphant, melodic, science fiction, passionate, futuristic, fantasy",454,7,3.51,7DllalAuYBrkxfN4ohqwSL
+193,Power Trip,Manifest Decimation,11 June 2013,"Thrash Metal, Crossover Thrash",,"energetic, aggressive, heavy, male vocals, violence, angry, misanthropic, dark","1,231",11,3.51,3jHTO3fO2WkFIfwbZBsU7c
+194,IU,Modern Times,8 October 2013,"K-Pop, Jazz Pop","Swing, Bossa nova, Jazz manouche, Lounge, Jazz Pop","playful, lush, soothing, uplifting, acoustic, female vocals, melodic, soft",861,6,3.51,2QcuXvQBWv1ZKyQtEhLbFe
+195,Cosmic Church,Ylistys,9 October 2013,Atmospheric Black Metal,Depressive Black Metal,"dark, male vocals, cold, lo-fi, aggressive, rhythmic, melancholic, winter",302,3,3.53,4i93KL4BawkhuexA7YEctw
+196,Дин Блант,Каменный остров (Stone Island),22 August 2013,Art Pop,"Chamber Pop, Plunderphonics, Chamber Folk","breakup, lonely, surreal, male vocals, mysterious, ominous, longing, melancholic","1,355",6,3.51,6OLeqmuotmJLOCitI2FC3W
+197,Makthaverskan,Makthaverskan II,6 March 2013,"Indie Rock, Post-Punk","Dream Pop, Jangle Pop, Noise Rock","energetic, love, bittersweet, romantic, female vocals, angry, lush, ethereal","1,022",11,3.50,427g8CsOvyHBfotIyfLP43
+198,Rotting Christ,Κατά Τον Δαίμονα Εαυτού,1 March 2013,Melodic Black Metal,,"dark, melodic, occult, male vocals, heavy",963,24,3.50,3z7rdtYy9L5RYgTpRQBygo
+199,Alameda 3,Późne królestwo,15 September 2013,"Noise Rock, Psychedelic Rock, Space Rock",Shoegaze,"heavy, aquatic, atmospheric, hypnotic, dense, noisy, Wall of Sound, raw",523,4,3.51,alamedacountydeathcult
+200,Richard Thompson,Electric,5 February 2013,Folk Rock,Contemporary Folk,,386,17,3.52,
+201,New Model Army,Between Dog and Wolf,23 September 2013,"Post-Punk, Alternative Rock","Art Rock, Alternative Rock","rebellious, male vocals, conscious",264,6,3.60,7A54DSBKW8R68gMSpubq8B
+202,Future of the Left,How to Stop Your Brain in an Accident,21 October 2013,"Post-Hardcore, Noise Rock","Math Rock, Post-Punk","sarcastic, vulgar, energetic, humorous, aggressive, satirical, male vocals",829,10,3.50,0z5rucuDS60erocBIvpPTC
+203,Cage the Elephant,Melophobia,8 October 2013,Indie Rock,"Garage Rock Revival, Neo-Psychedelia, Noise Pop","male vocals, introspective, anxious, longing, lonely, energetic, bittersweet, love","4,908",25,3.48,4EK8gtQfdVsmDTji7gBFlz
+204,Joanna Wang 王若琳,Galaxy Crisis: The Strangest Midnight Broadcast,19 March 2013,"Space Age Pop, Art Pop","Picopop, Cabaret, Baroque Pop, Zolo, Jazz Pop","playful, female vocals, quirky, eclectic, science fiction, concept album, abstract, space",392,8,3.52,0HQ8dE0XWzsdffjK2x5bAk
+205,Forest Swords,Engravings,26 August 2013,Ambient Dub,"Downtempo, Neo-Psychedelia, Folktronica, Tribal Ambient","psychedelic, forest, hypnotic, sampling, rhythmic, tribal, mysterious, repetitive","3,377",30,3.49,74UnLsuHAp1505hHzwcjPR
+206,Fuck Buttons,Slow Focus,22 July 2013,"Electronic, Neo-Psychedelia","Drone, Progressive Electronic, Post-Industrial, UK Bass, Electro-Industrial","repetitive, epic, hypnotic, psychedelic, dense, tribal, instrumental, heavy","3,046",46,3.49,2I1PxMR8wj1Y6k88bselsq
+207,Alter Bridge,Fortress,30 September 2013,"Alternative Metal, Hard Rock",Heavy Metal,"heavy, melodic, energetic, male vocals, passionate, uplifting, anthemic","1,110",21,3.47,3oMt2cUO9IIttONwd6eHRO
+208,Triángulo de Amor Bizarro,Victoria mística,2 July 2013,Noise Pop,"Shoegaze, Post-Punk, Noise Rock","cryptic, noisy, atmospheric, melodic, female vocals, male vocals, dense, political",365,4,3.52,1tov2NPYDzxZ2rMJROKq6d
+209,James Blake,Overgrown,8 April 2013,"Art Pop, Alternative R&B","Ambient Pop, Future Garage, Alt-Pop","cold, nocturnal, male vocals, rain, sparse, atmospheric, urban, melancholic","7,784",83,3.46,53FEYOXnplxBWoQMmWn82U
+210,PUP,PUP,8 October 2013,"Punk Rock, Pop Punk, Post-Hardcore","Indie Rock, Emo, Pop Punk","raw, energetic, passionate, male vocals, angry, anxious, melodic, noisy","1,696",12,3.50,4b2sN5dz0hX8hOZwC3Fckr
+211,Krypts,Unending Degradation,19 February 2013,Death Metal,Death Doom Metal,"dark, heavy, occult, ominous, male vocals, atmospheric, sombre, infernal",537,7,3.51,10864wrXrNwSSeuw20Mhbp
+212,Laura Veirs,Warp and Weft,20 August 2013,"Americana, Chamber Folk, Indie Folk","Indie Rock, Singer-Songwriter, Alt-Country",female vocals,308,10,3.52,3mnRV6xwaO9vMJeeeI2QyJ
+213,Dean Blunt,The Redeemer,1 May 2013,Art Pop,"Sound Collage, Hypnagogic Pop, Alternative R&B, Chamber Pop, New Age","breakup, sampling, melancholic, lonely, minimalistic, cryptic, sparse, cold","3,666",24,3.47,6MaTUVET7CJJDsX2JncbjW
+214,Tusen år under jord,Sorgsendömet Fobos,March 2013,"Tape Music, Dark Ambient","Dungeon Synth, Ambient","sombre, mysterious, medieval, lo-fi, sampling, atmospheric, dark, ominous",389,3,3.51,4d7sAomUGItKkP6Fhre1OS
+215,Lady Lamb the Beekeeper,Ripely Pine,19 February 2013,Singer-Songwriter,"Indie Rock, Indie Folk, Alt-Country","triumphant, rhythmic, longing, forest, melancholic, acoustic, breakup, poetic",361,10,3.50,0f0Owyducr559mI43AW8Mt
+216,Celeste,Animale(s),22 November 2013,"Sludge Metal, Post-Hardcore","Black Metal, Atmospheric Sludge Metal, Screamo","heavy, passionate, aggressive, depressive, misanthropic, male vocals, angry, nihilistic",694,8,3.50,5nUpEUdNIf7iAJtPJJ5v0a
+217,Death Angel,The Dream Calls for Blood,11 October 2013,Thrash Metal,,"aggressive, energetic, violence, male vocals, heavy",658,15,3.50,6FSzptJkYevusDpBWYdbNm
+218,Machinedrum,Vapor City,23 September 2013,"Footwork, UK Bass","Future Garage, Jungle, Footwork Jungle, UK Bass","atmospheric, urban, dark, dense, nocturnal, lush, complex, rhythmic","1,535",13,3.49,52sjzzH6KtuhXi1jEc3LVx
+219,Days n' Daze,Rogue Taxidermy,24 August 2013,Folk Punk,"Anarcho-Punk, Crust Punk, Ska Punk, Jug Band","anarchism, acoustic, male vocals, female vocals, misanthropic, rebellious, nihilistic, manic",569,5,3.48,330b5MZdlUJcPOkei9G4KM
+220,Lindsheaven Virtual Plaza,NTSC Memories,13 July 2013,Vaporwave,"Downtempo, Ambient, Trip Hop","instrumental, lo-fi, sampling, nocturnal, mellow, atmospheric, dense, calm",323,5,3.52,1RePd8mAbD303gQyLPOjcq
+221,Electrocutica,Piece of Cipher +,22 May 2013,"Art Pop, J-Pop","Glitch Pop, IDM, Progressive Rock, Breakbeat, Indietronica","avant-garde, female vocals, complex, melancholic, melodic, progressive, mechanical, cold",266,2,3.76,7v099954cksxxPYibDvfji
+222,La Femme,Psycho Tropical Berlin,8 April 2013,"Synthpop, French Pop","Neo-Psychedelia, New Wave, Surf Rock, Indie Surf, Yé-yé","female vocals, psychedelic, energetic, male vocals, summer, rhythmic, eclectic, mysterious","1,762",5,3.49,7ExUxli1vAsXcgijfi2Abr
+223,Psicomagia,Psicomagia,23 September 2013,"Progressive Rock, Jazz Fusion, Space Rock","Psychedelic Rock, Jam Band","improvisation, manic, chaotic, psychedelic, energetic, progressive",264,6,3.57,0NGZ8Y1SeOijBm3cWUAFEm
+224,Kadavar,Abra Kadavar,12 April 2013,"Stoner Rock, Hard Rock",Heavy Psych,"male vocals, heavy, raw, psychedelic",775,16,3.49,1qJM6FvYlq4WwsbDqqkYxb
+225,Witherscape,The Inheritance,29 July 2013,Progressive Metal,"Death Metal, Progressive Rock, Heavy Metal","heavy, melodic, sombre, passionate",475,14,3.49,4SWKv65lQE0hRyscpz2Xuw
+226,Tal National,Kaani,9 September 2013,Afro-Funk,"Tishoumaren, Fuji, Songhai Music","energetic, warm, rhythmic",387,8,3.51,4inWk8VBnEYMFcQ2U2ZNH8
+227,Adrian Rew,Slot Machine Music,July 2013,Field Recordings,Sound Collage,"hypnotic, lush, atmospheric, mechanical, surreal, ethereal, psychedelic, dense",294,5,3.51,
+228,Protest the Hero,Volition,29 October 2013,Progressive Metal,Melodic Metalcore,"political, melodic, male vocals, technical, progressive, rebellious, energetic, uncommon time signatures","1,712",30,3.45,4tBF36exZUWUcDwluyHKcV
+229,Sturgill Simpson,High Top Mountain,11 June 2013,Outlaw Country,Singer-Songwriter,"male vocals, melodic, pastoral",526,5,3.50,59ElPFKCqmH5nLRdWjyopf
+230,Laura Stevenson,Wheel,23 April 2013,"Indie Folk, Singer-Songwriter, Indie Rock","Folk Rock, Baroque Pop, Contemporary Folk, Chamber Folk","philosophical, sentimental, existential, lush, lonely, melancholic, forest, longing",417,5,3.51,7DF3YDc1E55mMnMHJGPkpo
+231,Ayreon,The Theory of Everything,28 October 2013,"Progressive Rock, Rock Opera","Symphonic Prog, Celtic Folk Music, Progressive Metal, Contemporary Folk","rock opera, progressive, philosophical, melodic, male vocals, female vocals, introspective, epic","1,021",20,3.45,6YGyibUCTkvn0MHx2NpoH4
+232,Primal Scream,More Light,13 May 2013,"Neo-Psychedelia, Alternative Dance","Alternative Rock, Art Rock, Post-Punk","male vocals, eclectic, psychedelic, angry, political, energetic, rebellious, passionate","1,352",37,3.48,3bNs6Lmgvre4bfIFA2uQV3
+233,Ling Tosite Sigure 凛として時雨,I'mperfect,10 April 2013,"Post-Hardcore, J-Rock",Math Rock,"manic, female vocals, dense, technical, passionate, androgynous vocals, melodic, energetic",743,10,3.48,3s9QcmphAQ5CmQXcgXBubT
+234,Starry Cat,Starry Cat,2 April 2013,"Bedroom Pop, Lo-Fi / Slacker Rock","Twee Pop, Indie Folk","lo-fi, warm, love, romantic, melodic, bittersweet, male vocals, death","2,225",20,3.47,3KVP8EcIWaGWXQHq6uYkvA
+235,TesseracT,Altered State,27 May 2013,"Djent, Progressive Metal",Post-Metal,"male vocals, technical, progressive, melodic, atmospheric, energetic, passionate, ethereal","1,781",29,3.46,7gfEeNb3awfwfZoTXCONWJ
+236,A Lot Like Birds,No Place,29 October 2013,Post-Hardcore,"Progressive Rock, Math Rock","surreal, manic, energetic, concept album, introspective, death, chaotic, technical",399,7,3.50,4WWw8pQHsxnWaWwpLvwZTS
+237,Signor Benedick the Moor,El Negro,24 September 2013,"Experimental Hip Hop, Abstract Hip Hop, West Coast Hip Hop","Hardcore Hip Hop, Conscious Hip Hop, Industrial Hip Hop, Orchestral, Experimental Rock","melancholic, raw, depressive, conscious, abstract, complex, philosophical, orchestral",678,8,3.49,6UyA8TFJ1KrbYJolngGUe5
+238,Endless Boogie,Long Island,19 February 2013,"Blues Rock, Jam Band, Psychedelic Rock","Heavy Psych, Krautrock","repetitive, psychedelic, male vocals, heavy, improvisation, raw",290,11,3.51,7InkjEka2FElWJ9RNr8ulQ
+239,Juana Molina,Wed 21,29 October 2013,"Folktronica, Art Pop","Avant-Folk, Art Pop","female vocals, rhythmic, atmospheric, playful, uncommon time signatures, quirky, abstract, ethereal",404,4,3.49,2nfZDFDiqd5WLeVCHoBfz0
+240,the cabs,再生の風景,23 January 2013,"Math Rock, Emo","Midwest Emo, Post-Hardcore, Screamo, J-Rock","male vocals, energetic, rhythmic, technical, melodic, bittersweet",383,1,3.50,6koCjq9UGVZFa9YjJgCLok
+241,Cloudkicker,Subsume,14 September 2013,"Progressive Metal, Post-Metal","Post-Rock, Djent","heavy, warm, progressive, atmospheric, instrumental",373,3,3.49,6FkH3WKYJ7W4jom0OE8oZr
+242,Typhoon,White Lighter,20 August 2013,"Indie Rock, Chamber Pop","Indie Folk, Art Pop","anxious, male vocals, melodic, longing",344,4,3.50,4cPNeJTCwhYoJJ8sfqLOCB
+243,The World Is a Beautiful Place & I Am No Longer Afraid to Die,"Whenever, If Ever",18 June 2013,Midwest Emo,Post-Rock,"anxious, melancholic, bittersweet, passionate, energetic, poetic, summer, melodic","5,417",48,3.44,40C7bBDW77dS5BBbNzcdmm
+244,Wrekmeister Harmonies,You've Always Meant So Much to Me,11 June 2013,"Drone, Drone Metal","Ambient, Post-Rock, Drone Metal, Modern Classical","instrumental, atmospheric, dense, repetitive, minimalistic, heavy, passionate, apocalyptic",508,6,3.49,1dheE45IgA4YfYkDqsyQ0F
+245,Death Grips,Government Plates,13 November 2013,"Industrial Hip Hop, Abstract Hip Hop, Glitch Hop","Electro-Industrial, Wonky, Hardcore Hip Hop","cryptic, manic, futuristic, male vocals, aggressive, noisy, drugs, abstract","18,266",107,3.40,3T01oOjbrox1jz0pR112oV
+246,Bardo Pond,Peace on Venus,28 October 2013,"Psychedelic Rock, Noise Rock","Shoegaze, Drone, Space Rock, Slowcore","occult, psychedelic, female vocals",546,6,3.49,6tQsmMkxO12pyAflOyzRes
+247,Nothing More,Nothing More,11 June 2013,"Alternative Rock, Alternative Metal","Alternative Metal, Progressive Metal, Djent","melodic, energetic, male vocals, rebellious",334,1,3.47,4aBbor9Sqi43RqUcc9g18G
+248,Inter Arma,Sky Burial,19 March 2013,Sludge Metal,"Progressive Metal, Black Metal, Atmospheric Sludge Metal","heavy, male vocals, apocalyptic, ominous, atmospheric, dense",683,7,3.49,7Kk3le5Td87Gx8vz8K1Yt0
+249,KEN mode,Entrench,15 March 2013,"Post-Hardcore, Sludge Metal, Noise Rock",,"aggressive, angry, misanthropic, male vocals, technical, noisy, anxious",624,8,3.49,3ggzz5UXOEmmNwcKQj5cXF
+250,Heaven Shall Burn,Veto,19 April 2013,"Melodic Death Metal, Melodic Metalcore",Metalcore,"heavy, triumphant, male vocals, energetic, melodic, aggressive, political, rebellious",522,6,3.48,6yUTUw9uHsntnjHcEvgVWQ
+251,Serenity,War of Ages,22 March 2013,"Symphonic Metal, Power Metal",Progressive Metal,"passionate, melodic, history, concept album, male vocals, female vocals",279,9,3.49,4uUE4FBK7b7QN3FVx82MVs
+252,Ataraxie,L'être et la nausée,1 September 2013,"Funeral Doom Metal, Death Doom Metal","Depressive Black Metal, Death Metal","funereal, atmospheric, misanthropic, aggressive, male vocals, heavy, ominous, scary",268,6,3.60,0IGer9btGOqag4mnV8u2Go
+253,Black Star Riders,All Hell Breaks Loose,22 May 2013,Hard Rock,Blues Rock,"male vocals, energetic, anthemic, rhythmic, melodic",278,13,3.49,
+254,Julianna Barwick,Nepenthe,20 August 2013,Ambient,"Ambient Pop, New Age, Dream Pop, Choral","ethereal, peaceful, female vocals, soft, soothing, calm, mellow, atmospheric","2,062",25,3.47,1rMSF8WzsF016bhkREx45l
+255,Kalmah,Seventh Swamphony,14 June 2013,Melodic Death Metal,Symphonic Metal,"melodic, male vocals, energetic, aggressive",529,8,3.47,72ZeXM1ajL9zYzlXYG251d
+256,The Black Heart Rebellion,Har Nevo,18 January 2013,Art Rock,"Post-Rock, Dark Folk, Post-Hardcore, Experimental Rock","atmospheric, passionate, mysterious, ominous",399,4,3.48,2rewljrBmhGnNVxEBoPLgs
+257,Áine O'Dwyer,Anything Bright or Startling?,3 June 2013,"Avant-Folk, Free Folk","Progressive Folk, Chamber Folk, Minimalism","mellow, female vocals, calm, avant-garde, suspenseful, acoustic, poetic",343,,3.50,
+258,Scale the Summit,The Migration,11 June 2013,Progressive Metal,Progressive Rock,"instrumental, complex, progressive, melodic, uncommon time signatures, epic, atmospheric, playful",742,23,3.46,2oL78CzVNt1WXsa0Etvpo7
+259,Cuushe,Butterfly Case,11 September 2013,"Ambient Pop, Dream Pop",Indietronica,"soothing, soft, peaceful, ethereal, calm, female vocals, atmospheric, melodic",464,4,3.49,0eYWQUR2yWU0ZpJ95nqJRn
+260,Pet Shop Boys,Electric,12 July 2013,"Synthpop, Electro House, House","Dance-Pop, Electro House","male vocals, party, rhythmic, energetic, LGBT, futuristic, playful, mechanical","1,208",28,3.47,60xS3EDuOFXLMJLSjwSUZa
+261,Yosi Horikawa,Vapor,24 June 2013,IDM,"Nature Recordings, Folktronica, Ambient Techno, Musique concrète, Ambient","nature, atmospheric, rhythmic, mysterious, ethereal, lush, sampling, playful",351,,3.49,1IpHSURAZpaIlAkLX8vqGt
+262,Russian Circles,Memorial,29 October 2013,"Post-Rock, Post-Metal, Atmospheric Sludge Metal",Atmospheric Sludge Metal,"instrumental, heavy, atmospheric, melancholic, progressive, sombre, cold, epic","1,283",13,3.47,2169qq2aiycEtmgwEQlwgp
+263,Luxury Elite / Saint Pepsi,Late Night Delight,2 February 2013,Vaporwave,Future Funk,"sampling, nocturnal, atmospheric, rhythmic, lush, psychedelic, lo-fi, instrumental","1,023",15,3.47,
+264,Entropia,Vesper,28 February 2013,"Atmospheric Sludge Metal, Blackgaze","Atmospheric Black Metal, Post-Rock","male vocals, atmospheric, dense, heavy",642,7,3.48,2696CYsYOJaUB5qCeudQkG
+265,Melt Yourself Down,Melt Yourself Down,17 June 2013,Afrobeat,"Jazz-Rock, Art Punk, Afro-Funk, Dance-Punk","energetic, rhythmic, party, repetitive, uplifting, playful, male vocals, tropical","1,132",14,3.47,16xujICvU3ovw7gHFmTNpf
+266,Seiko Oomori 大森靖子,魔法が使えないなら死にたい (Mahō ga tsukaenainara shinitai),20 March 2013,"Singer-Songwriter, Art Pop, Folk Pop","J-Pop, Indie Folk, Acoustic Rock","passionate, bittersweet, playful, quirky, introspective, love, eclectic, abstract",312,2,3.50,
+267,Norma Jean,Wrongdoers,6 August 2013,Metalcore,"Mathcore, Post-Hardcore, Sludge Metal","male vocals, angry, heavy, melodic, pessimistic, technical",513,5,3.46,2n6jhBxAIapcSnLciCEF4p
+268,The Field,Cupid's Head,30 September 2013,Minimal Techno,"Ambient Techno, Tech House","repetitive, hypnotic, sampling, rhythmic, cold, atmospheric, meditative, dark","1,555",20,3.46,3YSG1dEX6DGSIGutMOlq8p
+269,宇波拓、佳村萠と秋山徹次,ホンタテドリ (Hontatedori),February 2013,Avant-Folk,"Onkyo, Bossa nova","mellow, female vocals, avant-garde, warm, atmospheric, sparse, soothing, ethereal",706,3,3.47,
+270,Mitski,"Retired From Sad, New Career in Business",1 August 2013,"Singer-Songwriter, Chamber Pop, Art Pop",,"introspective, female vocals, passionate, lonely, bittersweet, breakup, longing, lush","2,515",11,3.46,6XIm98oFtEgIN0VPdzoKvu
+271,Jex Thoth,Blood Moon Rise,14 June 2013,Heavy Psych,"Stoner Rock, Traditional Doom Metal","autumn, heavy, psychedelic, female vocals, atmospheric",534,8,3.47,0MgUm0zcGeAZbpqGC607Bx
+272,Fire!,(Without Noticing),16 August 2013,"Avant-Garde Jazz, Jazz-Rock","Psychedelic Rock, Noise",,373,1,3.48,4fJWTnt7UpP4vcTZjiGJLF
+273,Wormlust,The Feral Wisdom,8 September 2013,Atmospheric Black Metal,"Black Ambient, Experimental, Psychedelia","psychedelic, hypnotic, melancholic, chaotic, dissonant, death, atmospheric, dense",460,5,3.47,
+274,The Aristocrats,Culture Clash,16 July 2013,"Progressive Rock, Jazz Fusion, Jazz-Rock",,instrumental,312,6,3.48,3ajdo6KBkVslSZRpEtvxzF
+275,William Tyler,Impossible Truth,19 March 2013,American Primitivism,Progressive Folk,"abstract, psychedelic, playful, meditative, soothing, instrumental, hypnotic, desert",492,6,3.47,
+276,Soutaiseiriron 相対性理論,Town Age,24 July 2013,"Twee Pop, Indie Pop",Art Pop,"playful, love, science fiction, quirky, female vocals, melodic",548,5,3.47,4rwoX58hNSEFszrPnYNNn6
+277,Ka,The Night's Gambit,13 July 2013,"East Coast Hip Hop, Drumless, Abstract Hip Hop","Experimental Hip Hop, Gangsta Rap, Abstract Hip Hop, Conscious Hip Hop","atmospheric, nocturnal, minimalistic, spiritual, cold, urban, serious, crime","1,623",17,3.45,6qgD4yTSCUD02K2QISDSj2
+278,Progenie Terrestre Pura,U.M.A.,15 April 2013,Atmospheric Black Metal,"Space Ambient, Progressive Metal, Psybient","science fiction, space, futuristic, atmospheric, sombre, dense, dark, male vocals",874,25,3.44,51k7XMXamPhH1ruQ3wYro0
+279,Donato Dozzy,Plays Bee Mask,29 July 2013,Ambient,"Progressive Electronic, Dub Techno, Minimalism","warm, psychedelic, space, minimalistic, instrumental",587,5,3.47,7EaPzUAQ1NFESSHaKO0Dlc
+280,Omar S,Thank You for Letting Me Be Myself,25 March 2013,Deep House,"Detroit Techno, Acid House","repetitive, futuristic, sampling, nocturnal, rhythmic, mechanical, urban",565,6,3.47,4F2e3QOG2AqIIu8XxTIRGi
+281,Cass McCombs,Big Wheel and Others,15 October 2013,"Singer-Songwriter, Indie Folk","Alt-Country, Chamber Pop",,435,9,3.47,56KG63TFrh23oy9lcqPEnt
+282,Full of Hell,Rudiments of Mutilation,11 June 2013,"Powerviolence, Sludge Metal, Metalcore","Noise, Grindcore","chaotic, infernal, aggressive, noisy, angry, male vocals, dark, dissonant","1,019",3,3.46,2ZPZB6SSLteZeXRuu0wEob
+283,Kirin J Callinan,Embracism,1 July 2013,Art Rock,"Electro-Industrial, Art Pop, Experimental Rock, Synthpop, Industrial Rock","deadpan, dark, raw, alienation, eclectic, male vocals",564,8,3.46,3zXHV9j6DYou3Ka4IQX1xJ
+284,Sulphur Aeon,Swallowed by the Ocean's Tide,11 January 2013,Death Metal,Melodic Death Metal,"dense, aquatic, dissonant, heavy, occult, aggressive, male vocals",553,15,3.47,6iputsvD9tmFbnMeJmwcTb
+285,Apanhador Só,Antes que tu conte outra,21 May 2013,Indie Rock,"Experimental Rock, MPB, Art Punk","male vocals, urban, poetic, bittersweet, eclectic, quirky, playful, sarcastic",323,6,3.46,3RoOJf4nxNi8h9ChZRxgTG
+286,Kyary Pamyu Pamyu きゃりーぱみゅぱみゅ,なんだこれくしょん (Nanda Collection),26 June 2013,"J-Pop, Electropop, Dance-Pop",,"playful, energetic, quirky, female vocals, eclectic, melodic, happy, uplifting","2,118",21,3.44,284CrOYQvoB5GQAcmx5Xkx
+287,Motörhead,Aftershock,22 October 2013,Heavy Metal,"Blues Rock, Hard Rock, Rock & Roll","energetic, male vocals, raw, rebellious, heavy, rhythmic, angry, aggressive","1,357",21,3.45,0GuVFlHom1tRxlBusLCdGa
+288,Alex Cameron,Jumping the Shark,2013,Minimal Synth,"Synthpop, New Wave","sarcastic, male vocals, satirical, minimalistic, bittersweet, humorous, nocturnal, sparse",988,13,3.46,2OW1ytgAYqaYUlUCbHR31W
+289,Revocation,Revocation,6 August 2013,"Technical Thrash Metal, Technical Death Metal",Melodic Death Metal,"complex, dark, technical, male vocals, energetic",579,9,3.46,51BCCaCLofOiZ50JsnfbOX
+290,Tele/Visions,Wild Heart,2 January 2013,"Bedroom Pop, Lo-Fi / Slacker Rock","Jangle Pop, Post-Punk, Dream Pop, Hypnagogic Pop, Noise Pop","repetitive, lonely, sad, lo-fi, breakup, atmospheric, male vocals, rhythmic",919,11,3.45,2hwXntoP4IIoi7yxHbH7aL
+291,Fates Warning,Darkness in a Different Light,27 September 2013,Progressive Metal,"Progressive Rock, Alternative Metal","male vocals, introspective, progressive, sombre",615,14,3.46,4YYQHH05BuqiI2VNOcBYur
+292,Dance With the Dead,Out of Body,31 October 2013,"Darksynth, Synthwave","Horror Synth, Hard Rock","nocturnal, Halloween, instrumental, rhythmic, melodic, energetic, dark",690,8,3.46,0q4NNa4HObPsqloh6dwVXl
+293,Mdou Moctar,Afelan,2013,Tishoumaren,Psychedelic Rock,"male vocals, lo-fi, warm, calm, atmospheric, psychedelic, desert, party",326,4,3.48,0ROg7qBDYvt33wjjE45OZy
+294,"Captain, We're Sinking",The Future Is Cancelled,14 May 2013,Pop Punk,"Emo, Post-Hardcore","passionate, death, male vocals, energetic, introspective, sad",353,6,3.45,0MZpUBTVIHARM7CQ6rkxXJ
+295,The Black Dahlia Murder,Everblack,11 June 2013,Melodic Death Metal,Death Metal,"energetic, aggressive, melodic, heavy, death, anti-religious, dark, violence",928,11,3.44,1jvygHaua0G6SOLKukqo91
+296,My Ticket Home,Strangers Only,3 September 2013,Nu Metal,"Metalcore, Hardcore Punk","aggressive, energetic, angry, heavy, male vocals, anxious",319,4,3.46,20iMMfAHx6asceI2THqasu
+297,Csejthe,Réminiscence,15 April 2013,Atmospheric Black Metal,Depressive Black Metal,"melodic, ethereal",297,6,3.52,5sFZBHSI1mQrkaZUaaTL6c
+298,Mazzy Star,Seasons of Your Day,24 September 2013,"Dream Pop, Psychedelic Folk","Alt-Country, Slowcore","female vocals, lethargic, lush, psychedelic, romantic, ethereal, sentimental, atmospheric","1,840",30,3.44,38Eb5LBD8yO5KbMYVUQQZp
+299,The Necks,Open,October 2013,"Free Improvisation, Ambient",Avant-Garde Jazz,"minimalistic, sparse, instrumental, avant-garde, repetitive, atmospheric, improvisation",452,4,3.47,51f6Zo3ReT7BRR6xgzmZwJ
+300,Mac Miller,Watching Movies With the Sound Off,18 June 2013,"Abstract Hip Hop, Cloud Rap","Pop Rap, Conscious Hip Hop, Boom Bap","drugs, introspective, abstract, psychedelic, melancholic, depressive, philosophical, existential","4,866",27,3.42,3ZNMAkjR6M4T0r6Of6jC08
+301,Seiko Oomori 大森靖子,絶対少女 (Zettai shōjo),11 December 2013,"Folk Pop, Indie Folk","J-Pop, Pop Rock, Folk Punk, Art Pop, Indie Rock","female vocals, complex, sparse, sarcastic, progressive, avant-garde, psychedelic, raw",317,5,3.47,6s64fKHWgRj1EP5mubROQh
+302,M.I.A.,Matangi,5 November 2013,"UK Hip Hop, Experimental Hip Hop, Electropop","Trap [EDM], Moombahton, Alternative R&B, Electropop","political, complex, female vocals, aggressive, spiritual, conscious, boastful, energetic","3,714",31,3.42,5TTyDbaARm4YjXJ5OQVKwl
+303,Darkthrone,The Underground Resistance,25 February 2013,Heavy Metal,"Speed Metal, Black Metal","energetic, raw, male vocals, rebellious, heavy, aggressive","1,886",35,3.43,2GbdKYnwbDn7KV37EcVQN1
+304,Yuri Gagarin,Yuri Gagarin,October 2013,Space Rock,"Heavy Psych, Jam Band","psychedelic, space, instrumental, raw",387,5,3.46,6qlAr0g1lwDwuwE9xftlHC
+305,Jungbluth,Part Ache,12 September 2013,"Crust Punk, Neocrust","Screamo, Post-Hardcore","male vocals, energetic, passionate",292,2,3.49,6sOAUHgFNY4S5Z79rXHMI0
+306,385,人間 (Ningen),8 May 2013,"Art Punk, Jazz-Funk, Noise Rock","Post-Hardcore, Zolo, Japanese Hardcore","chaotic, manic, energetic, female vocals, rhythmic, dense, anxious",961,5,3.44,3RAKhYbEmpXUAUcYN0OsEh
+307,Powerwolf,Preachers of the Night,19 July 2013,Power Metal,,"occult, energetic, nocturnal, fantasy, violence, melodic, satanic, male vocals",634,15,3.42,22MMepJn0MItDRUbYLSAaH
+308,The Body,"Christs, Redeemers",14 October 2013,"Sludge Metal, Drone Metal","Noise Rock, Death Industrial, Avant-Garde Metal","dark, noisy, ominous, heavy, misanthropic, apocalyptic, female vocals, cold",613,4,3.45,7M7qhOHkULXl8m7aZHLqMd
+309,These New Puritans,Field of Reeds,10 June 2013,"Post-Rock, Art Rock","Post-Minimalism, Chamber Music, Chamber Jazz, Modern Classical","sombre, avant-garde, male vocals, complex, atmospheric, female vocals, melancholic, dark","2,472",37,3.42,5bK6m8dF0jolT3RxRkbEEM
+310,Camping in Alaska,Please Be Nice,10 September 2013,Midwest Emo,Post-Hardcore,"sentimental, introspective, love, self-hatred, passionate, lonely, male vocals, uncommon time signatures",740,14,3.44,
+311,Cate Le Bon,Mug Museum,11 November 2013,"Psychedelic Pop, Art Pop",Neo-Psychedelia,"female vocals, anxious, cryptic, abstract, psychedelic",809,8,3.45,4Yw43xCuMTeeRUoqsOGdJK
+312,Avantasia,The Mystery of Time,29 March 2013,"Power Metal, Symphonic Metal, Rock Opera","Hard Rock, Heavy Metal","concept album, melodic, rock opera, male vocals, energetic",647,16,3.44,2VVNa0mizIz73oAhFFCg5m
+313,Mach-Hommy,F.Y.I.,26 September 2013,"East Coast Hip Hop, Conscious Hip Hop","Jazz Rap, Boom Bap, Political Hip Hop, Abstract Hip Hop","conscious, mellow, warm, political, sampling, abstract, rhythmic, urban",306,4,3.62,7IYeXNEAc2CkAAKPt4k0eW
+314,Iceage,You're Nothing,19 February 2013,"Post-Punk, Art Punk, Post-Hardcore","Hardcore Punk, Noise Rock","energetic, passionate, noisy, nihilistic, aggressive, dark, misanthropic, raw","4,324",45,3.41,1kgjAIsKl7L2wE7Iaa9NGF
+315,Saint Pepsi,Hit Vibes,31 May 2013,Future Funk,"Synth Funk, Vaporwave","sampling, rhythmic, playful, uplifting, party, energetic, warm, summer","3,291",30,3.41,
+316,Katalepsy,Autopsychosis,8 January 2013,"Brutal Death Metal, Slam Death Metal",Technical Death Metal,"aggressive, rhythmic, male vocals, heavy, technical, vulgar, dark, violence",612,8,3.43,7273wR2cbdfBkx50qgW9zy
+317,Bombino,Nomad,2 April 2013,Tishoumaren,"Psychedelic Rock, Blues Rock","rhythmic, psychedelic, energetic, desert, male vocals",668,22,3.45,6Zv8PkjigCztS7AON6ZuZe
+318,This Routine Is Hell,Howl,10 April 2013,Hardcore Punk,Post-Hardcore,"male vocals, heavy, misanthropic, aggressive",506,8,3.45,
+319,Oblivians,Desperation,28 May 2013,Garage Punk,Punk Blues,,389,14,3.45,0clizyBheAnu7JRMPgHt22
+320,Prurient,Through the Window,February 2013,"Industrial Techno, EBM",Noise,"repetitive, mechanical, dark, cold, nocturnal, hypnotic, atmospheric, rhythmic","1,282",23,3.43,2bDBZL343sv9Imj6ZTJ7EU
+321,Uncle Acid,Mind Control,15 April 2013,"Heavy Psych, Traditional Doom Metal","Stoner Rock, Psychedelic Rock","occult, male vocals, dark, crime, psychedelic, heavy, drugs","1,232",30,3.43,7GCWs2hmWYvS1OOiRcbLbW
+322,Eluvium,Nightmare Ending,14 May 2013,"Ambient, Modern Classical","Drone, Minimalism","soothing, instrumental",861,15,3.44,4BMYwbOZd1i9vraiSXtSkg
+323,Deeds of Flesh,Portals to Canaan,25 June 2013,"Brutal Death Metal, Technical Death Metal",Technical Death Metal,"science fiction, apocalyptic, futuristic, technical, death, heavy, concept album, aggressive",382,4,3.45,5pDX6Y6iaYTQBghQTrm0tS
+324,Beyoncé,Beyoncé,13 December 2013,"Contemporary R&B, Pop","Electropop, Alternative R&B, Pop Rap, Art Pop","sexual, love, passionate, introspective, female vocals, melodic, urban, eclectic","5,390",45,3.39,2UJwKSBUz6rtW4QLK74kQu
+325,Hammock,Oblivion Hymns,26 November 2013,Ambient,Post-Rock,,350,2,3.45,6mHQmkmWGLR7q1cXfE8bPr
+326,V V Brown,Samson & Delilah,9 September 2013,"Art Pop, Electropop","Synthpop, Darkwave, Electro-Industrial","female vocals, romantic, rhythmic, dark, passionate, anthemic, atmospheric, bittersweet",267,5,3.52,1gtGI3K2VOfnvrXc6veQFs
+327,Moderat,II,2 August 2013,IDM,"Future Garage, 2-Step, Microhouse, Progressive Breaks","mellow, bittersweet, rhythmic, atmospheric, male vocals, melancholic, hypnotic, repetitive","1,941",16,3.42,4mMJMXxteSxAVtAswHN0ky
+328,Daniel Romano,Come Cry With Me,22 January 2013,"Country, Nashville Sound","Americana, Traditional Country",,314,9,3.44,0AlioagTWR6H6NN2pO3Hby
+329,All Pigs Must Die,Nothing Violates This Nature,28 June 2013,"Metalcore, Hardcore Punk","Crust Punk, Sludge Metal, Grindcore","angry, heavy, male vocals, energetic, aggressive",515,3,3.44,2CUEqJllJif6dF0wT9kTSs
+330,Wolf People,Fain,30 April 2013,"Psychedelic Rock, Progressive Rock","Progressive Folk, Heavy Psych",,332,16,3.44,0MdChe47xMLrIKIKBMIsp9
+331,Prince of Denmark,The Body,10 September 2013,Minimal Techno,"Dub Techno, Outsider House","cold, repetitive, mechanical, rhythmic, energetic, ominous, dark",324,,3.45,
+332,August Burns Red,Rescue & Restore,25 June 2013,"Melodic Metalcore, Metalcore",Progressive Metal,"passionate, progressive, heavy, aggressive, Christian, uplifting, eclectic, angry",706,7,3.42,122Inm0FyXETRN62DmNeY5
+333,Karol Conka,Batuk Freak,8 April 2013,"Pop Rap, Electropop","Funk carioca, Trap, Electropop, Conscious Hip Hop","boastful, energetic, eclectic, party, conscious, female vocals, uplifting, rhythmic",445,5,3.42,3rrVsG9Jl0HE9IAWEkqP6I
+334,Silverstein,This Is How the Wind Shifts,5 February 2013,Post-Hardcore,"Pop Punk, Emo-Pop","melancholic, melodic, passionate, male vocals, energetic",358,4,3.42,5eDvaEslt1NTuBAHPMMjaG
+335,Year of No Light,Tocsin,22 November 2013,"Atmospheric Sludge Metal, Post-Rock, Post-Metal",Doom Metal,"instrumental, atmospheric, melancholic, ominous, dark, epic",357,4,3.44,0BYcUWNqEUQhqMSVUGyJV5
+336,Church of Misery,Thy Kingdom Scum,21 May 2013,"Stoner Metal, Sludge Metal","Doom Metal, Sludge Metal","death, energetic, violence, male vocals, heavy",372,2,3.44,40LdL2oi2O6MYHdxJwQFPX
+337,Gigan,Multi-Dimensional Fractal-Sorcery and Super Science,15 October 2013,"Technical Death Metal, Avant-Garde Metal, Dissonant Death Metal",Progressive Metal,"science fiction, technical, avant-garde, complex, male vocals, dense, dissonant, psychedelic",301,4,3.44,7ARmfMJ3Z86iI6eVcBrqF7
+338,Samsara Blues Experiment,Waiting for the Flood,November 2013,"Psychedelic Rock, Stoner Rock","Jam Band, Heavy Psych, Space Rock",,286,5,3.48,5b2QNnz2wVxk1W0nAPeVgd
+339,Fish,A Feast of Consequences,4 September 2013,Progressive Rock,Art Rock,,250,4,3.61,3kdceBquJDqC01yWN5jCnO
+340,DGM,Momentum,26 March 2013,"Progressive Metal, Power Metal",,,252,12,3.57,6hW8C13JPaqNog96m4Sn37
+341,There Will Be Fireworks,"The Dark, Dark Bright",25 November 2013,Indie Rock,Post-Rock,male vocals,261,3,3.59,5lm6W5CYOvZRrU9OMcgb7A
+342,Foxing,The Albatross,12 November 2013,"Midwest Emo, Post-Rock","Chamber Pop, Art Rock","introspective, sad, atmospheric, melancholic, male vocals, lonely, breakup, sentimental","1,987",7,3.41,7AiC8x8GIRbQK2ZROLox5f
+343,Baths,Obsidian,28 May 2013,"Glitch Pop, Indietronica","Glitch Hop, Art Pop","LGBT, depressive, dark, self-hatred, melancholic, anxious, pessimistic, nocturnal","2,657",33,3.40,77F6qCWskHN98MG118TqiI
+344,Finntroll,Blodsvept,22 March 2013,Folk Metal,"Symphonic Metal, Humppa, Melodic Black Metal","fantasy, melodic, folklore, male vocals, energetic, pagan",500,6,3.42,2Ss4e5kir7NQ4lsRZgCs7S
+345,Gary Numan,Splinter (Songs From a Broken Mind),14 October 2013,Industrial Rock,"Electro-Industrial, Darkwave","melancholic, male vocals, dark, apocalyptic, pessimistic, alienation, sombre, atmospheric",388,8,3.43,6WtEFbVHBc84e1HlPTWpYh
+346,Warlord,The Holy Empire,March 2013,"Heavy Metal, US Power Metal",Progressive Metal,"epic, male vocals",273,8,3.47,2ukOmGHU64uNnoM9atSV9R
+347,The Fall of Every Season,Amends,15 February 2013,"Death Doom Metal, Post-Metal","Post-Rock, Progressive Metal","heavy, aquatic, concept album, dark, melancholic, melodic, progressive, atmospheric",289,9,3.43,65v1flvkQ7s1OyZbD2qQnD
+348,Orchid,The Mouths of Madness,26 April 2013,"Traditional Doom Metal, Heavy Metal",Hard Rock,"heavy, dark, psychedelic, male vocals, energetic",538,12,3.42,5J2ADCbPHDTmtxc7SjQbYE
+349,Regarde les hommes tomber,Regarde les hommes tomber,30 March 2013,"Atmospheric Sludge Metal, Atmospheric Black Metal","Black Metal, Atmospheric Black Metal","male vocals, dissonant, dense, angry, apocalyptic, heavy, dark, atmospheric",331,2,3.44,3nb6g7dgEiu7Pv3GDUhGeo
+350,CHVRCHES,The Bones of What You Believe,23 September 2013,"Synthpop, Electropop",Synthwave,"female vocals, energetic, atmospheric, rhythmic, bittersweet, melodic, melancholic, love","6,663",78,3.38,7mYtNRrdUIZZymc5epjYHE
+351,Jessy Lanza,Pull My Hair Back,10 September 2013,"Alternative R&B, Synthpop","UK Bass, Freestyle, Art Pop, Alt-Pop","nocturnal, atmospheric, sexual, futuristic, sparse, minimalistic, romantic, female vocals","1,147",7,3.42,2WXUSNXMtf40vRnH7msFlB
+352,Extol,Extol,21 June 2013,Progressive Metal,Death Metal,,269,6,3.51,43mUQiaynhxhB3SBhuYJzD
+353,Czarface,Czarface,19 February 2013,"East Coast Hip Hop, Boom Bap","Abstract Hip Hop, Hardcore Hip Hop","violence, rhythmic, energetic, aggressive, urban, fantasy, futuristic, male vocals","1,416",22,3.42,4DB0I6kc8VpP6mbdt0V2Ui
+354,Dark Tranquillity,Construct,27 May 2013,Melodic Death Metal,Gothic Metal,"melodic, dark, heavy, male vocals, philosophical, melancholic, pessimistic, conscious","1,089",22,3.41,3SmHc1W7u429tDf3hx3mYc
+355,Josephine Foster,I'm a Dreamer,11 November 2013,"Contemporary Folk, Singer-Songwriter, Old-Time",Americana,"female vocals, mellow, melancholic, lush, introspective, soft, melodic, spring",277,4,3.50,7GhP0EqCn09IM9J7fMwra6
+356,Procession,To Reap Heavens Apart,3 May 2013,"Doom Metal, Epic Doom Metal",Heavy Metal,male vocals,247,6,3.58,1Gm2M75Q5NM64YSwp2oxIJ
+357,Disclosure,Settle,3 June 2013,"UK Garage, Deep House","UK Bass, Dance-Pop, UK Funky, Garage House","rhythmic, party, urban, warm, mellow, nocturnal, melodic, male vocals","5,376",58,3.38,1ZFGRj11NnZHos8DUbbpF1
+358,Dirty Beaches,Drifters / Love Is the Devil,21 May 2013,"Experimental Rock, Ambient, Post-Punk","Synth Punk, Minimal Synth, Hypnagogic Pop","lo-fi, dark, nocturnal, lonely, melancholic, urban, male vocals, sombre","1,362",22,3.41,0eKBCl5Qo6ds8hIrY5M6Dl
+359,An Autumn for Crippled Children,Try Not to Destroy Everything You Love,11 November 2013,Blackgaze,Coldwave,"atmospheric, dense, male vocals, passionate, ethereal, depressive, heavy, dark","1,241",11,3.41,30KbiuQYFDXzHtaOFw2hlZ
+360,Rafael Anton Irisarri,The Unintentional Sea,11 November 2013,"Ambient, Drone",,"sparse, soothing, minimalistic, instrumental, melancholic, meditative, atmospheric, repetitive",294,2,3.44,5tfyDD3foxdQdPwLPoZASt
+361,Lovesliescrushing,Ghost Colored Halo,21 May 2013,"Shoegaze, Ambient",Drone,"atmospheric, bittersweet, ethereal, melancholic, psychedelic, sparse, soothing, depressive",332,1,3.43,4hTw5np1CPAvZBwWnDab24
+362,Arcade Fire,Reflektor,29 October 2013,"Alternative Dance, Indie Rock","Art Pop, New Wave","rhythmic, mythology, romantic, philosophical, male vocals, eclectic, melodic, energetic","12,759",140,3.34,2brwuyGZ2lLqWnBX6U4MQT
+363,Suffocation,Pinnacle of Bedlam,19 February 2013,"Brutal Death Metal, Technical Death Metal",,"aggressive, heavy, male vocals, technical, hateful, dense, death, dark","1,033",26,3.40,2zyMUnU9fJo6w9pTnYiebv
+364,Raum,Event of Your Leaving,15 November 2013,"Ambient, Drone","Shoegaze, Ethereal Wave","calm, mellow, female vocals, surreal, nocturnal, longing, melancholic, lonely",587,4,3.42,0u9EF2bbsELJvn9ibBzUm7
+365,Anciients,Heart of Oak,12 April 2013,Progressive Metal,Sludge Metal,"progressive, male vocals, heavy",529,16,3.42,2UFD9sXphjjBUigV7JlfT9
+366,Huerco S.,Colonial Patterns,24 September 2013,Outsider House,"Ambient House, Dub Techno, Dark Ambient","lo-fi, repetitive, atmospheric, hypnotic, ominous, mysterious, cold, avant-garde","1,661",15,3.40,0aZF30TPBFQq2cc5KCUz37
+367,Jenny Hval,Innocence Is Kinky,19 April 2013,"Art Pop, Singer-Songwriter, Experimental Rock","Spoken Word, Avant-Folk, Drone","sexual, avant-garde, female vocals, surreal, abstract, philosophical, dissonant","1,207",16,3.40,5p1eGQtdHsCkQ0cmbj31Vt
+368,The Story So Far,What You Don't See,26 March 2013,Pop Punk,Melodic Hardcore,"melodic, breakup, energetic, pessimistic, melancholic, summer, passionate, bittersweet",699,6,3.39,1g0KoWXvjtnJbTQYxxmYbv
+369,Suede,Bloodsports,18 March 2013,Britpop,"Glam Rock, Alternative Rock","male vocals, rhythmic, nocturnal, dark, introspective, sombre, bittersweet, sentimental","1,397",40,3.40,2afEsX2ywgOIXWofu9Jn7v
+370,Gloryhammer,Tales From the Kingdom of Fife,22 March 2013,Power Metal,Symphonic Metal,"fantasy, satirical, melodic, epic, male vocals, energetic, science fiction",625,18,3.39,5vbrGRz55FcDw1fQrwBuGF
+371,Studio Killers,Studio Killers,14 June 2013,"Dance-Pop, Electropop","Synthpop, Euro House, Eurodance","LGBT, love, androgynous vocals, satirical, sexual, urban, party, melodic",468,7,3.41,0iVQezWvGzai3aY7gh2PYO
+372,Alela Diane,About Farewell,25 June 2013,"Singer-Songwriter, Contemporary Folk",,"love, mellow, female vocals, melancholic, breakup, bittersweet, lonely",323,6,3.42,1t03rTgBloVkaemIyjGbPp
+373,The Flaming Lips,The Terror,16 April 2013,"Neo-Psychedelia, Experimental Rock","Ambient Pop, Experimental Rock, Drone, Krautrock, Minimal Wave","atmospheric, hypnotic, psychedelic, sombre, existential, depressive, ethereal, dark","3,904",91,3.38,75TZpmhtJhYNuCWbERLTdP
+374,John Grant,Pale Green Ghosts,11 March 2013,"Synthpop, Singer-Songwriter",Chamber Pop,"breakup, melancholic, LGBT, lonely, sombre, satirical",971,20,3.40,2dfTV7CktUEBkZCHiB7VQB
+375,James Ferraro,"NYC, Hell 3:00AM",15 October 2013,"Alternative R&B, Post-Industrial","Dark Ambient, Sound Collage, Ambient Pop","urban, nocturnal, depressive, atmospheric, dark, avant-garde, anxious, lethargic","1,844",25,3.38,0VCKStV51dwAXLDJPfxL6O
+376,Frightened Rabbit,Pedestrian Verse,4 February 2013,Indie Rock,Post-Punk,"passionate, melodic, melancholic, atmospheric, male vocals",858,17,3.40,63F9BBf5YCiPQrpndWA50x
+377,Secret Chiefs 3,Book of Souls: Folio A,19 November 2013,Experimental Rock,"Surf Rock, Avant-Garde Metal, Electronic, Spaghetti Western","avant-garde, complex, jingle, orchestral, eclectic",267,11,3.51,4VR7WJsncPvyIKcto9hIqy
+378,Son Lux,Lanterns,29 October 2013,"Art Pop, Electronic","Chamber Pop, Trip Hop","philosophical, male vocals, serious, suspenseful, futuristic, dark, melodic, atmospheric",859,4,3.40,0DXzTaMzhm1ojc6b5H3PaJ
+379,Blood Orange,Cupid Deluxe,12 November 2013,"Synth Funk, Alternative R&B","Sophisti-Pop, Indie Pop","romantic, male vocals, bittersweet, atmospheric, lush, female vocals, sensual, rhythmic","3,115",19,3.38,1bsLkHcWAGUao6Z1dHOEIB
+380,Public Service Broadcasting,Inform - Educate - Entertain,6 May 2013,"Indietronica, Krautrock","Sound Collage, Spoken Word, Progressive Electronic","sampling, concept album, playful, instrumental, history, energetic, war, rhythmic",545,14,3.41,1aSU7tVnGuKquY8yKCw1jm
+381,Saxon,Sacrifice,1 March 2013,Heavy Metal,Hard Rock,male vocals,488,15,3.41,4SrewZLy3pkStC6sxN036m
+382,Tokyo Shoegazer 東京酒吐座,Turnaround,15 May 2013,Shoegaze,"Post-Rock, Dream Pop","dense, atmospheric, ethereal, eclectic, lush, melodic",525,1,3.41,
+383,Kvelertak,Meir,25 March 2013,"Hardcore Punk, Black 'n' Roll","Black Metal, Hard Rock, Blackened Crust","aggressive, energetic, melodic, male vocals, heavy, uplifting","1,961",21,3.39,5PAjZGAD8j0XZANLxJWulb
+384,Foresteppe,No Time to Hurry,15 July 2013,"Field Recordings, Contemporary Folk","Tape Music, Ambient, Folktronica","soothing, pastoral, warm, peaceful, instrumental, mellow, spring, natural",263,2,3.55,
+385,Lauren Bousfield,Avalon Vales,19 November 2013,"IDM, Glitch, Glitch Pop","Breakcore, Electro-Industrial, Art Pop, Electropop","aggressive, manic, ominous, chaotic, female vocals, sombre, cold, mysterious",384,2,3.39,5WRBcV6WZfq1gM5sEIHCtU
+386,Ampacity,Encounter One,31 March 2013,"Space Rock, Stoner Rock","Stoner Rock, Psychedelic Rock","heavy, psychedelic, space, atmospheric, male vocals",260,3,3.47,0XmysHqSoJLE1d2SPEEsIP
+387,Danny Brown,Old,8 October 2013,Hardcore Hip Hop,"Trap, Experimental Hip Hop","drugs, manic, humorous, sexual, male vocals, boastful, energetic, rhythmic","9,125",52,3.36,5SC0415RIGVX9ZfL0tfbAl
+388,Yo La Tengo,Fade,15 January 2013,Indie Rock,"Dream Pop, Indie Pop, Chamber Pop","mellow, atmospheric, lush, romantic, soothing, female vocals, summer, male vocals","2,857",64,3.38,7cReNgYN2wNYsj78NB67ut
+389,Coheed and Cambria,The Afterman: Descension,5 February 2013,"Alternative Rock, Progressive Rock",Progressive Metal,"science fiction, melodic, concept album, bittersweet, energetic, death, progressive, male vocals","1,104",22,3.38,3D2JUzaO9CHgYYehc70CL4
+390,Rhye,Woman,4 March 2013,"Sophisti-Pop, Smooth Soul, Alternative R&B","Jazz Pop, Contemporary R&B","androgynous vocals, love, sensual, melodic, mellow, sexual, romantic, bittersweet","2,610",36,3.38,6b1HPtDuYioXwmw5xLLFQ9
+391,Croatian Amor,The World,December 2013,Ambient,"Minimal Synth, Post-Industrial, Drone","melancholic, cold, atmospheric, ethereal, minimalistic, hypnotic, anxious, apocalyptic",788,3,3.40,6Uv6AbGBD6t3hA3gPYQLIH
+392,Dawn of Midi,Dysnomia,6 August 2013,Post-Minimalism,,"minimalistic, repetitive, meditative, instrumental, hypnotic, atmospheric, anxious, rhythmic",598,10,3.40,4wCpIX2LVk3lZkh4crNPtJ
+393,Lycus,Tempest,9 July 2013,Funeral Doom Metal,Death Doom Metal,"sombre, melancholic, male vocals, funereal, melodic, cold, depressive, ominous",366,8,3.42,5Wfw8D5RfrXqkN1BFwnhpY
+394,Big K.R.I.T.,King Remembered in Time,10 April 2013,Southern Hip Hop,Dirty South,"Christian, introspective, rhythmic, spiritual, urban, religious, passionate, boastful","1,094",23,3.40,5H0INJICrck7zfFY0ELbiR
+395,Intronaut,Habitual Levitations (Instilling Words With Tones),19 March 2013,Atmospheric Sludge Metal,"Progressive Metal, Post-Rock","technical, complex, atmospheric, male vocals, progressive, uncommon time signatures, heavy",705,16,3.40,1rmw7BwalsGaSJqJiGKIDA
+396,Guerilla Toss,Gay Disco,10 December 2013,"Noise Rock, Math Rock","No Wave, Dance-Punk, Zolo, Brutal Prog, Sasscore","manic, dissonant, noisy, female vocals, rhythmic, surreal, anxious, atonal",616,5,3.40,4fjqG6evM1rHbHKv54pmgx
+397,Corrections House,Last City Zero,29 October 2013,"Industrial Metal, Atmospheric Sludge Metal",Industrial,,405,7,3.41,4YElZbBjtacl2tmNseQva6
+398,Grouper,The Man Who Died in His Boat,4 February 2013,"Psychedelic Folk, Ambient","Dream Pop, Slowcore, Drone","ethereal, lo-fi, melancholic, atmospheric, hypnotic, soft, lonely, forest","3,476",30,3.38,2arK6QEmfa25k2feNozs9e
+399,Portal,Vexovoid,19 February 2013,"Death Metal, Dissonant Death Metal","Black Metal, Avant-Garde Metal, Technical Death Metal","atmospheric, avant-garde, dark, scary, ominous, cryptic, dissonant, dense","1,362",24,3.38,0PtGwwqM6zFvawkY3JHtfq
+400,Mikal Cronin,MCII,7 May 2013,Power Pop,"Garage Rock, Psychedelic Pop, Indie Pop","psychedelic, noisy, energetic, melodic, male vocals","1,383",26,3.39,2spxrQq50aGqf9Barvc8fg
+401,Mutual Benefit,Love's Crushing Diamond,7 October 2013,"Chamber Folk, Indie Folk","Psychedelic Folk, Chamber Pop","soft, calm, longing, forest, warm, peaceful, uplifting, autumn",817,10,3.39,63eYXtU9LBjEha4RIFeOsM
+402,Still Corners,Strange Pleasures,7 May 2013,"Dream Pop, Indie Pop","Synthpop, Neo-Psychedelia","ethereal, female vocals, atmospheric, summer, lush, soft, love, poetic","1,083",13,3.39,42k3UWtcezID35ZiVc9LZB
+403,Vorum,Poisoned Void,25 January 2013,Death Metal,,"heavy, dark, death, occult, atmospheric, dissonant, ominous",330,6,3.41,76Um4VUmTYnuKdcjRbyJJG
+404,Boldy James,My First Chemistry Set (M.1.C.S.),15 October 2013,Gangsta Rap,Boom Bap,"drugs, rhythmic, sampling, violence, urban, male vocals, crime, boastful",340,3,3.42,4BLozBeUds9NzNkQ48lrdn
+405,Tamikrest,Chatma,13 September 2013,"Tishoumaren, Blues Rock",,,231,,3.56,0VI8LrJKHMN1S9hloXGMlU
+406,Onslaught,VI,20 September 2013,Thrash Metal,,,289,9,3.41,
+407,"Tyler, the Creator",Wolf,2 April 2013,"West Coast Hip Hop, Hardcore Hip Hop","Jazz Rap, Experimental Hip Hop, Neo-Soul","vulgar, sarcastic, angry, humorous, concept album, bittersweet, summer, breakup","17,500",98,3.32,40QTqOBBxCEIQlLNdSjFQB
+408,Infinity Frequencies,Computer Death,14 May 2013,Broken Transmission,Ambient,"sampling, repetitive, sombre, surreal, lo-fi, atmospheric, minimalistic, cold",549,5,3.40,7dWQrvucCMZC3kBVUo9ago
+409,Valerie June,Pushin' Against a Stone,6 May 2013,"Americana, Country Soul","Blues, Contemporary Folk","sentimental, female vocals, passionate, sensual, warm",349,8,3.41,02ayfOwf2rHWQoQoP4PCwQ
+410,Extermination Dismemberment,Serial Urbicide,27 May 2013,Slam Death Metal,,"rhythmic, vulgar, violence, heavy, scary, male vocals, chaotic, aggressive",331,12,3.39,37YWZtJOfrs60c6lzNURfd
+411,IAM{X},The Unified Field,15 March 2013,Electropop,Indietronica,dark,325,5,3.41,0tAUuBldpHmnguMysW4ycm
+412,Ağaçkakan,Uyuyan Adam,20 April 2013,"Experimental Hip Hop, Abstract Hip Hop","Illbient, Industrial Hip Hop","anxious, rhythmic, male vocals, sampling, abstract, psychedelic, suspenseful, existential",238,1,3.71,5DmCRdOwBG0ncCqpeePPvl
+413,Friendzone,DX,9 October 2013,"Instrumental Hip Hop, Cloud Rap",Trap,"sampling, instrumental, urban, repetitive, melodic, melancholic, dense, psychedelic",484,1,3.39,3HTFJHN0svdVteJjslcDbn
+414,Lustmord,The Word as Power,8 July 2013,"Ritual Ambient, Dark Ambient",Neoclassical Darkwave,"female vocals, dark, ritualistic",444,6,3.39,5iDNqRncNguhFpsZiTZEBy
+415,Ashley Monroe,Like a Rose,5 March 2013,"Country Pop, Contemporary Country","Nashville Sound, Americana",female vocals,278,10,3.41,35H5tWdoP4xZenoLJBiaGf
+416,Spiritual Beggars,Earth Blues,15 April 2013,"Stoner Rock, Hard Rock",,male vocals,374,10,3.40,
+417,Vår,No One Dances Quite Like My Brothers,14 May 2013,"Post-Punk, Post-Industrial","Minimal Synth, Post-Punk, Synthpop","cold, martial, melancholic, LGBT, apocalyptic, mysterious, surreal, male vocals","1,026",6,3.38,413UCJswMkDzSJEMte97VZ
+418,Citizen,Youth,11 June 2013,"Emo, Post-Hardcore","Midwest Emo, Alternative Rock, Shoegaze","suicide, sad, lonely, love, introspective, passionate, misanthropic, aggressive",900,9,3.37,32CXj7kEZQPfneTxGrkRZ9
+419,True Widow,Circumambulation,23 July 2013,Slowcore,"Stoner Rock, Shoegaze","lethargic, dark, atmospheric, sombre, male vocals, female vocals, nocturnal, hypnotic",767,6,3.39,5xkD0KbkpBYK3n8rDA0y6j
+420,Gregory Porter,Liquid Spirit,2 September 2013,Vocal Jazz,Soul Jazz,"male vocals, love, uplifting, mellow, spiritual, bittersweet, romantic",315,5,3.40,2o86ajLsjwh2FWTdD9vmjj
+421,Wisdom of Crowds,Wisdom of Crowds,3 June 2013,Art Rock,"Trip Hop, Progressive Rock, Alternative Rock","male vocals, introspective, rhythmic, nocturnal, winter, dark, melancholic, urban",258,6,3.50,6k7ud0Yn06PFK8RtkvYDND
+422,Iron Lung,White Glove Test,1 March 2013,Powerviolence,Noise,,380,3,3.40,251UfOKuoYfExcnOMFnFkx
+423,Pretty Maids,Motherland,22 March 2013,"Hard Rock, Heavy Metal",,"melodic, male vocals",236,7,3.55,0cumsfozTlqP7r34U1vTPA
+424,Octo Octa,Between Two Selves,28 May 2013,Deep House,"Tech House, Outsider House","rhythmic, mellow, romantic, nocturnal, warm, atmospheric, LGBT, bittersweet",439,7,3.38,52mgsNqFG07OlPOmA0Q4Sj
+425,They Might Be Giants,Nanobots,5 March 2013,"Indie Pop, Alternative Rock","Art Pop, Power Pop","playful, male vocals, humorous, surreal, futuristic, energetic, eclectic, melodic",600,15,3.37,5QVm4x70PPW3csvL9L41ut
+426,Black Sabbath,13,10 June 2013,Heavy Metal,Traditional Doom Metal,"male vocals, heavy, sombre, philosophical, ominous, pessimistic, melancholic, lonely","5,297",158,3.34,46fDgOnY2RavytWwL88x5M
+427,Tony Molina,Dissed and Dismissed,26 February 2013,"Power Pop, Lo-Fi / Slacker Rock",Noise Pop,"breakup, lo-fi, energetic, bittersweet, melodic, male vocals, sad, noisy","1,139",14,3.37,6zmGy8l0Xz4Snqn00zLSQq
+428,Dance Gavin Dance,Acceptance Speech,8 October 2013,Post-Hardcore,Math Rock,"passionate, manic, male vocals, love, androgynous vocals, angry, rhythmic, quirky","1,059",10,3.35,0i5fg8UAk0KU074O2fC8Pe
+429,Roly Porter,Life Cycle of a Massive Star,23 September 2013,Dark Ambient,"Noise, Drone, Post-Industrial",,398,4,3.40,12ZV1r1Z2YoIh7K5HQXWlV
+430,Baptists,Bushcraft,19 February 2013,"Crust Punk, Hardcore Punk, Metalcore",Sludge Metal,"dark, chaotic, raw, male vocals, dissonant, energetic, passionate, aggressive",382,4,3.39,0GBxMikYve63RCjtRxLKcR
+431,Denzel Curry,Nostalgic 64,3 September 2013,Southern Hip Hop,"Trap, Memphis Rap, Cloud Rap","atmospheric, conscious, urban, vulgar, dark, crime, rhythmic, misanthropic","3,103",9,3.36,
+432,nouns,Still Bummed,1 March 2013,"Noise Pop, Emo, Lo-Fi / Slacker Rock","Midwest Emo, Synth Punk, Indietronica, Noise Rock","energetic, melancholic, passionate, sad, bittersweet, lonely, noisy, lo-fi","2,199",18,3.36,0TmbsFrbOcvrBXLZkVGRru
+433,Ishome,Confession,15 May 2013,"Future Garage, Ambient Techno","Dub Techno, IDM","cold, sampling, instrumental, rhythmic, dense, atmospheric, winter, minimalistic",648,4,3.38,3vZXjCgibHYKgIoQBJk2UP
+434,Lingua Mortis Orchestra feat. Rage,LMO,2 August 2013,"Symphonic Metal, Heavy Metal","Power Metal, Progressive Metal","orchestral, male vocals, female vocals, energetic, progressive, history, concept album, occult",228,5,3.57,2gdPeQ4MGNrEh0XrH6gXCd
+435,Torres,Torres,22 January 2013,"Singer-Songwriter, Indie Rock",Slowcore,"melancholic, autumn, female vocals, winter","1,006",22,3.37,1EbIfYtE6PdK30IKwYBoKl
+436,Function,Incubation,4 March 2013,"Techno, Minimal Techno","Ambient Techno, Minimal Techno, Acid Techno","mechanical, cold, minimalistic, atmospheric, repetitive, instrumental, nocturnal",477,6,3.38,5qCv1rG71oIVIYEmDAej9T
+437,San Fermin,San Fermin,12 February 2013,"Chamber Pop, Indie Pop",Baroque Pop,,330,7,3.38,0cOgpr2OEXBJ67xt1BkbFq
+438,Karnivool,Asymmetry,19 July 2013,"Progressive Rock, Alternative Rock","Progressive Metal, Alternative Metal","male vocals, surreal, progressive, atmospheric, introspective, complex, melancholic, melodic",735,18,3.36,1crPKeUC7ea8UN75kkMDWv
+439,Have Mercy,The Earth Pushed Back,21 May 2013,"Emo, Post-Hardcore","Midwest Emo, Alternative Rock","male vocals, breakup, melancholic, bittersweet, passionate, sad, longing, introspective",459,11,3.38,28Xqjm99sHiGF6B8Njcjdn
+440,Dempagumi.inc でんぱ組.inc,World Wide Dempa,11 December 2013,Denpa,J-Pop,"happy, energetic, eclectic, manic, female vocals, melodic, uplifting",313,2,3.39,109W7IVCmSvgKLaNIq7kpk
+441,Dur-Dur Band,Volume 5,5 February 2013,Qaraami,Funk,"lo-fi, female vocals, male vocals, warm, optimistic, rhythmic, repetitive, melodic",314,7,3.39,3vljYoTzf9am5UQL3lzBhE
+442,Arcane Roots,Blood & Chemistry,6 May 2013,"Alternative Rock, Post-Hardcore","Progressive Rock, Math Rock","male vocals, melodic, energetic, passionate, technical",255,4,3.55,458ipZIlqtSrC598UdfP9c
+443,La Vida Bohème,Será,14 May 2013,Indie Rock,"Latin Alternative, Post-Punk Revival, Dance-Punk, Synthpop, Art Rock","concept album, rebellious, political, conscious, rhythmic, energetic, cryptic, longing",236,5,3.64,3n5kWWOgEVhmfU74PEihOY
+444,Unknown Mortal Orchestra,II,5 February 2013,"Psychedelic Pop, Indie Rock","Neo-Psychedelia, Lo-Fi / Slacker Rock, Bedroom Pop","lo-fi, male vocals, lonely, warm, summer, mellow, psychedelic, sensual","3,700",28,3.35,41C5iULlHU9sMYiekI75Pn
+445,Crash of Rhinos,Knots,22 July 2013,Midwest Emo,"Post-Hardcore, Math Rock","passionate, melancholic, energetic, uncommon time signatures, melodic, technical, male vocals",505,10,3.37,32CyKiYMbsr9mFhGXa5nZs
+446,Savages,Silence Yourself,7 May 2013,Post-Punk,"Gothic Rock, Art Punk, Noise Rock","dark, energetic, anxious, raw, noisy, female vocals, cold, aggressive","3,712",64,3.34,0aMC5DDAF86GvYNPaivEKd
+447,Special Request,Soul Music,7 October 2013,"Jungle, Hardcore Breaks",Techno,"sampling, rhythmic, mechanical, urban, uncommon time signatures, sparse, cold, energetic",397,4,3.37,59ATT6o8WWbHkElIwkqkVN
+448,Rodrigo Amarante,Cavalo,17 September 2013,Singer-Songwriter,"MPB, Indie Folk, Art Rock, Lo-Fi / Slacker Rock","lo-fi, male vocals, sad, minimalistic, acoustic, lonely, depressive, death",370,3,3.38,71SN16ttXq8ApL69DqbJDH
+449,Childish Gambino,Because the Internet,10 December 2013,"Abstract Hip Hop, West Coast Hip Hop","Contemporary R&B, Experimental Hip Hop, Pop Rap, Neo-Soul, Neo-Psychedelia","lonely, existential, concept album, introspective, abstract, philosophical, anxious, male vocals","11,662",68,3.30,4GNIhgEGXzWGAefgN5qjdU
+450,Jacco Gardner,Cabinet of Curiosities,12 February 2013,"Psychedelic Pop, Baroque Pop",Psychedelic Folk,"psychedelic, melodic, male vocals",816,19,3.37,3y1oem2pnuptIjtaIIKJBP
+451,Tera Melos,X'ed Out,16 April 2013,"Math Rock, Indie Rock","Noise Pop, Neo-Psychedelia, Noise Rock","noisy, rhythmic, warm, melodic, summer, male vocals, energetic, uncommon time signatures",771,4,3.37,4lIHKIHcnZsAWupf7yqrxA
+452,Autopsy,The Headless Ritual,24 June 2013,Death Metal,Death Doom Metal,"male vocals, death, heavy, angry, violence, vulgar",742,14,3.37,1Uyfo5I5Q7t1UMdzewRwo6
+453,Toxic Holocaust,Chemistry of Consciousness,29 October 2013,Thrash Metal,Speed Metal,"male vocals, heavy, rhythmic, aggressive, manic",551,3,3.37,0jwJZDxGMm3SSm6LULhxgv
+454,Kevin Morby,Harlem River,26 November 2013,Folk Rock,"Lo-Fi / Slacker Rock, Indie Rock",,424,2,3.38,
+455,Kodak Cameo,Riviera,1 April 2013,Vaporwave,"Synth Funk, Lounge, Ambient","nocturnal, sampling, mellow, instrumental, atmospheric, urban, bittersweet, lush",363,12,3.37,
+456,Violent Soho,Hungry Ghost,6 September 2013,"Grunge, Alternative Rock",Post-Hardcore,"raw, male vocals, melancholic, melodic, passionate, aggressive, heavy, energetic",355,4,3.37,0tPLX9uEggUbGduIkSmc0l
+457,Weekend Nachos,Still,11 November 2013,"Powerviolence, Hardcore Punk",Sludge Metal,"angry, heavy, aggressive, dark, death, hateful, violence, nihilistic",374,2,3.38,46HmmEMWGvdWdAvbIjaIaG
+458,Daughter,If You Leave,18 March 2013,"Indie Pop, Dream Pop","Dream Pop, Chamber Pop, Post-Rock, Slowcore","melancholic, atmospheric, mellow, melodic, bittersweet, female vocals, soothing, sad","2,434",28,3.35,2Y3kTeMHY7GZAvyNwV1jIH
+459,The Winery Dogs,The Winery Dogs,15 May 2013,Hard Rock,Blues Rock,"energetic, passionate, melodic, uplifting, rhythmic, male vocals",399,17,3.36,64yJt4L2M8uQlkaB1NfF97
+460,The Julie Ruin,Run Fast,3 September 2013,Indie Rock,"Dance-Punk, Riot Grrrl","female vocals, energetic, rebellious, melodic, playful, noisy",329,9,3.37,0BSqUgcOoDsMtSro646c8f
+461,Sean McCann,Music for Private Ensemble,2 July 2013,"Modern Classical, Ambient","Chamber Music, Post-Minimalism",,289,3,3.39,6U2H3w94oeXtCZ20jjRyr5
+462,Phosphorescent,Muchacho,19 March 2013,Americana,"Psychedelic Folk, Chamber Pop","melancholic, male vocals, melodic, longing, love, atmospheric, psychedelic, nocturnal","1,451",28,3.35,1lCaYGVwy25AGVzuNUU1rD
+463,R.A. the Rugged Man,Legends Never Die,30 April 2013,"East Coast Hip Hop, Hardcore Hip Hop","Boom Bap, Comedy Rap","urban, humorous, rebellious, satirical, male vocals, violence, conscious, sampling",716,17,3.35,6WpTeB3ckAE0Z5SRRiN2NU
+464,A Picture of Her,C,15 May 2013,"Math Rock, Post-Rock",Midwest Emo,aquatic,428,2,3.38,4rQJ0xVXD7OKZmV5hXL4tW
+465,Lantern,Below,28 May 2013,Death Metal,Black Metal,"cryptic, infernal, anti-religious, dark, death, occult, atmospheric, male vocals",286,2,3.39,1xjMFhLK0qWHKSCmsUEDkg
+466,Immolation,Kingdom of Conspiracy,14 May 2013,Death Metal,,"male vocals, heavy, aggressive, concept album, energetic, political, infernal, rhythmic","1,092",24,3.35,5dIh0zFb1LV5xVmwvJrOHu
+467,Julia Brown,To Be Close to You,22 February 2013,"Bedroom Pop, Lo-Fi / Slacker Rock, Indie Pop","Twee Pop, Lo-Fi / Slacker Rock","lo-fi, romantic, melodic, male vocals, bittersweet, female vocals, soft, longing",821,6,3.35,1CdBf2SkBuWMUeqIA1yeFl
+468,Týr,Valkyrja,17 September 2013,Power Metal,Folk Metal,"male vocals, energetic, melodic, folklore, anthemic, epic",503,8,3.35,651Ol2qId4W1G0BUlJhwZU
+469,Sacriphyx,The Western Front,15 February 2013,Death Metal,"Heavy Metal, Melodic Death Metal, Black Metal, Death Doom Metal","melodic, war, triumphant, energetic, melancholic, depressive, violence, warm",263,5,3.50,nuclearwarnowproductio
+470,Keiichiro Shibuya + Hatsune Miku,The End,27 November 2013,"Opera, Glitch Pop, Glitch","Modern Classical, Electropop, Noise","surreal, avant-garde, futuristic, death, atmospheric, depressive, dense, mechanical",241,,3.63,4g9LppWLvmEYIOutQfNuuK
+471,Rorcal,Vilagvege,28 February 2013,"Atmospheric Sludge Metal, Atmospheric Black Metal",,,394,7,3.36,0UaEx9Ow84KGckrXHT4GH3
+472,So Hideous,Last Poem/First Light,22 October 2013,"Screamo, Post-Metal","Blackgaze, Post-Rock, Chamber Music","epic, melancholic, energetic, dark, atmospheric, passionate, male vocals, poetic",310,3,3.37,5LL3ZyzSvLfXr7UIlwTKd6
+473,Mammane Sani et son orgue,La musique électronique du Niger,5 April 2013,Minimal Synth,West African Music,"minimalistic, lo-fi, melodic, instrumental, lethargic, calm, hypnotic",564,13,3.36,66tcTVhGk9Ju4kzpfXt9fT
+474,OMD,English Electric,8 April 2013,Synthpop,,"energetic, futuristic, atmospheric, science fiction, melancholic",399,22,3.36,72xlD1XH2uhvzUI1fantaL
+475,Planning for Burial,Quietly,19 March 2013,"Slowcore, Shoegaze, Post-Rock",Drone,"atmospheric, sad, sparse, male vocals, cold, depressive, sombre, longing",376,1,3.37,3jsJAQNW0WfhdRPoHhwtfu
+476,Lee Ranaldo and The Dust,Last Night on Earth,8 October 2013,Alternative Rock,Psychedelic Rock,,253,8,3.42,
+477,Paul McCartney,New,14 October 2013,"Pop Rock, Singer-Songwriter",Art Pop,"melodic, male vocals, warm, uplifting, passionate","1,705",31,3.34,1zd1DOaqrJq6tgdo74kAIj
+478,London Grammar,If You Wait,9 September 2013,"Art Pop, Alt-Pop, Indie Pop","Dream Pop, Trip Hop, Chamber Pop","melancholic, female vocals, nocturnal, ethereal, cold, minimalistic, atmospheric, sparse","1,493",20,3.34,0Jxn7c5MQwqvkahOp4YiB5
+479,Cakes da Killa,The Eulogy,29 January 2013,"East Coast Hip Hop, Hardcore Hip Hop","Juke, Hip House, Ballroom","LGBT, sexual, boastful, energetic, humorous, anthemic, quirky, misanthropic",532,6,3.35,
+480,Radiator Hospital,Something Wild,24 June 2013,"Indie Rock, Indie Pop","Pop Punk, Power Pop, Twee Pop, Lo-Fi / Slacker Rock","warm, anxious, energetic, breakup, love, bittersweet, raw, eclectic",446,4,3.35,6m0qHTxZeYPs4kY18aUhAW
+481,Volcano Choir,Repave,3 September 2013,Indie Folk,"Post-Rock, Art Rock",male vocals,"1,250",19,3.34,589MwkeuVyR5wMAMP07ARA
+482,Föllakzoid,II,22 January 2013,"Space Rock, Krautrock, Psychedelic Rock",Post-Rock,,952,13,3.35,4oopTeOoJJNiUkc6AVjmAA
+483,Ihsahn,Das Seelenbrechen,21 October 2013,"Progressive Metal, Avant-Garde Metal","Experimental, Black Metal","improvisation, ominous, philosophical, introspective, dark, atmospheric, complex, male vocals",756,12,3.34,1GjXqH0XzAz70J6wwMRGZS
+484,SHXCXCHCXSH,STRGTHS,15 July 2013,"Industrial Techno, Minimal Techno",Minimal Techno,"dark, repetitive, hypnotic, mechanical, instrumental",510,1,3.36,74a7SVdLE2HFAWShOuGPEU
+485,Wolfheart,Winterborn,11 October 2013,Melodic Death Metal,Melodic Black Metal,"heavy, nature, melodic, melancholic, male vocals, cold, aggressive, winter",255,4,3.46,7tr5vCysDOlCxbisE3rmoz
+486,Justin Timberlake,The 20/20 Experience,19 March 2013,"Contemporary R&B, Pop, Art Pop","Neo-Soul, Progressive Pop, Electropop","romantic, male vocals, sexual, love, lush, melodic, passionate, longing","4,620",111,3.31,0O82niJ0NpcptYRxogeEZu
+487,DJ Koze,Amygdala,22 March 2013,Deep House,"Microhouse, Tech House, Ambient House","psychedelic, minimalistic, uplifting, happy, instrumental, rhythmic, atmospheric, sampling","1,447",22,3.34,4W6mTFGMa5Zc4lWp7sOifv
+488,Steve Mason,Monkey Minds in the Devil's Time,18 March 2013,"Singer-Songwriter, Indie Rock","Indie Folk, Art Rock",,278,10,3.37,
+489,Thy Light,No Morrow Shall Dawn,20 July 2013,Depressive Black Metal,Post-Metal,"depressive, lonely, suicide, male vocals",327,4,3.36,4e4d91ZnMck8pqHRMaPDcs
+490,Voivod,Target Earth,21 January 2013,Progressive Metal,Thrash Metal,"science fiction, complex, progressive, male vocals, energetic, mechanical, uncommon time signatures, apocalyptic","1,063",25,3.34,7thqd26yjPouEs8CHwD8Js
+491,Gucci Mane,Trap House 3,26 May 2013,"Trap, Southern Hip Hop, Gangsta Rap","Pop Rap, Dirty South","crime, lethargic, drugs, boastful, sexual, cold, sampling, dark",949,12,3.33,1DHxtmSKLQPQpHRKrLAiu0
+492,Keaton Henson,Birthdays,25 February 2013,"Singer-Songwriter, Indie Folk","Slowcore, Chamber Folk","sombre, longing, introspective, male vocals, sad, passionate, depressive, soft",724,9,3.33,6cxw9KZRQtRaToH7cxytVX
+493,Natalia Kills,Trouble,3 September 2013,"Electropop, Pop Rock","Electroclash, Dance-Pop, Noise Pop, Synthpop, Art Pop","pessimistic, bittersweet, rebellious, romantic, nocturnal, hedonistic, vulgar, alcohol",402,2,3.35,1XdmaPUzFqEPwowQ0UPiRp
+494,The Uncluded,Hokey Fright,28 March 2013,"Anti-Folk, Abstract Hip Hop, Experimental Hip Hop",Twee Pop,"acoustic, female vocals, playful, death, male vocals, warm, humorous, quirky",843,17,3.33,3oou8ckr71HBzuAom70vHj
+495,Stromae,Racine carrée,19 August 2013,"Electropop, Dance-Pop","Electro House, Nouvelle chanson française, Hip House, Coladeira","love, rhythmic, repetitive, urban, male vocals, summer, party, uplifting","1,484",8,3.32,4WW3ME0M2dUoAK5hmbXsN7
+496,Killswitch Engage,Disarm the Descent,2 April 2013,Melodic Metalcore,,"melodic, uplifting, conscious, energetic, passionate, male vocals",965,24,3.32,6IbymRK2KoxA5THMkqN6qA
+497,Girls Names,The New Life,18 February 2013,"Post-Punk, Jangle Pop",Dream Pop,,501,6,3.36,3asMPjRUQQsyHEldlcBBW0
+498,Modern Life Is War,Fever Hunting,9 September 2013,"Melodic Hardcore, Hardcore Punk",,,363,4,3.35,0ongZyanhSd5wuBN294ue3
+499,Mendelson,Mendelson,6 May 2013,"Experimental Rock, Spoken Word","Post-Rock, Dark Ambient, Electronic","dark, atmospheric, sombre, serious, hypnotic, deadpan, mellow, anxious",211,3,3.66,2FJsdtNez3k9gNILtBLJj4
+500,Deerhunter,Monomania,7 May 2013,"Indie Rock, Noise Pop","Garage Rock, Neo-Psychedelia, Lo-Fi / Slacker Rock","lo-fi, raw, male vocals, energetic, noisy, nocturnal, lonely, bittersweet","4,197",58,3.32,68gYjtaIWlvCscoxuCqAiZ
+501,My Chemical Romance,Conventional Weapons,5 February 2013,"Pop Punk, Alternative Rock","Post-Hardcore, Emo-Pop, Garage Rock Revival","melodic, male vocals, aggressive, passionate, energetic, anxious, raw, anthemic",936,13,3.33,2RCPu5qyaDPWIeWdy4WJCU
+502,Sleaford Mods,Austerity Dogs,1 March 2013,"Spoken Word, Post-Punk","Minimal Wave, UK Hip Hop","urban, energetic, aggressive, angry, male vocals, misanthropic, conscious, hateful",450,3,3.35,1p0afVtlCRpRRcbugjAnDD
+503,Misery Signals,Absent Light,22 July 2013,Metalcore,Progressive Metal,"progressive, technical, male vocals, passionate, aggressive, uncommon time signatures, atmospheric, uplifting",435,12,3.34,3h7tKH5h6c2XOCnc5zBQ52
+504,Primitive Man,Scorn,31 January 2013,"Sludge Metal, Doom Metal",Crust Punk,"misanthropic, heavy, violence, hateful, nihilistic, dense, noisy, male vocals",735,7,3.35,1jWnALh48XShJomBdM6pYD
+505,Sadistik,Flowers for My Father,19 February 2013,"Conscious Hip Hop, Abstract Hip Hop",Cloud Rap,"dark, depressive, male vocals, sad, ethereal, atmospheric",558,12,3.33,5duAhGTId1vVLUtApl9Yr7
+506,Prodigy x Alchemist,Albert Einstein,11 June 2013,"Hardcore Hip Hop, East Coast Hip Hop","Boom Bap, Drumless",male vocals,540,6,3.35,0PRSoLxeEZXSvk3Hh606ig
+507,Senses Fail,Renacer,26 March 2013,Post-Hardcore,"Metalcore, Hardcore Punk","male vocals, love, melancholic, heavy, introspective, passionate, dark, bittersweet",297,6,3.37,3z6xGsObjZFEdnUgZaU2MP
+508,King Khan & His Shrines,Idle No More,3 September 2013,Garage Rock,"Soul, Psychedelic Rock",,244,2,3.46,
+509,Erik Satie / Anamanaguchi,Endless Fantasy,14 May 2013,"Chiptune, Bitpop","Power Pop, Electro House, 16-bit, J-Rock, Electropop","energetic, playful, happy, instrumental, uplifting, melodic, love, dense","2,124",24,3.32,5hchtJ6859VJ38c0bc5R0S
+510,Portugal. The Man,Evil Friends,4 June 2013,"Indie Rock, Indie Pop","Psychedelic Rock, Neo-Psychedelia","male vocals, melodic, rhythmic, anti-religious, nocturnal, dark, urban, optimistic","1,655",19,3.33,6VoOCCv0bXPrTHDncJyIgF
+511,Jesu,Every Day I Get Closer to the Light From Which I Came,24 September 2013,"Post-Rock, Post-Metal","Shoegaze, Drone Metal","heavy, male vocals, melancholic, sombre, dense, introspective, atmospheric",981,10,3.34,2QWfbyK6NZ53V4i9sgPjIo
+512,Old Gray,An Autobiography,11 March 2013,"Screamo, Emo","Post-Rock, Spoken Word, Midwest Emo","self-hatred, introspective, poetic, depressive, male vocals, melancholic, manic, anxious",939,9,3.33,0crxHIjEmtH6VGuX4VunmY
+513,Warbringer,IV: Empires Collapse,28 October 2013,Thrash Metal,Speed Metal,aggressive,315,10,3.36,4e0bs14PbPYPXLLPPBNu8H
+514,Keldian,Outbound,31 October 2013,Power Metal,"Symphonic Metal, AOR, Progressive Metal","science fiction, male vocals, uplifting, space, melodic, passionate, energetic, introspective",211,6,3.62,5JnefVYNNcihpn1Bq3atCq
+515,Thundercat,Apocalypse,9 July 2013,"Neo-Soul, Funktronica, Nu Jazz","Jazz-Funk, Synth Funk, Contemporary R&B, Wonky","mellow, existential, death, futuristic, warm, quirky, playful, psychedelic","2,584",16,3.33,6dDbUFp3HXqMWeywcPUZbb
+516,The Front Bottoms,Talon of the Hawk,21 May 2013,"Folk Punk, Indie Rock","Pop Punk, Midwest Emo","male vocals, energetic, anxious, sarcastic, melodic","1,484",12,3.30,3Whyz0vsFG5AdcSzlgC3k0
+517,Comadre,Comadre,8 January 2013,Screamo,"Indie Rock, Post-Hardcore","energetic, passionate, male vocals, rhythmic, aggressive, anxious, melodic",639,11,3.33,5x1rCm7QGTmuP4plqH6FGY
+518,Dpplgngz,Hark,12 March 2013,"East Coast Hip Hop, Boom Bap","Instrumental Hip Hop, Abstract Hip Hop",male vocals,496,14,3.34,0cRsGsziFn7tKnmAxy8oHf
+519,Ovid's Withering,Scryers of the Ibis,13 November 2013,"Djent, Deathcore","Progressive Metal, Symphonic Black Metal","epic, mythology, heavy",347,11,3.31,6C1TCoQzKlTSCi4dnVLMJr
+520,Amplifier,Echo Street,11 March 2013,"Progressive Rock, Alternative Rock","Post-Rock, Psychedelic Rock, Art Rock","melodic, atmospheric, melancholic, psychedelic, space, male vocals, energetic, progressive",359,15,3.34,6LOPpC9CFLLOaPG7P2X5NB
+521,Shpongle,Museum of Consciousness,29 July 2013,Psybient,"Downtempo, IDM","psychedelic, meditative, playful, rhythmic, ethereal, tribal, warm, atmospheric",603,7,3.34,04T2dbDrecHZBs3WFdFOpt
+522,Whitewoods,Spaceship Earth,22 August 2013,"Synthpop, Chillwave, Hypnagogic Pop","Synth Funk, Vaporwave","male vocals, melancholic, psychedelic, sampling, quirky, rhythmic, playful, lo-fi",362,3,3.35,3gfTj1Dq87IiiyPOviWepH
+523,Saint Pepsi,Empire Building,29 January 2013,Vaporwave,Future Funk,"lo-fi, sensual, mellow, sampling, nocturnal, urban, atmospheric, ethereal",326,2,3.36,
+524,Foxygen,We Are the 21st Century Ambassadors of Peace & Magic,22 January 2013,Psychedelic Pop,"Indie Pop, Glam Rock, Pop Rock","melodic, warm, summer, male vocals, bittersweet, optimistic, love, psychedelic","4,314",79,3.30,2PvrxQzGjHFSOBKX2KqLBL
+525,Little Big League,These Are Good People,6 August 2013,Midwest Emo,"Indie Rock, Noise Pop","sentimental, raw, longing, bittersweet, female vocals, melodic, love, LGBT",332,3,3.35,2js1jeiPVrpvbT8tJAUsw2
+526,Iron Reagan,Worse Than Dead,19 March 2013,Crossover Thrash,Hardcore Punk,"political, rhythmic, aggressive, male vocals, energetic",308,5,3.35,1jLb8IUV2LkG0jg7M39IUp
+527,Jessica93,Who Cares,31 May 2013,"Post-Punk, Coldwave",Shoegaze,"ominous, heavy, cold, sombre, ethereal, male vocals",273,1,3.37,6CVWXf1ciuzzgy4hJAiKKX
+528,Laurel Halo,Chance of Rain,28 October 2013,Techno,"Detroit Techno, Ambient Techno, IDM","futuristic, cold, atmospheric, instrumental, mechanical, mysterious, technical, ominous","1,480",11,3.33,4HrLgkW8qPTfLxAt5fj8lq
+529,Ahnnu,World Music,3 September 2013,Plunderphonics,"Ambient, Instrumental Hip Hop, Nu Jazz, Vaporwave","hypnotic, rhythmic, mellow, nocturnal, sampling, warm, psychedelic, ethereal",319,4,3.35,1gaa99cEtX8XdMEZj2uIpJ
+530,Laura Mvula,Sing to the Moon,1 March 2013,"Contemporary R&B, Chamber Pop, Pop Soul","Pop Soul, Art Pop, Traditional Pop","female vocals, lush",487,11,3.33,6sWQlfb6ju6jG0z4oFPgVn
+531,Skeletonwitch,Serpents Unleashed,29 October 2013,Thrash Metal,Melodic Black Metal,,542,6,3.33,2JOIi9CHxbQPQPHJNXDQBi
+532,Amon Amarth,Deceiver of the Gods,25 June 2013,Melodic Death Metal,,"mythology, male vocals, melodic, heavy, aggressive, energetic, violence, war","1,531",28,3.31,3UgW8SaWQ1r1hCIJRlQEYV
+533,Vaura,The Missing,12 November 2013,"Post-Punk, Blackgaze","Progressive Metal, Gothic Rock","atmospheric, dark, male vocals, sombre, melancholic, ethereal, progressive, uncommon time signatures",518,4,3.34,6PxExWLHUBVYVOGD4JeyOX
+534,Chthonic,Bú-Tik,3 June 2013,"Melodic Death Metal, Melodic Black Metal","Symphonic Black Metal, Chinese Folk Music, Folk Metal","heavy, war, nationalism, melodic, aggressive, history, male vocals, energetic",292,3,3.37,5gEbYHV3Se5a4Ter4erxRo
+535,Pusha T,My Name Is My Name,8 October 2013,"Gangsta Rap, Southern Hip Hop","Pop Rap, Trap","drugs, male vocals, boastful, crime, urban, sampling, sexual, hedonistic","5,256",39,3.31,0IoiCReUTgS8veAp98cHIA
+536,RP Boo,Legacy,13 May 2013,"Footwork, Juke",,"rhythmic, repetitive, sampling, urban, abstract, hypnotic, party, male vocals",554,5,3.33,22G89plPWhZKj8fa87IiZl
+537,Balance and Composure,The Things We Think We're Missing,10 September 2013,"Emo, Alternative Rock","Post-Hardcore, Shoegaze, Grunge","male vocals, rain, noisy, lonely, introspective, melancholic, breakup, love",502,9,3.32,7a4k5NMwt4L4vbuV9Qy1gL
+538,Lustre,Wonder,16 September 2013,"Atmospheric Black Metal, Ambient",Dungeon Synth,"lonely, sombre, nocturnal, lethargic, melodic, atmospheric, male vocals, nature",355,3,3.33,5uR37EwL19gJhywLLSdVmi
+539,Knxwledge,Kauliflower,24 September 2013,"Lo-Fi Hip Hop, Instrumental Hip Hop","Wonky, Experimental Hip Hop","sampling, instrumental, atmospheric, rhythmic, lo-fi, mellow, urban, complex",427,2,3.34,6Qm3BXNURcAUHCtVlZ3N1f
+540,Ludovico Einaudi,In a Time Lapse,21 January 2013,"Classical Crossover, Modern Classical","New Age, Neoclassical New Age","calm, soothing, instrumental, melodic, lush, soft",370,4,3.32,
+541,Ghost,Infestissumam,10 April 2013,Hard Rock,"Heavy Metal, Heavy Psych","satanic, occult, melodic, male vocals, passionate, apocalyptic, energetic, psychedelic","4,217",50,3.29,32CbQps06lUasiux6N8tP3
+542,Northlane,Singularity,22 March 2013,"Metalcore, Djent",,"heavy, introspective, uplifting, male vocals",530,2,3.31,5StK8XAhLIasWLHGzKNAJC
+543,Coma Cinema,Posthumous Release,11 June 2013,"Indie Pop, Bedroom Pop","Psychedelic Pop, Lo-Fi / Slacker Rock",male vocals,503,4,3.33,4fGmm4duNiLc3uDl9QqLM2
+544,Patricia,Body Issues,19 August 2013,Outsider House,"Ambient Techno, Tech House, Acid House","atmospheric, repetitive, anxious, nocturnal, dark, melancholic, depressive, hypnotic",362,2,3.35,6WJCXlw9qbzRUEWiJggAtN
+545,Exhumed,Necrocracy,6 August 2013,Deathgrind,Melodic Death Metal,"heavy, death, aggressive, angry, energetic, violence, male vocals, melodic",344,8,3.34,5E3MGHqzxrAj3Nxy8ugSNv
+546,The Dead C,Armed Courage,3 September 2013,"Noise Rock, Experimental Rock","Drone, Ambient","angry, noisy, improvisation, dense, chaotic",283,5,3.37,
+547,Cathedral,The Last Spire,29 April 2013,Doom Metal,,"heavy, male vocals, fantasy",464,10,3.32,0Zp5rBxp1wWTVGDtQY3rJ3
+548,YC the Cynic,GNK,26 August 2013,"Conscious Hip Hop, Political Hip Hop","Hardcore Hip Hop, East Coast Hip Hop","political, male vocals, conscious",489,4,3.33,3ZzOUgkfIN6qU3JZjzWw9G
+549,Mammoth Grinder,Underworlds,23 July 2013,"Crust Punk, Death Metal",Death Metal,"aggressive, male vocals, heavy, raw, energetic",313,6,3.34,41ReW9h9vBto0EJjjF1wLQ
+550,Secret Pyramid,Movements of Night,15 October 2013,"Ambient, Drone",,"hypnotic, atmospheric, instrumental, nocturnal, melancholic",258,1,3.45,2Yiukgdo2ZgDEBBAnzsSKW
+551,clipping.,Midcity,5 February 2013,"Industrial Hip Hop, West Coast Hip Hop, Gangsta Rap","Harsh Noise, Hardcore Hip Hop, Glitch, Gangsta Rap, Tape Music","noisy, crime, violence, male vocals, drugs, raw, dark, urban","3,812",38,3.29,1lgZgmdWGUt8Ypk5qgaRQH
+552,Majical Cloudz,Impersonator,21 May 2013,Ambient Pop,"Dream Pop, Art Pop, Singer-Songwriter, Alt-Pop","lonely, warm, bittersweet, sparse, serious, introspective, sombre, male vocals","1,155",15,3.31,5M0cc2VNVt1yLNpjnQPYfm
+553,Active Stenosis,Final Histopathology Report,12 December 2013,Goregrind,,"chaotic, aggressive, vulgar, manic, dense, heavy, male vocals, misanthropic",228,2,3.57,
+554,Wooden Shjips,Back to Land,12 November 2013,"Neo-Psychedelia, Psychedelic Rock, Space Rock Revival","Krautrock, Space Rock","psychedelic, repetitive, hypnotic",425,8,3.33,5ucGsqmWnXrx69gHS3ldOV
+555,The Fat White Family,Champagne Holocaust,1 April 2013,"Garage Rock, Acid Rock, Art Punk","Lo-Fi / Slacker Rock, Garage Punk","lo-fi, hedonistic, political, surreal, raw, sexual, psychedelic, nihilistic",436,4,3.33,49rPHMcY4Z2JoVNUr6AspO
+556,Evile,Skull,27 May 2013,Thrash Metal,,"male vocals, energetic, aggressive",345,11,3.32,5ASbchClXDt2Q1pTdYiUWT
+557,Dale Cooper Quartet & the Dictaphones,Quatorze pièces de menace,27 September 2013,Dark Jazz,"Drone, Dark Ambient","nocturnal, dark, atmospheric, ominous",279,1,3.39,0z7Fnuv6z6Hd7aQ25iWXJ3
+558,Washed Out,Paracosm,13 August 2013,"Chillwave, Dream Pop","Neo-Psychedelia, Dream Pop, Balearic Beat","uplifting, mellow, hypnotic, summer, atmospheric, psychedelic, nature, calm","2,012",28,3.30,72b7KBNzYH54BtZ5FBSFqi
+559,Grandview,Everything Between Paint and a Wall,17 December 2013,Midwest Emo,"Post-Hardcore, Post-Rock","depressive, self-hatred, melancholic, sad, passionate, breakup, introspective, male vocals",226,3,3.60,5goQNoj6lYIPt3vOQVsc3d
+560,Anna Calvi,One Breath,7 October 2013,Art Rock,"Art Pop, Chamber Pop, Gothic Rock",female vocals,729,15,3.32,
+561,Midlake,Antiphon,5 November 2013,"Folk Rock, Indie Rock","Psychedelic Folk, Progressive Folk","psychedelic, male vocals, melodic, forest, lush, atmospheric, nocturnal, mellow",648,17,3.32,0QEF20rJi9iqYXeyukOLvU
+562,Brave Bird,"Maybe You, No One Else Worth It",8 January 2013,Midwest Emo,,"melancholic, bittersweet, passionate, male vocals, energetic",542,7,3.30,00YXUwSAhiqzI5N5ddODkA
+563,Nadine Shah,Love Your Dum and Mad,22 July 2013,Alternative Rock,"Chamber Pop, Piano Rock, Folk Rock",,260,8,3.40,0Tw9j0oLI4QeMiZYsjssFB
+564,Passo Torto,Passo elétrico,June 2013,"Vanguarda paulista, Experimental Rock","Math Rock, Art Rock","abstract, anxious, polyphonic, chaotic, male vocals, introspective, dissonant, alienation",250,3,3.45,2YTDZFbhpoWbqmpk9egEJG
+565,Age of Taurus,Desperate Souls of Tortured Times,27 May 2013,"Traditional Doom Metal, Doom Metal, Epic Doom Metal",,male vocals,211,8,3.57,1EiWxFAs9OGC7610b0Wi2v
+566,Blue Sky Black Death,Glaciers,1 October 2013,Downtempo,"Dream Pop, Instrumental Hip Hop, Cloud Rap","anthemic, sentimental, male vocals, peaceful, dense, progressive, nocturnal, meditative",483,11,3.30,0iH7PZv4zMN20pkICUanYm
+567,John Wizards,John Wizards,2 September 2013,"Indietronica, Kwaito","Dub, Chamber Pop","sensual, warm, psychedelic, playful, summer, eclectic, energetic",416,3,3.32,187D5dT7y65bZopv4yPDJN
+568,Gov't Mule,Shout!,16 September 2013,"Blues Rock, Southern Rock","Southern Rock, Hard Rock",,221,6,3.55,2hWwwtCJJFqwbnmLNICM2m
+569,Quelle Chris,Ghost at the Finish Line,29 October 2013,Abstract Hip Hop,"Conscious Hip Hop, Gangsta Rap","introspective, male vocals",330,3,3.33,7jmGDoZYKYDLSiPR3oMVQN
+570,Nisennenmondai,N,2 July 2013,"Minimal Techno, Krautrock",Ambient Techno,"repetitive, rhythmic, hypnotic, minimalistic, avant-garde, dark, instrumental, improvisation",405,1,3.32,19nNUoxHIMRJsogSuExqJe
+571,Jerusalem in My Heart,Mo7it al-mo7it,19 March 2013,"Arabic Folk Music, Avant-Folk","Drone, Electronic","meditative, cryptic, male vocals, mysterious, hypnotic",330,3,3.33,3bDBcV566ZtjYTpmq0Yrvt
+572,Tindersticks,Across Six Leap Years,14 October 2013,Chamber Pop,,male vocals,323,5,3.33,
+573,The Black Angels,Indigo Meadow,2 April 2013,Psychedelic Rock,"Garage Rock, Neo-Psychedelia","male vocals, psychedelic, love, war, drugs, hypnotic, dense",747,18,3.31,4tTLpPDL1xjJgCTzNnqy8D
+574,TOY,Join the Dots,9 December 2013,Neo-Psychedelia,"Shoegaze, Krautrock",male vocals,434,7,3.32,4aLDgsogKidBuWEHAdMEEV
+575,Emptyset,Recur,28 October 2013,"Power Noise, Post-Industrial","Industrial Techno, Glitch","dark, noisy, energetic, mysterious, nocturnal, hypnotic, repetitive, heavy",386,9,3.32,6cK5IgwAg2LuwWGeIVpY4x
+576,Ghostpoet,Some Say I So I Say Light,13 May 2013,UK Hip Hop,"Future Garage, Trip Hop",,367,9,3.31,4FqGPQmNI9Ajx6rZxBt385
+577,Night Beats,Sonic Bloom,24 September 2013,"Psychedelic Rock, Garage Rock",Punk Blues,,249,4,3.42,4yVONC3l3dmwIHtELeJgAN
+578,Shigeto,No Better Time Than Now,20 August 2013,"Wonky, Nu Jazz",Ambient Techno,"mellow, rhythmic, instrumental, atmospheric",649,4,3.31,4GqLgh8J1bRIRrVeYq8J9L
+579,Pharmakon,Abandon,13 May 2013,Death Industrial,Drone,"atmospheric, ominous, aggressive, misanthropic, noisy, female vocals, dark, dissonant","2,091",24,3.28,2bmE5zwqDQFb2bIEU5jqw0
+580,Ty Segall,Sleeper,20 August 2013,"Psychedelic Folk, Singer-Songwriter","Psychedelic Rock, Folk Rock","psychedelic, pastoral, melancholic, autumn, acoustic, mellow",995,7,3.31,2JYkFXfoBxPc3sqtPyvAFR
+581,Hookworms,Pearl Mystic,4 March 2013,Psychedelic Rock,"Noise Rock, Shoegaze","cryptic, psychedelic, raw, male vocals, Wall of Sound, aggressive, dense, progressive",734,7,3.31,2EmD7p8WMCensfHfWXdMmE
+582,Ghostface Killah,Twelve Reasons to Die: The Brown Tape,16 April 2013,"East Coast Hip Hop, Hardcore Hip Hop",Boom Bap,"male vocals, crime, rhythmic, violence, sampling",444,6,3.31,7yXfSAtdHFZ1pYSubEio6a
+583,Mayer Hawthorne,Where Does This Door Go,16 July 2013,Blue-Eyed Soul,"Smooth Soul, Contemporary R&B, Funk",,271,7,3.35,4FF4II3GGoTuYRW3zenamA
+584,Hail of Bullets,III: The Rommel Chronicles,25 October 2013,Death Metal,,"aggressive, war, desert, male vocals, history, death, violence, cold",259,3,3.42,1sbCb71uq6T6bybHxSANsF
+585,65daysofstatic,Wild Light,16 September 2013,"Post-Rock, Electronic","Glitch, IDM, Ambient","instrumental, futuristic, epic, longing, energetic, atmospheric, urban",957,7,3.30,3a68UJXba5ejXgM5K8BUVF
+586,Esben and the Witch,Wash the Sins Not Only the Face,21 January 2013,Ethereal Wave,"Dream Pop, Darkwave, Post-Rock, Gothic Rock","female vocals, ethereal, melancholic, atmospheric, cold, mysterious, nocturnal, dark",628,14,3.30,4rNhJ9spDTFSXo95Ce4jFw
+587,Scout Niblett,It's Up to Emma,21 May 2013,Singer-Songwriter,Slowcore,female vocals,237,7,3.46,0XkNq52qjvOa7LvGpOAziF
+588,Jerry Paper,Fuzzy Logic,17 October 2013,"Synthpop, Art Pop, Bedroom Pop","Hypnagogic Pop, Sequencer & Tracker","lonely, apathetic, mellow, surreal, male vocals, calm, quirky, warm",309,1,3.32,7JDWVA2h3V7ccbPpTYupPM
+589,The Ex & Brass Unbound,Enormous Door,29 April 2013,"Post-Punk, Art Punk","Jazz-Rock, Noise Rock",,227,3,3.48,5AiL7HPSkrT1UIs8Rd7WJh
+590,The Appleseed Cast,Illumination Ritual,23 April 2013,"Post-Rock, Indie Rock",Midwest Emo,"male vocals, atmospheric, melodic, melancholic, bittersweet, uplifting, anxious, passionate",365,7,3.31,4ZUpacHZD1ts1H37ms8iiG
+591,Eternal Tears of Sorrow,Saivon lapsi,22 February 2013,"Melodic Death Metal, Symphonic Metal",,"male vocals, heavy, dark, melodic, aggressive, symphony, winter",329,9,3.30,113dKdhcptxma5BMJtIYMb
+592,Imperium Dekadenz,Meadows of Nostalgia,15 March 2013,Atmospheric Black Metal,,male vocals,243,5,3.47,1zcgFY5OOmSRGPgIdIssqm
+593,Steve Gunn,Time Off,18 June 2013,"Folk Rock, Psychedelic Folk","American Primitivism, Contemporary Folk",,225,5,3.50,72lI6OzioVUAEQ2ix2JMwy
+594,Suuns,Images du futur,5 March 2013,"Indie Rock, Experimental Rock","Neo-Psychedelia, Post-Punk, Art Rock, Krautrock","apathetic, lonely, futuristic, atmospheric, sombre, melancholic, mysterious, male vocals",885,16,3.29,77W5LXwvFtUcls7sznRxln
+595,Everything Everything,Arc,14 January 2013,"Art Pop, Indie Pop","Progressive Pop, Indietronica, Indie Rock, Math Rock","energetic, anxious, rhythmic, melancholic, quirky, depressive, conscious, male vocals","1,824",25,3.28,54rCSZQzGYQtllqSdIJ1M7
+596,No Joy,Wait to Pleasure,23 April 2013,"Shoegaze, Dream Pop",Noise Pop,"female vocals, warm, ethereal","1,033",14,3.29,6LVHEAzqHwjvdTekB2f1VD
+597,Emilíana Torrini,Tookah,9 September 2013,"Art Pop, Indie Pop",,"female vocals, atmospheric",292,7,3.31,46NK1lnJsIdvK78LTOCWGl
+598,Dessa,Parts of Speech,25 June 2013,"Art Pop, Abstract Hip Hop","Conscious Hip Hop, Neo-Soul, Experimental Hip Hop","female vocals, melancholic, romantic, melodic",313,7,3.29,6Cp5LPfsGJsmnveXYuz2ch
+599,Disperse,Living Mirrors,15 February 2013,Progressive Metal,"Progressive Rock, Ambient, Djent","heavy, progressive, epic, atmospheric, male vocals, melancholic, melodic",282,6,3.35,0heTcFqdUwGt3xPH07UpiX
+600,Sound of Contact,Dimensionaut,20 May 2013,Progressive Rock,"Neo-Prog, Art Rock, Progressive Metal","melodic, melancholic, space, complex, introspective, progressive, ethereal, concept album",218,8,3.54,1h3T7LXFuA6JkoMjoZGVT9
+601,Disconscious,Hologram Plaza,9 April 2013,"Mallsoft, Vaporwave","Ambient, Field Recordings","lonely, hypnotic, atmospheric, lo-fi, sampling, mellow, psychedelic, mysterious",607,13,3.29,
+602,White Lies,Big TV,12 August 2013,Post-Punk Revival,"Synthpop, New Wave","anthemic, nocturnal, atmospheric, love, passionate, male vocals",837,18,3.28,32MqLeunrlzlSwLHVTeSe6
+603,Queensrÿche,Queensrÿche,24 June 2013,Heavy Metal,Progressive Metal,"anthemic, melodic, male vocals, energetic",595,27,3.29,6g3NlaLsTfM5zEygZr5G9c
+604,I Am Kloot,Let It All In,21 January 2013,Indie Pop,Chamber Pop,,287,10,3.31,
+605,of Montreal,Lousy With Sylvianbriar,8 October 2013,"Indie Rock, Neo-Psychedelia","Alt-Country, Psychedelic Folk, Psychedelic Pop","playful, raw, melodic, androgynous vocals, sarcastic, lush, energetic, warm","1,343",22,3.28,0NxEDUyECiqT6zkXL4qDnX
+606,Cut Copy,Free Your Mind,5 November 2013,"Electropop, Alternative Dance","Psychedelic Pop, Synthpop, Alternative Dance","melodic, uplifting, rhythmic, male vocals, energetic, summer, party, happy",879,12,3.28,1jC0syHv6d6upeaIt0Emyz
+607,Defeater,Letters Home,17 July 2013,Melodic Hardcore,Post-Hardcore,"angry, war, pessimistic, introspective, anxious, death, aggressive, sad",476,6,3.29,5BoqmrGpNNMBor7vuhG7Hl
+608,Haim,Days Are Gone,1 October 2013,Pop Rock,"New Wave, Contemporary R&B, Soft Rock","female vocals, rhythmic, breakup, melodic, warm, lush, passionate, summer","3,792",41,3.25,729Vh0HApsm7hGDVjbmtrf
+609,Waxahatchee,Cerulean Salt,5 March 2013,"Singer-Songwriter, Indie Rock",Lo-Fi / Slacker Rock,"breakup, melancholic, warm, poetic, female vocals, sad, summer","1,663",25,3.28,1T7zNUz9RSOeObF4cGfJe6
+610,Los Campesinos!,No Blues,29 October 2013,Indie Rock,Indie Pop,"melancholic, romantic, melodic, self-hatred, lush, male vocals, energetic, depressive",675,10,3.28,2GuoCbVFrNWQHkn8XaDeTJ
+611,Joanna Gruesome,Weird Sister,10 September 2013,"Noise Pop, Indie Pop","Twee Pop, Garage Punk","female vocals, noisy",536,12,3.30,0kqkwWTH9b9If0HJjfeN9g
+612,Slow Warm Death,Slow Warm Death,6 March 2013,"Garage Punk, Noise Rock","Punk Blues, Garage Rock","male vocals, noisy, heavy, energetic",338,9,3.29,2Pv7NKd0XfOP2AaneASD87
+613,DJ Smokey,Evil Wayz,1 March 2013,"Phonk, Memphis Rap",Chopped and Screwed,"sampling, dark, sexual, crime, drugs, instrumental, surreal, aggressive",324,2,3.37,26ndsdUr5fXxZ0La3Xj2w6
+614,Helloween,Straight Out of Hell,18 January 2013,Power Metal,Heavy Metal,"energetic, melodic, male vocals","1,013",33,3.26,5T3onbYwasrSrAKX8E91hK
+615,Recondite,Hinterland,11 November 2013,Microhouse,"Ambient Techno, Minimal Techno","atmospheric, rhythmic, repetitive, hypnotic, instrumental, ethereal, warm, forest",337,2,3.31,1ZuK1tX8h9343zZo0ofSue
+616,Jagwar Ma,Howlin,10 June 2013,"Baggy, Alternative Dance","Neo-Psychedelia, House, Indie Rock, Indietronica",,836,13,3.28,60GDHCTJ8vGt7QS5ur4nBi
+617,Audrey Horne,Youngblood,5 February 2013,Hard Rock,Heavy Metal,"energetic, melodic, anthemic, male vocals, pessimistic",230,5,3.45,3h3uERNQrkZhO7ac001cVR
+618,Paul Jebanasam,Rites,22 April 2013,"Drone, Dark Ambient",Post-Industrial,"dark, depressive, sad",219,1,3.51,74Il2cNYx88q9NSRDwLU0Y
+619,Bring Me the Horizon,Sempiternal,2 April 2013,"Metalcore, Post-Hardcore","Electronic, Alternative Rock","energetic, male vocals, anti-religious, angry, melancholic, melodic, atmospheric, aggressive","4,598",35,3.22,6IYPmM3xsOPL2XPSvf1ZAz
+620,Ólafur Arnalds,For Now I Am Winter,4 March 2013,"Ambient, Modern Classical","Downtempo, Ambient Pop, Electronic",,645,8,3.28,224T10dgELoss0LLqYJNHI
+621,The Courtneys,The Courtneys,7 June 2013,Indie Rock,"Lo-Fi / Slacker Rock, Indie Pop, Power Pop","female vocals, energetic, love, uplifting, quirky, noisy, lo-fi",354,9,3.29,0jRtPF0W0UvI8n96S8e7Ru
+622,Black Fast,Starving Out the Light,16 August 2013,"Technical Thrash Metal, Thrash Metal",Black Metal,"uncommon time signatures, heavy, technical, male vocals, aggressive",242,2,3.53,0ZcgMkqBsnGHKChWp3l136
+623,bo en,Pale Machine,6 September 2013,"Kawaii Future Bass, Bitpop, Art Pop","Wonky, Glitch Pop, Trap [EDM], Bitpop, Indietronica","playful, happy, quirky, eclectic, energetic, male vocals, bittersweet, uplifting","1,642",12,3.26,1a2UnYDnfK25QJKfgHNHnu
+624,The Growlers,Hung at Heart,8 January 2013,"Garage Rock, Indie Surf, Psychedelic Rock","Psychedelic Rock, Surf Rock","summer, psychedelic, playful, apathetic, male vocals",519,10,3.28,74uwLpJjsBFaVJd0gKLm0p
+625,Kerridge,A Fallen Empire,12 November 2013,Industrial Techno,"Dark Ambient, Power Noise","repetitive, heavy, mechanical, dark, atmospheric, dissonant, cold",369,4,3.30,4mjzazHywVLI7Q7UFVKFdS
+626,Emika,Dva,10 June 2013,"Art Pop, Electropop","Downtempo, Trip Hop, Dubstep","dark, cold",299,7,3.29,
+627,VHOL,VHÖL,16 April 2013,"Black Metal, Hardcore Punk","Heavy Metal, Crust Punk","heavy, male vocals, energetic",271,4,3.37,1dI706HBulz8TJsTwmP5do
+628,Armory,Empyrean Realms,12 November 2013,Power Metal,"Progressive Metal, Heavy Metal","melodic, science fiction, philosophical, male vocals, introspective, energetic",234,18,3.37,4UhBjHUJZbaiyfg1A6Y2KY
+629,Omar Souleyman عمر سليمان,Wenu Wenu,21 October 2013,Dabke,,"party, repetitive, hypnotic, rhythmic, male vocals, energetic, warm, desert",962,11,3.28,3E2DQ7tVjC1zcgiCSTIoaC
+630,Volbeat,Outlaw Gentlemen & Shady Ladies,5 April 2013,Heavy Metal,"Hard Rock, Rockabilly","male vocals, energetic, melodic, heavy, dark, death, passionate",701,15,3.26,0MNiO7qCmDHphcsefaAjEy
+631,Frank Turner,Tape Deck Heart,22 April 2013,"Singer-Songwriter, Folk Rock","Folk Punk, Alternative Rock, Acoustic Rock",,488,12,3.28,564Hq6rEDp1lGA33hLk2R5
+632,White Denim,Corsicana Lemonade,29 October 2013,"Indie Rock, Psychedelic Rock","Blues Rock, Jazz-Rock, Southern Rock, Progressive Rock","sensual, mellow, technical, playful, summer, male vocals",381,6,3.29,4WK9kL67qfZcphKP2VUvFz
+633,Vatican Shadow,Remember Your Black Day,21 October 2013,Industrial Techno,"Ambient Techno, EBM, Post-Industrial","ominous, mechanical, rhythmic, repetitive, martial, apocalyptic, nocturnal, hypnotic",858,8,3.28,3wiyreNz9Aybb5NE0L26ni
+634,MMMD,Som Sakrifis,7 March 2013,"Drone, Electroacoustic",,"dark, atmospheric, melancholic, avant-garde, sombre, instrumental, calm, hypnotic",340,4,3.29,4pdHapQwkDn8YllIm7LFsO
+635,Blondes,Swisher,6 August 2013,"Tech House, Deep House","Microhouse, Dub Techno",,278,4,3.31,1sByKIbG9N4rE7YEcxWb5Z
+636,Daylight,Jar,30 April 2013,"Alternative Rock, Post-Hardcore, Grunge","Grunge, Emo, Post-Grunge","male vocals, introspective, anxious, energetic, melancholic, melodic, dense, death",308,6,3.31,1sL3njspRsld6lQ90Ic1ng
+637,Nine Inch Nails,Hesitation Marks,3 September 2013,Electro-Industrial,"Industrial Rock, EBM","mechanical, male vocals, rhythmic, lonely, introspective, existential, melancholic, cold","4,235",58,3.25,26m96TIXkNAiL4fl4aiFvd
+638,Vista Chino,Peace,30 August 2013,Stoner Rock,Stoner Metal,"male vocals, psychedelic, heavy, desert",463,13,3.28,3FASp8YAoA98RCGYjITe2S
+639,Blank Banshee,Blank Banshee 1,20 October 2013,Vaportrap,"Wonky, Ambient","atmospheric, futuristic, sampling, mechanical, rhythmic, psychedelic, surreal, instrumental","2,609",15,3.26,0YmiMuYsAUuP8hluFNrsYs
+640,Shad,Flying Colours,15 October 2013,Conscious Hip Hop,"Jazz Rap, Pop Rap","humorous, rhythmic, calm, political, conscious, playful, boastful, religious",266,4,3.43,1ysjuK1TypW8UZTQgcbGFQ
+641,Smith Westerns,Soft Will,25 June 2013,"Indie Pop, Jangle Pop, Indie Surf","Neo-Psychedelia, Psychedelic Pop","psychedelic, uplifting, melodic, summer, male vocals, soft",623,9,3.27,7GkNjt0CSVSEDlmuAN21js
+642,Joe Satriani,Unstoppable Momentum,7 May 2013,Hard Rock,"Progressive Rock, Blues Rock",instrumental,312,8,3.28,4oOWqLfZUACxyueli79Ram
+643,Nmesh,Nu.wav Hallucinations,19 April 2013,Vaporwave,"Sound Collage, Broken Transmission, Ambient, Plunderphonics, Neo-Psychedelia","repetitive, lethargic, sampling, drugs, ethereal, hypnotic, surreal, psychedelic",321,5,3.28,6nfVqgC74S6IvixOlxd9wv
+644,Postiljonen,Skyer,8 July 2013,"Dream Pop, Chillwave","Synthpop, Chillwave, Art Pop","love, romantic, ethereal, uplifting, rhythmic, melancholic, epic, lush",293,6,3.29,4Z8D1vkCfyQrPOISPnz2Zo
+645,Locrian,Return to Annihilation,25 June 2013,"Post-Rock, Drone, Post-Metal","Atmospheric Black Metal, Noise, Atmospheric Sludge Metal, Drone Metal","cold, apocalyptic, mysterious, urban, minimalistic, surreal, concept album",574,5,3.28,51M3dERfSRwM7xhk8SezRy
+646,OOIOO,Gamel,22 November 2013,"Gamelan, Experimental Rock, Neo-Psychedelia",Psychedelic Rock,"rhythmic, psychedelic, energetic, female vocals, ritualistic, mysterious, complex, microtonal",380,,3.28,4K63nQgRghV8TtGrmiIFZd
+647,Vastum,Patricidal Lust,12 November 2013,"Death Metal, Death Doom Metal",Death Doom Metal,"female vocals, male vocals",267,3,3.40,7loj9USYc3Pf0c1YM5Emj8
+648,A$AP Rocky,Long.Live.A$AP,15 January 2013,East Coast Hip Hop,"Cloud Rap, Pop Rap","boastful, drugs, hedonistic, nocturnal, male vocals, urban, psychedelic, party","10,740",101,3.22,6rzMufuu8sLkIizM4q9c7J
+649,Atoms for Peace,Amok,25 February 2013,"Glitch Pop, Art Pop","IDM, Experimental Rock","rhythmic, mechanical, melancholic, atmospheric, male vocals, abstract, cold, dense","4,774",107,3.24,6dJZDZMNdBPZrJcNv57bEq
+650,Sean Nicholas Savage,Other Life,28 May 2013,"Sophisti-Pop, Hypnagogic Pop, Alternative R&B","Dream Pop, Blue-Eyed Soul, Synthpop","love, romantic, bittersweet, melancholic, sentimental, sensual, longing, introspective",325,2,3.28,3QS3lyRIDmZj8NKLcwznLI
+651,Devendra Banhart,Mala,12 March 2013,"Singer-Songwriter, Indie Folk","Psychedelic Folk, Chamber Folk, Neo-Psychedelia, Indie Pop","poetic, mellow, psychedelic, rhythmic, male vocals, eclectic, summer","1,184",17,3.26,1Z69PSnbIBojgF9NBJbKca
+652,Pantha du Prince & The Bell Laboratory,Elements of Light,14 January 2013,"Minimal Techno, Microhouse","Ambient Techno, Minimalism",,688,12,3.27,2gEa66XoiiRGD95tgo3kfh
+653,Nicole Dollanganger,Ode to Dawn Wiener: Embarrassing Love Songs,20 February 2013,"Indie Folk, Singer-Songwriter, Bedroom Pop","Twee Pop, Lo-Fi / Slacker Rock","soft, melancholic, sexual, LGBT, bittersweet, acoustic, love, lonely",363,6,3.25,4DBTY5LjvO3BmkXt6iGtJo
+654,Castevet,Obsian,15 October 2013,Black Metal,"Progressive Metal, Atmospheric Sludge Metal","dark, atmospheric, melancholic, technical, dissonant, aggressive, dense, progressive",257,4,3.42,1VoTKoUawKSiMbd3OXq9zv
+655,Chastity Belt,No Regerts,13 August 2013,Indie Rock,"Post-Punk, Jangle Pop, Lo-Fi / Slacker Rock",female vocals,356,4,3.28,5psuEv9OT8vMrW9TOiCGVS
+656,Wintergatan,Wintergatan,24 April 2013,"Folktronica, Synthpop","Indietronica, Bitpop, Swedish Folk Music","instrumental, quirky, urban, melodic, playful, mellow",229,5,3.51,0KpbveEsQtdGmHnVzcLVlc
+657,Incendiary,Cost of Living,19 March 2013,"Metalcore, New York Hardcore",,"heavy, male vocals, aggressive, conscious",234,1,3.55,4fZQu2sCBdC1AOJZIKmsWr
+658,Terra Tenebrosa,The Purging,22 February 2013,"Atmospheric Sludge Metal, Post-Metal","Black Metal, Industrial, Experimental","dark, occult, atmospheric, mysterious, dense",440,10,3.28,
+659,Mariam the Believer,Blood Donation,16 January 2013,Art Pop,"Vocal Jazz, Art Rock, Progressive Pop",,299,7,3.31,56pBgMyutzhaAA3lNGQ2yW
+660,The Monolith Deathcult,Tetragrammaton,10 May 2013,"Symphonic Metal, Death Metal","Brutal Death Metal, Industrial Metal, Electronic, Groove Metal","history, war, apocalyptic, heavy, aggressive, male vocals, technical, epic",244,10,3.41,2hzk9jI9pSd5FnJsXyR2Gq
+661,Jim James,Regions of Light and Sound of God,5 February 2013,"Neo-Psychedelia, Art Pop","Psychedelic Pop, Pop Soul, Art Rock","pastoral, warm, psychedelic, lush, spiritual, male vocals",598,14,3.27,3S9HLKJlIahphBAjzsHDzi
+662,Mark Lanegan & Duke Garwood,Black Pudding,16 April 2013,"Singer-Songwriter, Acoustic Rock, Contemporary Folk",American Primitivism,,307,4,3.28,243qMZuJF1yf59t2dINK6z
+663,Hypocrisy,End of Disclosure,22 March 2013,Melodic Death Metal,,"melodic, male vocals, energetic, heavy, aggressive, apocalyptic, dark",603,12,3.26,11W6zuieMt0TQtt7oaNgm1
+664,Peter Evans,Zebulon,2013,"Avant-Garde Jazz, Free Jazz","Post-Bop, Free Jazz",,201,1,3.59,1fnzZglampHKANe3S2MT4l
+665,Charli XCX,True Romance,12 April 2013,"Electropop, Synthpop","Witch House, Dance-Pop, Alternative R&B, Alt-Pop","nocturnal, ethereal, longing, love, melodic, female vocals, romantic, sentimental","4,182",33,3.22,5t7Bn5XfE7yj2rqydVq0Ue
+666,Kylesa,Ultraviolet,24 May 2013,"Stoner Rock, Stoner Metal, Sludge Metal","Heavy Psych, Post-Hardcore, Sludge Metal, Alternative Metal","female vocals, male vocals, heavy, energetic, psychedelic, aggressive, atmospheric, existential",848,9,3.26,35qXLJqPw9ehORWpBNQiX3
+667,Boogarins,As plantas que curam,30 September 2013,"Psychedelic Rock, Neo-Psychedelia","Garage Rock, Psychedelic Pop, Neo-Psychedelia",,402,3,3.28,4SPS9YIzqwUJr1j52aNYt6
+668,Rilo Kiley,Rkives,2 April 2013,"Indie Rock, Indie Pop",Alt-Country,,250,4,3.40,4w0wpdpulP4rYolL1pCcOX
+669,The Dear Hunter,Migrant,2 April 2013,"Indie Rock, Progressive Rock",Chamber Pop,"male vocals, introspective, melancholic, warm, melodic, love, bittersweet, lush",715,8,3.26,1ca8xGOPiqYClnHRqmIgLu
+670,Eleanor Friedberger,Personal Record,4 June 2013,"Indie Pop, Singer-Songwriter, Pop Rock",Soft Rock,,413,12,3.27,6apFiWfDvTDeRwpGBIY3ih
+671,Porches,Slow Dance in the Cosmos,27 August 2013,Lo-Fi / Slacker Rock,"Indietronica, Bedroom Pop","lo-fi, lethargic, love, bittersweet, male vocals, longing, melancholic, autumn",384,2,3.28,1WO2Y7z5C94kiNqcNqBmob
+672,Dadub,You Are Eternity,18 February 2013,Dub Techno,"Ambient, Industrial Techno, Ambient Dub","sampling, dark, warm, atmospheric, dense, spiritual",297,3,3.28,3xbmdMRjqZFSFcHYjke3UR
+673,Foals,Holy Fire,11 February 2013,Indie Rock,Post-Punk,"male vocals, energetic, atmospheric, bittersweet, summer, melodic, calm, nocturnal","3,343",44,3.24,0PIR7PK8DMB4pgoxq7F9Ad
+674,Wire,Change Becomes Us,25 March 2013,"Post-Punk, Art Punk",Dream Pop,male vocals,780,20,3.26,0Hqa8j5VojB6aqnCj6huZ7
+675,Classixx,Hanging Gardens,3 June 2013,"Nu-Disco, Funktronica","Synthpop, Synth Funk, House, Balearic Beat","rhythmic, female vocals, happy, warm, uplifting, summer",564,6,3.26,0Bb9GrzKb2nj41LrcgkoSa
+676,Beach Fossils,Clash the Truth,19 February 2013,"Indie Pop, Post-Punk, Indie Surf","Jangle Pop, Dream Pop","male vocals, mellow, lo-fi, bittersweet, introspective, atmospheric, energetic, melodic","2,307",25,3.24,40TgysF80nR70X6NCIvSHz
+677,Bonobo,The North Borders,1 April 2013,Downtempo,"Trip Hop, Future Garage, Nu Jazz","mellow, repetitive, soothing, atmospheric, calm, peaceful, lush, lethargic","1,933",18,3.25,7sN6lCgPf1rbZYmA3edMKv
+678,Speedy Ortiz,Major Arcana,9 July 2013,Indie Rock,"Noise Pop, Grunge","female vocals, raw, chaotic","1,161",14,3.25,4QomMbQt3ga6ZM4tLkNq8W
+679,Merchandise,Totale Nite,2 April 2013,"Post-Punk, Neo-Psychedelia, Dream Pop","Noise Pop, Shoegaze","lo-fi, psychedelic, atmospheric, male vocals, noisy",432,5,3.27,450OT3jKZyfutvd6kJZn9j
+680,Agrimonia,Rites of Separation,30 April 2013,"Atmospheric Sludge Metal, Crust Punk",Neocrust,female vocals,256,4,3.40,7mHKMGJau2sioOAmPSnB6V
+681,Marnie,Crystal World,11 June 2013,"Synthpop, Dream Pop, Electropop","Downtempo, Ambient Pop",female vocals,224,7,3.47,2k9xXtl3skyyrhS5VzCfPL
+682,Havok,Unnatural Selection,25 June 2013,Thrash Metal,,"political, angry, male vocals",571,7,3.25,
+683,Rivers of Nihil,The Conscious Seed of Light,15 October 2013,Technical Death Metal,Progressive Metal,"heavy, technical, progressive, aggressive, male vocals, energetic, complex, atmospheric",451,5,3.26,2cTup7rAEsHvYqZ1Z0bhxo
+684,The Civil Wars,The Civil Wars,6 August 2013,"Folk Pop, Indie Folk",Bluegrass,"female vocals, male vocals",364,7,3.26,5r0Xd2wqRkTE0BqbeYlnFN
+685,William Basinski,Nocturnes,20 May 2013,"Ambient, Tape Music","Dark Ambient, Drone","instrumental, minimalistic, sparse, nocturnal, ominous, atmospheric, melancholic, repetitive",654,7,3.25,6IyvlXaZDjNVelZstqasWG
+686,Junip,Junip,23 April 2013,Indie Folk,Folktronica,,512,11,3.26,4fsnz213jt84aF3obRP8jO
+687,Miami Vice,Palm Haze,29 July 2013,"Vaporwave, Chillwave",,"lush, instrumental, summer, tropical, warm, lo-fi, lonely, mellow",369,3,3.25,
+688,Drake,Nothing Was the Same,24 September 2013,"Pop Rap, Contemporary R&B","Alternative R&B, Cloud Rap, Chipmunk Soul","introspective, boastful, sampling, atmospheric, male vocals, sensual, nocturnal, urban","10,475",71,3.19,5HCJzEGFCedz0DxsXhk1qG
+689,Camera Obscura,Desire Lines,3 June 2013,"Twee Pop, Chamber Pop",,"romantic, calm, mellow, longing, melancholic, bittersweet, introspective, lush",868,22,3.26,6bzPRpKOfTSZuZZCKB4jxA
+690,Manic Street Preachers,Rewind the Film,16 September 2013,Acoustic Rock,"Alternative Rock, Chamber Pop","melancholic, bittersweet, mellow, male vocals, acoustic, introspective, melodic",710,22,3.25,2BnILbb4wJR2qp9qZbSUDr
+691,Biffy Clyro,Opposites,28 January 2013,Alternative Rock,Pop Rock,"male vocals, anthemic, uncommon time signatures, melodic, passionate, energetic, playful",988,27,3.22,4kSwfTpSCG4xVZcEn3OGrY
+692,Stone Sour,House of Gold & Bones: Part 2,9 April 2013,Alternative Metal,Alternative Rock,"energetic, concept album, male vocals, introspective, heavy",599,7,3.22,1ELcic3NPR2Gi2se01bn7t
+693,Stereophonics,Graffiti on the Train,4 March 2013,"Pop Rock, Alternative Rock","Britpop, Art Rock, Chamber Pop, Neo-Psychedelia","concept album, dark, melancholic, melodic, male vocals, orchestral",357,10,3.25,5Pdc1mnD8cweOuxFa6eTwP
+694,Lapalux,Nostalchic,26 March 2013,Future Garage,"Alternative R&B, Wonky","atmospheric, dense, melancholic",736,13,3.25,33y7ROK0hxUX4sGq2RG5NW
+695,Destruction Unit,Deep Trip,20 August 2013,"Noise Rock, Psychedelic Rock","Garage Punk, Heavy Psych, Space Rock, Hardcore Punk","energetic, noisy, dark, drugs, heavy, psychedelic, ominous, male vocals",560,6,3.25,2RoZGjEcoVFs5nWofoKAZM
+696,Fen,Dustwalker,21 January 2013,Atmospheric Black Metal,"Blackgaze, Post-Rock","atmospheric, dark, melancholic, mysterious, nature, male vocals, cold",425,13,3.26,3qYizNHABMyrcn7hmtWzHu
+697,Pill Friends,Blessed Suffering,23 July 2013,"Lo-Fi / Slacker Rock, Bedroom Pop","Emo, Midwest Emo","suicide, depressive, melancholic, existential, noisy, raw, death, male vocals",376,3,3.25,6z2v30bxth73gsLhGZWjEl
+698,Light Bearer,Silver Tongue,8 February 2013,"Atmospheric Sludge Metal, Post-Rock",,"dark, melancholic, atmospheric, passionate",308,7,3.26,2nfX217X0T7HUF5uXcrIaY
+699,The Besnard Lakes,"Until in Excess, Imperceptible UFO",2 April 2013,Neo-Psychedelia,"Shoegaze, Post-Rock, Dream Pop, Ambient Pop","psychedelic, ethereal",371,15,3.25,1G0zNWczgLMMdxistugbOc
+700,Holograms,Forever,3 September 2013,Post-Punk,Gothic Rock,"male vocals, energetic, dark",377,5,3.26,7fOGoSRk10CK34BpW2ZIgm
+701,Ensemble Pearl,Ensemble Pearl,19 March 2013,"Drone, Dark Ambient, Post-Rock","Psychedelic Rock, Chamber Music","apocalyptic, calm, mellow, repetitive, surreal, dark, psychedelic, ritualistic",328,6,3.26,7wJeYeidJKNTNEiG54qCNp
+702,Richard Dawson,The Glass Trunk,28 April 2013,"Avant-Folk, A cappella","Free Improvisation, Northumbrian Folk Music","anxious, a cappella, male vocals, sombre, avant-garde, choral, dark, poetic",331,3,3.25,4XYBCZps7dZSko8ZptjmkM
+703,Super Girl & Romantic Boys,Miłość z tamtych lat,24 June 2013,"Synthpop, Synth Punk","Electroclash, New Romantic, Bitpop","male vocals, female vocals, repetitive, breakup, melodic, bittersweet",221,1,3.51,4mZ7s7YZyHO0dkICFHOxiX
+704,Gesaffelstein,Aleph,28 October 2013,"Midtempo Bass, Tech House, Electro House","EBM, Industrial Techno","futuristic, dark, mechanical, atmospheric, aggressive, energetic, noisy, minimalistic","1,750",11,3.23,3MiiF9utmtGnLVITgl0JP7
+705,AlunaGeorge,Body Music,26 July 2013,"Electropop, Alternative R&B","UK Bass, Future Garage, UK Garage","melodic, playful, futuristic, love, rhythmic, party, sensual, female vocals","1,188",17,3.23,22MbdINYz4lQ1Y087qG7YO
+706,Newsted,Heavy Metal Music,6 August 2013,Heavy Metal,Thrash Metal,"angry, heavy, male vocals, aggressive, war, energetic",328,13,3.25,
+707,Pat Metheny,Tap: Book of Angels Volume 20,21 May 2013,"Jazz Fusion, Jazz-Rock","Avant-Garde Jazz, Jewish Music","uncommon time signatures, rhythmic, complex, technical, melodic, instrumental, dense",216,6,3.53,
+708,Polvo,Siberia,1 October 2013,"Indie Rock, Math Rock",,"heavy, cryptic, uncommon time signatures, rhythmic, complex, melancholic, psychedelic, technical",502,6,3.25,2obaFAoT1S2NnmTut0i04B
+709,Ñaka Ñaka,Juan Pestañas,3 June 2013,"Ambient Techno, Outsider House",,"repetitive, minimalistic, atmospheric, rhythmic",267,3,3.31,7qokU5NMhDC0WqbpOjw86q
+710,Caitlin Rose,The Stand-In,25 February 2013,Country Pop,Alt-Country,female vocals,254,10,3.36,3JjKZK4605OxqIFD8supZp
+711,Tomonari Nozaki,Une histoire de bleu,June 2013,"Ambient, Tape Music, Drone",,"repetitive, melancholic, lethargic, meditative, atmospheric, ethereal, lush, soothing",225,,3.52,
+712,Ambersmoke,Une femme est une femme,July 2013,"Drone, Blackgaze, Post-Rock","Noise Rock, Post-Punk","noisy, repetitive, anxious, sampling, melancholic, instrumental, lo-fi, hypnotic",321,4,3.23,
+713,Beaten to Death,Dødsfest!,4 October 2013,Grindcore,"Deathgrind, Post-Hardcore, Avant-Garde Metal","uplifting, melodic, progressive, passionate, eclectic, male vocals, heavy, energetic",206,2,3.54,3jcMrcVwnhsIh83GOl1yhs
+714,Æther Realm,One Chosen by the Gods,8 January 2013,Melodic Death Metal,"Folk Metal, Symphonic Metal, Viking Metal",,253,8,3.31,05BLbc9OXlBYGm6oaX1Gv8
+715,inc.,No World,18 February 2013,"Alternative R&B, Contemporary R&B, Sophisti-Pop","Neo-Soul, Downtempo, Dream Pop","atmospheric, ethereal, mellow, soothing, male vocals, summer, soft",623,12,3.23,2mFZRGYA6uEMggucJmDAaP
+716,Surf Curse,Buds,21 June 2013,"Lo-Fi / Slacker Rock, Surf Punk, Indie Surf","Garage Rock, Surf Rock","lo-fi, male vocals, raw, summer, lonely, noisy, melancholic, energetic",693,4,3.24,4cAEWgTGIU7kL1sgbivyGY
+717,Krill,Lucky Leaves,24 June 2013,Indie Rock,"Math Rock, Post-Hardcore",,230,2,3.48,5ozpgTaMGUqZtLMGczD6VB
+718,Califone,Stitches,3 September 2013,"Indie Rock, Americana","Folktronica, Lo-Fi / Slacker Rock",male vocals,234,7,3.39,1FA7mzNsvfaFWXYGYZ8Nzy
+719,Dumbo Gets Mad,Quantum Leap,6 February 2013,"Psychedelic Pop, Neo-Psychedelia","Funk, Synth Funk, Space Age Pop","psychedelic, ethereal, warm, female vocals, male vocals, playful, lush, love",336,7,3.25,1sH5bkdJE0sq03jnNOFrdf
+720,Small Black,Limits of Desire,14 May 2013,Chillwave,"Dream Pop, Synthpop","ethereal, lush, male vocals, passionate, mellow, sentimental, sensual, melodic",313,4,3.25,0ir2wiPmp2bEjMPMPB391n
+721,Airbourne,Black Dog Barking,20 May 2013,Hard Rock,Heavy Metal,"energetic, male vocals",393,15,3.23,4HdSbTLqNTWM3FKzrA70O4
+722,Skinny Puppy,Weapon,28 May 2013,Electro-Industrial,"Post-Industrial, Glitch Pop, IDM","male vocals, futuristic, mechanical, political, dark, alienation, pessimistic, cryptic",316,10,3.24,1Re5XJKnJK8eCYocokeay3
+723,Bad Religion,True North,22 January 2013,Melodic Hardcore,Skate Punk,"melodic, philosophical, raw, male vocals, energetic, passionate, conscious, abstract",949,26,3.23,64wdVyEDGVxfRsanjWxy2z
+724,Eco Virtual,VIRTUAL大気中分析,2 January 2013,"Vaporwave, Vaportrap","Ambient, Utopian Virtual","instrumental, mellow, sampling, atmospheric, soothing, peaceful, ethereal, calm",725,13,3.23,
+725,Long Distance Calling,The Flood Inside,1 March 2013,"Post-Rock, Alternative Rock",Progressive Rock,"instrumental, male vocals, progressive",326,7,3.24,6Gr9hKQL8K2m75nu3kDre6
+726,Moby,Innocents,1 October 2013,Downtempo,Ambient Pop,"mellow, female vocals, sensual, peaceful, male vocals",594,11,3.22,4Sd6KYdC7iet72fptL9BY7
+727,Airospace,戦場ヶ原 ひたぎ (Vol. II),25 July 2013,"Experimental Hip Hop, Abstract Hip Hop","Cloud Rap, Hardcore Hip Hop, Abstract Hip Hop","misanthropic, vulgar, sampling, abstract, cryptic, atmospheric, male vocals, humorous",587,1,3.22,
+728,Black Rebel Motorcycle Club,Specter at the Feast,18 March 2013,"Indie Rock, Garage Rock","Blues Rock, Psychedelic Rock, Garage Rock Revival","atmospheric, male vocals",699,12,3.23,3STtslgxmkTNdcl21Fj1wi
+729,Okkervil River,The Silver Gymnasium,3 September 2013,"Indie Rock, Indie Folk",Folk Rock,mellow,555,7,3.23,5aO3jsVyUZRrnyFkRXlhnU
+730,Bonnie 'Prince' Billy,Bonnie 'Prince' Billy,August 2013,Singer-Songwriter,"Americana, Contemporary Folk",,224,6,3.42,
+731,Red Fang,Whales and Leeches,15 October 2013,Stoner Rock,"Stoner Metal, Sludge Metal","male vocals, energetic, heavy, raw, psychedelic",562,7,3.24,2CtG0KacG7ZYR6PL5dD1jA
+732,I Kill Giants,I Kill Giants,19 April 2013,"Midwest Emo, Math Rock",Pop Punk,"bittersweet, uncommon time signatures, passionate, energetic, introspective, male vocals",279,3,3.32,3vxkGvc3QzZqLt6pQNw7qI
+733,Black Pus,All My Relations,19 March 2013,Noise Rock,"Noise, Experimental Rock, Brutal Prog, Synth Punk","chaotic, uncommon time signatures, aggressive, noisy, male vocals, improvisation, quirky, dense",293,1,3.25,2y9zhrjxH9FufPllC5wLZd
+734,Veronica Falls,Waiting for Something to Happen,4 February 2013,"Twee Pop, Indie Pop",Jangle Pop,"male vocals, female vocals, melodic, uplifting, bittersweet",737,21,3.23,5e77dEf2map51uAYsdic54
+735,A Hawk and a Hacksaw,You Have Already Gone to the Other World,2 April 2013,Balkan Folk Music,"Hungarian Folk Music, Romanian Folk Music, Ukrainian Folk Music, Psychedelic Folk","female vocals, repetitive, concept album, acoustic, melodic, sombre, natural",232,1,3.44,07WPMhGwIyceXZBbJFs92H
+736,Thaw,Thaw,2013,"Black Metal, Sludge Metal","Atmospheric Sludge Metal, Post-Metal","angry, heavy, dark, atmospheric, epic, male vocals, dense",260,4,3.35,7zr5kvqmjHtl3S6C7BxIjH
+737,Hacride,Back to Where You've Never Been,19 April 2013,Progressive Metal,"Djent, Death Metal",,224,7,3.43,2oWy9pC5eUhe9Psxqzplze
+738,Deep Purple,Now What?!,26 April 2013,Hard Rock,"Progressive Rock, Blues Rock",male vocals,"1,195",39,3.20,2wDzmQZqME32YetYjLzGKp
+739,Ringo Deathstarr,Gods Dream,18 December 2013,"Shoegaze, Noise Pop",Dream Pop,"female vocals, psychedelic, atmospheric, ethereal, male vocals, Wall of Sound, dense, noisy",362,4,3.23,5bBzOrXCsPDmJxP3Lbt16K
+740,James LaBrie,Impermanent Resonance,29 July 2013,"Progressive Metal, Alternative Metal",Melodic Death Metal,"male vocals, melodic, heavy, uplifting, passionate, energetic",323,16,3.20,2wlTQApoutxsCDL98Ava5b
+741,Abyssal,Novit enim Dominus qui sunt eius,1 January 2013,Death Metal,"Black Metal, Atmospheric Sludge Metal","dark, atmospheric, angry, heavy, male vocals, dense",354,9,3.24,
+742,Svart Crown,Profane,22 April 2013,Death Metal,"Black Metal, Atmospheric Sludge Metal","ominous, heavy, aggressive, technical, occult, dissonant, atmospheric, male vocals",237,5,3.41,6VhA7sbLidm61m9V7j1YlN
+743,Matmos,The Marriage of True Minds,19 February 2013,"IDM, Experimental","Glitch, Ambient Techno, Electroacoustic, Sound Collage","paranormal, concept album, playful, surreal, sampling, mysterious, ominous, dark",505,8,3.22,3iVBKjnPd0WwSYMhbIi8Yz
+744,SHINee,Why So Serious? – The Misconceptions of Me,26 April 2013,"K-Pop, Dance-Pop","Electropop, Contemporary R&B","melodic, vocal group, male vocals, energetic",261,3,3.45,0UqzNn2IEyWQVIuCXvzvIj
+745,Author & Punisher,Women & Children,11 June 2013,"Industrial Metal, Industrial","Drone Metal, Death Industrial, Doom Metal, Electro-Industrial","aggressive, dissonant, dark, mechanical, atmospheric, funereal, male vocals, dense",253,2,3.36,2EP38VXgHA5bcd7xWQU1N0
+746,Pryapisme,Hyperblast Super-Collider,1 April 2013,Avant-Garde Metal,"Chiptune, Breakcore, Cyber Metal, Jazz Fusion","playful, technical, eclectic, abstract, complex, melodic, energetic, dense",242,4,3.33,7Glnx0Uhu8f7QdKRKx6nlN
+747,Milk Music,Cruise Your Illusion,2 April 2013,Indie Rock,"Noise Rock, Grunge",,398,12,3.22,1b8ApSgPRA6dKkp9LJ5OKk
+748,Grave Upheaval,[untitled],September 2013,"Death Doom Metal, Death Metal, Drone Metal","Noise, Black Metal","lo-fi, dark, ominous",262,5,3.35,
+749,Ryoji Ikeda,Supercodex,18 November 2013,"Microsound, Glitch","Minimal Techno, Drone","dense, mechanical, avant-garde, instrumental, noisy",352,5,3.22,0u6jzL7aYisSH2zw48H3VT
+750,St. Lucia,When the Night,8 October 2013,"Synthpop, Electropop",New Wave,"tropical, happy, warm, romantic, uplifting, melodic, love, lush",248,5,3.36,7fbye8EAeiLsiKAe2upMEh
+751,Deus Mortem,Emanations of the Black Light,25 February 2013,Black Metal,,"raw, male vocals, dissonant, aggressive",209,3,3.57,7uFOdCTmBHn4KZd0yUIwbE
+752,Connan Mockasin,Caramel,5 November 2013,"Psychedelic Pop, Alternative R&B, Psychedelic Soul","Hypnagogic Pop, Psychedelic Soul","sensual, sexual, androgynous vocals, surreal, psychedelic, mellow, warm, playful",840,7,3.21,3r4eDZfI5aKS0siMY2Cj7D
+753,Tropic of Cancer,Restless Idylls,23 September 2013,"Minimal Wave, Darkwave","Coldwave, Post-Punk, Ethereal Wave","apathetic, female vocals, nocturnal, funereal, cold, hypnotic, ethereal, pessimistic",665,8,3.22,7L1AMScHIf0PvWtBQx28Kx
+754,Pond,Hobo Rocket,2 August 2013,"Neo-Psychedelia, Psychedelic Rock",Heavy Psych,"male vocals, hedonistic, quirky, surreal, anxious, rebellious, psychedelic, playful",698,9,3.22,4JcZo9SqwxrbDqsLf3e2WF
+755,Au Revoir Simone,Move in Spectrums,24 September 2013,Indietronica,"Electropop, Synthpop, Bedroom Pop",female vocals,321,7,3.24,
+756,Quadron,Avalanche,4 June 2013,"Smooth Soul, Alternative R&B","Sophisti-Pop, Pop Soul, Soul Jazz","mellow, sensual, warm, lush, female vocals, passionate",279,2,3.30,1DK7dxeuo9R1Ma0iaZBz3f
+757,October Tide,Tunnel of No Light,25 March 2013,Death Doom Metal,Melodic Death Metal,male vocals,287,5,3.23,20qXYtwbi1aPRBWQtc5jpX
+758,W.E.T.,Rise Up,22 February 2013,"AOR, Hard Rock",,"male vocals, melodic, uplifting, anthemic",195,6,3.52,4bMnVjAhfJv3GmGz3eQTUI
+759,Death Hawks,Death Hawks,13 September 2013,Psychedelic Rock,"Psychedelic Folk, Space Rock","atmospheric, mysterious, hypnotic, psychedelic, mellow",184,2,3.57,35ziwYEOyVtRnX0da8dTvv
+760,"John Tchicai, Garrison Fewell, Cecil McBee, Charlie Kohlhase & Billy Hart",Tribal Ghost,20 August 2013,Avant-Garde Jazz,Spiritual Jazz,,187,1,3.66,
+761,Young Galaxy,Ultramarine,23 April 2013,"Synthpop, Dream Pop",Electropop,"optimistic, female vocals, melodic, atmospheric, triumphant",323,8,3.23,1qtkFyoP9vk0WbEbTrR19T
+762,Daughn Gibson,Me Moan,9 July 2013,"Art Pop, Alt-Country","Indie Pop, Gothic Country",male vocals,337,8,3.23,38R7Y0LeRo5zUwQjkkUW9z
+763,The Thing,Boot!,12 November 2013,European Free Jazz,Noise Rock,,205,2,3.54,6N8bdKk7jYfA1S2yQTFmWi
+764,Miles,Faint Hearted,27 March 2013,"Dub Techno, Industrial Techno","Ambient Techno, Ambient Dub, Industrial","heavy, mechanical, dark, rhythmic, repetitive, cold, dense, space",358,2,3.23,7cFuCh9mbwkVIKCvsBjE1f
+765,Trentemøller,Lost,23 September 2013,"Art Pop, Electronic","Dream Pop, Downtempo, Deep House",,383,2,3.22,4KRXC5C4eR80b8q4hHcO4a
+766,James Rushford & Joe Talia,Manhunter,January 2013,"Ambient, Electroacoustic","Drone, Field Recordings, Horror Synth","autumn, atmospheric, mysterious, instrumental",219,1,3.47,
+767,Marnie Stern,The Chronicles of Marnia,19 March 2013,"Math Rock, Noise Pop",,"female vocals, quirky, playful, energetic",452,9,3.21,7feo0bQ8I0lb4Agi1ADyUI
+768,BRAIDS,Flourish // Perish,20 August 2013,"Art Pop, Indietronica","Ambient Pop, Dream Pop, Minimal Techno","ethereal, female vocals, melodic",561,15,3.21,55qmBv2ve6p4pXMSebcATd
+769,Mouth of the Architect,Dawning,25 June 2013,"Atmospheric Sludge Metal, Post-Metal, Post-Rock",,,317,4,3.21,176KHT4qYQ39qvp2kd284x
+770,Antigama,Meteor,28 May 2013,Grindcore,,"technical, aggressive, rhythmic, male vocals, chaotic, dense, complex, angry",236,4,3.41,0u9MqkDPYXDdh2o6CSFZKN
+771,Esmerine,Dalmak,3 September 2013,"Post-Rock, Chamber Music","Arabic Music, Ambient, Modern Classical, Turkish Folk Music","atmospheric, chamber music, suspenseful, instrumental",229,5,3.40,354UHYRYJqNC4AZ4hRHG7s
+772,Bassekou Kouyate & Ngoni ba,Jama Ko,2 April 2013,Mande Music,"Songhai Music, Blues, Fula Music, Griot Music",,186,2,3.56,7G8v0NY3yWn7tcHjrTgEUu
+773,Palms,Palms,25 June 2013,Post-Rock,"Shoegaze, Dream Pop, Post-Metal","male vocals, melancholic, warm, atmospheric, passionate, ethereal, lush, melodic",936,18,3.20,6VA2mYQomoVu3G06ilDjIw
+774,Lebanon Hanover,Tomb for Two,20 September 2013,"Minimal Wave, Darkwave, Coldwave","Gothic Rock, Post-Punk","dark, female vocals, sad, cold, satirical, ethereal, nocturnal, minimalistic",834,8,3.19,7iOwibdJg2i7SQEBpe5EIR
+775,Cults,Static,15 October 2013,Twee Pop,"Dream Pop, Brill Building, Neo-Psychedelia, Noise Pop, Shoegaze","female vocals, happy, melodic, ethereal, Wall of Sound",890,8,3.20,6WnfWrfsfu7T9TXbHIFHX9
+776,Toro y Moi,Anything in Return,22 January 2013,"Chillwave, Alternative R&B","Electropop, Synth Funk, Contemporary R&B","summer, lush, sampling, bittersweet, rhythmic, male vocals, mellow, peaceful","2,311",27,3.18,3xDRuOqakukb1SjHQG4WWc
+777,Maya Jane Coles,Comfort,1 July 2013,"Deep House, Tech House",Trip Hop,"bittersweet, mellow, female vocals, atmospheric, love, repetitive, sad",263,6,3.25,509VifKH3x4T8dhJp6RfVO
+778,Brainbombs,Disposal of a Dead Body,September 2013,Noise Rock,Garage Punk,"violence, sexual, misanthropic, hateful, aggressive, noisy, dark, heavy",268,4,3.33,7EXFIi4EKsq8TGzqTEW05R
+779,Hands Like Houses,Unimagine,23 July 2013,Post-Hardcore,Alternative Rock,"melodic, passionate, energetic, uplifting, heavy, rhythmic, male vocals",241,4,3.44,3JMwITCPEvMFFkNYtcIAzG
+780,Torture Chain,Mutilating Astral Entities,2013,Black Metal,,"lo-fi, heavy, noisy, raw, cold, aggressive",203,2,3.56,
+781,Kultura Kurenija Культура курения,Некрофилия,29 May 2013,Depressive Black Metal,Post-Punk,"melancholic, male vocals, cold, anxious, atmospheric, bittersweet, mysterious, depressive",250,3,3.39,6dNFSFjzYzFoRLfz2LasFs
+782,Kaaris,Or noir,21 October 2013,"French Hip Hop, Hardcore Hip Hop, Drill",Gangsta Rap,"urban, aggressive, rhythmic, humorous, male vocals, violence, boastful, crime",241,,3.45,0Zj0SbVg3AQQaCVIS1TDN9
+783,Pretty & Nice,Golden Rules for Golden People,30 April 2013,"Indie Pop, Indie Rock, Neo-Psychedelia","Progressive Pop, Zolo","playful, quirky, energetic, complex, dense, eclectic, male vocals, rhythmic",174,6,3.62,4yV3QGU2kmxBdfQ9iiOfLv
+784,Deicide,In the Minds of Evil,26 November 2013,Death Metal,,"aggressive, infernal, heavy, male vocals, energetic, anti-religious, angry",684,7,3.18,67GkH7HsM4Stab3ORwNyfo
+785,Youth Lagoon,Wondrous Bughouse,5 March 2013,Psychedelic Pop,"Dream Pop, Neo-Psychedelia","psychedelic, playful, surreal, androgynous vocals, lush, existential, ethereal, dense","1,737",39,3.17,0McmhRnqR8i0z4P3qk489Q
+786,Chelsea Light Moving,Chelsea Light Moving,5 March 2013,Noise Rock,"Punk Rock, Indie Rock",male vocals,555,15,3.20,1ltgz9uBEfE9q9j2SEsGxI
+787,Bibio,Silver Wilkinson,14 May 2013,Folktronica,"Glitch Pop, Ambient","spring, male vocals, sombre, instrumental, lonely, soothing, eclectic, lush",640,10,3.20,635cLXDOf3Kh5WA9c63xm8
+788,BiS Kaidan BiS階段,BiS階段 (BiS Kaidan),7 August 2013,"Noise, J-Pop, Noise Pop","Harsh Noise, Noise Rock","female vocals, playful, chaotic, noisy, melodic, satirical",449,5,3.17,
+789,Mark Kozelek,Like Rats,19 February 2013,"Contemporary Folk, Singer-Songwriter",,,382,2,3.21,2Oibpcerln7iV5I2of1kve
+790,After the Burial,Wolves Within,17 December 2013,"Metalcore, Djent",Progressive Metal,"heavy, male vocals, energetic, aggressive, rhythmic, mechanical, technical, anti-religious",521,5,3.18,4b8vwxaSYcJalyuQvK8pSJ
+791,Birdy,Fire Within,23 September 2013,"Pop, Singer-Songwriter","Chamber Pop, Adult Contemporary, Piano Rock",,407,2,3.19,0r94AFhRLvpfXvha7vx2dK
+792,Sticky Fingers,Caress Your Soul,8 March 2013,"Pop Reggae, Indie Rock","Indie Pop, Indie Rock","male vocals, rhythmic, mellow, warm",413,5,3.16,1dpC5MkRXeSEwnMMWG6t2z
+793,A$AP Ferg,Trap Lord,20 August 2013,"Trap, East Coast Hip Hop, Hardcore Hip Hop","Cloud Rap, Gangsta Rap","boastful, humorous, sexual, male vocals, drugs, urban, vulgar, crime","3,808",29,3.17,3smlfAmejcKMmAPg1G2Kki
+794,Superchunk,I Hate Music,20 August 2013,"Indie Rock, Power Pop",,"sarcastic, male vocals, energetic, melodic",426,7,3.20,4072OBrg1UpM1fQlHHrKR3
+795,Anneke van Giersbergen,Drive,20 September 2013,"Alternative Rock, Pop Rock",Alternative Metal,"female vocals, energetic, melodic, uplifting",269,11,3.29,7u14UBU31H0kvi0Sp8aw95
+796,Hiss Golden Messenger,Haw,8 April 2013,"Folk Rock, Americana, Country Soul",,warm,219,8,3.40,3MW2UxwssKtnWrcEoS8UAl
+797,Cough / Windhand,Reflection of the Negative [white / black splatter vinyl],16 April 2013,"Doom Metal, Sludge Metal","Stoner Metal, Drone Metal","heavy, occult, lethargic, female vocals, dark, male vocals, nocturnal, satanic",219,1,3.45,5YDrCd8FiHPkNvEgPFtN2w
+798,Local Natives,Hummingbird,29 January 2013,"Indie Rock, Indie Pop","Indie Folk, Chamber Pop","summer, melodic, bittersweet, love, warm, male vocals","1,549",33,3.17,1vONbFftSl3PkZs5ayRJ4B
+799,Elton John,The Diving Board,13 September 2013,Piano Rock,Piano Blues,,376,17,3.19,7nXmwymeNTvJd1CnpEugH2
+800,Pity Sex,Feast of Love,25 June 2013,Shoegaze,"Midwest Emo, Noise Pop","anxious, melodic, bittersweet, female vocals, male vocals, dense, warm, alienation","1,023",10,3.18,4G7MAOJFv98Oi6XjbczQA3
+801,Little Boots,Nocturnes,5 May 2013,"Dance-Pop, Nu-Disco","Synthpop, Electropop, Deep House","female vocals, nocturnal, melancholic, atmospheric, energetic, hypnotic",458,14,3.18,1m03rk2FlPVbRusxOMYLrp
+802,Peace,In Love,25 March 2013,Indie Rock,"Neo-Psychedelia, Britpop, Indie Pop, Psychedelic Pop",,470,12,3.18,
+803,Drenge,Drenge,19 August 2013,"Garage Rock, Garage Punk","Garage Rock Revival, Post-Punk",male vocals,365,3,3.20,0Wrn6T6l8C2zPtnuOUQtmB
+804,John Legend,Love in the Future,3 September 2013,Neo-Soul,Contemporary R&B,"melodic, love, warm, romantic, soothing, mellow, sensual, lush",490,5,3.19,4OTAx9un4e6NfoHuVRiOrC
+805,John Moreland,In the Throes,11 June 2013,"Americana, Alt-Country, Singer-Songwriter",,"love, melodic, pastoral, longing, bittersweet, melancholic, introspective, male vocals",160,1,3.67,0uPyGFPZWApM0xOEV1Njir
+806,Barn Owl,V,16 April 2013,"Drone, Post-Rock","Ambient, Post-Rock",,279,6,3.22,7e20KJVCQ1xi2ubDnrQSVs
+807,Buke and Gase,General Dome,29 January 2013,"Indie Rock, Art Pop","Noise Pop, Math Rock, Avant-Prog, Progressive Pop","uncommon time signatures, technical, female vocals, rhythmic, surreal, complex, quirky, playful",594,9,3.18,0gQYzYQvHEnnqYVgJhNcKw
+808,Sebadoh,Defend Yourself,17 September 2013,Indie Rock,,,329,4,3.21,
+809,Phoenix,Bankrupt!,22 April 2013,"Indie Pop, Pop Rock, New Wave",Synthpop,"dense, love, bittersweet, male vocals, lush, melodic, rhythmic, happy","2,717",53,3.16,3T66rLQ5rVheco76XLrlTY
+810,Pan•American,"Cloud Room, Glass Room",29 April 2013,Ambient,"Post-Rock, Electroacoustic","atmospheric, instrumental",291,6,3.21,3i9PLGequXb2edTDu3wiY0
+811,Grave Babies,Crusher,26 February 2013,"Gothic Rock, Post-Punk, Lo-Fi / Slacker Rock","Deathrock, Noise Pop, Noise Rock, No Wave",lo-fi,365,3,3.18,3xYNgo6oLAK8vxEQkKJtti
+812,Imprecation,Satanae Tenebris Infinita,28 May 2013,Death Metal,Black Metal,"dark, aggressive",211,2,3.48,
+813,Jowall 조월,"깨끗하게, 맑게, (Clean & Clear)",7 January 2013,"Noise Pop, Shoegaze","Ambient Pop, Indie Pop","male vocals, quirky, longing, melancholic, alienation, atmospheric, sentimental, lonely",195,1,3.63,
+814,Bosnian Rainbows,Bosnian Rainbows,25 June 2013,Neo-Psychedelia,"Art Rock, Indie Rock, Post-Punk","rhythmic, female vocals, psychedelic, melodic, progressive, atmospheric, noisy",620,14,3.18,7qH4a3UBUtZhjNWpd4tO7H
+815,Rosetta,The Anaesthete,8 August 2013,"Atmospheric Sludge Metal, Post-Metal","Post-Rock, Post-Hardcore","atmospheric, aggressive, dense, male vocals, dark, heavy",538,13,3.18,5E9jq4eeRqzJktfeyfjU3S
+816,Roc Marciano,Marci Beaucoup,10 December 2013,"East Coast Hip Hop, Gangsta Rap, Drumless","Drumless, Chipmunk Soul","crime, drugs, sampling, male vocals, boastful, violence, dark, hedonistic",372,3,3.20,2BqwMT6Fhzgs9Lbngk3hkJ
+817,The Buttertones,Buttertones,27 October 2013,"Post-Punk Revival, Indie Rock","Surf Rock, Garage Rock Revival, Indie Surf","summer, melodic, bittersweet, rhythmic, warm, mellow, male vocals, love",271,3,3.42,6TWlzuPZqA2gR5qkDNa1dx
+818,Pissed Jeans,Honeys,12 February 2013,Noise Rock,"Post-Hardcore, Sludge Metal","misanthropic, male vocals, noisy, dissonant",759,11,3.18,1nHN6c8xXqgYyUmkJHZucJ
+819,Tricky,False Idols,27 May 2013,Trip Hop,,"male vocals, female vocals",631,11,3.18,0eCeiO4MHW0YMRbT7t7xjE
+820,Argus,Beyond the Martyrs,1 October 2013,Heavy Metal,Traditional Doom Metal,"heavy, dark, sombre, male vocals",194,2,3.56,5HNwj591St7iS8pZTh4znj
+821,FIDLAR,FIDLAR,22 January 2013,Garage Punk,"Surf Punk, Indie Surf","drugs, alcohol, raw, vulgar, aggressive, rebellious, lo-fi, noisy","2,090",32,3.15,33D9P5ywquFzDqx30JxCxs
+822,Children of Bodom,Halo of Blood,7 June 2013,Melodic Death Metal,,"melodic, aggressive, male vocals, energetic, winter",916,17,3.16,1BYXKHy1Ov5s0lArNuDMtW
+823,A Day to Remember,Common Courtesy,8 October 2013,"Easycore, Pop Punk","Metalcore, Alternative Rock","male vocals, triumphant, melodic, bittersweet, aggressive, energetic, heavy",990,12,3.14,23uALVnjU9XnLB5Z6CUBoG
+824,Skagos,Anarchic,21 January 2013,"Atmospheric Black Metal, Ambient","Post-Rock, Blackgaze, Drone, Tribal Ambient, Neofolk","ethereal, rhythmic, poetic, calm, male vocals, passionate, peaceful, aggressive",274,10,3.26,
+825,Soviet Soviet,Fate,11 November 2013,Post-Punk Revival,"Gothic Rock, Deathrock, Shoegaze","male vocals, energetic, atmospheric",588,2,3.18,17HnpGk66isnHowhOVyRT1
+826,Mark Lanegan,Imitations,17 September 2013,Standards,Contemporary Folk,"mellow, melancholic, bittersweet, sentimental, male vocals",392,7,3.20,243qMZuJF1yf59t2dINK6z
+827,Sally Shapiro,Somewhere Else,26 February 2013,"Synthpop, Italo-Disco","Dream Pop, Electropop","sad, introspective, female vocals, nocturnal, winter, longing, romantic, sentimental",340,11,3.19,
+828,Cult Favorite,For Madmen Only,5 May 2013,"Experimental Hip Hop, Abstract Hip Hop, East Coast Hip Hop",Industrial Hip Hop,"abstract, male vocals, dark, mysterious, futuristic, dissonant, rhythmic, dense",176,2,3.60,4iW88xRM84YfMdsv6brzfb
+829,La Luz,It's Alive,15 October 2013,"Surf Rock, Indie Surf","Garage Rock, Indie Rock","summer, warm, melodic, female vocals, ethereal, lush, desert",241,3,3.31,6ZswLZvbTVFCyCgeKsVxp4
+830,Weekend,Jinx,23 July 2013,"Post-Punk, Dream Pop","Shoegaze, Gothic Rock","atmospheric, male vocals, ethereal",238,6,3.33,5tYekp9th3jyJstKpUlrcF
+831,Manilla Road,Mysterium,1 February 2013,"Heavy Metal, US Power Metal",Traditional Doom Metal,male vocals,347,7,3.18,0GMgU7XFeng3UVJGR1gJUE
+832,Light Bringer,Scenes of Infinity,29 May 2013,"Power Metal, Symphonic Metal",Progressive Metal,"energetic, passionate, fantasy, technical, female vocals, melodic, uncommon time signatures, progressive",161,2,3.77,
+833,Ducktails,The Flower Lane,29 January 2013,"Indie Rock, Psychedelic Pop, Bedroom Pop","Jangle Pop, Dream Pop, Hypnagogic Pop, Sophisti-Pop","mellow, melancholic, melodic, soft, male vocals, lonely, romantic, bittersweet","1,094",25,3.16,2er91syMefmruS5A1QMDb8
+834,Congo Natty,Jungle Revolution,1 July 2013,Ragga Jungle,"Dubstep, Neo-Soul",,271,8,3.24,2Ti6X4nqZliiAamj27zWbv
+835,Mount Kimbie,Cold Spring Fault Less Youth,27 May 2013,Future Garage,"Wonky, Glitch Hop, Art Pop, Downtempo, Indietronica","mellow, abstract, bittersweet, eclectic, male vocals","1,421",14,3.17,6ETAoJJ5NhxsGyD53cHApT
+836,Faux Fur,Faux Fur,29 July 2013,Indie Rock,"Post-Punk, Psychedelic Pop, Math Rock","atmospheric, male vocals, rhythmic, anxious, psychedelic, cold",213,3,3.50,2kmy3vICNtWo1IWMzmyVdx
+837,Bill Orcutt,A History of Every One,30 September 2013,Free Improvisation,"American Primitivism, Acoustic Blues",,241,6,3.30,0J7mbKcIsY3oh4ulWoPVEJ
+838,Johnny Marr,The Messenger,25 February 2013,"Indie Rock, Alternative Rock","Jangle Pop, Britpop",male vocals,721,24,3.16,3ZFz6QOM8bF9yjNm5NTjWr
+839,Yellow Eyes,Hammer of Night,15 July 2013,Atmospheric Black Metal,,"atmospheric, dark, sombre, dissonant, male vocals, nature, technical, melancholic",230,,3.38,6taw5xETog7zQHBeH5ztiI
+840,SHINee,Dream Girl - The Misconceptions of You,19 February 2013,"K-Pop, Dance-Pop",Electropop,"love, male vocals, melodic, happy, uplifting",258,2,3.42,4HbeuXyXcLWhZxJ7DS8epV
+841,Pomegranate Tiger,Entities,31 January 2013,Progressive Metal,Djent,instrumental,224,6,3.41,6WaDrA7LeeOHNXvheeVJxD
+842,Crime & the City Solution,American Twilight,25 March 2013,Punk Blues,"Gothic Country, Post-Punk",,206,7,3.42,6irwL8e0XPeP8rYLRY4cyw
+843,Autre Ne Veut,Anxiety,26 February 2013,"Art Pop, Alternative R&B",Synthpop,"anxious, surreal, androgynous vocals, existential, atmospheric, passionate","1,667",25,3.14,4DZRJqEr0DBIjhwjrjzJWC
+844,Factory Floor,Factory Floor,9 September 2013,"Tech House, Minimal Wave","Acid House, Dance-Punk, EBM","mechanical, female vocals, repetitive, minimalistic, rhythmic, deadpan, hypnotic, sampling",897,9,3.16,03rpZWfIEF8ffupHkg3G3F
+845,Mac DeMarco,2 Demos,31 August 2013,"Lo-Fi / Slacker Rock, Jangle Pop, Bedroom Pop","Psychedelic Pop, Hypnagogic Pop, Indie Pop",,594,1,3.18,0uORJJ9IgCGASl7FhP9OyQ
+846,Rashad Becker,Traditional Music of Notional Species Vol. I,July 2013,"Electroacoustic, Electronic","Noise, Ambient, Drone","surreal, avant-garde, quirky, futuristic, dissonant",343,2,3.16,1i0GsTZoC4bTStS4s0RAHM
+847,Dark Moor,Ars Musica,18 June 2013,Symphonic Metal,"Power Metal, Progressive Metal, Orchestral","melodic, male vocals, optimistic",233,11,3.33,
+848,Weedpecker,Weedpecker,10 August 2013,"Stoner Rock, Psychedelic Rock, Stoner Metal","Heavy Psych, Doom Metal","heavy, psychedelic, drugs, male vocals, atmospheric, hypnotic, ethereal, rhythmic",229,1,3.38,3xztRViyUVDlEGOV93A70U
+849,Lubomyr Melnyk,Corollaries,15 April 2013,Post-Minimalism,,"atmospheric, uplifting, warm, lush, soothing, minimalistic, ethereal, soft",193,3,3.54,4pKxRPrLlbXKW06HIPBgLh
+850,Alice in Chains,The Devil Put Dinosaurs Here,28 May 2013,"Alternative Metal, Grunge",Alternative Rock,"male vocals, heavy, dark, sombre, anti-religious, nihilistic, nocturnal, pessimistic","2,910",54,3.14,1NeunhIyCq0jkezLbOyKDM
+851,La Maschera di Cera,Le porte del domani,15 January 2013,Progressive Rock,Symphonic Prog,"lonely, anxious, melodic, concept album, melancholic, suspenseful, complex, male vocals",175,10,3.53,4C8Q9yEwwzzRaD9yeOj0t4
+852,The Joy Formidable,Wolf's Law,21 January 2013,Alternative Rock,Shoegaze,"noisy, anthemic, female vocals, energetic",675,25,3.17,3fn4TpavfAcdnAg4ZNpA3c
+853,Pelican,Forever Becoming,14 October 2013,"Atmospheric Sludge Metal, Post-Metal",Post-Rock,"instrumental, heavy, atmospheric",514,6,3.17,5qw7TyPrRYuIqGYznZ5WYC
+854,Death Cab for Cutie,Transatlanticism Demos,29 October 2013,"Indie Pop, Indie Rock","Lo-Fi / Slacker Rock, Midwest Emo, Indie Folk, Indietronica","bittersweet, melodic, sad, lo-fi, introspective, melancholic, lonely, male vocals",238,4,3.48,0uzgpzN1ZsCNSwnsVUh4bQ
+855,Wulkanaz,Paúrpura Fræovíbôkôs,April 2013,Black Metal,Ritual Ambient,"raw, male vocals, dark",198,2,3.59,
+856,Ryan Power,Identity Picks,July 2013,"Art Pop, Sophisti-Pop","Progressive Pop, Jazz Pop, Dream Pop","melodic, progressive, sarcastic, male vocals, lush, hedonistic, sexual, nocturnal",176,6,3.55,0KIy7cUMelsN2hGIsyzgzZ
+857,Crywank,Tomorrow Is Nearly Yesterday and Everyday Is Stupid,7 November 2013,"Singer-Songwriter, Anti-Folk, Indie Folk",Folk Punk,"self-hatred, introspective, lonely, depressive, acoustic, sad, anxious, minimalistic","2,998",31,3.11,14iTE4svEqyYgbgOtQ73MQ
+858,David Lynch,The Big Dream,16 July 2013,"Experimental Rock, Trip Hop","Blues Rock, Trip Hop, Dream Pop, Ambient Pop, Art Pop","atmospheric, male vocals, surreal, nocturnal, ethereal, dark, mysterious",986,10,3.16,2GVVUN1RqXIviwFVTukczr
+859,Coffins,The Fleshland,9 July 2013,Death Metal,Death Doom Metal,,261,5,3.30,5X5rSTPkU8KkwChroBm751
+860,Franz Ferdinand,"Right Thoughts, Right Words, Right Action",26 August 2013,"Post-Punk Revival, Indie Rock",Dance-Punk,"energetic, rhythmic, playful, quirky, male vocals, uplifting, love","2,438",49,3.15,0PZ13vrab3uBrITlFlgsiL
+861,Raspberry Bulbs,Deformed Worship,August 2013,"Hardcore Punk, Noise Rock",,"repetitive, raw, aggressive, rhythmic",298,2,3.20,2lVAOfnch1HxTaMGJSSHGF
+862,Momoiro Clover Z ももいろクローバーZ,5th Dimension,10 April 2013,"J-Pop, Pop Rock","Dance-Pop, Classical Crossover, Symphonic Rock, Brostep, Alternative Rock","female vocals, energetic, melodic, eclectic",288,7,3.17,44GpTwcanG2FF7bHnnVl7z
+863,Comedy of Errors,Fanfare & Fantasy,18 March 2013,Neo-Prog,Symphonic Prog,male vocals,178,11,3.54,2DJ0yG7JuKDQt31pl9UcsM
+864,Hamferð,Evst,11 October 2013,Doom Metal,"Death Doom Metal, Epic Doom Metal","apocalyptic, dark, atmospheric, sombre, melancholic, epic, male vocals, ominous",195,2,3.54,6V4NrHEwQcFyiaDZc8THry
+865,Fleshgod Apocalypse,Labyrinth,11 October 2013,"Symphonic Metal, Technical Death Metal",,"complex, male vocals, technical, epic, energetic, chaotic, fantasy, mythology",739,17,3.12,43qPLzg7k6Z18PURnp4WOq
+866,Ulrich Schnauss,A Long Way to Fall,12 February 2013,Downtempo,"Ambient, Dream Pop, Progressive Electronic, Synthpop",,269,6,3.21,1wc4TEJR4gxGhqtb4HsigS
+867,The Range,Nonfiction,14 October 2013,"IDM, Future Garage","Footwork, Glitch Hop, Wonky, Ambient House","atmospheric, instrumental, rhythmic, sampling, hypnotic, lonely, complex",542,8,3.16,1fbBkO7KFv8GcO4Y0l30QI
+868,British Sea Power,Machineries of Joy,1 April 2013,Indie Rock,"Britpop, Post-Rock, Dream Pop",male vocals,403,14,3.17,0yvt4kFxCRWk08U66NBc9p
+869,Rose Windows,The Sun Dogs,25 June 2013,Psychedelic Rock,,,207,4,3.41,
+870,LowCityRain,LowCityRain,27 September 2013,"Post-Punk, Coldwave","Synthpop, Shoegaze","lonely, existential, sombre, melancholic, male vocals, female vocals, cold, winter",196,1,3.44,0clyqPp6aZIWCzkAMxVP9h
+871,Austra,Olympia,17 June 2013,"Art Pop, Synthpop","Electropop, Dance-Pop","female vocals, rhythmic, melancholic, melodic, love, sensual, longing, bittersweet",850,13,3.16,1YPEIFsbeW9mJ1vCdFt8ci
+872,Macross 82-99,ネオ東京 (Neo Tokyo),6 November 2013,Future Funk,Vaporwave,"sampling, party, rhythmic, urban, playful",382,1,3.17,4B7PCV2PALm1YmuPRb1CBK
+873,Ezra Furman,Day of the Dog,7 October 2013,"Indie Rock, Blues Rock","Garage Rock, Rock & Roll","female vocals, raw, self-hatred, passionate",199,1,3.54,7pRGw83CfITMkAQqT62sD9
+874,Tegan and Sara,Heartthrob,29 January 2013,Electropop,"Synthpop, Alt-Pop","female vocals, melodic, energetic, longing, summer, love, breakup, anxious","1,245",40,3.12,5IUJ6v408Z7pECC3BXUJxX
+875,Emancipator,Dusk to Dawn,29 January 2013,Downtempo,"Nu Jazz, Trip Hop","calm, rhythmic, sampling, forest, peaceful, summer, nature, soothing",561,5,3.16,6fGnqsDl9ycAWxResQPfBS
+876,Pure Bathing Culture,Moon Tides,19 August 2013,"Dream Pop, Chillwave","Sophisti-Pop, Jangle Pop, Bedroom Pop","ethereal, female vocals, romantic, atmospheric, lush, melodic, sensual, passionate",372,5,3.16,6ZFsveVqfOWfwbwqfjtcoi
+877,Jonwayne,Rap Album One,29 October 2013,"Abstract Hip Hop, West Coast Hip Hop",Conscious Hip Hop,"introspective, rhythmic, boastful, male vocals",389,4,3.18,0qua3m8Afj0IMwtRBJ1Uag
+878,PrismCorp Virtual Enterprises,Home™,20 April 2013,Utopian Virtual,"Lounge, New Age, Bossa nova, Smooth Jazz","satirical, futuristic, soft, sampling, mellow, surreal, instrumental, repetitive",572,12,3.13,
+879,CocoRosie,Tales of a GrassWidow,27 May 2013,"Art Pop, Folktronica",Freak Folk,"quirky, female vocals, warm",522,10,3.15,08d4jfehqiU6NpbnNBqhc1
+880,Apparat,Krieg und Frieden (Music for Theatre),15 February 2013,"Electronic, Soundtrack","Ambient, Modern Classical, Noise","atmospheric, mellow, male vocals",437,5,3.16,5roJGdR6EyuKL2WstVPmlS
+881,This Town Needs Guns,13.0.0.0.0,22 January 2013,"Math Rock, Indie Rock","Midwest Emo, Post-Rock","uncommon time signatures, technical, melodic, male vocals, mellow, melancholic, bittersweet, lush","1,112",10,3.14,3QQOkN9iqJJrwXohbNYRiP
+882,Owen,L'Ami du Peuple,2 July 2013,"Singer-Songwriter, Acoustic Rock","Slowcore, Indie Rock, Emo",,259,8,3.25,3hLnEBpCpGmGkFSJCLssQ6
+883,I See Stars,New Demons,22 October 2013,Trancecore,"Brostep, Metalcore","atmospheric, energetic, lush, summer, uplifting, melodic, playful, love",298,7,3.19,0ofEcqNFO5GCb9mYwGbOXL
+884,Sodom,Epitome of Torture,26 April 2013,Thrash Metal,,"aggressive, war, male vocals, energetic, heavy",648,14,3.15,4hRtL0lBGLhzU2pzCj9vyA
+885,Mountains,Centralia,22 January 2013,"Ambient, Drone",Electronic,"mellow, calm, atmospheric, instrumental, warm",387,8,3.16,6fkI0lgbExJfl0q3wNI4sG
+886,Mirror Kisses,Heartbeats,3 May 2013,"Chillwave, Synthpop","Dream Pop, Vaporwave","male vocals, mellow, melancholic, melodic, summer, atmospheric, love, bittersweet",236,2,3.37,3TuWdTII16VHYzKIcI9Or3
+887,Diarrhea Planet,I'm Rich Beyond Your Wildest Dreams,20 August 2013,"Pop Punk, Punk Rock","Power Pop, Garage Rock","male vocals, passionate, uplifting, energetic",291,4,3.17,22G4usbImmkJvKIcSF5e1l
+888,The Reign of Kindo,Play With Fire,30 July 2013,Jazz-Rock,Progressive Rock,"love, uncommon time signatures, melodic, romantic, rhythmic, philosophical, male vocals, energetic",224,3,3.39,6Yi4tnW7O7FUW9kK3bAUhT
+889,Ninja Sex Party,Strawberries and Cream,15 April 2013,"Musical Comedy, Comedy Rock, Synthpop","Electropop, Synthpop, Power Pop","vulgar, sexual, male vocals, humorous, energetic, novelty, skit",335,3,3.14,4uM256ojOGpOFHHNR0yHSO
+890,Świetliki,Sromota,12 October 2013,"Alternative Rock, Poetry",Post-Rock,male vocals,163,,3.66,2gfYbj6sKVEt6j3w41b7hl
+891,ASG,Blood Drive,28 May 2013,Stoner Rock,Alternative Rock,"psychedelic, male vocals",224,6,3.36,7AdrkC8Ul8z9dBtxsHbwra
+892,The Men,New Moon,5 March 2013,"Garage Rock, Country Rock","Noise Rock, Cowpunk","raw, melodic, male vocals, energetic, noisy",899,19,3.13,
+893,MS MR,Secondhand Rapture,14 May 2013,"Art Pop, Alt-Pop","Darkwave, Indietronica","female vocals, dark, bittersweet",455,6,3.16,0klhXniTW3K4eM41hk269g
+894,Holy Ghost!,Dynamics,10 September 2013,"Electropop, Dance-Pop, Nu-Disco","Synthpop, Electro-Disco, New Wave","male vocals, energetic, dense, rhythmic",351,6,3.16,6sKPX6bMmWQrM2LCVjMoBY
+895,Horisont,Time Warriors,27 September 2013,Hard Rock,"Heavy Psych, Blues Rock","male vocals, psychedelic, energetic",189,4,3.54,1dVywzsNQjF0l2Ues1q7bp
+896,Zemial,Nykta,31 October 2013,"Thrash Metal, Black Metal","Progressive Rock, Heavy Metal","philosophical, epic, mythology, complex, energetic, aggressive, progressive",185,4,3.54,2ZHPJXPFq5jBsZ65KbrXnw
+897,Agrypnie,Aetas Cineris,22 February 2013,Melodic Black Metal,"Atmospheric Black Metal, Ambient, Progressive Metal",male vocals,227,6,3.36,7I0FKrTrybwJQobw7es5ez
+898,Four Tet,Beautiful Rewind,3 October 2013,Tech House,"Future Garage, IDM","playful, sampling, rhythmic, repetitive, futuristic, mechanical, minimalistic, warm","1,587",7,3.14,7gN7gWms3Uz0GLLtLYHybk
+899,Eels,"Wonderful, Glorious",5 February 2013,"Indie Pop, Singer-Songwriter",Indie Rock,male vocals,761,23,3.14,7ng2MJQDVXSdzoGc4bq8VX
+900,SULK,Graceless,15 April 2013,"Baggy, Shoegaze","Neo-Psychedelia, Britpop",,203,4,3.40,3jOKyhCFAZXfNgUUGiu9f2
+901,Boris,Präparat,6 March 2013,Post-Rock,"Sludge Metal, Psychedelic Rock, Shoegaze","atmospheric, melancholic, male vocals, warm, psychedelic","1,172",15,3.14,
+902,The Stranger,Watching Dead Empires in Decay,28 October 2013,Dark Ambient,"Drone, Industrial, Illbient, Dark Jazz, Tribal Ambient","lonely, scary, atmospheric, cold, ominous, nocturnal, dark, apocalyptic",288,2,3.16,27XbJ83hArCzVfuvpLKNEc
+903,Andrew Chalk & Tom James Scott,Wild Flowers,16 September 2013,Ambient,Impressionism,"introspective, calm, melancholic, warm, sparse, ethereal, instrumental, soft",243,1,3.39,3y6LfeIF8g2gva5bZ0HsNr
+904,Ibrahim Maalouf,Illusions,5 November 2013,Jazz Fusion,"Arabic Jazz, Jazz-Rock, Funk Rock",instrumental,194,2,3.53,67cksuMf5EvK5pu1DwGeFi
+905,7 Days of Funk,7 Days of Funk,10 December 2013,"G-Funk, Synth Funk, West Coast Hip Hop",,"male vocals, urban, rhythmic, nocturnal, lush",460,9,3.15,53a8bJTrR57zOjTlOOm1Hl
+906,Glasser,Interiors,8 October 2013,"Art Pop, Indietronica","Glitch Pop, Dance-Pop, Ambient Pop, Electropop","female vocals, rhythmic, ethereal, surreal, melodic",396,3,3.16,0o7BgPDaTxWSlfDl6crBwy
+907,The Heliocentrics,13 Degrees of Reality,30 April 2013,Nu Jazz,"Afrobeat, Dub, Krautrock","psychedelic, instrumental, rhythmic, mysterious, nocturnal, sampling, playful, surreal",201,7,3.42,5pWUOdcRh1OOy56bTsEWRe
+908,Jacqueline Humbert & David Rosenboom,Daytime Viewing 1979-1980,June 2013,Art Pop,"Spoken Word, Synthpop, Zolo, Progressive Pop","poetic, progressive, eclectic, quirky, manic, female vocals, philosophical, introspective",182,,3.57,3sOiSAaYBP48GbKeNNU8Fi
+909,Villagers,{Awayland},14 January 2013,Indie Pop,Indie Folk,,482,12,3.15,
+910,Emicida,O glorioso retorno de quem nunca esteve aqui,21 August 2013,"Conscious Hip Hop, Hip Hop","Samba, Pop Rap, Poetry, Conscious Hip Hop","political, rhythmic, conscious, male vocals, eclectic, uplifting",227,6,3.47,6AkhI7SlndOvkY4o16OE8u
+911,Sirenia,Perils of the Deep Blue,28 June 2013,"Gothic Metal, Symphonic Metal","Industrial Metal, Progressive Metal","male vocals, female vocals, melodic, heavy, orchestral, lonely, energetic, anthemic",232,6,3.35,30IVhyOg3bTp3PN9RqUfKH
+912,Stone Titan,Scratch 'n Sniff,25 June 2013,Sludge Metal,"Noise Rock, Stoner Metal","heavy, raw, hateful, suicide, self-hatred, drugs, male vocals, depressive",236,5,3.39,4jaYvI0FE1fi0guvA5DwIR
+913,Okkyung Lee,Ghil,24 June 2013,Free Improvisation,Noise,"chaotic, noisy, improvisation, instrumental",398,2,3.14,5s8EQStVchLEnc8xKt9vgn
+914,Mord'A'Stigmata,Ansia,29 October 2013,"Black Metal, Post-Metal","Heavy Psych, Dark Ambient","male vocals, dark, psychedelic, occult, avant-garde, sombre, suspenseful, introspective",187,,3.53,5yKMFytIsxdNm0rLdgEhKS
+915,Bass Drum of Death,Bass Drum of Death,25 June 2013,Garage Rock,Noise Pop,"repetitive, male vocals, energetic, rebellious",481,2,3.15,7wyIHRPPU17HiYXR3u13ut
+916,bvdub,A Careful Ecstasy,22 January 2013,"Ambient Techno, Ambient Pop, Ambient House",Dub Techno,"melancholic, love, soothing, cold, mellow, melodic, soft",336,3,3.14,1taDi3M6M6AqLCkIkM6u0O
+917,Moving Mountains,Moving Mountains,24 September 2013,Alternative Rock,"Emo, Post-Rock","male vocals, mellow, sentimental, longing",268,6,3.25,7iCJwHjT549j4DrDnte0Kf
+918,Shai Hulud,Reach Beyond the Sun,19 February 2013,"Metalcore, Hardcore Punk",Melodic Hardcore,,256,4,3.31,3XG2GndoPfAjAJD5dehIsT
+919,Iron and Wine,Ghost on Ghost,15 April 2013,"Singer-Songwriter, Indie Folk, Chamber Pop","Chamber Jazz, Contemporary Folk",male vocals,828,15,3.13,3oPGyYlIVrG66eLKD93BN4
+920,Tiny Moving Parts,This Couch Is Long & Full of Friendship,13 January 2013,Midwest Emo,"Post-Hardcore, Math Rock","energetic, passionate, melancholic, melodic, male vocals, anxious, bittersweet, sentimental",740,15,3.11,5F2IvgLXt8QC7p54G9b07W
+921,Dropkick Murphys,Signed and Sealed in Blood,8 January 2013,Celtic Punk,"Celtic Rock, Folk Punk",male vocals,483,10,3.14,1Ni9YFZDH0dqxU2PsBA1KS
+922,Body/Head,Coming Apart,10 September 2013,"Noise Rock, Experimental Rock","Drone, No Wave, Free Improvisation","improvisation, chaotic, atonal, female vocals, dissonant, avant-garde, abstract, noisy",416,8,3.12,0KNPs9OFxKP9XgqeSunxxc
+923,Guided by Voices,English Little League,30 April 2013,Indie Rock,Power Pop,"male vocals, energetic, melodic",342,12,3.15,1JNZkIxkjoCQBVl46m3YHq
+924,Frankie Rose,Herein Wild,24 September 2013,Dream Pop,"Indie Pop, Jangle Pop","female vocals, melodic, lush, introspective, energetic",252,3,3.25,5I8DAK2IK0i7nTxzBWo0jo
+925,The Pastels,Slow Summits,27 May 2013,"Dream Pop, Indie Pop","Twee Pop, C86","quirky, female vocals, happy, warm, uplifting, playful, male vocals",285,4,3.18,4f0eK2E3hsXL72IqzYX3NM
+926,Josh Ritter,The Beast in Its Tracks,5 March 2013,"Singer-Songwriter, Indie Folk, Contemporary Folk",,"soft, male vocals, acoustic",240,12,3.29,0VF8lNXTgiElXTTdEZZmrg
+927,RVIVR,The Beauty Between,25 February 2013,Pop Punk,Punk Rock,"male vocals, female vocals",180,8,3.49,6aRvyPZ2mQToJjC7uWXyLi
+928,Arctic Monkeys,AM,9 September 2013,Indie Rock,Blues Rock,"nocturnal, rhythmic, male vocals, apathetic, romantic, mellow, sexual, hedonistic","16,320",154,3.03,78bpIziExqiI9qztvNFlQu
+929,Amaranthe,The Nexus,22 March 2013,Trance Metal,Melodic Metalcore,"female vocals, melodic, male vocals, energetic, futuristic",545,14,3.07,6431V8pOEUPUW4k9ASyKCV
+930,Hatebreed,The Divinity of Purpose,25 January 2013,"Metalcore, Beatdown Hardcore, Groove Metal",Thrash Metal,"aggressive, boastful, angry, male vocals, energetic",394,8,3.11,5ZA5AUlOeC5YHC3eBpoxXp
+931,Elephant Stone,Elephant Stone,5 February 2013,"Psychedelic Pop, Indie Pop, Psychedelic Rock","Dream Pop, Indie Rock, Jangle Pop","psychedelic, male vocals, dense",203,9,3.40,3ZiPCN1W3fWOINiQqgghnl
+932,Logos,Cold Mission,18 November 2013,"Weightless, UK Bass","Deconstructed Club, Ambient, Epic Collage","futuristic, cold, atmospheric, sparse, nocturnal, rhythmic, sampling, psychedelic",514,5,3.13,77lgdMQQVoOMUk9U682QEx
+933,Girls' Generation 소녀시대,Love & Peace,11 December 2013,"K-Pop, Dance-Pop","Electropop, J-Pop","love, energetic, party, vocal group, rhythmic, female vocals",264,,3.39,6wEWyxbvJIQBvzSbZDAWet
+934,Poliça,Shulamith,22 October 2013,"Art Pop, Indietronica, Alt-Pop","Synthpop, Indie Pop",,393,3,3.15,6LEmwIlgR2hxYZJrcmJ8eE
+935,Vandroya,One,4 February 2013,"Power Metal, Progressive Metal",,"melodic, uplifting, technical, female vocals, mythology, energetic, passionate, progressive",186,15,3.45,3JuxA7TwB8rFeiyn7YJDUl
+936,Night Verses,Lift Your Existence,25 June 2013,Post-Hardcore,"Math Rock, Progressive Rock","melodic, melancholic, technical, dense, progressive, angry, playful, uncommon time signatures",183,2,3.53,5kujh2ZprmKx1PA9OvgwlV
+937,Weiss | Cameron | Hill,Drumgasm,2013,Free Improvisation,Experimental Rock,"energetic, instrumental, improvisation, dense, acoustic, chaotic, rhythmic, avant-garde",460,6,3.14,6IaNGV6wFf4AqJ7ByWUOEx
+938,The KVB,Immaterial Visions,26 February 2013,Post-Punk,"Shoegaze, Minimal Synth, Darkwave, Coldwave","dark, cold, noisy, suspenseful, anxious, Wall of Sound, mechanical, ominous",300,2,3.16,2U5hkxcShE6TDV8zRw7caw
+939,letlive.,The Blackest Beautiful,9 July 2013,Post-Hardcore,Alternative Metal,"political, angry, energetic, male vocals, protest, melodic, passionate, sombre",559,13,3.10,6H2nW2jO80GWbM6c7iYfea
+940,WWW,Atomová včela,23 May 2013,"Industrial Hip Hop, Abstract Hip Hop",Electro-Industrial,"anxious, drugs, manic, rhythmic, female vocals, energetic, aggressive, eclectic",211,3,3.44,4yvCuyDNBG9oiwyeBmB4HO
+941,José James,"No Beginning, No End",22 January 2013,"Neo-Soul, Vocal Jazz",Contemporary R&B,,216,6,3.40,5sO5lVzpbxNYIN3si8JNdW
+942,Grant Hart,The Argument,23 July 2013,"Indie Rock, Singer-Songwriter, Lo-Fi / Slacker Rock",,male vocals,196,5,3.44,6XDHADpwIi4kISKf3dTwNO
+943,Shining,One One One,8 April 2013,"Industrial Metal, Avant-Garde Metal",Progressive Metal,,502,8,3.12,6r0CKJCtoYr8c1mESCfyRm
+944,Bilal,A Love Surreal,26 February 2013,Neo-Soul,"Psychedelic Soul, Funk",,254,5,3.25,6oaVIOS1MxbPwEtLENHzxF
+945,Vallendusk,Black Clouds Gathering,20 April 2013,"Atmospheric Black Metal, Blackgaze",,"melodic, epic, atmospheric, male vocals",241,2,3.30,
+946,Nero di Marte,Nero di Marte,19 March 2013,"Progressive Metal, Post-Metal","Technical Death Metal, Atmospheric Sludge Metal, Dissonant Death Metal","dissonant, dense, complex, heavy, dark, philosophical, technical, abstract",225,3,3.36,6CBy68uCDjXs6OMyp5pBLF
+947,Michael Pisaro-Liu,The Punishment of the Tribe by Its Elders,11 January 2013,Drone,"Field Recordings, EAI","surreal, nocturnal, psychedelic, sparse, ethereal, mysterious, soft, ominous",221,2,3.37,
+948,Lost Society,Fast Loud Death,15 March 2013,Thrash Metal,,"heavy, aggressive, angry, male vocals, energetic",275,7,3.23,
+949,Drug Church,Paul Walker,23 July 2013,"Hardcore Punk, Post-Hardcore",Emocore,,216,2,3.37,1y45p9UeIFyAhj8zGV1J6f
+950,マクロスMACROSS 82-99,Sailorwave,31 December 2013,Future Funk,"Nu-Disco, Vaporwave","sampling, atmospheric, energetic, rhythmic, warm, lo-fi, nocturnal, urban","1,563",13,3.11,7BYrvDfNP8xYqp4LgxdLrV
+951,Jar Moff,Commercial Mouth,January 2013,"Sound Collage, Plunderphonics",Industrial,"repetitive, surreal, anxious, complex, progressive, avant-garde, eclectic, mysterious",257,4,3.21,0bF5mhoTRIkCCZQHBVBpKa
+952,Man or Astro-Man?,Defcon 5...4...3...2...1,21 May 2013,"Surf Rock, Surf Punk","Garage Rock, Space Rock, Post-Hardcore","instrumental, noisy, rhythmic, science fiction, lo-fi, energetic",224,5,3.31,5b59CWlbRYqdAJkoj1gQKe
+953,Woodkid,The Golden Age,18 March 2013,"Chamber Pop, Art Pop",Epic Music,"male vocals, epic, warm, love, bittersweet, poetic, orchestral, serious","1,381",22,3.09,7oRzNo0PkoRJlvI9Eocyf2
+954,Turnover,Magnolia,16 April 2013,Emo,"Pop Punk, Post-Hardcore","depressive, pessimistic, bittersweet, poetic, self-hatred, sentimental, dense, autumn",521,3,3.13,31BAsylZTmoaFFGN7mVSsh
+955,Akron/Family,Sub Verses,30 April 2013,"Neo-Psychedelia, Indie Rock",Psychedelic Rock,male vocals,350,7,3.12,26QxfhflHOUWq0U2469Yb3
+956,Traumprinz,Mothercave,December 2013,"Deep House, Outsider House",Dub Techno,"nocturnal, mellow, sampling, dark, melancholic, melodic, rhythmic, hypnotic",230,,3.29,
+957,Rob Zombie,Venomous Rat Regeneration Vendor,23 April 2013,"Industrial Metal, Alternative Metal",,"occult, male vocals, heavy, psychedelic, energetic",563,18,3.10,1y6e636ylJkwxsBwk89gS6
+958,The History of Apple Pie,Out of View,28 January 2013,Shoegaze,"Noise Pop, Twee Pop, Dream Pop",,323,10,3.12,3aYEGaIzsaJfOdqwBKOZGJ
+959,The Devil Wears Prada,8:18,17 September 2013,Metalcore,,male vocals,367,6,3.11,4LCYe1Ummf9H2qRRcsH9qj
+960,Oddisee,The Beauty in All,1 October 2013,Instrumental Hip Hop,,,232,3,3.38,5YLc9396aArq9HUenhiopz
+961,Xiu Xiu,Nina,3 December 2013,"Avant-Garde Jazz, Vocal Jazz",Art Pop,"anxious, male vocals, complex, uncommon time signatures, avant-garde, sombre","1,210",6,3.09,5UJbUau9NfGZM7oLGgEJQK
+962,Babyshambles,Sequel to the Prequel,2 September 2013,"Indie Rock, Post-Punk Revival",Garage Rock Revival,,425,10,3.11,7bpzruCjMPalWSVVLwLHhQ
+963,Crocodiles,Crimes of Passion,20 August 2013,Noise Pop,"Neo-Psychedelia, Garage Rock, Shoegaze, Post-Punk","noisy, melodic, uplifting, bittersweet, quirky, hedonistic, summer, sexual",271,7,3.13,
+964,Daemonia Nymphe Δαιμόνια Νύμφη,Psychostasia,10 May 2013,"Greek Folk Music, Neo-Pagan Folk","Dark Folk, Neoclassical Darkwave, Ancient Greek Music","ethereal, male vocals, female vocals, dark",182,4,3.59,6qPcDC2YDnb9xJWiKppLwy
+965,And So I Watch You From Afar,All Hail Bright Futures,19 March 2013,"Math Rock, Post-Rock",,"playful, male vocals, eclectic, uncommon time signatures, technical, progressive, psychedelic, happy",904,13,3.10,0Gsm99gxGRwEoEfdzZTDfq
+966,Ævangelist,Omen Ex Simulacra,22 November 2013,"Death Metal, Black Metal, Dissonant Death Metal",Atmospheric Black Metal,"dense, atmospheric, scary, ominous, abstract, disturbing, infernal, female vocals",251,2,3.33,5BaeQTzokkgde9KQvZQSDe
+967,Tomahawk,Oddfellows,29 January 2013,Alternative Rock,Experimental Rock,"male vocals, mysterious",827,18,3.11,1fgPjTRX2qZXMm9CCaXLsX
+968,Barrow,Though I'm Alone,19 March 2013,Screamo,"Post-Rock, Post-Hardcore, Atmospheric Sludge Metal","passionate, melancholic, aggressive, depressive, male vocals, atmospheric, raw",231,6,3.31,4uvaNmqKZiKJvUJhj8ElzV
+969,Low,The Invisible Way,18 March 2013,Slowcore,Alt-Country,"male vocals, female vocals, melancholic, mellow, melodic, sad, soft, atmospheric","1,409",28,3.10,5gK6gtwavaJC0cXSX4Xz9Z
+970,Miles Kane,Don't Forget Who You Are,3 June 2013,"Mod Revival, Indie Rock","Pop Rock, Garage Rock Revival",,375,11,3.12,6PIetyBEKsmM07PS0PIEr7
+971,STRFKR,Miracle Mile,18 February 2013,"Indie Pop, Electropop","Psychedelic Pop, Synthpop","mellow, male vocals, rhythmic, melodic, lush, summer, androgynous vocals, playful",638,5,3.11,5S4tasGYxpQuSEWLYvgyQp
+972,Daftside,Random Access Memories Memories,20 June 2013,"Microhouse, Nu-Disco",Noise,"rhythmic, futuristic",303,4,3.13,
+973,Fit for an Autopsy,Hellbound,10 September 2013,Deathcore,Technical Death Metal,"male vocals, technical, aggressive, heavy, anti-religious, rebellious, misanthropic, boastful",249,2,3.36,23XJX30CjqBLkTryJxUuNO
+974,Soror dolorosa,No More Heroes,2013,Gothic Rock,"Post-Punk, Coldwave","rhythmic, nocturnal, longing, dark, melancholic, melodic, sombre, atmospheric",208,4,3.39,0CvquzBfyKRv8jwJrlTeuE
+975,µ-Ziq,Chewed Corners,24 June 2013,IDM,"Ambient Techno, Deep House","calm, mellow, uplifting, atmospheric, soothing",362,3,3.11,1mN6WTz5hTAhlJrmOcAbDy
+976,Wolf Eyes,No Answer: Lower Floors,9 April 2013,Industrial,"Dark Ambient, Noise","scary, mechanical, disturbing, noisy, male vocals, dissonant",347,3,3.11,6LTCxExcS9SrQ41Kmmoq4c
+977,Massimo Volume,Aspettando i barbari,1 October 2013,Post-Rock,"Spoken Word, Noise Rock","male vocals, poetic",260,5,3.24,1qY2Hes0eXpmbV82whZP4t
+978,Jack Stauber,Finite Form,18 March 2013,"Synthpop, Bedroom Pop, Hypnagogic Pop",Psychedelic Pop,"lo-fi, quirky, mellow, nocturnal, warm, melodic, male vocals, eclectic",357,2,3.15,64e8eXGlkdEtbp4OMxj1Z5
+979,Sarah Jarosz,Build Me Up From Bones,24 September 2013,"Contemporary Folk, Progressive Bluegrass",Americana,"female vocals, soothing",166,6,3.61,3WgIxB4vFl8i5ZHCypubIK
+980,The Internet,Feel Good,24 September 2013,"Neo-Soul, Alternative R&B","Acid Jazz, Downtempo","LGBT, mellow, female vocals",610,1,3.11,4Bpt4fHYxxgqR2GjrxyR6D
+981,C. Spencer Yeh / Okkyung Lee / Lasse Marhaug,Wake Up Awesome,19 November 2013,"Free Improvisation, EAI","Noise, Musique concrète","noisy, improvisation, chaotic",227,1,3.32,34ilEhhg4YJCVQ33uU6lhf
+982,The Fall,Re-Mit,13 May 2013,"Post-Punk, Indie Rock","Electronic, Sound Collage","repetitive, surreal, male vocals, chaotic, noisy",468,8,3.11,28MuK2YnH66dISjzOnrjqH
+983,Alkaline Trio,My Shame Is True,2 April 2013,Pop Punk,Alternative Rock,"male vocals, breakup",361,10,3.11,47ooGYp4iWw3HqEYpMPMIV
+984,Swim Deep,Where the Heaven Are We,5 August 2013,Indie Pop,"Dream Pop, Britpop",male vocals,303,6,3.09,
+985,Buckethead,Pike 13,13 May 2013,Ambient,"Acoustic Rock, Post-Rock","sombre, nocturnal, lonely, calm, meditative, sad, ethereal, mellow",179,5,3.58,
+986,State Champs,The Finer Things,8 October 2013,Pop Punk,Emo-Pop,"male vocals, melodic, summer, sentimental",263,3,3.29,2Hbmdm8IXpkMRcXgY0vYGq
+987,Papir,Papir III,11 February 2013,"Jam Band, Psychedelic Rock","Space Rock, Krautrock, Post-Rock",,171,2,3.54,0SzemBi6IYecTfxyQZvW9k
+988,Stryper,No More Hell to Pay,1 November 2013,"Heavy Metal, Hard Rock, Christian Rock","US Power Metal, Christian Rock",Christian,191,8,3.52,4qs6M1B0XLfizFCPqthROp
+989,Juicy J,Stay Trippy,27 August 2013,"Trap, Southern Hip Hop, Dirty South","Pop Rap, Memphis Rap, Gangsta Rap","drugs, sexual, hedonistic, anthemic, violence, male vocals",967,22,3.09,7h1ut6IUbndKY7QrqcbAND
+990,She & Him,Volume Three,7 May 2013,"Folk Pop, Indie Pop",Twee Pop,"female vocals, melodic, love, bittersweet",602,9,3.10,
+991,Arsis,Unwelcome,30 April 2013,"Technical Death Metal, Melodic Death Metal",,"melancholic, technical, melodic, male vocals, energetic",283,8,3.13,4fz5Gc8jnWNDaufqxKpr53
+992,Willis Earl Beal,Nobody knows.,10 September 2013,"Singer-Songwriter, Soul, Deep Soul","Acoustic Blues, Gospel","dark, passionate, sombre, existential, introspective, urban, male vocals",243,5,3.24,0MHRNWUvq6JT8hjoL4ilvi
+993,T'ien Lai,Da'at,30 October 2013,Drone,"Progressive Electronic, Musique concrète, Sound Collage",,223,1,3.31,7sJbcTiNmAfd8NN89rNF3B
+994,Ciara,Ciara,5 July 2013,"Contemporary R&B, Pop","Dance-Pop, Electropop, Pop Rap, Trap","sensual, rhythmic, female vocals, sexual, melodic, playful, love, passionate",370,7,3.10,1ZhBKlFwsI2ppVo8LivPyG
+995,Raflum,林泉吟 - Melodies of Forest and Springs,2013,Neofolk,"Chinese Folk Music, Nature Recordings","instrumental, calm, spring, nature, aquatic, acoustic",247,,3.25,
+996,The Demigodz,KILLmatic,5 March 2013,"East Coast Hip Hop, Hardcore Hip Hop",Boom Bap,,220,9,3.36,1R8i8XgUTaY8bw20UP8K17
+997,Ildjarn / Hate Forest,Those Once Mighty Fallen,1 October 2013,Black Metal,,"male vocals, sombre, occult, rhythmic, mythology, cold",234,1,3.42,6JyAtSyW2uYiySTrjeqlST
+998,De Staat,I_CON,16 September 2013,Alternative Rock,"Stoner Rock, Indie Rock, Industrial Rock",,175,3,3.53,7nRChiUhBIIOIo5HQn3Fdc
+999,White Fence,Cyclops Reap,9 April 2013,"Garage Rock, Psychedelic Rock",Psychedelic Pop,,274,7,3.14,1n9xDp4gTi9P5AS0hLJSxL
+1000,Breakdown of Sanity,Perception,18 October 2013,"Metalcore, Melodic Metalcore",,"male vocals, heavy, introspective, epic, aggressive, energetic",240,1,3.35,6zc9Wh5qCagfHMNEj8AueP

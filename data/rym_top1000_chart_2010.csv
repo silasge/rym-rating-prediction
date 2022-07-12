@@ -1,0 +1,1001 @@
+position,artist,album,release_date,primary_genres,secondary_genres,descriptors,number_ratings,number_reviews,avg_rating,id_spotify
+1,Kanye West,My Beautiful Dark Twisted Fantasy,22 November 2010,"Pop Rap, Hip Hop",Art Pop,"epic, boastful, passionate, sampling, hedonistic, anthemic, vulgar, male vocals","55,470",663,4.09,20r762YmB5HeofjMCiPMLv
+2,Joanna Newsom,Have One on Me,23 February 2010,"Chamber Folk, Singer-Songwriter, Progressive Folk",,"poetic, pastoral, warm, passionate, lush, complex, autumn, female vocals","10,084",221,3.96,
+3,The Brave Little Abacus,Just Got Back From the Discomfort—We're Alright,29 May 2010,"Midwest Emo, Experimental Rock","Math Rock, Post-Hardcore, Art Rock","passionate, bittersweet, introspective, uncommon time signatures, anxious, energetic, existential, poetic","9,237",124,3.87,3jLrWEYpwKnptkzEXAyT66
+4,Flying Lotus,Cosmogramma,3 May 2010,"IDM, Glitch Hop, Wonky","Nu Jazz, Instrumental Hip Hop, Wonky","futuristic, space, chaotic, rhythmic, instrumental, psychedelic, dense, atmospheric","19,608",167,3.83,5c7XChrHxYaqykCZLaGM5f
+5,LCD Soundsystem,This Is Happening,18 May 2010,"Dance-Punk, Indietronica","Alternative Dance, New Wave, Electro-Disco, New Rave","sarcastic, rhythmic, energetic, repetitive, male vocals, bittersweet, deadpan, quirky","16,823",190,3.83,4hnqM0JK4CM1phwfq1Ldyz
+6,Deathspell Omega,Paracletus,8 November 2010,Black Metal,"Progressive Metal, Avant-Garde Metal","chaotic, infernal, philosophical, uncommon time signatures, dissonant, technical, dense, satanic","6,866",75,3.85,0IacUrFK1BuOr0MrhTGKQN
+7,Sufjan Stevens,The Age of Adz,12 October 2010,"Art Pop, Progressive Pop, Indietronica","Glitch Pop, Folktronica, Chamber Pop, IDM","futuristic, epic, introspective, dense, complex, love, lush, passionate","14,832",193,3.82,5U7GN7wM8nZKYeeOoYhPjC
+8,Beach House,Teen Dream,26 January 2010,"Dream Pop, Indie Pop",,"soothing, romantic, ethereal, mellow, warm, melancholic, female vocals, melodic","20,142",254,3.78,4sYpTER2iT2Y7Kf4VsfUne
+9,Janelle Monáe,The ArchAndroid,18 May 2010,"Contemporary R&B, Art Pop","Neo-Soul, Funk, Psychedelic Soul, Progressive Pop, Neo-Psychedelia","science fiction, eclectic, futuristic, uplifting, concept album, energetic, lush, political","10,823",203,3.81,7MvSB0JTdtl1pSwZcgvYQX
+10,Gorillaz,Plastic Beach,9 March 2010,"Electropop, Art Pop","Hip Hop, Alternative Dance, Psychedelic Pop, Synthpop","eclectic, summer, playful, warm, concept album, conscious, male vocals, aquatic","23,043",201,3.75,2dIGnmEIy1WZIcZCFSj6i8
+11,Johann Sebastian Bach / La Petite Bande / Sigiswald Kuijken,Matthäus-Passion,13 April 2010,"Baroque Music, Christian Liturgical Music, Oratorio",,"acoustic, orchestral, oratorio, spiritual, melodic, passionate, male vocals, female vocals",506,1,3.85,2ccxnmb2yU8VppOF5pBZNc
+12,Deerhunter,Halcyon Digest,28 September 2010,"Neo-Psychedelia, Indie Rock","Dream Pop, Psychedelic Pop","psychedelic, mellow, soothing, atmospheric, melodic, melancholic, bittersweet, alienation","14,138",153,3.75,1HUMjB15ARg96KIypcGzYY
+13,The National,High Violet,11 May 2010,Indie Rock,"Chamber Pop, Post-Punk Revival, Art Rock","melancholic, lonely, sombre, male vocals, sad, autumn, poetic, mellow","12,120",282,3.73,6k54ZuG2Z49HQRbJdO65b5
+14,Shinsei Kamattechan 神聖かまってちゃん,つまんね (Tsumanne),22 December 2010,Noise Pop,"Shoegaze, Dream Pop, Neo-Psychedelia","androgynous vocals, self-hatred, misanthropic, nihilistic, depressive, noisy, suicide, manic","3,407",23,3.78,0L6mZK9XFXYOVeayI1t4A5
+15,Daughters,Daughters,9 March 2010,"Noise Rock, Post-Hardcore","Post-Hardcore, Math Rock, Art Punk, Sasscore","manic, noisy, energetic, chaotic, misanthropic, heavy, dissonant, male vocals","8,329",81,3.75,1xYjZUrVUjcUPnpdnHD9nf
+16,Murmuüre,Murmuüre,March 2010,"Atmospheric Black Metal, Ambient, Avant-Garde Metal","Electronic, Industrial, Experimental, Black Noise","noisy, atmospheric, surreal, mysterious, psychedelic, occult, sombre, lo-fi","4,161",43,3.77,
+17,Arcade Fire,The Suburbs,3 August 2010,Indie Rock,"Chamber Pop, Indie Pop, Post-Punk Revival, Big Music","melancholic, bittersweet, concept album, male vocals, summer, poetic, melodic, warm","21,108",365,3.69,0gkUcpkyW2SXN49Yktkf6F
+18,Nails,Unsilent Death,27 September 2010,"Grindcore, Powerviolence","Crust Punk, Metalcore","aggressive, heavy, chaotic, misanthropic, angry, male vocals, nihilistic, rhythmic","7,171",62,3.75,0C4ZMhVs0I7bHbRdsBWpDV
+19,Yellow Swans,Going Places,22 February 2010,"Noise, Drone","Ambient, Ambient Noise Wall","atmospheric, noisy, dense, hypnotic, sombre, dark, melancholic, instrumental","5,354",46,3.75,4Rti9CCEIh5I2ftLnojajm
+20,SWR Sinfonieorchester Baden-Baden und Freiburg / ORF Radio-Symphonieorchester Wien / Sylvain Cambreling / Dennis Russell Davies / Friedrich Cerha,Spiegel; Monumentum; Momente,14 September 2010,"Serialism, Orchestral",,"atonal, suspenseful, ominous, complex, sparse, orchestral, dissonant, chaotic",414,6,3.76,31ceXtsghXxm5AiOcD2y5Z
+21,Women,Public Strain,28 September 2010,Post-Punk,"Noise Rock, Psychedelic Pop, Lo-Fi / Slacker Rock, No Wave, Noise Pop","winter, lo-fi, cold, androgynous vocals, lonely, cryptic, melancholic, noisy","6,767",59,3.71,3Me1df1lSd9s6zkLUoZO4s
+22,Ichiko Aoba 青葉市子,剃刀乙女 (Kamisori otome),20 January 2010,"Contemporary Folk, Singer-Songwriter",,"calm, soft, female vocals, soothing, mellow, acoustic, minimalistic, peaceful","2,478",5,3.74,1lpxxmRaI4loziFL9USol5
+23,Alex G,Race,1 January 2010,"Singer-Songwriter, Bedroom Pop, Lo-Fi / Slacker Rock",,"bittersweet, lo-fi, melancholic, male vocals, melodic, mellow, lonely, warm","2,553",20,3.73,3hY0WIR79EKnQcwUsyRy5m
+24,Cornelius Cardew / Nima Gousheh,The Great Learning,December 2010,Indeterminacy,"Choral, Drone, Ritual Ambient","ritualistic, aleatory, suspenseful, avant-garde, chaotic, sparse, choral, hypnotic",343,3,3.71,
+25,Huun-Huur-Tu,Ancestors Call,October 2010,Tuvan Throat Singing,,"spiritual, longing, melancholic, bittersweet, natural, pastoral, male vocals, repetitive",432,1,3.75,6JgBBDqJ8mOUJvWXpE2ola
+26,Chuck Person,Chuck Person's Eccojams Vol. 1,8 August 2010,"Vaporwave, Plunderphonics","Chopped and Screwed, Glitch, Hypnagogic Pop","sampling, repetitive, hypnotic, ethereal, atmospheric, surreal, bittersweet, psychedelic","6,084",61,3.68,
+27,Enslaved,Axioma Ethica Odini,27 September 2010,Progressive Metal,Black Metal,"epic, mythology, complex, dark, atmospheric, philosophical, male vocals, progressive","2,724",60,3.70,5HLtji6CTpVsHd7ULMJ8t7
+28,Agalloch,Marrow of the Spirit,23 November 2010,Atmospheric Black Metal,"Post-Rock, Dark Folk, Post-Metal, Folk Metal","cold, melancholic, pagan, winter, dark, male vocals, atmospheric, sombre","6,008",114,3.68,6u0SXBufo6Iw7dQzydc3Rs
+29,Deftones,Diamond Eyes,4 May 2010,Alternative Metal,"Alternative Rock, Shoegaze","heavy, sexual, atmospheric, male vocals, nocturnal, anxious, dense, rhythmic","7,887",87,3.68,1GjjBpY2iDwSQs5bykQI5e
+30,Deepchord Presents Echospace,Liumin,21 June 2010,"Dub Techno, Ambient Dub","Field Recordings, Ambient Techno","urban, nocturnal, atmospheric, hypnotic, repetitive, rhythmic, futuristic, instrumental","3,357",35,3.68,2sBtwfqFvOdUkRxs741VBW
+31,Ihsahn,After,26 January 2010,Progressive Metal,"Black Metal, Avant-Garde Metal","complex, progressive, male vocals, eclectic, heavy, dark, atmospheric, introspective","1,828",40,3.68,2cbp7xzpqDmURySnDkhNRR
+32,The Roots,How I Got Over,22 June 2010,"East Coast Hip Hop, Conscious Hip Hop",,"introspective, mellow, urban, melodic, sombre, male vocals, conscious, poetic","4,035",75,3.68,25sYZjutddzUpXNbeQ7bEC
+33,Various Artists,Whom the Moon a Nightsong Sings,29 October 2010,Dark Folk,"Finnish Folk Music, Nordic Folk Music","nocturnal, nature, calm, acoustic, autumn, melancholic, male vocals, atmospheric","1,155",26,3.69,1owCmNT9Sswuqyohl3GfXJ
+34,Pospulenn,Sun People Sleepwalker,8 June 2010,"Ambient, Psychedelic Folk","Free Folk, New Age, Nature Recordings","lo-fi, hypnotic, soothing, surreal, repetitive, ethereal, psychedelic, instrumental",687,8,3.71,
+35,The Chariot,Long Live,23 November 2010,Metalcore,"Mathcore, Post-Hardcore, Noise Rock","noisy, chaotic, aggressive, uncommon time signatures, angry, religious, male vocals, energetic","1,002",7,3.69,2EUWe8JFtIUjs5YGfZw7cH
+36,Gareth Liddiard,Strange Tourist,1 October 2010,"Singer-Songwriter, Contemporary Folk","Avant-Folk, American Primitivism","poetic, male vocals, acoustic, dark, melancholic, passionate, sparse, depressive",579,10,3.68,5AVeImZ0JBSXnqxXULupSa
+37,Inquisition,Ominous Doctrines of the Perpetual Mystical Macrocosm,19 November 2010,Black Metal,,"satanic, occult, dark, male vocals, heavy, space, atmospheric, aggressive","2,293",31,3.66,3Fvvk1uGpf2Hd1S0oysIEA
+38,Alcest,Écailles de lune,29 March 2010,"Blackgaze, Post-Metal, Shoegaze","Post-Rock, Dream Pop, Atmospheric Black Metal","ethereal, atmospheric, melancholic, male vocals, passionate, aquatic, melodic, sentimental","7,776",95,3.65,5oQCJg8xx7JOYRSa9E1gV9
+39,Omnipotent Youth Society 万能青年旅店,万能青年旅店 (Omnipotent Youth Society),12 November 2010,"Art Rock, Indie Rock","Folk Rock, Progressive Rock","male vocals, melancholic, sad, depressive, epic, progressive, mellow, lush",881,10,3.68,6gApmv7Klo2uuyTxWkPzXb
+40,Munly & The Lupercalians,Petr & The Wulf,5 October 2010,"Gothic Country, Americana, Progressive Folk","Alt-Country, Avant-Folk, Gothic Country, Freak Folk","concept album, pastoral, dark, melancholic, tribal, poetic, male vocals, lush",719,7,3.69,0P8UDy5gRrvPj57duARC53
+41,Big K.R.I.T.,K.R.I.T Wuz Here,4 May 2010,"Southern Hip Hop, Dirty South, Hardcore Hip Hop","Conscious Hip Hop, Gangsta Rap","male vocals, conscious, sampling, introspective, boastful, warm, rhythmic, energetic","2,303",35,3.67,4BNn0iDp2vEkwb5N7ziPvJ
+42,Odz Manouk,Odz Manouk,October 2010,Black Metal,Atmospheric Black Metal,"atmospheric, lo-fi, nocturnal, noisy, ominous, occult, male vocals, mysterious",402,3,3.70,
+43,Accept,Blood of the Nations,20 August 2010,Heavy Metal,,"heavy, male vocals, anthemic, political, rebellious, melodic, history, energetic","1,458",59,3.66,70gEplvmKUXn50LfDh1GIO
+44,Ali Farka Touré & Toumani Diabaté,Ali and Toumani,23 February 2010,"Mande Music, Songhai Music",,"mellow, calm, acoustic",570,10,3.68,0QcGjmYjuZn4JpvJnMMXhN
+45,Triptykon,Eparistera Daimones,22 March 2010,Doom Metal,"Black Metal, Thrash Metal, Gothic Metal","misanthropic, male vocals, heavy, death, ominous, sombre, apocalyptic, atmospheric","1,914",41,3.65,4ebDjAqthFnXg87J8iMeev
+46,Galneryus,Resurrection,23 June 2010,"Power Metal, Progressive Metal","Neoclassical Metal, Symphonic Metal","male vocals, technical, melodic, energetic, triumphant, uplifting, optimistic, epic",600,10,3.66,7Bui0KOt3GdHwAwcNHnusu
+47,Sargeist,Let the Devil In,9 November 2010,Black Metal,Melodic Black Metal,"melodic, satanic, male vocals, aggressive, triumphant, energetic, infernal, occult",908,8,3.67,24eBkc8Q3lIJnFT91bY7Au
+48,Immolation,Majesty and Decay,9 March 2010,Death Metal,"Technical Death Metal, Dissonant Death Metal","male vocals, heavy, energetic, dark, pessimistic, misanthropic, infernal, aggressive","1,890",49,3.65,28uPTmeixA8QbKHEKBxpPI
+49,LCD Soundsystem,London Sessions,5 November 2010,Dance-Punk,"Alternative Dance, New Wave, Post-Punk Revival, New Rave","quirky, rhythmic, repetitive, eclectic, male vocals, energetic","1,032",8,3.66,4CzNl4NEKjGi0aGdVOShfo
+50,Urfaust,Der freiwillige Bettler,18 November 2010,Atmospheric Black Metal,Doom Metal,"atmospheric, dark, melancholic, occult, male vocals, sombre, ominous, serious","1,090",15,3.66,2IyrxjtIruMkTG5GZWtUW4
+51,The Tallest Man on Earth,The Wild Hunt,13 April 2010,"Contemporary Folk, Singer-Songwriter",,"acoustic, nature, poetic, bittersweet, melodic, passionate, male vocals, uplifting","5,135",110,3.62,2W2Na2SJuf7jqvjNuSjh5J
+52,Anathema,We're Here Because We're Here,31 May 2010,"Alternative Rock, Progressive Rock",Art Rock,"spiritual, uplifting, melodic, progressive, atmospheric, philosophical, male vocals, bittersweet","2,988",77,3.62,3KZ2PC4mATv4O18B2V2Qtc
+53,MGMT,Congratulations,13 April 2010,"Psychedelic Pop, Neo-Psychedelia","Progressive Pop, Indie Surf, Psychedelic Rock, Surf Rock","psychedelic, male vocals, warm, melodic, progressive, summer, quirky, surreal","12,199",204,3.59,3HA1Ru1gEAgaxTywkJmBOL
+54,Kvelertak,Kvelertak,21 June 2010,"Hardcore Punk, Black 'n' Roll","Black Metal, Crust Punk, Blackened Crust","energetic, heavy, melodic, male vocals, aggressive, angry, epic, anthemic","3,976",58,3.62,6B7T5VqGQ6eCn0tGNhyCfY
+55,Jefre Cantu-Ledesma,Love Is a Stream,15 October 2010,"Drone, Ambient","Noise, Shoegaze, Ambient Noise Wall","noisy, dense, warm, atmospheric, instrumental, hypnotic, ethereal, love","3,002",25,3.64,0PeiGSI11Ym2KeXhIYjtf5
+56,Overkill,Ironbound,9 February 2010,Thrash Metal,,"energetic, aggressive, male vocals, melodic, heavy, dark","1,550",65,3.62,4mTjXQe5O02nugBSecbZv2
+57,Iwrotehaikusaboutcannibalisminyouryearbook,Iwrotehaikusaboutcannibalisminyouryearbook LP,2010,Screamo,"Post-Rock, Emoviolence","depressive, raw, passionate, chaotic, lonely, melancholic, male vocals, sentimental","1,755",20,3.61,
+58,Hell,Hell II,April 2010,"Sludge Metal, Doom Metal, Drone Metal","Black Metal, Drone Metal","male vocals, infernal, dark, hateful, ominous, angry, heavy, repetitive",456,5,3.65,0hB0FHtsms26OkueELRks4
+59,Four Tet,There Is Love in You,25 January 2010,Microhouse,IDM,"playful, warm, repetitive, rhythmic, calm, hypnotic, atmospheric, instrumental","6,140",73,3.61,6XoxeeeyZgzqUMzUBUSDG9
+60,Anaïs Mitchell,Hadestown,26 April 2010,"Contemporary Folk, Chamber Folk","Americana, Alt-Country, Chamber Jazz, Show Tunes","concept album, mythology, passionate, female vocals, longing, romantic, bittersweet, dark","1,129",21,3.62,0b2mKB2p8RYwkRfFsdbdky
+61,Blindead,Affliction XXIX II MXMVI,26 November 2010,"Atmospheric Sludge Metal, Post-Metal","Progressive Metal, Post-Rock","atmospheric, heavy, serious, melancholic, pessimistic, introspective, dark, passionate","1,008",15,3.62,6n0S4TmVl0E75kaWdEIfqX
+62,Sun Kil Moon,Admiral Fell Promises,13 July 2010,"Singer-Songwriter, Contemporary Folk",Flamenco,"acoustic, introspective, sombre, technical, melancholic, lonely, pastoral, mellow","2,281",30,3.62,77AYdae70ldovpvRPS0Xjc
+63,Enforcer,Diamonds,24 May 2010,Heavy Metal,Speed Metal,"energetic, heavy, melodic, male vocals, rebellious, playful",601,20,3.63,100G9R8SSiarOw8dwFTSUl
+64,Buddy Guy,Living Proof,28 September 2010,"Chicago Blues, Electric Blues",,"uplifting, technical, male vocals, improvisation, raw, spiritual, optimistic",305,15,3.64,3WH2ZpwBApxjDMQf3tEArm
+65,RubenSlikk,King Astro Slikk the Magnificent,2 May 2010,"Southern Hip Hop, Cloud Rap","Jazz Rap, Cloud Rap, Alternative R&B, Pop Rap, Contemporary R&B","sexual, drugs, playful, hedonistic, vulgar, ethereal, humorous, lush",884,3,3.63,063mxXpHCTGp3DwAw6foW7
+66,Dax Riggs,Say Goodnight to the World,3 August 2010,Blues Rock,"Swamp Rock, Garage Rock","male vocals, melodic, dark, melancholic, minimalistic, passionate, nocturnal",440,14,3.64,0nRnfad7zSi5tkTtRLOydG
+67,Gil Scott-Heron,I'm New Here,8 February 2010,"Spoken Word, Electronic","Blues, Trip Hop, Poetry, Soul, Electronic","existential, conscious, poetic, urban, suspenseful, minimalistic, nocturnal, introspective","2,625",55,3.61,1S5FP0ZGG6XGOIdL8OsrZB
+68,Ariel Pink's Haunted Graffiti,Before Today,8 June 2010,"Psychedelic Pop, Hypnagogic Pop","Neo-Psychedelia, Garage Rock","psychedelic, male vocals, lo-fi, quirky, satirical, playful, eclectic, lush","7,029",94,3.58,1dO7qBlkQXYENJaHfK7h56
+69,Thou,Summit,June 2010,Sludge Metal,Doom Metal,"depressive, melancholic, heavy, dark, atmospheric, male vocals, passionate, aggressive",861,4,3.62,3UA6p4FQsgOhJpkCDdy0na
+70,Crystal Castles,Crystal Castles (II),24 May 2010,"Synthpop, Electropop","Synth Punk, Witch House, Electroclash, New Rave","cold, dark, noisy, female vocals, atmospheric, cryptic, melancholic, mysterious","10,153",97,3.56,63QBHPFzDjTfumF8VlPX8l
+71,Carbon Based Lifeforms,Interloper,3 May 2010,Psybient,"Downtempo, Ambient, Ambient Techno","atmospheric, repetitive, calm, ethereal, mysterious, hypnotic, meditative, soothing","1,059",26,3.61,3jBcf9rVNv5xe7K9eqTd7Z
+72,Satanicpornocultshop,Arkhaiomelisidonophunikheratos,29 March 2010,"Glitch Pop, Art Pop","Plunderphonics, Folktronica, Glitch, Breakcore, Glitch Hop","surreal, complex, warm, eclectic, sampling, dense, rhythmic, energetic","1,531",9,3.60,5C7cWvX9Nm8dyJjeoQgclp
+73,Tame Impala,Innerspeaker,21 May 2010,"Psychedelic Rock, Neo-Psychedelia","Psychedelic Pop, Bedroom Pop","psychedelic, summer, warm, male vocals, dense, mellow, hypnotic, introspective","14,475",132,3.54,5RA5hhLlbw31QfQRX11pwo
+74,Hypnos 69,Legacy,June 2010,"Progressive Rock, Psychedelic Rock",Jazz-Rock,"psychedelic, complex, warm, progressive, eclectic, male vocals, uncommon time signatures",546,24,3.60,
+75,Blind Guardian,At the Edge of Time,30 July 2010,Power Metal,"Symphonic Metal, Progressive Metal","male vocals, epic, fantasy, triumphant, energetic, melodic, progressive, medieval","1,989",49,3.58,5XgaKSfxO9BeULP6nTOLa6
+76,Spock's Beard,X,May 2010,Progressive Rock,Symphonic Prog,"epic, male vocals",457,11,3.61,4PMo56R6fBcRfW9JzjgSP0
+77,Roc Marciano,Marcberg,4 May 2010,"East Coast Hip Hop, Hardcore Hip Hop, Boom Bap","Gangsta Rap, Drumless","crime, male vocals, urban, sampling, dark, violence, sombre, drugs",704,14,3.61,
+78,Wolf People,Steeple,12 October 2010,Psychedelic Rock,"Blues Rock, Hard Rock, Jam Band, Progressive Rock","psychedelic, male vocals, progressive",566,17,3.61,2BEOwzGZxwNJ4ResMq5rSc
+79,Marina & the Diamonds,The Family Jewels,22 February 2010,"Indie Pop, Art Pop","Chamber Pop, Piano Rock, Art Pop, Electropop","female vocals, sarcastic, playful, quirky, bittersweet, energetic, misanthropic, pessimistic","3,853",47,3.57,3dWObfa3vKyudzgmh53Xzg
+80,Killing Joke,Absolute Dissent,27 September 2010,"Industrial Rock, Post-Punk",Industrial Metal,"sombre, melancholic, male vocals, energetic, cold, dense, political, depressive","1,252",38,3.59,1IDgNq9Xq3nl75y0eHsgQZ
+81,Seventh Wonder,The Great Escape,3 December 2010,Progressive Metal,"Power Metal, Symphonic Metal, Progressive Rock","melodic, uncommon time signatures, uplifting, playful, progressive, passionate, introspective, energetic",508,16,3.58,48uQV10vqfD6sVLrjVNjS2
+82,Pile,Magic Isn't Real,2 October 2010,"Post-Hardcore, Indie Rock",Noise Rock,"male vocals, noisy, aggressive, raw",554,4,3.61,6yoaegjPtXrC8fI8fQpPPl
+83,The Dillinger Esc Plan,Option Paralysis,23 March 2010,Mathcore,"Alternative Metal, Post-Hardcore","technical, uncommon time signatures, aggressive, male vocals, chaotic, energetic, complex, heavy","3,340",53,3.57,7LhBE8JzYBwWOpZSdIus8s
+84,Bongripper,Satan Worshipping Doom,13 August 2010,"Sludge Metal, Doom Metal","Drone Metal, Stoner Metal, Atmospheric Sludge Metal","instrumental, heavy, infernal, aggressive, satanic, repetitive, rhythmic, psychedelic","1,434",18,3.59,5gU8TMe9ZXZ9ym7KqPzxB1
+85,Big Boi,Sir Lucious Left Foot: The Son of Chico Dusty,6 July 2010,Southern Hip Hop,"Pop Rap, Contemporary R&B","boastful, sexual, triumphant, hedonistic, uplifting, rhythmic, vulgar, urban","4,296",124,3.56,0GZMsKdDsbNhxvM1VaxB0U
+86,Laura Marling,I Speak Because I Can,22 March 2010,"Singer-Songwriter, Indie Folk, Contemporary Folk","Chamber Folk, British Folk Rock","female vocals, acoustic, melancholic, introspective, poetic, cold, existential, autumn","1,918",46,3.58,7x98osNfh0aUookqE7MMQ1
+87,John Grant,Queen of Denmark,19 April 2010,"Singer-Songwriter, Folk Pop","Chamber Pop, Piano Rock","LGBT, humorous, bittersweet, sarcastic, angry, sad, melancholic, romantic","1,356",37,3.58,4JqaU9JdOp2yyOxv7qSaFM
+88,Sangre de Muérdago,Sangre de Muérdago,19 December 2010,"Dark Folk, Neofolk",Galician Folk Music,"pastoral, melancholic, pagan, rain, dark, acoustic, female vocals, nature",401,2,3.61,3uKZyluouWpn3875RRHHke
+89,Titus Andronicus,The Monitor,9 March 2010,"Indie Rock, Folk Punk","Punk Rock, Heartland Rock","anthemic, anxious, concept album, history, raw, pessimistic, nihilistic, energetic","4,476",83,3.54,5U09FQWagzAU5HPmufUAlU
+90,Uochi Toki,Cuore amore errore disintegrazione,17 September 2010,"Industrial Hip Hop, Experimental Hip Hop, Abstract Hip Hop","Poetry, Glitch Hop","abstract, philosophical, male vocals, avant-garde, complex, futuristic, psychedelic, dark",811,19,3.57,6tehkRD1kB6TQOIpNY5jN7
+91,Hooded Menace,Never Cross the Dead,13 April 2010,Death Doom Metal,,"heavy, rhythmic, dark, death, occult, aggressive, male vocals, dense",581,11,3.59,
+92,Ling Tosite Sigure 凛として時雨,Still a Sigure Virgin?,22 September 2010,"Post-Hardcore, J-Rock","Math Rock, Emo, Progressive Rock","melodic, manic, female vocals, progressive, passionate, technical, eclectic, male vocals",589,3,3.59,7msqAp5CstlM5cpjQvfB11
+93,Ufomammut,Eve,5 May 2010,"Doom Metal, Sludge Metal, Heavy Psych","Stoner Metal, Space Rock, Drone Metal, Post-Metal","heavy, dark, psychedelic, atmospheric, hypnotic",921,26,3.59,1CFoyzxnZkeDFDd5d3gCYN
+94,Justin Townes Earle,Harlem River Blues,14 September 2010,"Americana, Singer-Songwriter","Country, Contemporary Folk, Alt-Country",,405,10,3.60,0hihWmULfM5FNgrS7NOXjN
+95,Grand Magus,Hammer of the North,23 June 2010,Heavy Metal,Doom Metal,"male vocals, epic, melodic, triumphant, heavy, cold, energetic",595,16,3.58,4RuM80jEOeWqnoCufhamIt
+96,The Dreadnoughts,Polka's Not Dead,28 September 2010,"Celtic Punk, Gypsy Punk","Sea Shanties, Polka, Balkan Folk Music","energetic, party, playful, male vocals, rhythmic, uplifting, humorous",332,6,3.60,6USXCdKuC6VosxTDmi5PvN
+97,Toundra,(II),3 May 2010,"Post-Rock, Post-Metal","Atmospheric Sludge Metal, Post-Metal","instrumental, melancholic, energetic, atmospheric, dense, epic",723,12,3.58,54LcH6rOpnX8afrvtGvL1h
+98,Soutaiseiriron 相対性理論,Synchroniciteen,7 April 2010,Indie Pop,"Twee Pop, Indie Rock, Jangle Pop","mellow, female vocals, romantic, uplifting, melodic, playful, bittersweet, optimistic",981,4,3.58,4oYijXtFIv6PmxdRY8dwKC
+99,Midori ミドリ,Shinsekai,19 May 2010,"Hardcore Punk, Art Punk, Jazz Fusion","Noise Rock, Jazz Pop","manic, female vocals, chaotic, eclectic, noisy, dense, complex, playful","2,683",11,3.56,1foASzga4Z14ASSrGpEeeK
+100,Samsara Blues Experiment,Long Distance Trip,19 March 2010,"Stoner Rock, Psychedelic Rock, Jam Band","Heavy Psych, Raga Rock, Space Rock","psychedelic, instrumental, melodic, male vocals, technical, heavy","1,103",23,3.57,03syxBL4mJpov4UJXk5dZl
+101,Laurie Anderson,Homeland,22 June 2010,Art Pop,"Spoken Word, Dark Ambient, Electronic","meditative, female vocals, eclectic, melancholic, conscious",611,18,3.56,4ak54Q9kwqnyRL6yLkbFBO
+102,Susanne Sundfør,The Brothel,15 March 2010,"Art Pop, Electronic","Progressive Pop, Indietronica, Chamber Pop, Baroque Pop, IDM","female vocals, nocturnal, melancholic, sombre, atmospheric, lush, melodic, cold","1,042",14,3.57,55i1xklfjGXXS0On8cvoqr
+103,Птицу Емъ,Птицу Съем,2010,"Abstract Hip Hop, Comedy Rap",Synth Funk,"humorous, parody, sarcastic, satirical, sampling, LGBT, male vocals",318,7,3.58,2V7cvkKGZuYcOa15AgcKmk
+104,Erykah Badu,New Amerykah Part Two: Return of the Ankh,30 March 2010,Neo-Soul,"Funk, Contemporary R&B, Psychedelic Soul","female vocals, mellow, sensual, spiritual, love, lush, soothing, concept album","2,057",37,3.56,1MOub955Uer957RVqqkF2a
+105,Orden Ogan,Easton Hope,22 January 2010,"Power Metal, Symphonic Metal",Progressive Metal,"energetic, anthemic, concept album, melodic, death, epic, male vocals, passionate",298,10,3.57,1KZH0ojaZgqaGOjeAVBm0e
+106,Sharon Van Etten,Epic,11 October 2010,"Contemporary Folk, Singer-Songwriter","Indie Folk, Contemporary Country","female vocals, soothing, melancholic, sentimental, warm, bittersweet, breakup, autumn","1,419",15,3.57,7mfSdEokzQjI5AxwrRauZv
+107,Arjen Anthony Lucassen's Star One,Victims of the Modern Age,25 October 2010,"Progressive Metal, Rock Opera",Power Metal,"science fiction, female vocals, space, male vocals, rock opera, anthemic, apocalyptic, existential",632,17,3.56,7dXFOGg8zrBJwAgt29FN51
+108,Defeated Sanity,Chapters of Repugnance,4 May 2010,"Brutal Death Metal, Technical Death Metal",Slam Death Metal,"technical, dense, aggressive, death, misanthropic, uncommon time signatures, infernal, vulgar",694,12,3.55,2ELo0vZ2wT6IKp4Vu7wtLf
+109,Drunkdriver,Drunkdriver,July 2010,"Noise Rock, Hardcore Punk",Sludge Metal,"misanthropic, aggressive, noisy, raw, chaotic, hateful, nihilistic, angry",553,3,3.57,
+110,The Ex,Catch My Shoe,6 September 2010,"Post-Punk, Noise Rock",Art Punk,"noisy, rhythmic, anarchism, energetic, dissonant, uncommon time signatures, passionate, male vocals",482,8,3.57,5aPLa0fg9CttJMNia0MFAd
+111,Tulipa,Efêmera,30 May 2010,"MPB, Singer-Songwriter, Indie Pop","Art Pop, Indie Pop","happy, female vocals, soft, love, poetic, quirky, warm, lush",440,6,3.58,4jZncyAcIndHAVVlYG4vDk
+112,Kno,Death Is Silent,12 October 2010,"Southern Hip Hop, Conscious Hip Hop","Boom Bap, Cloud Rap","sad, death, lush, male vocals, nocturnal, rain, melancholic, sombre","1,880",68,3.54,7n1pCxPrizRrp95wz0nwbK
+113,DJ Rashad,Just a Taste,13 December 2010,Footwork,Juke,"rhythmic, sampling, repetitive, urban, energetic",733,9,3.56,
+114,Motorpsycho,Heavy Metal Fruit,15 January 2010,"Psychedelic Rock, Progressive Rock","Stoner Rock, Heavy Psych, Space Rock","psychedelic, progressive, male vocals, uncommon time signatures, energetic, mellow, complex",636,11,3.56,1kruI3y3LjLccKvkWGJabP
+115,Lunatic Soul,Lunatic Soul II,25 October 2010,"Progressive Rock, Art Rock",Ambient,"atmospheric, progressive, death, melancholic, male vocals, spiritual",563,10,3.56,5j0iKBSZxJIvu9FbOMKr5y
+116,Haken,Aquarius,29 March 2010,"Progressive Metal, Progressive Rock","Symphonic Metal, Symphonic Prog","male vocals, technical, epic, complex, progressive, playful, uplifting, energetic","1,311",31,3.54,6LClzoGjQnFSvPQrZNTOAF
+117,Agnes Obel,Philharmonics,4 October 2010,"Singer-Songwriter, Indie Folk, Chamber Folk",Chamber Pop,"female vocals, atmospheric, soothing, mellow, nature, melodic, winter, acoustic","1,306",15,3.55,79JZVTdAztJJEYm6xtDzBM
+118,Damu the Fudgemunk,How It Should Sound Volume 1 & 2,13 April 2010,"Instrumental Hip Hop, Boom Bap","Jazz, Jazz Rap",instrumental,371,8,3.58,5KIoOhlCq4pWV9aupB97KU
+119,Uncle Acid and The Deadbeats,Vol 1,13 February 2010,Heavy Psych,"Garage Rock, Traditional Doom Metal, Stoner Rock","psychedelic, heavy, male vocals, lo-fi, raw, Halloween, playful, humorous",765,11,3.56,6DmPPxmQL6PlRrWtjD4Eab
+120,Alberich,NATO-Uniformen,2010,"Power Electronics, Power Noise","Dark Ambient, Death Industrial, Minimal Synth, Drone, Spoken Word","war, martial, repetitive, noisy, rhythmic, hypnotic, cryptic, cold",688,16,3.56,5StYLopupQni3wLwfwvwkd
+121,Various Artists,Ecstatic Music of the Jemaa El Fna,11 May 2010,Gnawa,Psychedelic Rock,"psychedelic, improvisation, lo-fi, acoustic, energetic, raw, hypnotic, spiritual",249,7,3.70,
+122,Sun City Girls,Funeral Mariachi,28 September 2010,"Contemporary Folk, Avant-Folk","Psychedelic Folk, Arabic Music, Spaghetti Western, Avant-Folk","melancholic, sombre, death, atmospheric, bittersweet, desert, ominous, dark",789,11,3.55,1wabBN3j0QPOBKbjVpOBXP
+123,Amia Venera Landscape,The Long Procession,4 December 2010,"Post-Hardcore, Post-Metal","Ambient, Atmospheric Sludge Metal, Post-Rock, Mathcore","atmospheric, heavy, aggressive, male vocals, technical, epic, energetic, dense",590,13,3.55,3jwBVTqb4AkQIWUe67IwF0
+124,Barren Earth,Curse of the Red River,29 March 2010,"Progressive Metal, Melodic Death Metal",Death Doom Metal,"male vocals, melancholic, melodic, complex, heavy, dark, death, progressive",812,32,3.53,03JUhW0O1PgkuHTmTJhlm6
+125,Javiera Mena,Mena,1 September 2010,"Synthpop, Dance-Pop, Electropop",Electro-Disco,"romantic, mellow, female vocals, energetic, love, lush, soothing, uplifting",865,21,3.54,5sJ8qbvnUMa3I4yTOmCeBj
+126,Brendan Perry,Ark,March 2010,Darkwave,"Neoclassical Darkwave, Trip Hop",,755,27,3.55,23OKmQsrn7H3By7yBZuw78
+127,The Books,The Way Out,20 July 2010,"Folktronica, Electronic, Experimental","Glitch Pop, Field Recordings, Plunderphonics, Sound Collage, Spoken Word","sampling, humorous, surreal, abstract, male vocals, quirky, hypnotic, eclectic","2,159",39,3.54,7GutGLnvQaDBedEDbwHIvM
+128,Sharon Jones and The Dap-Kings,I Learned the Hard Way,6 April 2010,Soul,"Funk, Rhythm & Blues","female vocals, passionate",728,25,3.55,4FZCwaWGcFqd2CBiJUcHnx
+129,Dawnbringer,Nucleus,21 September 2010,Heavy Metal,Traditional Doom Metal,,317,5,3.55,0RybLqJ7SfjkWOjJcadgcO
+130,letlive.,Fake History,13 April 2010,Post-Hardcore,"Alternative Metal, Emo-Pop","energetic, political, angry, melodic, heavy, male vocals, passionate, aggressive",811,22,3.52,4NGL5wvv9sw44rshaAySWR
+131,The Menzingers,Chamberlain Waits,13 April 2010,Punk Rock,"Pop Punk, Emo, Post-Hardcore","male vocals, energetic, passionate, melodic",361,7,3.56,28Aru7ISGlwtqmnbLRnIq4
+132,Ancient Bards,The Alliance of the Kings: The Black Crystal Sword Saga Pt.1,26 February 2010,"Power Metal, Symphonic Metal",Progressive Metal,"melodic, triumphant, concept album, fantasy, epic, female vocals, energetic",325,19,3.55,46E2l00AyGutAu8IOHstsb
+133,The Birthday Massacre,Pins and Needles,14 September 2010,"Industrial Rock, Synthpop, Darkwave","Gothic Rock, Alternative Metal","female vocals, nocturnal, melodic, atmospheric, dark, melancholic, bittersweet",580,12,3.55,6VoutwXXcQBDbcZlmlYbxc
+134,The Fall,Your Future Our Clutter,26 April 2010,Post-Punk,"Experimental Rock, Electronic","male vocals, repetitive, energetic, sarcastic, minimalistic, raw, cryptic, abstract","1,290",45,3.54,2NXO4teNgqNgIFnMKJUjeF
+135,The Radio Dept.,Clinging to a Scheme,21 April 2010,"Dream Pop, Indie Pop","Shoegaze, Synthpop","romantic, warm, ethereal, male vocals, love, bittersweet, sad, mellow","3,959",51,3.53,6JPRvwSakxGHjMQM18AcAu
+136,Negură Bunget,Vîrstele pămîntului,15 March 2010,"Atmospheric Black Metal, Folk Metal, Pagan Black Metal",Romanian Folk Music,"pagan, forest, atmospheric, folklore, winter, acoustic, heavy, nature",996,23,3.54,6hePfqFUEF3B7kVepRYcWT
+137,The Black Crowes,Croweology,3 August 2010,Southern Rock,Blues Rock,male vocals,261,11,3.67,6V5oOvWQrsiRM9gKEKTjOo
+138,Weapon,From the Devil's Tomb,1 November 2010,Death Metal,Black Metal,"occult, satanic, melodic, heavy, epic, death",305,12,3.56,3Ny44SnX7J3uS0a53LJYp3
+139,Cloudkicker,Beacons,16 September 2010,"Progressive Metal, Djent","Post-Rock, Post-Metal, Math Rock","instrumental, rhythmic, repetitive, uncommon time signatures, heavy, technical, epic, progressive","1,012",21,3.53,34fV47uMb47zD5MAXrTYxq
+140,Triángulo de Amor Bizarro,Año Santo,3 May 2010,Noise Pop,"Post-Punk, Noise Rock, Shoegaze, Indie Rock","noisy, female vocals, rebellious, rhythmic, male vocals, energetic",497,9,3.54,4jC16srjYzrXrcP8GtXkxV
+141,Caribou,Swim,20 April 2010,Indietronica,"Microhouse, Neo-Psychedelia","psychedelic, lush, atmospheric, hypnotic, rhythmic, male vocals, melodic, aquatic","5,632",79,3.51,3gkW0gOyovtdcscDX6WZ6O
+142,Damien Jurado,Saint Bartlett,25 May 2010,"Singer-Songwriter, Contemporary Folk","Indie Folk, Slowcore",,399,7,3.55,4dQ1BuVOBccAdlaZstF5hN
+143,Pretty Maids,Pandemonium,14 May 2010,"Heavy Metal, Hard Rock",Symphonic Metal,"melodic, anthemic, male vocals",281,10,3.58,6woiM7erTputJurntci9w0
+144,Chubby Wolf,Ornitheology,June 2010,"Ambient, Drone",,"ethereal, meditative, atmospheric, mellow, instrumental, peaceful, melancholic, soft",554,4,3.55,4dega0gWD7FSUgngb3i3FL
+145,Sandwell District,Feed-Forward,December 2010,Techno,"Ambient Techno, Minimal Techno, Dub Techno","rhythmic, nocturnal, futuristic, repetitive, cold, instrumental","1,111",8,3.54,7qE9k9dvJP4q4rnVlCZStd
+146,Misery Index,Heirs to Thievery,11 May 2010,Deathgrind,Death Metal,"political, heavy, male vocals, manic, aggressive, technical, energetic",657,13,3.54,6naZwozOvZ7fcyaAWiroJj
+147,Negură Bunget,Măiestrit / Măiastru sfetnic,15 March 2010,"Atmospheric Black Metal, Black Metal",Neofolk,"forest, spiritual, progressive, epic, atmospheric, aggressive, nature, folklore",397,4,3.55,5CLnSHbgVHFKkbc3qSyNW2
+148,Nik Bärtsch's Ronin,Llyrìa,17 September 2010,"ECM Style Jazz, Post-Minimalism","Minimalism, Post-Minimalism, Avant-Garde Jazz",,267,1,3.62,29HTRjeCYwJtkbed9oHQsX
+149,MIA,ΛΛ Λ Y Λ,12 July 2010,"Industrial Hip Hop, UK Hip Hop, Electropop","Deconstructed Club, Synth Punk, Electro-Industrial, Glitch Hop, Electroclash","political, rebellious, mechanical, noisy, female vocals, eclectic, chaotic, avant-garde","5,254",97,3.50,6IH1d0LM9ITTPY1BTSXolc
+150,Ceremony,Rohnert Park,8 June 2010,Hardcore Punk,"Punk Rock, Garage Rock","aggressive, energetic, hateful, angry, nihilistic, pessimistic, manic","1,043",15,3.54,4GgEN2tP6Ltzg88qeG1yh6
+151,Todtgelichter,Angst,3 December 2010,Atmospheric Black Metal,Progressive Metal,"surreal, dark, cold, atmospheric, male vocals, depressive, female vocals, complex",472,15,3.54,04X4ihe7bwfRKnDEG3N8mI
+152,The Sword,Warp Riders,24 August 2010,"Stoner Metal, Heavy Metal",,"science fiction, male vocals, energetic, heavy, dense","1,470",45,3.53,1jMCfFpSAXIWJSVFlivTcK
+153,Johnny Cash,American VI: Ain't No Grave,23 February 2010,"Contemporary Folk, Americana, Country Gospel",Traditional Country,"spiritual, religious, male vocals, conscious, existential, happy, sad, melancholic","1,519",29,3.53,5PhCQ5zV8DEsMBnyiZbwKd
+154,Luísa Maita,Lero-lero,July 2010,MPB,"Samba, Downtempo, Bossa nova","soothing, melodic, female vocals, summer, urban, warm, sensual, passionate",366,9,3.55,5O694Awxt2ImBqjRD7Ig5v
+155,Year of No Light,Ausserwelt,26 April 2010,"Atmospheric Sludge Metal, Post-Rock, Post-Metal",,"instrumental, heavy, sombre, dark, atmospheric, cold, dense, epic",969,20,3.53,52tvri4Shg1b1Vn7NKm7oh
+156,Vanden Plas,The Seraphic Clockwork,4 June 2010,Progressive Metal,Symphonic Metal,male vocals,298,12,3.55,7wXrC7g0aC9xD1iYeOUEXq
+157,Curren$y,Pilot Talk,13 July 2010,Southern Hip Hop,Jazz Rap,"mellow, boastful, male vocals, drugs, lush, urban","1,757",42,3.52,22LIJCpimr12dCGiS9PoWS
+158,Black Country Communion,Black Country Communion,20 September 2010,"Hard Rock, Blues Rock",,male vocals,738,26,3.53,1zbHFfJffjyW7WOQfvrbvq
+159,Slough Feg,The Animal Spirits,26 October 2010,"Heavy Metal, US Power Metal",,"fantasy, male vocals",478,13,3.53,4Nq4w9RRgEoGm9PFmbk7YO
+160,Rhapsody of Fire,The Frozen Tears of Angels,30 April 2010,"Power Metal, Symphonic Metal","Neoclassical Metal, Progressive Metal, Neo-Medieval Folk","fantasy, melodic, male vocals, energetic",793,20,3.50,5PbS6yMlf8jbNVBQCQ7ZTT
+161,Melechesh,The Epigenesis,1 October 2010,Melodic Black Metal,"Folk Metal, Arabic Folk Music, Progressive Metal","heavy, ritualistic, fantasy, aggressive, mythology, male vocals, energetic, desert",699,17,3.53,0vmLfLMMHvOFM8iBFKpzCd
+162,Gazpacho,Missa Atropos,26 November 2010,"Art Rock, Progressive Rock",Alternative Rock,"melancholic, atmospheric, concept album, nocturnal, mellow, progressive, sad",435,10,3.53,5sv9KOyPmN0sVMzNIEa0GV
+163,Graham Lambkin / Jason Lescalleet,Air Supply,29 October 2010,"Musique concrète, Electroacoustic","Drone, Tape Music","instrumental, sparse, noisy, avant-garde, cold, warm, atmospheric",389,1,3.54,
+164,Orphaned Land,The Never Ending Way of ORwarriOR,25 January 2010,"Progressive Metal, Folk Metal","Israeli Folk Music, Arabic Folk Music, Death Metal","heavy, progressive, concept album, complex, male vocals","1,162",42,3.50,4QJ9HpRDdDUEBQxtz86BUD
+165,Various Artists,Bangs & Works Vol. 1: A Chicago Footwork Compilation,6 December 2010,Footwork,,"repetitive, sampling, rhythmic, raw, energetic, urban, party, minimalistic",471,6,3.54,2equHwDjogZfYOFfqyu5cw
+166,Dangers,"Messy, Isn't It?",1 January 2010,Hardcore Punk,Post-Hardcore,"anxious, aggressive, chaotic, hateful, angry, male vocals, energetic, self-hatred",370,7,3.54,0cidw9A84RmC9bxPM50bEV
+167,James Ferraro,Night Dolls With Hairspray,31 October 2010,"Hypnagogic Pop, Glam Punk","Glam Punk, Electronic, Sound Collage","lo-fi, androgynous vocals, playful, psychedelic, sexual, satirical, manic, vulgar","1,334",15,3.51,
+168,Curren$y,Pilot Talk II,22 November 2010,Southern Hip Hop,Jazz Rap,"mellow, drugs, boastful, lush, eclectic, male vocals, urban","1,095",23,3.52,2bwoxsf5kLa0S8ntnigLoJ
+169,Michael Pisaro-Liu & Taku Sugimoto,2 Seconds / B Minor / Wave,22 November 2010,"Indeterminacy, Electroacoustic, Reductionism",Drone,"calm, sparse, meditative, aleatory, minimalistic, hypnotic, instrumental, repetitive",299,3,3.55,
+170,Heathen,The Evolution of Chaos,25 January 2010,Thrash Metal,Heavy Metal,"melodic, male vocals",949,36,3.51,1h9HAwhe1qM9LD8QulcZZo
+171,Ash Borer / Fell Voices,Ash Borer / Fell Voices,2010,Atmospheric Black Metal,,raw,351,3,3.54,
+172,Balthazar,Applause,22 March 2010,"Indie Pop, Indie Rock","Chamber Pop, Dance-Punk, Alternative Dance","quirky, rhythmic, raw, male vocals, energetic",319,2,3.55,65cLDNPJ8bxWGBGKVNCl3w
+173,Oneohtrix Point Never,Returnal,18 June 2010,"Ambient, Progressive Electronic","Drone, Noise, Progressive Electronic","futuristic, atmospheric, hypnotic, cold, mellow, dense, ethereal, instrumental","3,621",27,3.50,
+174,Cleric,Regressions,26 April 2010,"Avant-Garde Metal, Mathcore","Drone Metal, Mathcore, Post-Metal, Sludge Metal, Grindcore","avant-garde, heavy, chaotic, uncommon time signatures, manic, male vocals, complex, noisy",387,7,3.51,3FAQOCEap58fkflB3dUftG
+175,Josh Ritter,So Runs the World Away,4 May 2010,Singer-Songwriter,"Contemporary Folk, Folk Rock","romantic, history, concept album, mysterious, epic, poetic, male vocals",386,20,3.55,2tW68ST0HkfLAZecYyiGQ7
+176,Screaming Females,Castle Talk,14 September 2010,Punk Rock,"Indie Rock, Garage Rock, Lo-Fi / Slacker Rock, Noise Pop","lo-fi, female vocals, energetic, raw",351,8,3.54,0E6kaZcIong1iyX0QfxPAL
+177,Crippled Black Phoenix,"I, Vigilante",6 September 2010,"Progressive Rock, Post-Rock",Art Rock,"melancholic, progressive, male vocals, passionate, mellow, atmospheric, sombre","1,467",18,3.52,2cMxPNQgkmrDqCVCeZnKPA
+178,ROME,Nos chants perdus,14 May 2010,Contemporary Folk,"Neofolk, Chanson","dark, sombre, poetic, male vocals",639,7,3.52,4yX7m0Z7wbp8LH685D3x40
+179,Terror,Keepers of the Faith,30 August 2010,"Hardcore Punk, Metalcore","Metalcore, Beatdown Hardcore","angry, aggressive, male vocals, energetic, heavy",523,11,3.53,6hu0pi5xOAgeHvXphLLc4W
+180,Mar de Grises,Streams Inwards,30 August 2010,"Death Doom Metal, Progressive Metal",,"ominous, complex, melodic, progressive, ethereal, lonely, melancholic, male vocals",473,11,3.52,3yq1zrvfQ93HoeW8SlTDrL
+181,Snowing,I Could Do Whatever I Wanted If I Wanted,3 December 2010,Midwest Emo,"Math Rock, Post-Hardcore","self-hatred, male vocals, alcohol, energetic, passionate, lonely, existential, melancholic","2,243",13,3.50,0MN9y3trlcSWH6ZXoVhs6P
+182,Avantasia,The Wicked Symphony,3 April 2010,"Rock Opera, Heavy Metal","Symphonic Metal, Hard Rock, Power Metal","energetic, melodic, rock opera, male vocals",787,19,3.50,50eAZuPQNZDzBIGXAQF3xX
+183,Tokyo Jihen 東京事変,スポーツ (Sports),24 February 2010,"Pop Rock, Alternative Rock, J-Pop","Jazz-Rock, Art Pop","female vocals, happy, warm, uplifting, melodic, playful, passionate, sports",463,5,3.53,5Gslq3e8XngG3BZfrpvhaU
+184,Dënver,"Música, gramática, gimnasia",27 October 2010,"Indie Pop, Synthpop","Chamber Pop, Electropop, Twee Pop, Indietronica, Alternative Dance","summer, bittersweet, love, mellow, female vocals, male vocals, rhythmic, melancholic",475,4,3.52,0LMGokh0DVVeWTJT7D49Xp
+185,Ares Kingdom,Incendiary,15 January 2010,"Death Metal, Thrash Metal",,"war, violence, triumphant",324,9,3.53,4S6kBtZuBsfPwxit0qYXYT
+186,Hidden Orchestra,Night Walks,20 September 2010,"Nu Jazz, Downtempo",Trip Hop,"instrumental, rhythmic, female vocals, nocturnal, atmospheric, mysterious",641,7,3.53,6mNmqo4Reo5Q8OmXGxV4xU
+187,Superchunk,Majesty Shredding,14 September 2010,Indie Rock,"Power Pop, Pop Punk","uplifting, melodic, playful, male vocals, energetic",703,21,3.51,072VzgOsZLEFnbUKh1XhD1
+188,Myrath,Desert Call,25 January 2010,Progressive Metal,"Symphonic Metal, Arabic Folk Music, Power Metal","male vocals, melodic, progressive, desert",450,15,3.52,3x5aAqCdwXsvisJZve1cwt
+189,StarGazer,A Great Work of Ages / A Work of Great Ages,7 September 2010,Technical Death Metal,Black Metal,"heavy, cryptic, complex, abstract, philosophical, technical, occult, male vocals",430,8,3.52,
+190,Suicidal Angels,Dead Again,19 November 2010,Thrash Metal,,"anxious, death, apocalyptic, nihilistic, anti-religious, misanthropic, energetic, aggressive",311,10,3.52,
+191,Various Artists,Fünf,5 November 2010,Minimal Techno,"Industrial Techno, Field Recordings","alienation, dark, mechanical, rhythmic, instrumental, hypnotic",298,10,3.53,2EVZjcKDJoBBEHL99SvPNe
+192,Dark Moor,Ancestral Romance,24 November 2010,"Symphonic Metal, Power Metal",Progressive Metal,"melodic, male vocals, history, fantasy",277,17,3.55,0f1mFsI6R95ZnUQh08xlhL
+193,Emeralds,Does It Look Like I'm Here?,24 May 2010,"Progressive Electronic, Ambient","Berlin School, Space Ambient","atmospheric, instrumental, repetitive, progressive, ethereal, futuristic, hypnotic, dense","2,484",37,3.50,0c0XkZh9vWXg473nchoArI
+194,Celph Titled & Buckwild,Nineteen Ninety Now,26 October 2010,"Boom Bap, East Coast Hip Hop, Hardcore Hip Hop",,"crime, rhythmic, vulgar, sampling, sexual, urban, boastful, male vocals",567,34,3.50,2sL8sDU6fvg3B1bHfY4xwN
+195,Donato Dozzy,K,June 2010,Ambient Techno,Minimal Techno,"warm, repetitive, mellow, hypnotic, atmospheric, meditative, soothing, dense",355,1,3.53,
+196,The Black Keys,Brothers,18 May 2010,Blues Rock,"Garage Rock, Swamp Rock, Soul, Psychedelic Rock","male vocals, passionate, psychedelic, energetic, love, longing, melodic, eclectic","7,680",129,3.46,7qE6RXYyz5kj5Tll7mJU0v
+197,Massimo Volume,Cattive abitudini,15 October 2010,"Post-Rock, Spoken Word",Post-Hardcore,"poetic, male vocals, melancholic, urban, breakup, sombre, love, passionate",440,8,3.53,24wUrxEOINZfcfJF2eJ6O2
+198,Kylesa,Spiral Shadow,25 October 2010,"Stoner Metal, Sludge Metal","Heavy Psych, Post-Metal","heavy, dense, female vocals, male vocals, psychedelic","1,430",32,3.51,2NNavvaS7LcOxryzfxSkgw
+199,Ascension,Consolamentum [red vinyl],24 December 2010,Black Metal,,"satanic, infernal, passionate, ominous, atmospheric, poetic, male vocals, dark",441,5,3.52,1DL779vwfDOKEFLP4KKqI0
+200,The Ocean,Anthropocentric,19 November 2010,Atmospheric Sludge Metal,"Progressive Metal, Post-Rock","philosophical, anti-religious, serious, heavy, male vocals, atmospheric, conscious, concept album","1,096",14,3.50,7I20NLpciK3T4NulbPttNN
+201,Big Blood,Dark Country Magic,1 December 2010,"Psychedelic Folk, Avant-Folk",Gothic Country,"mysterious, surreal, fantasy, autumn, occult, atmospheric, folklore, ritualistic",719,13,3.51,
+202,Univers Zéro,Clivages,January 2010,Avant-Prog,"Chamber Music, Rock in Opposition",,432,12,3.51,
+203,Brant Bjork,Gods & Goddesses,30 March 2010,Stoner Rock,"Blues Rock, Psychedelic Rock","psychedelic, male vocals, mellow",346,8,3.53,3mxDFwM071NvOFBScGday6
+204,The Soundcarriers,Celeste,2 August 2010,Neo-Psychedelia,"Psychedelic Pop, Krautrock","female vocals, repetitive, psychedelic, warm, mellow, male vocals",263,2,3.54,4WuKqrUQgk6bCtlIl7nIiS
+205,The Black Angels,Phosphene Dream,13 September 2010,Psychedelic Rock,"Neo-Psychedelia, Garage Rock Revival, Heavy Psych, Space Rock Revival","male vocals, psychedelic, heavy, dark, religious, drugs, ethereal, paranormal","1,232",28,3.50,76GyFrn5IwAYp2OGmhIlan
+206,Freeway & Jake One,The Stimulus Package,16 February 2010,"Boom Bap, Hardcore Hip Hop, East Coast Hip Hop",,,602,29,3.50,4rld8Qphe83JOytfivgKAx
+207,Solefald,Norrøn livskunst,15 November 2010,"Avant-Garde Metal, Progressive Metal",Melodic Black Metal,"quirky, progressive, melodic, male vocals, playful, uncommon time signatures, noisy, rhythmic",488,11,3.50,4ZG2QhA8atJWoDMv4ATRv8
+208,Intronaut,Valley of Smoke,12 October 2010,"Progressive Metal, Post-Metal","Atmospheric Sludge Metal, Post-Rock, Sludge Metal","concept album, heavy, complex, technical, progressive, male vocals, dense",865,21,3.50,2joFrKAJpkVTC19qmiCGIs
+209,S,I'm Not As Good at It As You,8 April 2010,"Slowcore, Singer-Songwriter","Contemporary Folk, Dream Pop","female vocals, lonely, depressive, introspective, pessimistic, sad",535,10,3.51,76kmiMgijjM8Q6aMxl876g
+210,Wuthering Heights,Salt,12 April 2010,"Power Metal, Progressive Metal",Folk Metal,"male vocals, energetic, progressive, epic, complex, concept album, poetic, playful",433,25,3.47,
+211,U.S. Christmas,Run Thick in the Night,21 September 2010,"Psychedelic Rock, Space Rock","Stoner Rock, Post-Rock, Space Rock Revival, Noise Rock","psychedelic, space, male vocals",314,3,3.52,4fXjFSJmVlJksXADxYyaPU
+212,Ty Segall,Melted,25 May 2010,"Garage Rock, Garage Punk","Psychedelic Rock, Lo-Fi / Slacker Rock","lo-fi, psychedelic, playful, energetic, noisy, raw, manic, surreal","2,451",25,3.49,5P0LN9xrnLY1By7mlkKtkx
+213,Watain,Lawless Darkness,7 June 2010,Black Metal,,"cold, aggressive, dark, male vocals, death, complex, melodic, satanic","1,296",20,3.48,2pQr4wN4SN9Ax3gdXDhrRz
+214,Winterfylleth,The Mercian Sphere,19 July 2010,"Atmospheric Black Metal, Pagan Black Metal","Folk Metal, Pagan Black Metal","atmospheric, history, pagan, folklore, male vocals, epic, energetic",415,3,3.51,1m9fiBT9dTzGCQ7lqZvs5c
+215,Grinderman,Grinderman 2,13 September 2010,Punk Blues,"Psychedelic Rock, Garage Rock, Noise Rock, Post-Punk","raw, male vocals, sexual, noisy, energetic","2,099",43,3.48,13v92RQAMAswi6KpZPWTuY
+216,Kiss the Anus of a Black Cat,Hewers of Wood and Drawers of Water,4 October 2010,"Alt-Country, Neofolk","Folk Rock, Gothic Country","dark, melancholic, ominous, cryptic, spiritual, sombre, atmospheric, male vocals",509,3,3.50,73MIBdVlQToNV9x7UI0Zyx
+217,Ghost,Opus Eponymous,18 October 2010,"Heavy Metal, Hard Rock","Traditional Doom Metal, Heavy Psych","satanic, occult, male vocals, melodic, dark, psychedelic, nocturnal, anthemic","5,815",112,3.45,1iHku1Vt79EP65KBqcepzI
+218,Waka Flocka Flame,Flockaveli,5 October 2010,"Trap, Dirty South, Gangsta Rap",Crunk,"aggressive, violence, energetic, urban, crime, party, male vocals, boastful","3,834",64,3.45,6MQtWELG7aRX7CkAzQ6nLM
+219,Lantlôs,.neon,11 June 2010,"Blackgaze, Post-Metal","Post-Rock, Atmospheric Black Metal","sombre, dark, dense, atmospheric, passionate, depressive, sad, nocturnal","2,113",33,3.48,1Rj4YOjtU3IM99vL6kQRdD
+220,Wovenhand,The Threshingfloor,22 June 2010,"Psychedelic Folk, Folk Rock","Gothic Country, Contemporary Folk","religious, melodic, ethereal, warm, mellow, spiritual, Christian, male vocals",758,11,3.50,1BQx4Rd6wcA65ECtRfppjP
+221,AfroCubism,Afrocubism,11 October 2010,"Guajira, Mande Music","Son cubano, Merengue","lush, summer, tropical, warm, acoustic, uplifting, playful, passionate",382,5,3.51,2xeis5rXeObCoxaSVqQd5E
+222,Swans,My Father Will Guide Me Up a Rope to the Sky,21 September 2010,"Experimental Rock, Post-Rock","Noise Rock, Folk Rock, Post-Punk","misanthropic, dark, ominous, dense, male vocals, atmospheric, mysterious, suspenseful","7,738",95,3.45,5qyGtkaN9N50H0YnK1zDza
+223,Connan Mockasin,Please Turn Me Into the Snat,17 May 2010,"Psychedelic Pop, Neo-Psychedelia",Hypnagogic Pop,"psychedelic, surreal, melancholic, hypnotic, aquatic, androgynous vocals, mellow","1,780",15,3.48,6ASxllcETeeIg5zoRvRt9P
+224,Circa Survive,Blue Sky Noise,20 April 2010,Alternative Rock,"Post-Hardcore, Art Rock, Emo","male vocals, melancholic, melodic, lonely, introspective, atmospheric, sad, pessimistic","1,240",26,3.47,6ReqSnPxGCkrH62o88YGcz
+225,The Third Eye Foundation,The Dark,8 November 2010,Atmospheric Drum and Bass,"Modern Classical, Drum and Bass, Illbient, Breakbeat","repetitive, hypnotic, mysterious, dark, sombre, depressive, atmospheric, ethereal",930,12,3.49,45Hcr8Vw85jOa3MHGxU39N
+226,Demdike Stare,Liberation Through Hearing,26 July 2010,"Dark Ambient, Ambient Dub","Dub Techno, Drone, Tribal Ambient","dark, occult, atmospheric, instrumental, nocturnal, ominous, anxious, disturbing","1,178",12,3.49,
+227,Amorphis,Magic & Mayhem: Tales From the Early Years,17 September 2010,"Melodic Death Metal, Progressive Metal","Death Doom Metal, Folk Metal","melodic, sombre, melancholic, aquatic, poetic, folklore, dense, progressive",467,9,3.49,7wEF5pZFKJv0O1Dln8b0Xj
+228,Rinoa,An Age Among Them,30 March 2010,"Screamo, Post-Hardcore, Post-Metal","Post-Rock, Atmospheric Sludge Metal","passionate, epic, atmospheric, bittersweet, male vocals, melancholic, progressive",359,9,3.49,4uZ7P3N6t1J4Wb5L6MkzcV
+229,Owen Pallett,Heartland,12 January 2010,"Chamber Pop, Art Pop, Folktronica","Baroque Pop, Singer-Songwriter, Post-Minimalism, Indietronica","lush, concept album, fantasy, orchestral, pastoral, poetic, playful, uncommon time signatures","2,787",62,3.47,3dUuHaMlliu2dvnsA1XNLi
+230,The Secret,Solve et Coagula,28 September 2010,"Metalcore, Crust Punk","Black Metal, Sludge Metal","aggressive, dark, chaotic, noisy, dense, anti-religious, apocalyptic, heavy",869,13,3.49,04DOt38CHg4KEbA7oHpBpw
+231,Bonobo,Black Sands,29 March 2010,Downtempo,"Nu Jazz, Trip Hop, Future Garage","lush, spring, summer, mellow, nature, female vocals, calm","3,444",41,3.47,5m1RkwKeU7MV0Ni6PH2lPy
+232,Rage,Strings to a Web,5 February 2010,"Power Metal, Heavy Metal",Symphonic Metal,"male vocals, energetic, melodic, orchestral",442,15,3.48,3PTMw41uMIDIUBpFb6szcx
+233,Dälek,Untitled,20 October 2010,"Drone, Experimental Hip Hop","Noise, Dark Ambient, Post-Rock, Spoken Word, Poetry","eclectic, atmospheric, apocalyptic, sombre, political, funereal, protest, dark",635,9,3.49,
+234,Devil Sold His Soul,Blessed & Cursed,12 July 2010,Post-Hardcore,"Atmospheric Sludge Metal, Post-Metal, Screamo","male vocals, melodic, epic, passionate, dense, progressive",334,6,3.48,4pKOsMsaHBxBBcoeCwgDvV
+235,Les Discrets,Septembre et ses dernières pensées,29 March 2010,"Shoegaze, Post-Metal","Blackgaze, Post-Rock, Dark Folk","atmospheric, ethereal, melodic, dark, melancholic, mysterious, nocturnal, male vocals","2,448",29,3.47,4mif1rLyMHyVYqanzFoJQN
+236,Madlib,Madlib Medicine Show: No. 3 - Beat Konducta in Africa,12 March 2010,"Instrumental Hip Hop, Experimental Hip Hop",African Music,"instrumental, rhythmic, sampling",471,14,3.48,3zmVgU4rBzl6xWRPp3xq2X
+237,Future Islands,In Evening Air,4 May 2010,"Synthpop, Indietronica","Indie Rock, Post-Punk, Indie Pop, Neo-Psychedelia","passionate, energetic, longing, melodic, romantic, anxious, breakup, melancholic","1,443",21,3.47,0bVZZUftetJmkK0Ms8S6Z0
+238,Rosetta,A Determinism of Morality,25 May 2010,"Atmospheric Sludge Metal, Post-Metal","Post-Rock, Post-Hardcore","male vocals, passionate, noisy","1,068",22,3.48,4FflwO9xirHp9pZQAXlvKn
+239,Celeste,Morte(s) Née(s),31 March 2010,"Sludge Metal, Post-Hardcore",Black Metal,"nihilistic, aggressive, misanthropic, dissonant, heavy, dark, angry, chaotic",916,8,3.47,0VdvT9esG5MO1xbEBUpUUV
+240,Locrian,The Crystal World,27 November 2010,"Drone, Dark Ambient","Post-Rock, Black Ambient, Noise","atmospheric, ominous, mysterious, apocalyptic, instrumental, minimalistic, dark, surreal",840,7,3.48,3fTZYHZHW4bPPhp0QqJlbR
+241,Ólafur Arnalds,...And They Have Escaped the Weight of Darkness,8 June 2010,Modern Classical,"Minimalism, Post-Rock, Ambient","melancholic, instrumental, sentimental, passionate, soft, soothing, bittersweet","1,081",7,3.47,7o4mIRr1MVq4dMgQiIsUw7
+242,Hour of Penance,Paradogma,30 March 2010,"Brutal Death Metal, Technical Death Metal",,"aggressive, technical, anti-religious, male vocals",616,15,3.47,25lBIgBkDKUPdDbXIsb2yG
+243,The Dreamers,Ipos: Book of Angels Volume 14,23 March 2010,"Jazz-Rock, Psychedelic Rock","Surf Rock, Klezmer, Exotica, Experimental Rock","instrumental, improvisation, technical",248,9,3.60,
+244,Mystery,One Among the Living,1 May 2010,Progressive Rock,"Neo-Prog, Progressive Metal, Symphonic Prog","male vocals, passionate, melodic, progressive",240,11,3.63,4AVuhYtfRc4BiEXEDtL1SM
+245,Pantha du Prince,Black Noise,8 February 2010,"Microhouse, Minimal Techno",Ambient Techno,"repetitive, atmospheric, minimalistic, mellow, hypnotic, rhythmic, winter, nocturnal","2,833",56,3.46,78KUNC4qL12HKWSmmG2u7P
+246,Electric Wizard,Black Masses,1 November 2010,"Stoner Metal, Doom Metal",Heavy Psych,"heavy, occult, raw, dark, psychedelic, male vocals, satanic, apocalyptic","2,422",45,3.46,7w7fmy8gRYMrXICyG2c8ai
+247,High on Fire,Snakes for the Divine,23 February 2010,"Stoner Metal, Heavy Metal","Sludge Metal, Thrash Metal","heavy, dark, fantasy, violence, melodic, death, epic, aggressive","1,656",42,3.47,064du5ghHslVEkh80bT7wr
+248,Jim Ferraro,On Air,17 May 2010,Hypnagogic Pop,"Progressive Electronic, Sound Collage, Ambient, New Age, Rock & Roll","lo-fi, avant-garde, surreal, psychedelic, lobit, atmospheric, male vocals, dense",534,10,3.47,
+249,Rafael Anton Irisarri,The North Bend,31 August 2010,Ambient,"Drone, Tape Music","atmospheric, instrumental, meditative, melancholic, calm, cold",347,1,3.50,3shTrlzOfHSioZTeqqoozJ
+250,Jana Winderen,Energy Field,March 2010,"Nature Recordings, Electroacoustic, Field Recordings","Animal Sounds, Drone, Lowercase","aquatic, hypnotic, atmospheric, cold, sparse, suspenseful, soft, nature",417,2,3.49,4CjYDxAbKfpKmVDxc11H2j
+251,Pathfinder,"Beyond the Space, Beyond the Time",4 August 2010,"Power Metal, Symphonic Metal","Neoclassical Metal, Progressive Metal","fantasy, energetic, epic, male vocals, triumphant, melodic, anthemic, uplifting",345,15,3.43,
+252,Mike Patton,Mondo cane,4 May 2010,"Traditional Pop, Italo Pop","Baroque Pop, Cabaret","male vocals, passionate, uplifting, playful, lush, orchestral, anxious, Wall of Sound","1,509",31,3.46,0KPioQznhEUS4YHBHahAH0
+253,Dessa,A Badly Broken Code,19 January 2010,"Conscious Hip Hop, Hip Hop, Abstract Hip Hop","Singer-Songwriter, Slam Poetry",female vocals,625,25,3.47,1TAbvSOlQU1KqPNdZ0vDJR
+254,Lone,Emerald Fantasy Tracks,29 November 2010,House,"Acid House, IDM, Acid Breaks","instrumental, ethereal, repetitive, uplifting, summer, melodic, warm, rhythmic",784,12,3.48,6fK8INtkp35d3amlIoTTYJ
+255,Max Richter,Infra,19 July 2010,Modern Classical,"Ambient, Post-Minimalism","hypnotic, instrumental, melancholic, mellow",672,6,3.48,7zwjum4hz8odYpeZrSZyz2
+256,Kalmah,12 Gauge,3 March 2010,Melodic Death Metal,Power Metal,"male vocals, melodic, aggressive, energetic",615,10,3.47,09Tr6ym6rE3x9btLUk2KNt
+257,The Budos Band,The Budos Band III,10 August 2010,"Funk, Jazz-Funk, Deep Funk",Afrobeat,"instrumental, rhythmic, epic, psychedelic, ominous",472,11,3.49,5BJCJrQUmzt5mgoGCM5SYL
+258,Foals,Total Life Forever,10 May 2010,Indie Rock,"Dream Pop, Math Rock","male vocals, atmospheric, melancholic, bittersweet, melodic, repetitive, aquatic, ethereal","3,906",53,3.45,0TN9abNwnSnMW3jxw6uIeL
+259,Autechre,Oversteps,22 February 2010,IDM,"Ambient, Glitch, Ambient Techno","futuristic, atmospheric, melodic, lush, surreal, abstract, avant-garde, ethereal","3,055",49,3.45,5iaRpin36ZjaOC6PMAZ02l
+260,Shining,Blackjazz,25 January 2010,"Avant-Garde Metal, Progressive Metal","Industrial Metal, Avant-Garde Jazz, Brutal Prog, Electronic","chaotic, technical, heavy, manic, noisy, avant-garde, male vocals, progressive","1,684",54,3.44,1sXcNLAnHDZJ6hEwr0Psg8
+261,Allo Darlin',Allo Darlin',7 June 2010,"Twee Pop, Indie Pop",Jangle Pop,"romantic, female vocals, warm, uplifting, love, melodic, summer, happy","1,239",40,3.46,00r8ZlXYm0KLyHHjgyqXa5
+262,Mulatu Astatke,Mulatu Steps Ahead,29 March 2010,Afro-Jazz,Ethio-Jazz,,312,11,3.49,6aJ3WNQtOA7JdnhMUdYAUJ
+263,Sleigh Bells,Treats,11 May 2010,Noise Pop,"Electropop, Noise Rock, Post-Industrial, Electro-Industrial, Rap Rock","noisy, female vocals, energetic, rebellious, boastful, melodic, summer, lo-fi","5,106",147,3.42,0mOqNvTz8ls00W4ipgx3Sy
+264,Menomena,Mines,27 July 2010,Indie Rock,"Art Pop, Art Rock, Experimental Rock, Piano Rock","melancholic, male vocals, anxious, eclectic, longing, quirky, melodic, passionate","1,354",35,3.46,4J9Y4MOWoHy9HDv2VHXz73
+265,Haus Arafna,You,1 December 2010,"Minimal Wave, Industrial","Power Electronics, Minimal Synth",,351,4,3.47,2P8YYJbkmx9rD0eZqiWUGT
+266,Buckethead,Shadows Between the Sky,6 February 2010,Acoustic Rock,"Ambient, Progressive Rock, Post-Rock","technical, instrumental, mellow",317,11,3.48,2N04jkPlyLMMGevNshOkjz
+267,Zs,New Slaves,11 May 2010,"Noise Rock, Experimental Rock, Brutal Prog","Free Improvisation, Drone, Post-Minimalism, Math Rock","instrumental, noisy, repetitive, rhythmic, energetic, improvisation, chaotic, hypnotic","1,244",24,3.45,5n9zYnJNMKAf5cuXmAtMXB
+268,Junip,Fields,10 September 2010,Indie Folk,"Folktronica, Psychedelic Folk, Jazz Pop","warm, atmospheric",670,18,3.47,2S81NPoxd3E2gd261BSo5X
+269,Karma to Burn,Appalachian Incantation,11 May 2010,Stoner Rock,Stoner Metal,"instrumental, heavy",284,8,3.50,360cuWHqZlZvtVnKRilMYk
+270,Throes of Dawn,The Great Fleet of Echoes,19 February 2010,"Progressive Metal, Progressive Rock",Gothic Metal,"melodic, ethereal, male vocals",268,7,3.52,2C1DAncTNdeffa3hvRDJaz
+271,Vampire Weekend,Contra,12 January 2010,Indie Pop,"Art Pop, Indie Rock","melodic, warm, romantic, playful, male vocals, lush, happy, uplifting","10,853",198,3.40,23dMwCv6redn6pcyliSlGk
+272,Cough,Ritual Abuse,26 October 2010,"Doom Metal, Sludge Metal","Heavy Psych, Stoner Metal, Drone Metal, Black Metal","psychedelic, heavy, dense, death, occult, depressive, male vocals, ritualistic",635,10,3.47,2qqdeJkBiiZUEyxf4LneJg
+273,Phosphorescent,Here's to Taking It Easy,11 May 2010,"Americana, Alt-Country",Country Rock,"warm, poetic, male vocals, improvisation",499,9,3.47,4sTAm69ywwchjmQydpCOFh
+274,Cloud Rat,Cloud Rat,10 June 2010,Grindcore,"Screamo, Crust Punk, Sludge Metal, Metalcore","dissonant, heavy, raw, female vocals, aggressive, melancholic, chaotic, melodic",366,4,3.48,3RTrz7gTEOAZM1em2A8XuF
+275,Julie Christmas,The Bad Wife,9 November 2010,"Alternative Rock, Post-Metal, Alternative Metal","Post-Hardcore, Atmospheric Sludge Metal","heavy, female vocals, anxious, raw, dark, melancholic, atmospheric, passionate",407,13,3.47,6DtzWLC3AccDVPHUM2i2QM
+276,Alpinist,Lichtlærm,2 October 2010,"Crust Punk, Neocrust","Screamo, Sludge Metal",,295,1,3.49,6Hlyeg9ByScgcsLLAA9LRC
+277,Warpaint,The Fool,26 October 2010,"Dream Pop, Neo-Psychedelia",Psychedelic Pop,"ethereal, female vocals, atmospheric, psychedelic, melodic, bittersweet, abstract, introspective","2,889",36,3.44,1gXKtAtrUSnwExgSN76QiK
+278,Hype Williams,Untitled,June 2010,Hypnagogic Pop,"Ambient Dub, Tribal Ambient, Free Folk","lo-fi, hypnotic, tribal, psychedelic, surreal, nocturnal, atmospheric, mysterious",643,5,3.46,
+279,World's End Girlfriend,Seven Idiots,14 September 2010,"Experimental Rock, Electronic","Modern Classical, Glitch, Post-Rock, Noise, Avant-Garde Jazz","eclectic, manic, instrumental, complex, apocalyptic, progressive, chaotic, avant-garde",931,20,3.43,5d0Ox6ymrfHOqx7C6tpdcO
+280,Frightened Rabbit,The Winter of Mixed Drinks,1 March 2010,"Indie Rock, Indie Pop",,"male vocals, passionate, melodic, atmospheric, alcohol, introspective, melancholic, anxious",963,29,3.46,7EK2TBB8TotPEFYWA9aCiJ
+281,Robert Plant,Band of Joy,10 September 2010,Americana,"Folk Rock, Alt-Country",,840,22,3.46,1lHM19gFkQvhGO45shWjti
+282,Attic Abasement,Dancing Is Depressing,3 April 2010,"Lo-Fi / Slacker Rock, Slowcore","Bedroom Pop, Midwest Emo, Slowcore, Indie Folk","misanthropic, sad, melancholic, anxious, alcohol, dark, existential, vulgar",566,2,3.46,1SjuURMUFFnglX51TLBrli
+283,Foxy Shazam,Foxy Shazam,13 April 2010,"Glam Rock, Alternative Rock","Piano Rock, Pop Rock","anthemic, uplifting, melodic, energetic, male vocals, passionate, optimistic, playful",512,7,3.44,4dhCjrqhvcGuIAcP2JIVaR
+284,Actress,Splazsh,17 May 2010,"Microhouse, Tech House","Glitch, Minimal Techno, Outsider House, Microhouse, Techno","futuristic, repetitive, hypnotic, rhythmic, atmospheric, surreal, mechanical, psychedelic","2,770",34,3.44,6juLSi9BFmVwOjs7pAThZm
+285,Twin Shadow,Forget,15 November 2010,Synthpop,"Dream Pop, New Wave, Chillwave","warm, romantic, playful, melancholic, summer, bittersweet, lush, love","1,955",39,3.44,6uCdsaOGhUNJwjgGnDFIZ4
+286,Jaga Jazzist,One-Armed Bandit,25 January 2010,"Progressive Rock, Jazz-Rock","Post-Rock, Jazz Fusion, Nu Jazz","instrumental, mysterious, suspenseful, complex, energetic, progressive",999,32,3.45,6Gk0nFXMulJtAle3W4vXF1
+287,Atlantean Kodex,The Golden Bough,4 October 2010,"Heavy Metal, Epic Doom Metal",,epic,408,6,3.47,6VaNCTqvVmsvN7aqega8mq
+288,Grave Digger,The Clans Will Rise Again,1 October 2010,"Heavy Metal, Power Metal",Scottish Folk Music,"history, male vocals, energetic",320,5,3.47,2CjJvORn71R28G3Y4FKZhJ
+289,Fear Factory,Mechanize,9 February 2010,Industrial Metal,"Groove Metal, Cyber Metal","apocalyptic, anxious, rhythmic, futuristic, mechanical, heavy, aggressive, male vocals","1,325",44,3.44,4DScqkdjLJ7erAjCmrhshW
+290,Midlake,The Courage of Others,2 February 2010,"Folk Rock, Indie Folk",Progressive Folk,"melancholic, sombre, dark, forest, introspective, male vocals, lush, depressive","1,491",63,3.44,75mRdr4HtsVKWJ11hrqZ79
+291,Demdike Stare,Forest of Evil,26 April 2010,Ambient Dub,"Dark Ambient, Dub Techno","dark, atmospheric, rhythmic, forest, instrumental",694,9,3.46,1iL6zxBV3lAxiC2ZdpOY5d
+292,Winterhorde,Underwatermoon,30 July 2010,"Melodic Black Metal, Progressive Metal","Symphonic Black Metal, Folk Metal, Symphonic Metal","epic, male vocals, energetic, progressive",302,12,3.46,29geSf6O1YnJ2sak7LqDWd
+293,Dark Fortress,Ylem,22 January 2010,Melodic Black Metal,Progressive Metal,male vocals,416,8,3.46,0aV9OBVMfgDauz5noYc60I
+294,Sabbath Assembly,Restored to One,22 June 2010,Psychedelic Rock,Psychedelic Folk,occult,329,8,3.46,1J6c4YnDXPJ1ps69HeDWa2
+295,Tonetta,777,29 May 2010,"Dance-Punk, Lo-Fi / Slacker Rock","Hypnagogic Pop, Noise Pop, Singer-Songwriter","hedonistic, lo-fi, sexual, drugs, male vocals, noisy, quirky, vulgar",912,17,3.44,
+296,In Mourning,Monolith,25 January 2010,"Melodic Death Metal, Progressive Metal",,"male vocals, sombre, progressive, poetic, melodic, death, heavy, introspective",702,22,3.44,64DR2tvAaUwCD1STWpUHIx
+297,Harvey Milk,A Small Turn of Human Kindness,18 May 2010,"Sludge Metal, Doom Metal",Drone Metal,"heavy, lethargic",467,22,3.44,1cRYWNrCbaa9INGASey6aT
+298,Author & Punisher,Drone Machines,2010,"Industrial Metal, Drone Metal","Doom Metal, Power Noise","mechanical, dark, sombre, heavy, apocalyptic, dissonant, male vocals, avant-garde",316,2,3.47,4tqN4hO7hnboeQG4VE0JFl
+299,Black Breath,Heavy Breathing,30 March 2010,"Crust Punk, Death 'n' Roll",,"death, heavy, rhythmic, male vocals, dense, occult, energetic, aggressive",632,11,3.45,0OSsdWMVD1BHARpRj8AYTV
+300,Mavis Staples,You Are Not Alone,14 September 2010,"Gospel, Rhythm & Blues, Soul",Country Soul,"female vocals, Christian, warm, uplifting, melodic, passionate",255,9,3.53,5o5TBMTI6OUnM6aDSWOFxV
+301,Gnaw Their Tongues,L'arrivée de la terne mort triomphante,27 September 2010,"Black Ambient, Martial Industrial","Noise, Drone Metal, Death Industrial, Black Noise","noisy, dark, apocalyptic, disturbing, epic, heavy, dense, ominous",812,11,3.43,4eFosJMCNcn9uSd6IXWMPu
+302,Laura Veirs,July Flame,12 January 2010,"Indie Folk, Singer-Songwriter",Contemporary Folk,female vocals,507,24,3.45,7u4ILhoAXiLezUEAOvKi8l
+303,Mark McGuire,Living With Yourself,1 October 2010,Ambient,"Post-Rock, Drone, American Primitivism","atmospheric, bittersweet, passionate, sentimental",413,3,3.45,0AT7IX2DuUhYyAaHDtNzWx
+304,Solution .45,For Aeons Past,9 April 2010,Melodic Death Metal,Progressive Metal,"male vocals, heavy, energetic, melodic",384,16,3.44,5JCd7UHTwDifb2wD5azLqh
+305,Lazerhawk,Redline,15 January 2010,Synthwave,"Hi-NRG, Italo-Disco","futuristic, rhythmic, energetic, mechanical, instrumental, playful",667,10,3.45,0A9H0uAwdTCWNofsksO2fX
+306,Dødsengel,Mirium Occultum,10 January 2010,"Black Metal, Atmospheric Black Metal",,occult,356,3,3.46,75oMnd3O6E9QEaPnGzawWa
+307,Ea,Au ellai,25 February 2010,Funeral Doom Metal,,"epic, mysterious, funereal, atmospheric, sombre, cryptic, apocalyptic, male vocals",284,8,3.45,3awo4ghuxWMlPZPfqLRdB4
+308,OFF!,First Four EPs,14 December 2010,Hardcore Punk,,"misanthropic, rebellious, angry, aggressive, anxious, existential, male vocals","1,085",32,3.43,4RbG8CVXYo3in9d1cVAZnt
+309,Angus & Julia Stone,Down the Way,12 March 2010,"Folk Pop, Indie Folk",Indie Pop,,"1,003",20,3.43,1Ib6a1XRZ0vOzFSr2BPiWe
+310,Oceansize,Self Preserved While the Bodies Float Up,6 September 2010,Progressive Rock,"Post-Rock, Alternative Rock","progressive, passionate, melancholic, male vocals, uncommon time signatures, eclectic",861,30,3.43,6c4wO7UVf6N7ro8DBww5Bt
+311,Shad,TSOL,25 May 2010,Conscious Hip Hop,Boom Bap,"mellow, political, uplifting, male vocals, conscious, optimistic",617,17,3.45,6YjlYwMzmwlwZcm4EUX5R9
+312,Treat,Coup de grâce,19 March 2010,"Hard Rock, AOR",,,253,9,3.54,5N7m9iTqbyu6MxwF5qBFKQ
+313,Hype Williams,"Find Out What Happens When People Stop Being Polite, and Start Gettin' Reel",7 December 2010,Hypnagogic Pop,"Chopped and Screwed, Plunderphonics, Minimal Wave, Dub, Vaporwave","surreal, deadpan, lo-fi, nocturnal, hypnotic, mysterious, psychedelic, urban","1,478",15,3.43,
+314,Dead Letter Circus,This Is the Warning,14 May 2010,Alternative Rock,"Progressive Rock, Space Rock Revival","energetic, passionate, male vocals, progressive, introspective, complex",381,11,3.44,358GkVbGoo9mrJzZgrkBh8
+315,Hour of 13,The Ritualist,26 February 2010,"Traditional Doom Metal, Doom Metal",Heavy Metal,"satanic, dark, nocturnal",265,4,3.53,5U1rbStZbWezWhsy3YCGM6
+316,Everything Everything,Man Alive,30 August 2010,"Progressive Pop, Indie Pop, Art Pop","Indietronica, Math Rock, Post-Punk Revival","energetic, quirky, rhythmic, playful, progressive, complex, apocalyptic, uncommon time signatures","1,786",36,3.42,6KxCOjAolNLhEGNDoj1tAV
+317,Everyone Everywhere,Everyone Everywhere,4 May 2010,Midwest Emo,,"summer, melodic, energetic, male vocals, melancholic, bittersweet, playful, mellow",440,5,3.45,0lhxjgSlmjsxUKqDHwJSRo
+318,Agrypnie,16[485],15 January 2010,Melodic Black Metal,"Atmospheric Black Metal, Progressive Metal, Blackgaze, Depressive Black Metal","male vocals, dark, atmospheric, melodic, progressive, sombre, melancholic, complex",383,13,3.42,29PiOgt8AnRFZQtiBgHxmz
+319,Ion Dissonance,Cursed,23 August 2010,Mathcore,"Djent, Deathcore","heavy, complex, technical, aggressive, dissonant, chaotic, angry, rhythmic",395,8,3.45,32xoqJwyGORmToNps5FrnZ
+320,Dark Time Sunshine,Vessel,20 April 2010,"Abstract Hip Hop, West Coast Hip Hop",Experimental Hip Hop,male vocals,350,8,3.45,0rgRcQFbj0gH2VcSLxdmHc
+321,Car Seat Headrest,3,16 July 2010,"Lo-Fi / Slacker Rock, Noise Pop","Psychedelic Rock, Psychedelic Pop, Singer-Songwriter","LGBT, lo-fi, summer, male vocals, raw, depressive, longing, love","1,438",19,3.42,
+322,Andrea Ferraris § Matteo Uggeri with Mujika Easel and Andrea Serrapiglio,"Autumn Is Coming, We're All in Slow Motion",18 October 2010,"Ambient, Field Recordings, Free Folk","Nature Recordings, Sound Collage, Musique concrète","warm, longing, atmospheric, aquatic, autumn, calm, urban, bittersweet",257,3,3.59,2yuONFbWG0TOElP3LkG6bg
+323,Villagers,Becoming a Jackal,24 May 2010,"Indie Pop, Indie Folk","Singer-Songwriter, Chamber Pop","autumn, melodic, male vocals",655,15,3.44,7iv57BJ8hQM3Zo8wfZ65Nx
+324,The Soft Moon,The Soft Moon,16 November 2010,Post-Punk,"Synth Punk, Minimal Wave, Darkwave","dark, atmospheric, rhythmic, sombre, repetitive, cold, hypnotic, ominous","1,886",15,3.42,47f4fYR89dSUgLY1UIpe49
+325,Mass of the Fermenting Dregs,"ゼロコンマ、色とりどりの世界 (Zero Comma, Irotoridori no Sekai)",4 August 2010,"Alternative Rock, J-Rock, Post-Hardcore","Noise Rock, Shoegaze, Power Pop","noisy, female vocals, melodic, bittersweet, energetic","1,786",6,3.43,4lE2W9dGFUWe8pjpM6QNWF
+326,Ratt,Infestation,20 April 2010,"Hard Rock, Glam Metal",,,397,24,3.44,6JyWOtu120mtrWNXcR2KdB
+327,Mark Fell,Multistability,29 November 2010,Glitch,"Post-Minimalism, Juke, IDM","avant-garde, minimalistic, futuristic, abstract, repetitive, mechanical, hypnotic, noisy",352,8,3.44,20SbNIxhiKFAYq59fTdQ1c
+328,Apati,Morgondagen inställd i brist på intresse,1 June 2010,Post-Rock,"Depressive Black Metal, Shoegaze, Blackgaze","self-hatred, melancholic, bittersweet, urban, depressive, suicide, apathetic, lethargic",380,5,3.44,0XeFhw7E5L9eMtqciyticK
+329,The Flashbulb,Arboreal,8 June 2010,IDM,"Ambient, Breakcore, Post-Rock, Downtempo, Nu Jazz","nocturnal, ethereal, sombre, melancholic, lonely, uplifting, longing, winter",464,9,3.44,2NarRlVgmXWg127qEdPMDg
+330,Ruger Hauer,Se syvenee syksyllä,24 November 2010,"Conscious Hip Hop, Hip Hop",Boom Bap,"dark, pessimistic, rhythmic, conscious, melancholic, male vocals",255,,3.65,48yAxhzmkxsZ97MKnKhqO6
+331,Linda Martini,Casa ocupada,1 November 2010,"Alternative Rock, Post-Rock, Post-Hardcore","Post-Hardcore, Post-Rock","atmospheric, male vocals",258,2,3.63,2VXdjUCXikupHdEzUuiNER
+332,Wild Nothing,Gemini,25 May 2010,"Dream Pop, Indie Pop, Bedroom Pop","Jangle Pop, Indie Surf","lush, warm, summer, mellow, ethereal, playful, male vocals, melancholic","3,294",49,3.42,2UoAYpQzSNLuW47goFJE5x
+333,White Lung,It's the Evil,15 June 2010,"Punk Rock, Noise Rock","Post-Hardcore, Riot Grrrl","energetic, female vocals, rebellious, melodic, angry",550,9,3.44,5cqm9zOKIQSx6nlVmsbgQ2
+334,Masterplan,Time to Be King,21 May 2010,"Power Metal, Heavy Metal","Symphonic Metal, Hard Rock",male vocals,409,14,3.43,2gPZYapQW60CKZFdUglTPL
+335,The Like,Release Me,15 June 2010,"Indie Pop, Power Pop","Girl Group, Sunshine Pop, Brill Building","melodic, female vocals, pessimistic, energetic, playful, passionate, rebellious",331,17,3.45,1Q7a5Xbv5g57d7XVwI5uM2
+336,The Chemical Brothers,Further,7 June 2010,"Electronic, Neo-Psychedelia","Electro House, Progressive House, New Rave","noisy, uplifting, aquatic, triumphant, repetitive, melodic, warm, psychedelic","1,701",42,3.42,5EOAvD6xmE1g9XV49wFzNG
+337,The Body,All the Waters of the Earth Turn to Blood,27 July 2010,"Sludge Metal, Drone Metal","Choral, Avant-Garde Metal","misanthropic, atmospheric, apocalyptic, ominous, noisy, abstract, cold, depressive","1,136",10,3.42,6ybLpoweyJw6W2Qvs6NaD3
+338,Natural Snow Buildings,The Centauri Agent,17 March 2010,"Drone, Ambient","Psychedelic Folk, Free Folk","space, ethereal, bittersweet, lush, calm, dense, repetitive, melodic",746,14,3.43,
+339,Eluvium,Static Nocturne,15 October 2010,"Ambient, Drone",Noise,"hypnotic, warm, atmospheric, repetitive, sad, noisy, pastoral",321,15,3.44,
+340,H.e.a.t,Freedom Rock,12 May 2010,"Hard Rock, AOR",Glam Metal,,237,8,3.60,7wjcvi5LBq0L9jx2BHx32h
+341,Helloween,7 Sinners,29 October 2010,Power Metal,Heavy Metal,"energetic, melodic, male vocals, fantasy","1,068",38,3.40,1v8qILeo9UgtQ8hmTi9XoV
+342,Trampled by Turtles,Palomino,13 April 2010,"Alt-Country, Americana",Bluegrass,male vocals,273,5,3.51,5sT4iQKiMLVJvOQKPVxn62
+343,Kid Cudi,Man on the Moon II: The Legend of Mr. Rager,9 November 2010,"Pop Rap, Art Pop","Neo-Psychedelia, Electropop, Emo Rap, Alternative R&B, Art Pop","drugs, depressive, male vocals, nocturnal, lonely, atmospheric, melodic, suicide","7,353",40,3.38,08eM9GRdr5BCCHNqS3Wwud
+344,Joe Bonamassa,Black Rock,22 March 2010,Blues Rock,,,332,6,3.43,2tok8dzuedE1gFXHOG6JwV
+345,Ô Paon,Courses,7 September 2010,"Singer-Songwriter, Indie Folk",Psychedelic Folk,"minimalistic, female vocals, acoustic",329,5,3.44,7DCBRR3344fLdOCYqtqp1R
+346,Aorlhac,La cité des vents,30 June 2010,Melodic Black Metal,Pagan Black Metal,male vocals,241,2,3.59,0S1AsMwCPJSUORfLph85qV
+347,The Contortionist,Exoplanet,31 August 2010,"Deathcore, Progressive Metal, Djent",Post-Metal,"science fiction, space, heavy, futuristic, aggressive, uncommon time signatures, atmospheric, progressive","1,096",25,3.39,2dZCgrDrOotvOz6zQrMce3
+348,Duran Duran,All You Need Is Now,21 December 2010,"Synthpop, New Wave","Pop Rock, Electropop, New Romantic, Dance-Pop","male vocals, energetic, mellow, anxious, nocturnal, melancholic, anthemic, party",593,19,3.42,62GV3Divn33jdmGTbsAbI9
+349,A Forest of Stars,Opportunistic Thieves of Spring,1 June 2010,Atmospheric Black Metal,"Chamber Music, Dark Ambient","female vocals, psychedelic, atmospheric, male vocals, hypnotic",606,13,3.42,3usxIuweQfXLBfjJn4cshq
+350,The Divine Comedy,Bang Goes the Knighthood,31 May 2010,"Chamber Pop, Indie Pop, Baroque Pop",,"playful, bittersweet, humorous, satirical, sarcastic, male vocals",578,19,3.42,4pFkI7o1FTl2wWon60zrog
+351,Machinae Supremacy,A View From the End of the World,3 November 2010,"Power Metal, Alternative Metal",Chiptune,"anti-religious, epic, male vocals, melodic",300,7,3.44,5s2IupBxnx8IykF5Jy8FYc
+352,Gepe,Audiovisión,17 May 2010,"Indie Pop, Singer-Songwriter","Folktronica, Indigenous Andean Music, Chamber Pop, Latin Pop","male vocals, longing, calm, lush, eclectic, love, melodic",256,5,3.55,3gbz7K4IwEupgQ1ZgLhzNQ
+353,Hail of Bullets,On Divine Winds,11 October 2010,Death Metal,,"war, aggressive",405,4,3.42,
+354,Baths,Cerulean,22 June 2010,"Glitch Pop, Glitch Hop","Indietronica, Dream Pop","sentimental, love, playful, lush, surreal, LGBT, psychedelic, rhythmic","2,953",34,3.39,66Pk1ZQyHpMjF2Fm7qjqQY
+355,Death Angel,Relentless Retribution,3 September 2010,Thrash Metal,,"energetic, aggressive, heavy, male vocals",641,18,3.42,7yuDvgPOmxJ4lsEMNciZ5H
+356,More Than Life,Love Let Me Go,1 May 2010,Melodic Hardcore,,"energetic, passionate, melodic, angry, male vocals",474,5,3.41,2jAkv87zBOn3Zm7GSe84q2
+357,The Left,Gas Mask,26 October 2010,"Boom Bap, Conscious Hip Hop",,"dark, rhythmic, conscious, introspective, urban, male vocals",372,17,3.43,3x4qorxA4ECJ12qvbDJoKw
+358,Agent Fresco,A Long Time Listening,22 November 2010,"Alternative Rock, Art Rock, Progressive Rock","Post-Rock, Math Rock, Progressive Rock","complex, passionate, progressive, atmospheric, melancholic, energetic, technical, melodic",282,1,3.48,39yNTzzCdHKzEP1dDN2pkn
+359,John Roberts,Glass Eights,11 October 2010,Deep House,"Minimal Techno, Microhouse","nocturnal, atmospheric, minimalistic, mellow, sampling, instrumental, rhythmic, peaceful",668,15,3.41,3qjMRuS9EkF3eow4c0jGSX
+360,The Gaslight Anthem,American Slang,15 June 2010,"Heartland Rock, Alternative Rock",Punk Rock,"anthemic, male vocals","1,308",40,3.41,1JKl5fvfr8M1ddREC3SIBm
+361,Hammock,Chasing After Shadows… Living With the Ghosts,18 May 2010,Ambient,"Post-Rock, Shoegaze, Modern Classical, Dream Pop","soothing, instrumental, calm, mellow",464,8,3.42,6GQRp6dTtknb6IVSgRbUyC
+362,Allegaeon,Fragments of Form and Function,2010,"Melodic Death Metal, Technical Death Metal",,"technical, male vocals, energetic, aggressive, progressive, heavy, angry, melodic",417,6,3.39,0wbUqrZXdLJKu5n6tSUn2j
+363,The Wonder Years,The Upsides,26 January 2010,Pop Punk,,"anxious, bittersweet, hedonistic, sarcastic, optimistic, sentimental, introspective",780,11,3.40,3C4AZtkcYaG1RSdvGSn4An
+364,Russell Allen & Jorn Lande,The Showdown,5 November 2010,"Hard Rock, Heavy Metal",,,281,9,3.47,
+365,Bastard Priest,Under the Hammer of Destruction,2010,Death Metal,Crust Punk,,277,1,3.51,3Mcgm3IuEiITqmbLWTvQb9
+366,Briton Rites,For Mircalla,22 April 2010,"Traditional Doom Metal, Doom Metal",Heavy Metal,"heavy, raw, dark, fantasy, occult, sombre, satanic, male vocals",240,8,3.59,
+367,Tera Melos,Patagonian Rats,7 September 2010,Math Rock,"Indie Rock, Surf Punk, Progressive Rock, Noise Pop, Noise Rock","eclectic, technical, quirky, noisy, surreal, playful, male vocals, uncommon time signatures",788,13,3.41,0oFIuYGhwfe3edv5TgowbT
+368,Demdike Stare,Voices of Dust,29 November 2010,"Dark Ambient, Ambient Dub",Dub Techno,"dark, atmospheric",585,3,3.42,
+369,The Coral,Butterfly House,12 July 2010,"Folk Rock, Jangle Pop, Neo-Psychedelia","Psychedelic Rock, Pop Rock, Neo-Acoustic","soothing, uplifting, summer",491,23,3.43,6v1odGSP2aeUwYLT6BrRro
+370,Bardo Pond,Bardo Pond,6 December 2010,"Psychedelic Rock, Space Rock Revival","Noise Rock, Drone, Psychedelic Folk, Heavy Psych, Post-Rock","female vocals, psychedelic, heavy, hypnotic, melancholic, space, lethargic, atmospheric",479,5,3.42,722fQCOrlQXaqfq9bQzAPp
+371,Ray LaMontagne and the Pariah Dogs,God Willin' & the Creek Don't Rise,17 August 2010,"Singer-Songwriter, Americana",Contemporary Folk,"mellow, male vocals, acoustic, passionate",326,7,3.43,7uDlfwN1xFTRvTffXYPHM9
+372,Little Women,Throat,13 April 2010,"Avant-Garde Jazz, Jazz-Rock","Noise Rock, Brutal Prog","scary, manic, noisy, avant-garde, dissonant, chaotic, instrumental, ominous",738,14,3.39,1SpWwIEwnXRhc8co4h17hf
+373,God Dethroned,Under the Sign of the Iron Cross,22 November 2010,Death Metal,Black Metal,"war, heavy, aggressive, history, male vocals",278,5,3.50,0YGFS34dLSwhmUoV4FivvQ
+374,Umberto,Prophecy of the Black Widow,2010,"Horror Synth, Progressive Electronic",Synthwave,,284,3,3.43,2RpRD9JmdKXfLI6pJAD8DW
+375,James LaBrie,Static Impulse,27 September 2010,Progressive Metal,Melodic Death Metal,"male vocals, progressive, introspective",415,13,3.40,6RT7inFrVUiV9thYQRkrq4
+376,Knxwledge,Skr∆wberries.Funr∆isrs Vol. 3,20 July 2010,"Lo-Fi Hip Hop, Instrumental Hip Hop",Wonky,"mellow, playful, sampling, warm, hypnotic, psychedelic, lo-fi, lush",365,3,3.42,
+377,Corinne Bailey Rae,The Sea,26 January 2010,"Singer-Songwriter, Pop Soul","Folk Pop, Smooth Soul, Jazz Pop, Progressive Pop","death, female vocals, sombre, love, longing, serious, mellow, lonely",365,15,3.42,6BxDGmmHKXvYvvGur0CdTI
+378,Viper the Rapper,These Rappers Claim They Hard When Them Fags Never Even Seen the Pen,15 April 2010,"Southern Hip Hop, Cloud Rap","Experimental Hip Hop, Cloud Rap, Dirty South","male vocals, crime, calm, quirky, repetitive, raw, melancholic, playful",308,7,3.49,483zMzXAqsiXeSHsLUYjvI
+379,Motorama,Alps,16 May 2010,Post-Punk,Jangle Pop,"male vocals, melodic, melancholic, autumn, cold, nocturnal, winter",958,17,3.40,5cRKluB55Q4vy4LUfMVHki
+380,Bonnie 'Prince' Billy & The Cairo Gang,The Wonder Show of the World,23 March 2010,"Contemporary Folk, Americana, Indie Folk",,,393,11,3.41,14Ur2AUraGcaSHGeeJRwk0
+381,Sam Amidon,I See the Sign,19 April 2010,"Contemporary Folk, Chamber Folk",Indie Folk,"warm, male vocals",362,13,3.42,3MMoy4IAK7L2dyzUyIQ1la
+382,Lloyd Miller & The Heliocentrics,(OST),19 July 2010,Spiritual Jazz,,"instrumental, improvisation, acoustic, spiritual, eclectic",237,5,3.60,0lbZ3wGkiXvbvC3QUDFXMx
+383,Arandel,In D,26 June 2010,Electronic,"IDM, Minimal Techno, Ambient, Post-Minimalism",instrumental,299,10,3.42,57EMKreFkjatcstH0U0ivA
+384,Stam1na,Viimeinen Atlantis,10 February 2010,"Progressive Metal, Technical Thrash Metal",,"apocalyptic, concept album, male vocals, melodic, epic, technical",391,11,3.38,19JOooYajwZ2P6mwVcBOrm
+385,Mekong Delta,Wanderer on the Edge of Time,10 June 2010,Progressive Metal,Technical Thrash Metal,male vocals,289,10,3.43,2uwxQsVQPtFfJbKgXBZdW9
+386,Norma Jean,Meridional,13 July 2010,Metalcore,Post-Hardcore,"melodic, male vocals",531,5,3.38,6WP3UHi7QQXaRjv4W8FP8l
+387,White Wizzard,Over the Top,8 February 2010,Heavy Metal,,"energetic, male vocals",308,16,3.42,3033kDGOHrP8VqPN6dBEB0
+388,goreshit,Ureshii!,14 June 2010,"J-core, Happy Hardcore, Freeform Hardcore","Lolicore, Mashcore","energetic, female vocals, sampling, happy, rhythmic, playful, dense",318,1,3.45,
+389,Sun Araw,On Patrol,April 2010,"Neo-Psychedelia, Hypnagogic Pop, Dub","Ambient Dub, Drone, Dub, Space Rock Revival, Novo Dub","psychedelic, repetitive, lo-fi, warm, surreal, atmospheric, lush, tribal","1,102",15,3.40,0H5hKfayOXuRJQYwg97vyf
+390,Spoon,Transference,19 January 2010,Indie Rock,"Post-Punk Revival, Art Rock","rhythmic, minimalistic, cryptic, repetitive, breakup, sarcastic, male vocals, mysterious","2,452",75,3.38,2laFBdVKIFTExgJ46dsRna
+391,VHS Head,Trademark Ribbons of Gold,6 September 2010,"IDM, Sound Collage, Glitch","Plunderphonics, Glitch Hop, Wonky, Synthwave, Glitch","sampling, noisy, surreal, chaotic, quirky, dense, rhythmic, playful",294,8,3.41,356UHnchKvwy84axZwjkbP
+392,Kylie,Aphrodite,5 July 2010,"Dance-Pop, Electropop","Electro House, Nu-Disco, Synthpop","female vocals, love, melodic, happy, uplifting, passionate","1,147",19,3.38,3V5sFyVl69QrnHkZ8tcWnI
+393,The Pineapple Thief,Someone Here Is Missing,26 April 2010,Alternative Rock,"Progressive Rock, Electronic",,493,20,3.41,1lODBFaX8Bu46GxK0TpGjj
+394,Two Door Cinema Club,Tourist History,1 March 2010,"Indie Pop, New Rave","Dance-Punk, Indietronica, Post-Punk Revival","energetic, uplifting, male vocals, warm, melodic, sentimental, party, urban","4,122",53,3.37,0SD7kwnJEC2oDzQBKEHQnH
+395,Equilibrium,Rekreatur,18 June 2010,"Folk Metal, Symphonic Metal","Melodic Black Metal, Melodic Death Metal","folklore, melodic, epic, male vocals, energetic, heavy",487,10,3.38,7koOgwBxSDzweoI07DAy4Y
+396,Isobel Campbell & Mark Lanegan,Hawk,16 August 2010,"Americana, Chamber Folk",,,524,14,3.40,0cSyiBaPRl6MG4lMuKYL97
+397,Diocletian,Bellum omnium contra omnes,1 October 2010,"War Metal, Death Metal",Death Doom Metal,"heavy, triumphant, war, apocalyptic, infernal, violence, nihilistic, aggressive",333,3,3.41,3IHtqFFGrX7kzFNBtMji7A
+398,Rotting Christ,Aealo,15 February 2010,Melodic Black Metal,"Folk Metal, Dimotika","female vocals, melodic, male vocals, concept album, apocalyptic",983,25,3.38,16ywSYjE1gvCU1GtlYVXgV
+399,Drive-By Truckers,The Big To-Do,16 March 2010,"Alt-Country, Country Rock",Southern Rock,"female vocals, male vocals, raw, crime, longing, dark, sombre, bittersweet",481,13,3.41,3dQHYf0zj2A4g6ye1AGOIY
+400,Imperium Dekadenz,Procella Vadens,18 January 2010,"Atmospheric Black Metal, Black Metal",,"atmospheric, male vocals, dark",361,5,3.41,7scjiUx3wQ33UbZzFVOn5U
+401,Monster Magnet,Mastermind,October 2010,"Stoner Rock, Hard Rock",Heavy Psych,"psychedelic, male vocals",492,8,3.40,7cjivsG7tkOGJRD2COP6G2
+402,Robyn,Body Talk Pt. 1,14 June 2010,"Electropop, Dance-Pop",,"female vocals, rhythmic, love, rebellious, cold, melodic, playful","1,535",40,3.37,3bXoDeRE4JH5Skd0XV6j5N
+403,Comeback Kid,Symptoms + Cures,31 August 2010,Hardcore Punk,Melodic Hardcore,"angry, heavy, melodic, male vocals, energetic, passionate, aggressive",311,4,3.44,73aAFJkW9pXJLGtig9po0Q
+404,These New Puritans,Hidden,18 January 2010,Post-Punk,"Art Punk, Electronic, Post-Minimalism, Martial Industrial, Neoclassical Darkwave","rhythmic, dark, male vocals, ominous, martial, chamber music, cryptic, tribal","1,931",55,3.37,4gTA68MU14EgOeMzAMqZqg
+405,O Children,O. Children,12 July 2010,"Post-Punk, Post-Punk Revival",Gothic Rock,"dark, rhythmic, nocturnal, longing, sexual, romantic, playful, epic",342,9,3.39,2EMlBanjE6XxDr1bLEHZ8g
+406,Firewind,Days of Defiance,25 October 2010,Power Metal,"Heavy Metal, Progressive Metal","fantasy, melodic, male vocals, triumphant",296,6,3.41,0SIQPnenLBRBunhBVxrADD
+407,Shinsei Kamattechan 神聖かまってちゃん,みんな死ね (Minna shine),22 December 2010,"Noise Pop, Indie Rock","Noise Rock, J-Rock, Pop Punk","noisy, energetic, melodic, self-hatred, androgynous vocals, playful, eclectic, raw",574,3,3.40,49DQBj6GUtjbTp9QlMHCfG
+408,Elton John / Leon Russell,The Union,19 October 2010,"Pop Rock, Blues","Blues Rock, Piano Blues, Gospel",,357,22,3.41,
+409,Morowe,Piekło.Labirynty.Diabły,1 June 2010,Black Metal,"Melodic Black Metal, Progressive Metal","apocalyptic, rhythmic, political, infernal, surreal, abstract, spiritual, heavy",314,3,3.42,6MWHrjjnUZgowt9l7LGT8D
+410,Kula Shaker,Pilgrims Progress,28 June 2010,"Britpop, Neo-Psychedelia","Art Pop, Folk Rock",,305,14,3.40,2eeQRjZHoDZhah4XAfsraN
+411,Alter Bridge,AB III,8 October 2010,"Hard Rock, Post-Grunge",Alternative Metal,"male vocals, energetic, melodic, heavy, passionate, dark, uplifting, anthemic",979,18,3.37,0ocWLhnTiUKSq8Ksa3FX4Z
+412,C418,Life Changing Moments Seem Minor in Pictures,12 August 2010,"IDM, Ambient Techno","Ambient, Downtempo","melancholic, warm, calm, instrumental, atmospheric, meditative, quirky, nocturnal",278,5,3.55,1xvYnbUkrhFBkZ0w7Er3As
+413,Neil Young,Le Noise,28 September 2010,"Singer-Songwriter, Folk Rock","Noise Rock, Garage Rock","melodic, minimalistic, male vocals, noisy","1,846",79,3.37,4j9JVeEgEEiwYyYMiueTvG
+414,Nevermore,The Obsidian Conspiracy,31 May 2010,"Progressive Metal, Thrash Metal",US Power Metal,"energetic, melodic, angry, philosophical, dark, heavy, male vocals, political","1,167",45,3.37,0hLFGOU3MT88T8P4ispTOB
+415,Utro Утро,Утро,17 January 2010,Post-Punk,Gothic Rock,"atmospheric, dark, sombre, minimalistic, anxious, repetitive, dissonant, ominous","1,066",6,3.38,0cgexlVP6E5WSnig8xPGqc
+416,The Saddest Landscape,You Will Not Survive,21 September 2010,Screamo,,"passionate, depressive, aggressive, sad, male vocals, cold, winter, angry",600,5,3.39,3XdOfKNEiBERA743mnKBYJ
+417,I Am Kloot,Sky at Night,5 July 2010,"Indie Pop, Folk Pop",Chamber Pop,,313,12,3.40,0L4m8HINgt0vTHXeu31ARb
+418,James Ferraro,Pixarni,16 May 2010,"Space Ambient, Ambient","Progressive Electronic, New Age, Drone, Hypnagogic Pop","lo-fi, futuristic, surreal, psychedelic, instrumental, atmospheric, ethereal, mysterious",417,3,3.40,
+419,Makeout Videotape,Ying Yang,13 December 2010,"Lo-Fi / Slacker Rock, Jangle Pop, Bedroom Pop","Psychedelic Pop, Hypnagogic Pop","dense, mellow, warm, psychedelic, playful, summer, lo-fi, male vocals",527,4,3.39,
+420,Zach Hill,Face Tat,19 October 2010,"Noise Rock, Math Rock, Experimental Rock","Brutal Prog, Neo-Psychedelia, Noise Pop, Synth Punk","noisy, chaotic, male vocals, aggressive, psychedelic, dense, energetic, progressive","2,541",22,3.37,4YM04MdeuE7h3mziHsvy9v
+421,The Dead Weather,Sea of Cowards,10 May 2010,"Blues Rock, Garage Rock",Psychedelic Rock,"energetic, female vocals","1,951",36,3.37,5QaEJj1wEqIePsjVtMzReu
+422,The Besnard Lakes,The Besnard Lakes Are the Roaring Night,9 March 2010,"Neo-Psychedelia, Indie Rock","Shoegaze, Dream Pop, Space Rock, Space Rock Revival","female vocals, psychedelic, atmospheric, ethereal, lush, male vocals",761,17,3.38,1ylO9L4yH3HK9ZZ0XjefWw
+423,Tom Petty and The Heartbreakers,Mojo,15 June 2010,"Heartland Rock, Rock","Blues Rock, Southern Rock, Hard Rock, Country Rock",,620,29,3.38,1x0nxFkOWytBolK91qkUSJ
+424,Ceephax Acid Crew,United Acid Emirates,25 January 2010,Acid Techno,"Chiptune, Acid House","futuristic, optimistic, instrumental, psychedelic, energetic, happy, party, sampling",438,6,3.39,6mANZenVe14ONb3NDd4EDb
+425,Wyatt / Atzmon / Stephen,..........For the Ghosts Within,11 October 2010,"Chamber Jazz, Vocal Jazz","Third Stream, Modern Classical, Canterbury Scene","mellow, male vocals, female vocals, improvisation",319,8,3.40,4MtVNm6uxpKhnrAo0dG6mN
+426,Kemialliset Ystävät,Ullakkopalo,30 August 2010,Folktronica,"Free Folk, Neo-Psychedelia","psychedelic, chaotic, ritualistic",280,8,3.39,52jfEHVjPMHStfLWcLd2dN
+427,Gonjasufi,A Sufi and a Killer,8 March 2010,"Psychedelic Soul, Electronic, Psychedelic Rock","Glitch Hop, Lo-Fi / Slacker Rock","eclectic, lo-fi, mellow, psychedelic, surreal, sampling, male vocals, hypnotic","2,555",52,3.36,3FfW96Pt3UxQlchDVhkaFi
+428,Volbeat,Beyond Hell / Above Heaven,10 September 2010,Heavy Metal,"Rockabilly, Hard Rock, Alternative Metal","energetic, male vocals, heavy, passionate, melodic",808,13,3.36,2BqLW9LGoxfwRCn1hP5vOq
+429,Sigh,Scenes From Hell,19 January 2010,"Avant-Garde Metal, Symphonic Metal, Symphonic Black Metal",Black Metal,"infernal, surreal, orchestral, epic, avant-garde, progressive, energetic, manic","1,011",34,3.36,168iwqGhiSJ7VtUczToGLf
+430,Teenage Fanclub,Shadows,31 May 2010,"Jangle Pop, Power Pop","Folk Pop, Soft Rock, Folk Rock",,642,24,3.38,7oFu1IPn9S1QpEjGJrID9B
+431,Aloe Blacc,Good Things,28 September 2010,"Soul, Pop Soul",Psychedelic Soul,male vocals,807,20,3.38,2LAdkhxTJkCWUE4sPw1zgb
+432,Witchery,Witchkrieg,18 July 2010,"Thrash Metal, Death Metal",Black Metal,,315,7,3.39,0f3cBbv23AN1duBTVGld1P
+433,Dr. Dog,"Shame, Shame",6 April 2010,"Indie Pop, Indie Folk, Pop Rock",,"melodic, longing, bittersweet, male vocals, playful, melancholic",865,7,3.37,16XswZ18xhMs8qUTN51mRl
+434,Esperanza Spalding,Chamber Music Society,17 August 2010,Vocal Jazz,Chamber Jazz,"playful, chamber music, lush, mellow, acoustic, natural, female vocals, warm",301,2,3.39,6VQWGmqLfbOBXIfI3kFMas
+435,Toro y Moi,Causers of This,2 February 2010,Chillwave,"Glitch Pop, Neo-Psychedelia, Bedroom Pop, Synthpop","lush, sampling, summer, psychedelic, aquatic, male vocals, bittersweet, love","3,386",48,3.35,6CuUzCnTEKZFdyTzzBVq93
+436,Brodka,Granda,20 September 2010,"Electropop, Art Pop","Folktronica, Psychedelic Pop, Goral Music","energetic, female vocals, playful, sarcastic, abstract, humorous","1,011",27,3.36,5fx9AH4oiTQKA3mlcW5Pwx
+437,Alio Die,Horas tibi serenas,7 April 2010,"Ambient, Drone","Tape Music, Nature Recordings, Ars subtilior, New Age","peaceful, spiritual, soothing, instrumental, medieval, ethereal, natural, atmospheric",216,2,3.66,16k3RlqexTPHu3FfnW1xXl
+438,Marnie Stern,Marnie Stern,5 October 2010,"Noise Pop, Math Rock",Neo-Psychedelia,"complex, energetic, manic, female vocals",641,13,3.37,3CmYW8QOCdDcoQC7CjK3Kz
+439,October Falls,A Collapse of Faith,19 May 2010,Atmospheric Black Metal,"Dark Folk, Pagan Black Metal","forest, melodic, bittersweet, male vocals, cold, depressive",306,6,3.40,
+440,Labÿrinth,Return to Heaven Denied Pt. II: A Midnight Autumn's Dream,21 June 2010,"Power Metal, Progressive Metal",,"male vocals, energetic, melodic, progressive",235,13,3.54,6isSDZvXWK7j1mpXVvEIBr
+441,The-Dream,Love King,29 June 2010,Contemporary R&B,Synth Funk,"sexual, romantic, male vocals",703,18,3.34,4BxwE5zdyn0JkGsqCQiRoJ
+442,Bryan Ferry,Olympia,22 October 2010,Sophisti-Pop,,"male vocals, melodic, atmospheric, lush, romantic, sentimental, eclectic, urban",544,26,3.37,6fAdwaAfxFEc8hUInXT8NS
+443,Abigor,Time Is the Sulphur in the Veins of the Saint - An Excursion on Satan's Fragmenting Principle,18 January 2010,"Black Metal, Avant-Garde Metal",Industrial Metal,"technical, occult, cryptic, disturbing, manic, chaotic, mechanical, progressive",482,15,3.37,0dSZYwzXDxmjSu0sOTMzzX
+444,Paul Cary,Ghost of a Man,February 2010,Blues Rock,"Garage Rock, Rockabilly, Rhythm & Blues, Gothic Country","lonely, lo-fi, lush",227,5,3.63,1fTokZLeN2JCfGxNLRqbwI
+445,Toshimaru Nakamura,Egrets,24 May 2010,Onkyo,"EAI, Ambient","meditative, mysterious",367,5,3.38,
+446,Blaze Bayley,Promise and Terror,1 February 2010,"Heavy Metal, Power Metal",,"energetic, male vocals",251,9,3.53,4MPkbqjWikSHFjlJPskynW
+447,Christian Mistress,Agony & Opium,24 August 2010,Heavy Metal,Hard Rock,"energetic, passionate, female vocals, dark, warm",251,7,3.48,5Oij5yJYPb714uvEcI2Blk
+448,Teebs,Ardour,18 October 2010,"Glitch Hop, Wonky","Downtempo, Instrumental Hip Hop","instrumental, sampling, rhythmic, mellow, seasonal, spring, complex, lush","1,069",12,3.38,4NtIc6H8UadGHAYysXqzkc
+449,Loscil,Endless Falls,1 March 2010,Ambient,"Ambient Dub, Drone, Field Recordings","rain, melancholic, atmospheric, hypnotic, instrumental, meditative, calm, repetitive",946,9,3.37,2F5lsYL2fOuXxovb2ZzaXA
+450,Heaven in Her Arms,幻月,23 June 2010,"Screamo, Post-Metal","Post-Rock, Atmospheric Sludge Metal, Blackgaze","heavy, dark, melancholic, melodic, sombre, atmospheric, passionate, aggressive",434,4,3.37,4vCuasG2VLI16P1NNPZA3w
+451,Scorpions,Sting in the Tail,19 March 2010,Hard Rock,Heavy Metal,"male vocals, melodic, sentimental, uplifting",912,28,3.36,3n2WzsBMJtfoV1kYIQZOLj
+452,Caro Emerald,Deleted Scenes From the Cutting Room Floor,29 January 2010,Jazz Pop,"Swing Revival, Electro Swing","female vocals, love, romantic, melodic, lush, nocturnal, warm, mellow",366,10,3.37,4TEzoa2Kt9aWWsZAcm11zU
+453,Kelis,Flesh Tone,17 May 2010,"Electro House, Electropop","Dance-Pop, French House, Progressive House, Nu-Disco","female vocals, uplifting, anthemic, love, party, futuristic, energetic, mechanical",634,19,3.35,3gIBS3LtAJIlpN8lbs31e0
+454,Hiroyuki Oda,Thirty,8 September 2010,Uplifting Trance,Progressive Trance,"uplifting, energetic, rhythmic, instrumental, futuristic, repetitive, hypnotic, happy",300,5,3.39,5Gkjf1ULV4lIwAhTxwoiG8
+455,Encoffination,Ritual Ascension Beyond Flesh,22 April 2010,"Death Doom Metal, Death Metal",Funeral Doom Metal,"death, heavy, dark, infernal, atmospheric",262,6,3.45,456gXDgxFVYFYrSlsFDtk7
+456,Odisea,Odisea,23 October 2010,"Synthpop, Indie Pop","Nu-Disco, Dance-Pop, Synth Funk, Art Pop, Progressive Pop","romantic, male vocals, rhythmic, passionate, political, energetic, bittersweet, urban",222,1,3.73,4zS21a3YMQDwZdpW2169j5
+457,The Walkmen,Lisbon,14 September 2010,"Indie Rock, Chamber Pop",Jangle Pop,"melodic, male vocals, energetic","1,332",35,3.35,2v2BwHGqd49ldR6pK4XOMP
+458,Exodus,Exhibit B: The Human Condition,7 May 2010,Thrash Metal,Groove Metal,"violence, dark, heavy, male vocals, energetic, aggressive, hateful","1,026",33,3.34,4qWKGr6i9PPAEXZTe5MrlZ
+459,Geneva Jacuzzi,Lamaze,23 February 2010,"Synthpop, Hypnagogic Pop","Minimal Synth, Italo-Disco, Coldwave, Zolo","psychedelic, lo-fi, minimalistic, nocturnal, female vocals, quirky, rhythmic, ominous",406,7,3.37,1tGYIX2xYuuTZW7PTYUFuW
+460,Steve Mason,Boys Outside,3 May 2010,"Indie Rock, Indietronica, Singer-Songwriter",Downtempo,"introspective, male vocals, atmospheric, sombre, melancholic",240,11,3.49,2c0Woo6XggTiQIZaLTxMPc
+461,Jamey Johnson,The Guitar Song,14 September 2010,"Progressive Country, Country","Americana, Outlaw Country",,239,8,3.54,7glcyk6Q02m2ntmmwY2CbB
+462,Gold Panda,Lucky Shiner,12 October 2010,Microhouse,"Glitch Hop, Wonky, Microhouse","sampling, repetitive, instrumental, playful, quirky, longing","1,447",14,3.36,1EYoTU6wVYppkw8CLpXoyJ
+463,Dungen,Skit i allt,14 September 2010,"Neo-Psychedelia, Folk Rock","Psychedelic Rock, Progressive Rock, Folk Rock",psychedelic,446,13,3.38,13koyBtueCEQf6HjmE74Bz
+464,Ghostface Killah,Apollo Kids,21 December 2010,"East Coast Hip Hop, Hardcore Hip Hop",,"male vocals, vulgar, urban, crime, boastful","1,036",36,3.36,3hPl7uRfNdRvoRW0kUzkVk
+465,Plan B,The Defamation of Strickland Banks,22 March 2010,"Pop Soul, Contemporary R&B","UK Hip Hop, Blue-Eyed Soul","concept album, melodic, melancholic, serious, introspective, male vocals, alienation, crime",496,14,3.36,0HGOJnOv8G5EIWBZnbm2tC
+466,Eluveitie,Everything Remains As It Never Was,19 February 2010,"Melodic Death Metal, Celtic Metal",Celtic Folk Music,"folklore, melodic, female vocals, energetic, male vocals, history, pagan",849,15,3.34,3Cu5yODlNUFPDuZ5Ds7nVG
+467,Monopoly Child Star Searchers,Bamboo for Two,11 November 2010,"Hypnagogic Pop, Tribal Ambient","Exotica, Highlife","lo-fi, hypnotic, tropical, rhythmic, warm, psychedelic, summer, lush",363,3,3.37,5LsbCj57Ubq2BatCtkSzES
+468,Perfume Genius,Learning,22 June 2010,"Singer-Songwriter, Chamber Pop","Chamber Folk, Ambient Pop, Indie Folk","melancholic, LGBT, sad, lonely, lo-fi, dark, male vocals, melodic","1,830",17,3.35,4JzLuZwSceTAKZtTxed5Pn
+469,Pianos Become the Teeth,Old Pride,19 January 2010,Screamo,Post-Rock,"sad, melodic, passionate, death, atmospheric, sentimental, introspective, male vocals",763,7,3.36,1bWhmWRnqJWXcv6tBo1T7w
+470,Supersilent,10,23 August 2010,Avant-Garde Jazz,Ambient,"instrumental, improvisation, sparse",347,5,3.38,1shDGWGv2TM3Fl1Z3PFoRu
+471,Master Musicians of Bukkake,Totem Two,25 May 2010,"Freak Folk, Psychedelic Folk","Ritual Ambient, Psychedelic Rock",,325,2,3.37,1SrM1s14AI36i58Ole3FM6
+472,チャラン・ポ・ランタンと愉快なカンカンバルカン,"ただ、それだけ。 (Tada, Soredake.)",25 August 2010,"Balkan Brass Band, Cabaret","Klezmer, Polka, Musette","playful, female vocals, melodic, energetic",331,1,3.37,6rpkfA0Jd2WmQrDf01vBN2
+473,Jack Rose,Luck in the Valley,23 February 2010,American Primitivism,Piedmont Blues,,289,4,3.38,3KwsBsE2QyjNaBnmHrprpn
+474,Motörhead,The Wörld Is Yours,14 December 2010,Heavy Metal,"Rock & Roll, Hard Rock","heavy, male vocals, energetic, aggressive, rebellious, rhythmic, raw","1,413",41,3.35,3w6OQUsrAPQsPUC1fBkdv6
+475,Ciccada,A Child in the Mirror,2010,Progressive Rock,"Neo-Medieval Folk, Progressive Folk, Symphonic Prog, Canterbury Scene",female vocals,216,14,3.56,6eLPfOZOf9CvFltM7RoJvh
+476,Kaipa,In the Wake of Evolution,12 March 2010,"Progressive Rock, Symphonic Prog",Progressive Folk,,238,10,3.53,6aLkpX6SJ3fI0HCahPCo0U
+477,Los Campesinos!,Romance Is Boring,26 January 2010,"Indie Rock, Indie Pop","Noise Pop, Emo, Post-Rock","sexual, anxious, sarcastic, longing, breakup, introspective, passionate, quirky","1,342",41,3.33,6gvsEtaEULX45bxfOTf8Fe
+478,Joie de Vivre,The North End,1 May 2010,Midwest Emo,"Slowcore, Indie Rock","passionate, melancholic, sad, male vocals, bittersweet, poetic, warm, winter",601,9,3.35,6aeQMcPekRX413mVQ7kS4p
+479,Black Witchery,Inferno of Sacred Destruction,17 November 2010,"War Metal, Black Metal",,"dense, male vocals, heavy, infernal, repetitive, aggressive",336,5,3.37,5noynD1GhXWjOxSmzG9pfM
+480,The Machine,Drie,November 2010,"Stoner Rock, Psychedelic Rock, Jam Band",Heavy Psych,,213,5,3.63,4Qbp5v2Ikrf7oWbwT32z2M
+481,Girl Talk,All Day,15 November 2010,"Mashup, Plunderphonics, Pop","Pop, Hip Hop, Pop Rap, Dance-Pop","sampling, mashup, energetic, party, eclectic, humorous, anthemic, female vocals","1,129",42,3.32,
+482,Robyn,Body Talk Pt. 2,6 September 2010,"Electropop, Dance-Pop","Synthpop, Pop Rap",female vocals,"1,095",23,3.35,2ceFQNbCyqKlBYZCEl17QL
+483,Afrirampo あふりらんぽ,We Are Uchu No Ko,21 May 2010,"Noise Rock, Psychedelic Rock",Neo-Psychedelia,"female vocals, psychedelic, manic, noisy",261,3,3.46,0pHpu33LnG2DlBEHJj26RO
+484,Barn Owl,Ancestral Star,19 October 2010,Drone,"Psychedelic Rock, Ambient","psychedelic, instrumental, dark, spiritual, occult",507,6,3.36,5bD2io47mTZorKe3Rbwcot
+485,DakhaBrakha ДахаБраха,Light,December 2010,"Ukrainian Folk Music, Folk Pop","Freak Folk, Folktronica","female vocals, autumn, hypnotic, lush, male vocals, ritualistic",237,2,3.51,3ZtpOPSQuN6hOtAlyBJqFT
+486,Lætitia Sadier,The Trip,21 September 2010,"Art Pop, Indie Pop","Dream Pop, Krautrock","female vocals, warm, melodic, death, poetic, love, rhythmic, hypnotic",379,11,3.36,4Gj56hVGjcBm1DVgtA9xRy
+487,Thee Oh Sees,Warm Slime,11 May 2010,"Psychedelic Rock, Garage Rock","Garage Punk, Noise Rock","raw, energetic, dense, psychedelic, noisy, male vocals, playful, lo-fi",846,12,3.35,40EdRXXKeIWVpWkJ2MxeH5
+488,Phantogram,Eyelid Movies,9 February 2010,Indietronica,"Trip Hop, Dream Pop, Glitch Pop, Alt-Pop","hypnotic, female vocals, male vocals, rhythmic, ethereal, bittersweet, nocturnal, psychedelic","1,386",17,3.35,4EbDqql0TmQPSDaSgDnoEZ
+489,Joe Satriani,Black Swans and Wormhole Wizards,5 October 2010,Hard Rock,Progressive Rock,,336,10,3.35,553p61nO6RZ79Z526RH5nC
+490,Haruka Nakamura,Twilight,15 July 2010,"Ambient, Chamber Music, Lounge","Contemporary Folk, Jazz","calm, instrumental, warm, nocturnal, soothing, mellow, atmospheric",291,2,3.46,7fw43FUpjkQwhtNYoDVMll
+491,Holy Fuck,Latin,11 May 2010,Indietronica,"Krautrock, Neo-Psychedelia, Experimental Rock",instrumental,958,14,3.35,45nMlmlIPPDVWSCDwdvCB9
+492,Matthew Dear,Black City,3 August 2010,Synthpop,"Tech House, Art Pop","nocturnal, urban, melancholic, mellow, hypnotic, quirky, rhythmic, psychedelic",945,30,3.34,3mG00wgKTaMIvJsGOE4y1t
+493,El Guincho,Pop negro,13 September 2010,"Psychedelic Pop, Neo-Psychedelia","Tropicália, Calypso, Chillwave","tropical, rhythmic, happy, warm, psychedelic, uplifting, party, melodic",706,14,3.35,2oK8FaiHxryCv49WqzUtfR
+494,Paul Weller,Wake Up the Nation,12 April 2010,"Rock, Singer-Songwriter, Art Rock","Neo-Psychedelia, Art Rock",,465,26,3.35,5fP8hiphrWiOiTN9EIcYQv
+495,Jónsi,Go,5 April 2010,Art Pop,"Dream Pop, Ambient Pop, Chamber Pop","uplifting, energetic, lush, melodic, male vocals, eclectic, atmospheric, melancholic","2,468",50,3.32,1fgtiyeUDIoUayYbwroqVH
+496,Nest,Retold,31 January 2010,"Ambient, Modern Classical",Minimalism,,278,9,3.41,0I3n5xRifxz3ssAAk3jn9y
+497,Infinite Body,Carve Out the Face of My God,26 January 2010,"Ambient, Drone","Noise, Shoegaze","dense, ethereal, warm, uplifting, lethargic, atmospheric, noisy, melancholic",831,10,3.34,1TWvcIVb8Z3yJ5BYDBZ5LH
+498,Finntroll,Nifelvind,17 February 2010,Folk Metal,"Black Metal, Symphonic Metal, Joik","folklore, male vocals, forest, fantasy, energetic",721,22,3.34,4F1ppKTMZ8KMyvhqJ9IqBe
+499,Underøath,Ø (Disambiguation),9 November 2010,"Metalcore, Post-Hardcore","Sludge Metal, Post-Metal, Atmospheric Sludge Metal","heavy, male vocals, aggressive, uncommon time signatures, chaotic, dissonant, spiritual, introspective",765,12,3.33,1Qnx9rOmovH571rbPk2uxF
+500,In Vain,Mantra,11 January 2010,"Progressive Metal, Death Metal",Acoustic Rock,"melodic, progressive, folklore, eclectic",417,11,3.35,4hEkRH4pcStJwYlzoUQP2m
+501,Twilight,Monument to Time End,27 April 2010,"Black Metal, Atmospheric Sludge Metal","Atmospheric Black Metal, Post-Metal","heavy, dark, atmospheric, male vocals, dense",417,7,3.36,5jbneCyM9Py4g40UdFrzut
+502,DJ Nate,Da Trak Genious,13 September 2010,"Footwork, Juke",,"repetitive, chaotic, sampling, bittersweet, party",307,2,3.35,3b7HxjiBDo5ZVRmKqKYYx7
+503,Circle,Rautatie,29 September 2010,"Progressive Rock, Psychedelic Rock","Krautrock, Heavy Metal","male vocals, repetitive, raw, psychedelic, progressive",220,3,3.55,78bpUYr27pdf3LXakKSEdU
+504,Motion Sickness of Time Travel,Seeping Through the Veil of Unconscious,23 July 2010,Ambient,"Drone, Minimal Synth, Space Ambient","hypnotic, atmospheric, ethereal, melancholic, psychedelic, spiritual, female vocals, nature",441,3,3.35,motionsicknessoftimetr
+505,Anna von Hausswolff,Singing From the Grave,2010,"Singer-Songwriter, Art Pop","Chamber Pop, Art Rock, Progressive Pop","female vocals, warm, ethereal, sentimental, passionate, introspective, melancholic, poetic",770,5,3.35,7sKxyjSSUkjq95jIR4oSiw
+506,Avantasia,Angel of Babylon,3 April 2010,"Rock Opera, Heavy Metal","Symphonic Metal, Power Metal, Hard Rock, Heavy Metal","melodic, rock opera, male vocals, energetic",683,21,3.34,1wB0J6LSBqqIG5jf6Vqcyz
+507,Calle 13,Entren los que quieran,22 November 2010,"Latin Rap, Conscious Hip Hop, Latin Alternative","Political Hip Hop, Rap Rock, Latin Alternative","male vocals, eclectic, political, conscious, playful, angry, rebellious, optimistic",449,11,3.31,3yqcj5G3zkeXuWIx6cjQgx
+508,Igorrr,Nostril,9 November 2010,Breakcore,"Cybergrind, Baroque Music, Avant-Garde Metal","eclectic, chaotic, avant-garde, manic, quirky, surreal, uncommon time signatures, technical","1,215",12,3.32,4ZSLbk0TjuqLklBr90uJOZ
+509,Strand of Oaks,Pope Killdragon,20 July 2010,"Indie Folk, Singer-Songwriter",Folk Rock,"sombre, melancholic, lonely, nocturnal, alcohol, death, sad, dark",430,9,3.35,36zXCG5IcivCTOrVAZSBZH
+510,Sodom,In War and Pieces,22 November 2010,Thrash Metal,,"melodic, war, dark, violence, death, aggressive, angry, male vocals",814,17,3.33,5vAST1x68KOD0y2GsQsK95
+511,Brian Wilson,Brian Wilson Reimagines Gershwin,17 August 2010,"Baroque Pop, Traditional Pop, Standards","Adult Contemporary, Classical Crossover",male vocals,348,14,3.36,5V2xLFiybTKxScEAFEqPTW
+512,The School,Loveless Unbeliever,5 April 2010,"Twee Pop, Indie Pop","Girl Group, Sunshine Pop","female vocals, melodic, lush",306,9,3.35,7I2lw1cfB1Zfre1DbHxoF8
+513,Ariel Pink's Haunted Graffiti,FF >>,July 2010,Hypnagogic Pop,"Psychedelic Pop, Garage Rock, Glam Rock, Post-Punk, Experimental Rock","psychedelic, raw, lo-fi, anxious, humorous, surreal, ethereal, sarcastic",321,1,3.35,arielpinkshauntedgraff
+514,Luke Abbott,Holkham Drones,23 August 2010,"IDM, Ambient Techno",Minimal Techno,"rhythmic, warm, soft",376,9,3.35,63K4wMXKn5w0hPvIkU2gOC
+515,Kayo Dot,Coyote,20 April 2010,"Avant-Prog, Experimental Rock","Chamber Jazz, Avant-Garde Jazz, Post-Rock","death, concept album, melancholic, complex, avant-garde, sad, ominous, male vocals","1,300",33,3.32,3JsS7sSPzL2JcoXh2jjEp4
+516,Pain of Salvation,Road Salt One,12 May 2010,Progressive Rock,"Blues Rock, Hard Rock, Psychedelic Rock, Progressive Rock, Art Rock","love, melodic, concept album, introspective, male vocals, eclectic, complex, psychedelic","1,176",39,3.32,4dcELIj5hI9iXfkCSCvsBm
+517,The Depreciation Guild,Spirit Youth,18 May 2010,"Shoegaze, Dream Pop, Indie Rock","Electronic, Chiptune, Indie Pop","ethereal, male vocals, warm, romantic, lush",578,6,3.33,4lE77inOP4ttBc4IPToO8A
+518,Karen Elson,The Ghost Who Walks,25 May 2010,Indie Folk,"Alt-Country, Gothic Country, Dark Cabaret, Singer-Songwriter","female vocals, production",392,8,3.35,1sYJL1rhJfDtzY02Chho1k
+519,Field Music,Field Music (Measure),15 February 2010,"Art Pop, Indie Pop","Progressive Pop, Post-Punk",,527,22,3.34,5bQEX1GqoTXXwFhKGKfGwk
+520,Cephalic Carnage,Misled by Certainty,31 August 2010,"Deathgrind, Death Metal, Grindcore",Technical Death Metal,"uncommon time signatures, abstract, technical, science fiction, aggressive",372,8,3.35,42CrdWProoRgrG26bSS1xh
+521,Asian Kung-Fu Generation,マジックディスク (Magic Disk),23 June 2010,"Power Pop, J-Rock, Alternative Rock",Post-Hardcore,"male vocals, energetic",335,4,3.36,275ICY4xtm3eLol7dX1jaI
+522,Keith Jarrett / Charlie Haden,Jasmine,7 May 2010,"ECM Style Jazz, Jazz",,,219,4,3.58,0dlzYOzj8FqN3OXV3jXZye
+523,Clubroot,Clubroot (II:MMX),11 May 2010,"Dubstep, Future Garage",Ambient,"dark, atmospheric, mysterious, ethereal, peaceful, mellow, instrumental",748,16,3.34,2i0FYluv07H7lej0FR4rKO
+524,Black Milk,Album of the Year,14 September 2010,"Hip Hop, Boom Bap",Conscious Hip Hop,"introspective, aggressive, boastful, male vocals",688,31,3.34,2ZQedN95ddF8NpF2t7DGhn
+525,Quest for Fire,Lights From Paradise,31 August 2010,"Stoner Rock, Psychedelic Rock",Heavy Psych,,261,7,3.44,3NbGPpLYhBxqR781rsjpmz
+526,Clive Tanaka y Su Orquesta,Jet Set Siempre No. 1,2010,"Chillwave, Electropop, Nu-Disco","Downtempo, French House, Funktronica, Tropical House","romantic, summer, warm, tropical, party, lush, bittersweet",665,13,3.33,2OcbcKgjXRPkA8ShOTTMDv
+527,Carach Angren,Death Came Through a Phantom Ship,26 February 2010,"Symphonic Black Metal, Melodic Black Metal",,"ominous, aquatic, concept album, melodic, paranormal, male vocals, energetic, heavy",606,15,3.31,4oSjUpwJryG4c2ILcNLgaA
+528,Various Artists,Music From Saharan Cellphones Vol. 1,2010,"Amazigh Music, Electronic, West African Music","Tishoumaren, Hip Hop, Tuareg Music, Coupé-décalé, Shaabi","desert, repetitive, lobit, male vocals, lo-fi, energetic, rhythmic, eclectic",364,2,3.34,6Q73yR2HmL67KmxqzslA77
+529,Håkan Hellström,2 steg från Paradise,13 October 2010,Indie Pop,Baggy,,243,4,3.55,09TLfwydzlWG1fY6oTKcHo
+530,Rangers,Suburban Tours,17 February 2010,Hypnagogic Pop,Lo-Fi / Slacker Rock,"lo-fi, psychedelic, lethargic, atmospheric, warm, male vocals, nocturnal, hypnotic",656,9,3.32,1THjEUHdOsHTL6JwMR0YlB
+531,Nana Grizol,Ruth,12 January 2010,"Indie Rock, Folk Punk","Indie Folk, Twee Pop, Singer-Songwriter","existential, bittersweet, warm, optimistic, male vocals, introspective, philosophical",572,8,3.33,7HY5uvMY6SGsRL2k5xjjZI
+532,Four Year Strong,Enemy of the World,9 March 2010,"Easycore, Pop Punk",Melodic Hardcore,"energetic, anthemic, male vocals, uplifting, melodic, passionate, introspective, angry",477,11,3.32,7fHbSPZaGS55A80DqDLssC
+533,Emancipator,Safe in the Steep Cliffs,19 January 2010,Trip Hop,"Downtempo, Nu Jazz","peaceful, soothing, calm, atmospheric, rhythmic",949,17,3.33,1KHKPYKo4h8btHa8u3wjEB
+534,Nina Nastasia,Outlaster,7 June 2010,"Singer-Songwriter, Chamber Folk",,female vocals,249,5,3.45,
+535,Cathedral,The Guessing Game,26 March 2010,"Stoner Metal, Doom Metal","Progressive Rock, Psychedelic Rock, Stoner Rock","fantasy, psychedelic, male vocals",588,21,3.32,4HqHECoDlwEtrNCQgjwomw
+536,Noisia,Split the Atom,5 April 2010,Drum and Bass,"Neurofunk, Electro House, Halftime","heavy, aggressive, energetic, mechanical, complex, futuristic, eclectic, rhythmic",806,10,3.32,6nZ6ocAbkbFScqR0uYllmZ
+537,Sia,We Are Born,7 June 2010,"Indie Pop, Dance-Pop, Pop","Pop Soul, Nu-Disco, Alternative Dance, Dance-Pop, New Wave","female vocals, uplifting, bittersweet, rhythmic, quirky, introspective, energetic, melodic",790,14,3.33,2sefE1XYR7ox1JTKCPerSI
+538,Shugo Tokumaru,Port Entropy,21 April 2010,"Art Pop, Indie Pop","Folk Pop, Twee Pop, Progressive Pop, Psychedelic Pop","happy, lush, male vocals",515,5,3.33,6DTCRoJomgwDQe1uy1H7x9
+539,Sleepy Sun,Fever,17 May 2010,Psychedelic Rock,Psychedelic Folk,,377,4,3.34,4p0VY8aORNcSS8i7sXZUkE
+540,Iron Chic,Not Like This,3 September 2010,"Pop Punk, Punk Rock",,,232,6,3.50,1gk7HTn8YR862ztkbNzUbq
+541,A Great Big Pile of Leaves,Have You Seen My Prefrontal Cortex?,22 June 2010,"Indie Rock, Math Rock, Midwest Emo",Midwest Emo,"male vocals, melancholic, autumn, mellow, bittersweet, energetic, passionate",291,7,3.41,0Y4iT3CjzM5gkKBrRQW330
+542,Mount Kimbie,Crooks & Lovers,19 July 2010,Future Garage,"Dubstep, Wonky, Glitch Hop, Downtempo","mellow, instrumental, rhythmic, sampling, atmospheric, warm, urban, bittersweet","2,319",39,3.31,22shOa6UBod9o1HHe0JPmr
+543,School of Seven Bells,Disconnect From Desire,13 July 2010,Dream Pop,"Shoegaze, Indietronica, Synthpop","rhythmic, female vocals, uplifting, melodic, summer, passionate, ethereal, lush",638,23,3.33,3EvxSTrsGFIteFbRerwcLP
+544,John Legend & The Roots,Wake Up!,21 September 2010,"Neo-Soul, Soul","Conscious Hip Hop, Contemporary R&B","melodic, male vocals, conscious, political, uplifting, bittersweet",805,16,3.33,06UOP7uyZN8AIYH6U20VkP
+545,Tocotronic,Schall und Wahn,22 January 2010,Indie Rock,"Alternative Rock, Hamburger Schule, Indie Pop, Noise Pop",,264,8,3.46,18Ior7IOwamlwhmxRfECeQ
+546,The Naked and Famous,Passive Me · Aggressive You,6 September 2010,"Indietronica, Synthpop, Alternative Rock","Indie Pop, Dream Pop, Alternative Rock","energetic, melodic, rhythmic, male vocals, female vocals, noisy, summer, bittersweet","1,279",14,3.32,5ImvJCAX33Pt2XGMaYaMia
+547,Scissor Sisters,Night Work,29 June 2010,"Dance-Pop, Electro-Disco","Electropop, Disco, Dance-Punk","LGBT, energetic, quirky, party, androgynous vocals",707,24,3.32,60reR4muRZj5MRsI9giZjk
+548,Envy,Recitation,22 September 2010,Post-Rock,"Screamo, Post-Hardcore","passionate, sombre, atmospheric, melancholic, male vocals, sad",865,24,3.31,234LK1wBbmscriFFbLrLjl
+549,Decrepit Birth,Polarity,27 July 2010,Technical Death Metal,Melodic Death Metal,"science fiction, surreal, abstract, melodic, technical, male vocals",532,11,3.30,2EkK2kXuasgfuOZ9C428Tw
+550,Motion City Soundtrack,My Dinosaur Life,19 January 2010,"Power Pop, Pop Punk",,"male vocals, anxious, melodic, energetic",541,11,3.31,71VL2I4UPRHcXRk51bCmuu
+551,The Souljazz Orchestra,Rising Sun,16 February 2010,Afro-Jazz,"Afrobeat, Afro-Jazz, Jazz Fusion, Lounge","melodic, warm, rhythmic, spiritual, instrumental, uplifting, happy",283,11,3.40,38DQJSrHZa2KEcir9cdjxx
+552,Suuns,Zeroes QC,12 October 2010,Art Rock,"Post-Punk, Electronic, Drone","rhythmic, repetitive, surreal, nocturnal, dark, melancholic, psychedelic, lethargic",568,3,3.33,4j0MqT3B3h53EK084H0dyj
+553,Massive Attack,Heligoland,8 February 2010,"Trip Hop, Downtempo","Post-Industrial, Alternative Rock, Alternative Dance","male vocals, mysterious, melancholic, rhythmic, female vocals, dark, mellow, rain","5,289",81,3.29,1F8y2bg9V9nRoy8zuxo3Jt
+554,Moon Safari,Lover's End,2010,"Progressive Rock, Symphonic Prog",Progressive Pop,"uplifting, happy, melodic, progressive, bittersweet, male vocals, complex, optimistic",223,5,3.55,07WA6LFQxMSzzWGLd6Wk5z
+555,Shearwater,The Golden Archipelago,23 February 2010,"Indie Rock, Art Rock","Indie Folk, Dream Pop","lush, spiritual, melancholic, poetic, atmospheric, passionate, nature",793,22,3.32,293H0rIctIooWmzZIipDgU
+556,Danzig,Deth Red Sabaoth,22 June 2010,"Heavy Metal, Hard Rock","Blues Rock, Doom Metal",male vocals,652,15,3.32,
+557,Adversarial,All Idols Fall Before the Hammer,15 August 2010,Death Metal,Black Metal,"heavy, apocalyptic, infernal, anti-religious, aggressive, male vocals, manic, dissonant",329,16,3.32,1u9DVkGjzb2LrKw0vg6Wp4
+558,Roky Erickson with Okkervil River,True Love Cast Out All Evil,20 April 2010,"Singer-Songwriter, Contemporary Folk","Folk Rock, Alternative Rock",,479,12,3.33,3EdnQm8MkAee2eB8jdivga
+559,Nekromantheon,Divinity of Death,2010,Thrash Metal,"Speed Metal, Death Metal","technical, death, rhythmic, male vocals, energetic, dense, aggressive",247,4,3.52,0oCnt1PIPDQwbEphddKKwH
+560,Current 93,"Baalstorm, Sing Omega",28 May 2010,"Neofolk, Avant-Folk","Arabic Folk Music, Psychedelic Folk, Spoken Word, Chamber Music","concept album, surreal, Christian, cryptic, sombre, pastoral, male vocals, mysterious",764,13,3.31,00kD4OESswUPsasBqCdnDR
+561,Lower Dens,Twin-Hand Movement,20 July 2010,"Indie Rock, Dream Pop","Shoegaze, Post-Punk","energetic, lo-fi, melodic, atmospheric, warm",621,12,3.32,4kZHqNLs6VkpFWBFrfJ6eF
+562,anbb,Mimikry,4 October 2010,"Glitch, Spoken Word, Post-Industrial","Experimental, IDM, Minimal Techno, Industrial Techno, Microsound","abstract, minimalistic, avant-garde, male vocals",625,7,3.32,2nryyLzn4TN5MKL139PDm7
+563,The Fresh & Onlys,Play It Strange,12 October 2010,"Garage Rock, Neo-Psychedelia","Indie Rock, Jangle Pop",male vocals,444,10,3.32,
+564,Wieże Fabryk,Dym,30 July 2010,"Coldwave, Post-Punk",,"existential, anxious, sombre, male vocals, cold",286,7,3.38,61HwXu5oKGlsRrCnupac7i
+565,Tom Jones,Praise & Blame,26 July 2010,"Country Gospel, Americana","Blues Rock, Gospel, Blue-Eyed Soul, Country Soul, Roots Rock","male vocals, Christian, religious, passionate",219,12,3.55,5tbyIHbIEynsgSvwzbuVjm
+566,Danny Brown,The Hybrid,16 March 2010,Hardcore Hip Hop,"Conscious Hip Hop, Gangsta Rap, Experimental Hip Hop","male vocals, sexual, alcohol, urban, dark, playful, boastful, drugs","3,089",14,3.30,0P4u1ZRM6CXePgpeF8ShmN
+567,Xiu Xiu,"Dear God, I Hate Myself",23 February 2010,"Art Pop, Glitch Pop","Synthpop, Noise Pop, Indietronica, Bitpop","self-hatred, anxious, male vocals, depressive, pessimistic, dark, death, lonely","2,851",27,3.29,5JITTAauLzAtjasPMgPjVY
+568,Husky Rescue,Ship of Light,25 January 2010,"Indie Pop, Indietronica",Dream Pop,,265,7,3.41,2recsRlGZZaGaleQbBLdc3
+569,Alessandro Bosetti,Zwölfzungen,1 March 2010,"Electroacoustic, Sound Poetry","Field Recordings, Spoken Word","uncommon time signatures, quirky, female vocals, avant-garde, suspenseful",256,5,3.43,
+570,Skeleton 骷,Holograms,2 November 2010,Vaporwave,"Ambient, New Age","mysterious, sampling, instrumental, atmospheric, hypnotic, mellow, surreal, ethereal",642,9,3.31,
+571,Keep of Kalessin,Reptilian,14 May 2010,Melodic Black Metal,Thrash Metal,male vocals,400,14,3.30,2Yova1Tbl643im6moySB8y
+572,Emarosa,Emarosa,29 June 2010,"Alternative Rock, Post-Hardcore",Post-Hardcore,"melancholic, male vocals, energetic",429,7,3.30,1OlewCHNhDBcQBqzXhNws5
+573,The Tony Danza Tapdance Extravaganza,Danza III: The Series of Unfortunate Events,6 July 2010,Mathcore,Djent,"heavy, rhythmic, energetic, dissonant, aggressive, male vocals, technical, mechanical",359,6,3.30,0W67OThPLC72LOhqEzXELr
+574,Sleep Party People,Sleep Party People,25 January 2010,Dream Pop,"Neo-Psychedelia, Electronic, Ambient, Post-Rock","ethereal, melancholic, soft, mellow, winter, androgynous vocals, lo-fi, nature",897,5,3.31,1t1Fa6cVtHPZ29XNyHa15B
+575,goreshit,with all my heart.,1 January 2010,"Freeform Hardcore, Lolicore",Trance,"repetitive, sampling, bittersweet, melodic, atmospheric, hypnotic, melancholic, uplifting",560,2,3.31,5ay8V3HRiPEF7IHHAbXH1h
+576,Sade,Soldier of Love,5 February 2010,"Smooth Soul, Downtempo","Trip Hop, Pop Soul, Folk Pop, Neo-Soul, Sophisti-Pop","female vocals, bittersweet, sensual, longing, sentimental, melancholic, love, mellow","1,212",24,3.30,3QzXOFN7Wh4WgilnraBYAU
+577,Asia,Omega,23 April 2010,AOR,Progressive Rock,"male vocals, melodic",303,14,3.30,7MujbRDk1Ar4MPECiy0jHc
+578,Pensées nocturnes,Grotesque,27 March 2010,Depressive Black Metal,"Neoclassical Darkwave, Avant-Garde Metal","dark, atmospheric, male vocals, avant-garde, ominous, manic",295,9,3.34,5Pu38KP3awxYUa9WCxKdJy
+579,Woods,At Echo Lake,11 May 2010,Psychedelic Folk,"Lo-Fi / Slacker Rock, Indie Folk","lo-fi, warm, psychedelic, peaceful, sentimental, male vocals, summer, mellow",741,13,3.30,45YGCEh09Ji6rdHjPgNdw8
+580,James Vincent McMorrow,Early in the Morning,26 February 2010,"Indie Folk, Singer-Songwriter",,male vocals,327,7,3.32,
+581,Black Label Society,Order of the Black,10 August 2010,"Heavy Metal, Southern Metal","Hard Rock, Southern Rock, Stoner Metal","heavy, male vocals, energetic",626,22,3.30,18otOdgxQQZHlHxgfPQpiG
+582,Blitzen Trapper,Destroyer of the Void,8 June 2010,"Folk Rock, Americana, Art Rock","Progressive Rock, Progressive Pop",,334,12,3.32,2kwgCWyhnV3j7iiVpxF5s7
+583,Taylor Swift,Speak Now,25 October 2010,"Pop Rock, Singer-Songwriter","Country Pop, Soft Rock, Power Pop","female vocals, romantic, breakup, love, melancholic, melodic, longing, playful","3,959",44,3.25,5EpMjweRD573ASl7uNiHym
+584,Violens,Amoral,27 September 2010,"Indie Pop, Neo-Psychedelia","Psychedelic Pop, Jangle Pop, Noise Pop, Post-Punk",,433,6,3.30,2GQsPNFA62PQjiqo5Mqmk2
+585,Jüppala Kääpiö,Sporing Promenade,23 May 2010,"Electroacoustic, Ambient, Free Folk","Nature Recordings, Drone, Field Recordings","soothing, peaceful, natural, female vocals, pastoral, spring, atmospheric, warm",304,3,3.38,
+586,Car Seat Headrest,4,16 August 2010,"Lo-Fi / Slacker Rock, Noise Pop","Noise Rock, Singer-Songwriter, Shoegaze","noisy, LGBT, lonely, male vocals, lo-fi, raw, pessimistic, introspective","1,130",12,3.28,
+587,BT,These Hopeful Machines,2 February 2010,"Progressive Trance, Electropop","House, Glitch, Dance-Pop, Pop Rock, Vocal Trance","uplifting, ethereal, lush, atmospheric, progressive, futuristic, female vocals, warm",324,15,3.28,3jJMt3X24W6cEUwlRCLTlw
+588,Mary Halvorson Quintet,Saturn Sings,5 October 2010,Avant-Garde Jazz,Free Jazz,,200,1,3.63,1w5cafvuqWlMvyj2uY280N
+589,Broken Little Sister,"Memories, Violet & Demons",2010,"Dream Pop, Shoegaze, Indietronica",Noise Pop,"atmospheric, noisy, female vocals, summer, playful, lobit, male vocals, energetic",388,2,3.31,5qsECl8aXMoorMRFry9lW6
+590,Sinbreed,When Worlds Collide,26 March 2010,Power Metal,,"energetic, male vocals, melodic, technical",203,9,3.61,3z7bzhdSL7CglcTXnCauCC
+591,Jazzyfact,Lifes Like,1 November 2010,Jazz Rap,Turntablism,"sampling, male vocals, rhythmic, soothing, spring, mellow, warm, playful",230,1,3.80,3TKU5BGCpwhYnjJlbS9fyI
+592,Konono N°1,Assume Crash Position,8 June 2010,Tradi-Modern,,,254,7,3.38,6SDV3gd8aaUnyXb5bUcSUf
+593,Chromeo,Business Casual,14 September 2010,"Electro-Disco, Synthpop, Funktronica",Synth Funk,"rhythmic, male vocals",767,16,3.29,2u6r2NbV8jSopoeTuRC3us
+594,The Young Veins,Take a Vacation!,8 June 2010,"Indie Pop, Pop Rock","Sunshine Pop, Power Pop, Jangle Pop, Indie Surf, Psychedelic Pop","melodic, summer, love, romantic, male vocals, playful, bittersweet, warm",295,8,3.34,5cFULX82XWt56txFZImJdS
+595,Profanatica,Disgusting Blasphemies Against God,16 August 2010,Black Metal,War Metal,"anti-religious, hateful, raw, male vocals, aggressive, misanthropic, heavy",289,3,3.38,0KlaAkK914lD91NjHD2U5L
+596,Rolo Tomassi,Cosmology,24 May 2010,Mathcore,Post-Hardcore,"anxious, sombre, female vocals, chaotic, ominous, aggressive, melodic, technical",634,12,3.28,61jRMROLS3eICkmrAFQQ5n
+597,Tiluland,Axes of the Universe,31 December 2010,"Power Metal, Neoclassical Metal","Symphonic Metal, Progressive Metal","instrumental, melodic, energetic, technical, epic, lush",200,13,3.58,1xSlRY17sCRxJFI01VGX1N
+598,Broken Social Scene,Forgiveness Rock Record,4 May 2010,Indie Rock,"Indie Pop, Indietronica","dense, melodic, male vocals, atmospheric, female vocals, warm, lush, Wall of Sound","2,653",64,3.28,794rJKMOPZdCzQx0iLWftF
+599,Darkthrone,Circle the Wagons,5 April 2010,"Heavy Metal, Black 'n' Roll, Blackened Crust","Black Metal, Crust Punk, Speed Metal","raw, male vocals, energetic, rebellious, heavy, manic, dark, mysterious","1,584",38,3.26,0M43d6s6l1b5x6SALQSrP0
+600,Chelsea Wolfe,The Grime and the Glow,28 December 2010,Ethereal Wave,"Lo-Fi / Slacker Rock, Gothic Rock, Psychedelic Folk","lo-fi, dark, sombre, surreal, nocturnal, depressive, atmospheric, noisy","1,526",4,3.29,6jkLY2lCdC72Aykuuh1Trj
+601,An Autumn for Crippled Children,Lost,April 2010,"Depressive Black Metal, Blackgaze, Atmospheric Black Metal",,"melancholic, sombre, depressive, dense, Wall of Sound, atmospheric, male vocals, passionate",659,8,3.29,anautumnforcrippledchi
+602,Benoît Pioulard,Lasted,11 October 2010,"Dream Pop, Singer-Songwriter","Ambient Pop, Ambient",,334,6,3.32,6FwyZfbxhEqNrQtPaFT132
+603,Crashdïet,Generation Wild,14 April 2010,"Glam Metal, Hard Rock",,,236,6,3.53,5MPboRxNupPH0uy47O9Iox
+604,TOKiMONSTA,Midnight Menu,28 July 2010,"Instrumental Hip Hop, Glitch Hop","Wonky, Downtempo, Neo-Soul","atmospheric, instrumental, sampling, soothing, nocturnal, lush",855,11,3.29,3lTA20fxXw4emuqqKOoEpf
+605,Alva Noto,For 2,March 2010,"Ambient, Glitch",,,255,1,3.44,243ui1tc9dYZBN220fCGuO
+606,Miami Horror,Illumination,20 August 2010,"Electropop, Synthpop","Electro-Disco, Nu-Disco, Funktronica","playful, summer, ethereal, uplifting, warm",663,11,3.29,3y1akfRVCV7LQGYfqJ9WV9
+607,Fitz and The Tantrums,Pickin' Up the Pieces,24 August 2010,Pop Soul,"Pop Rock, Indie Pop, Neo-Soul, Motown Sound","female vocals, uplifting, male vocals",431,8,3.29,6v1XsTQiTP6IziGoGpTLu1
+608,The Meads of Asphodel,The Murder of Jesus the Jew,15 November 2010,"Black Metal, Avant-Garde Metal",Progressive Metal,"war, humorous, anti-religious, vulgar, complex, avant-garde, aggressive, eclectic",251,8,3.40,
+609,Black Rebel Motorcycle Club,Beat the Devil's Tattoo,8 March 2010,"Alternative Rock, Garage Rock Revival","Psychedelic Rock, Blues Rock","male vocals, melodic","1,031",36,3.29,04Aq1J0F5FcUUSEhFziTYc
+610,Soilwork,The Panic Broadcast,2 July 2010,Melodic Death Metal,Melodic Metalcore,"energetic, aggressive, male vocals, heavy, melodic, technical, passionate",751,23,3.27,5zcR5OgSxqbe9YoULJwDTp
+611,Tamaryn,The Waves,14 September 2010,Shoegaze,"Dream Pop, Ethereal Wave","noisy, Wall of Sound, female vocals, soothing, lush, ethereal, mellow, melodic",706,12,3.29,5sXAD2qEpB1bXozENImltL
+612,Chimp Spanner,At the Dream's Edge,12 April 2010,"Djent, Progressive Metal","Ambient, Progressive Rock, Jazz Fusion","futuristic, progressive, instrumental, uncommon time signatures, technical, uplifting, complex",282,6,3.36,4SeGPfLxk4H3IDooIDhBC1
+613,Ebo Taylor,Love and Death,25 October 2010,"Afrobeat, Highlife",Afro-Funk,"male vocals, uplifting, rhythmic, passionate",219,5,3.51,22gNWSHQclzKln0X8C69v5
+614,Vasaeleth,Crypt Born & Tethered to Ruin,16 February 2010,Death Metal,Death Doom Metal,,291,9,3.31,
+615,Nas & Damian Marley,Distant Relatives,18 May 2010,"Conscious Hip Hop, East Coast Hip Hop","Political Hip Hop, Reggae","political, conscious, male vocals","1,814",45,3.27,6Cj4gSdavyZCIhmeoCcrI6
+616,Flotsam and Jetsam,The Cold,14 September 2010,Heavy Metal,"Progressive Metal, Thrash Metal","angry, love, dark, sombre, depressive, hateful, male vocals",319,12,3.27,5LpUBFh6YuElTGctowwbZJ
+617,SALEM,King Night,28 September 2010,Witch House,"Chopped and Screwed, Trap, Cloud Rap, Dream Pop","nocturnal, atmospheric, drugs, sombre, heavy, hypnotic, dense, occult","3,727",78,3.24,4fo5lGl9uaSlSRlEvB2rhf
+618,Tobacco,Maniac Meat,25 May 2010,"Indietronica, Electroclash",Neo-Psychedelia,"surreal, psychedelic, androgynous vocals, futuristic, chaotic, noisy",810,7,3.28,4SOxWpta4wsKaj2wWpwHbC
+619,Demians,Mute,28 June 2010,Alternative Metal,"Progressive Metal, Progressive Rock",,270,6,3.34,63BuQ9EJv2QjyvINH6KxYp
+620,Satanic Warmaster,Nachzehrer,18 August 2010,Black Metal,,male vocals,311,6,3.34,
+621,Balmorhea,Constellations,23 February 2010,Modern Classical,"Post-Rock, Ambient, Chamber Music","nocturnal, melancholic, atmospheric, lush, cold, soothing, instrumental, soft",491,6,3.29,2U4JqMKKozPS4U219KAJ5c
+622,Balance and Composure / Tigers Jaw,Balance and Composure / Tigers Jaw,11 May 2010,"Post-Hardcore, Emo",Alternative Rock,"male vocals, sentimental, energetic, passionate",304,3,3.37,
+623,Trentemøller,Into the Great Wide Yonder,31 May 2010,Electronic,"Downtempo, Microhouse",,483,6,3.30,0CHjX36DTba3HeiB4bcEJZ
+624,Standstill,Adelante Bonaparte (una fábula circular),7 March 2010,"Indie Rock, Folk Rock",Art Rock,concept album,273,12,3.38,537zkn95QfijV0F2Twq5zi
+625,The Reign of Kindo,This Is What Happens,3 August 2010,"Jazz-Rock, Indie Rock","Progressive Rock, Piano Rock","uncommon time signatures, existential, melodic, romantic, uplifting, rhythmic, male vocals, energetic",242,3,3.49,5cIC5jXpCvDiVyfoTiBxzb
+626,Open Mike Eagle,Unapologetic Art Rap,11 May 2010,"West Coast Hip Hop, Abstract Hip Hop",Glitch Hop,,393,3,3.30,2KFvFjM7w06Vg2TjLRI7EJ
+627,Castevet,Mounds of Ash,25 May 2010,Black Metal,"Progressive Metal, Atmospheric Black Metal","dense, dissonant, melancholic, atmospheric, aggressive, progressive, heavy, dark",307,8,3.30,
+628,Liars,Sisterworld,8 March 2010,Experimental Rock,"Noise Rock, Post-Punk","misanthropic, dark, ominous, violence, angry, anxious, mysterious, sarcastic","1,935",38,3.26,5S449otoXWOfjKoPdnBsIF
+629,Eleven Tigers,Clouds Are Mountains,5 June 2010,Dubstep,"Future Garage, Ambient, IDM",,309,7,3.30,
+630,Oddisee,Traveling Man,26 January 2010,Instrumental Hip Hop,,,251,4,3.46,1tpq0zVUUFES35hMu8rLFR
+631,Antony and the Johnsons,Swanlights,11 October 2010,"Chamber Pop, Art Pop","Baroque Pop, Singer-Songwriter, Art Pop, Chamber Pop, Avant-Folk","female vocals, abstract, poetic, LGBT, ballad, spiritual, romantic, melancholic","1,048",28,3.26,0gDq1h43iHHJ5DUgs1e94Y
+632,Mi Ami,Steal Your Face,13 April 2010,"Experimental Rock, Post-Hardcore","Noise Rock, Dance-Punk, Art Punk, Neo-Psychedelia, Dub","rhythmic, androgynous vocals, noisy",459,7,3.27,1FLtju26e5GkREKpz6enZL
+633,Molly Nilsson,Follow the Light,7 June 2010,Synthpop,"Minimal Synth, Dream Pop","lo-fi, female vocals, melodic, minimalistic, bittersweet, sparse",277,1,3.37,1PIGBD6huDAqWSeRMpDXrA
+634,Ultralyd,Inertiadrome,18 October 2010,"Noise Rock, Math Rock, Brutal Prog","Avant-Garde Jazz, Jazz-Rock","repetitive, instrumental",241,7,3.41,48LwQuo6A3QefyOkmOzBJu
+635,Glenn Branca,The Ascension: The Sequel,February 2010,"No Wave, Totalism","Noise Rock, Post-Rock, Drone","hypnotic, rhythmic, repetitive, anxious, dark, epic, avant-garde, atmospheric",538,6,3.28,1xOjcsiHHA8VAsc77TJF4Q
+636,Melissa Auf der Maur,Out of Our Minds,16 March 2010,Alternative Rock,"Neo-Psychedelia, Post-Grunge, Art Rock",female vocals,307,8,3.29,
+637,Unitopia,Artificial,3 May 2010,"Progressive Rock, Symphonic Prog",Neo-Prog,"melodic, male vocals",203,9,3.59,3EhSd3VLy3umhUqwtZS7PJ
+638,Scuba,Triangulation,22 March 2010,"Dubstep, Future Garage","Dub Techno, Ambient, UK Bass","atmospheric, cold, rhythmic, urban, minimalistic",823,24,3.27,33nehTWqjJCYPCBHdzir83
+639,Stoned Jesus,First Communion,30 August 2010,"Stoner Metal, Doom Metal",Doom Metal,"heavy, male vocals, occult, repetitive, dense",372,7,3.29,4aXhX1cye8Aht6IvBrh11Q
+640,Land of Talk,Cloak and Cipher,24 August 2010,Indie Rock,Dream Pop,"melodic, atmospheric, bittersweet",248,10,3.44,5ePG0mzpAgaiWXQnF36JsN
+641,Loreena McKennitt,The Wind That Shakes the Barley,15 November 2010,"Celtic Folk Music, Celtic New Age, Contemporary Folk",Irish Folk Music,"female vocals, melodic, ethereal, medieval",234,2,3.49,3DeyZ4w7wGN908t7qtTlT8
+642,The New Pornographers,Together,4 May 2010,"Power Pop, Indie Pop",,"female vocals, male vocals","1,268",40,3.26,2c4mwBI6iRg3QIAvFs4gek
+643,Crocodiles,Sleep Forever,14 September 2010,Noise Pop,"Shoegaze, Neo-Psychedelia, Post-Punk, Krautrock","male vocals, existential, psychedelic, lo-fi",517,8,3.28,4QO7nU4z4keapEXlrHWw7R
+644,Pan Sonic,Gravitoni,7 June 2010,"Power Noise, Industrial Techno","Noise, Industrial, Glitch, Drone","martial, ominous, dark, atmospheric, mysterious, hypnotic, dissonant, mechanical",427,5,3.27,1LWY3cdCXjtwWnGfUVUSuX
+645,Broken Bells,Broken Bells,8 March 2010,Indie Pop,"Indietronica, Neo-Psychedelia","male vocals, rhythmic, calm, dense, atmospheric, psychedelic, melodic, bittersweet","2,830",70,3.25,0X7WyEKdm5afGj1fmD7Blx
+646,Rick Ross,Teflon Don,20 July 2010,"Southern Hip Hop, Gangsta Rap","Pop Rap, Trap, Chipmunk Soul","triumphant, sexual, lush, male vocals, drugs, crime, melodic, boastful","1,606",30,3.25,0jipZxGtkTDHjVerLkzO80
+647,Wolf Parade,Expo 86,29 June 2010,Indie Rock,"Synthpop, Post-Punk Revival, Art Rock","male vocals, energetic","1,115",29,3.27,4OCDvIPWZmMwNEd7BEhJyQ
+648,Fursaxa,Mycorrhizae Realm,8 March 2010,"Psychedelic Folk, Free Folk",Drone,"ritualistic, atmospheric, ethereal, warm, psychedelic, female vocals",351,10,3.28,5lpagnakTlUosIw4eCAjJD
+649,Maserati,Pyramid of the Sun,9 November 2010,"Post-Rock, Krautrock","Progressive Electronic, Space Rock","atmospheric, instrumental, melancholic, psychedelic, space",302,4,3.28,40c3LuO08WpTEKA65BrMJO
+650,School Food Punishment,Amp-Reflection,14 April 2010,"Indie Rock, Alternative Rock","Electronic, Indietronica, J-Rock","female vocals, uplifting, melodic, playful, progressive, passionate, futuristic",249,2,3.50,3KcKdjwDTn3JbUyYZfMjL3
+651,The Sight Below,It All Falls Apart,6 April 2010,Ambient,Ambient Techno,,276,6,3.33,6hYkBiL9Q7WztW2ixFCCaf
+652,Kriegshög,Kriegshög,September 2010,"Japanese Hardcore, Crust Punk",D-Beat,"noisy, heavy, manic, male vocals, aggressive",200,2,3.65,0qROKjoY3g6nBrX5xzja4D
+653,Omar Rodriguez Lopez & John Frusciante,Omar Rodriguez Lopez & John Frusciante,1 May 2010,"Experimental Rock, Psychedelic Folk",Psychedelic Rock,"psychedelic, minimalistic, melodic, soft, repetitive, hypnotic, anxious, bittersweet",484,6,3.26,0YoZyS5M81yOES7Xc227qz
+654,Weekend,Sports,November 2010,"Shoegaze, Post-Punk, Noise Pop",Noise Rock,,387,7,3.27,2ZBjjvAip607ZLzbtVMY2V
+655,Adebisi Shank,This Is the Second Album of a Band Called Adebisi Shank,20 August 2010,Math Rock,"Glitch Pop, Electronic","energetic, futuristic, uplifting, melodic, playful, instrumental, quirky, tropical",391,10,3.26,4rJP80n4HOuRE3hoeDctzH
+656,Masayoshi Fujita & Jan Jelinek,"Bird, Lake, Objects",26 March 2010,"Ambient, Electroacoustic","Glitch, Drone, Plunderphonics, Minimalism","mellow, surreal, meditative, atmospheric, mysterious, instrumental, dissonant, noisy",331,2,3.28,56SCznbN9OQWHTOIyCYH3z
+657,Harlem,Hippies,6 April 2010,"Garage Rock, Indie Surf","Noise Pop, Lo-Fi / Slacker Rock, Punk Blues","raw, energetic, quirky, lo-fi, bittersweet, male vocals, apathetic",641,8,3.27,32kACISdDQ9wsLfrkk7HIn
+658,Plebeian Grandstand,How Hate Is Hard to Define,March 2010,"Mathcore, Post-Hardcore","Sludge Metal, Screamo, Black Metal","male vocals, dark, aggressive, angry, chaotic, hateful, misanthropic",239,3,3.43,0SS9E6dbeQf5wIhffZg6cj
+659,The Men,Immaculada,2010,"Noise Rock, Post-Hardcore","Shoegaze, Neo-Psychedelia, Garage Punk","male vocals, energetic, aggressive, raw, noisy",343,6,3.28,1oGx3BoHMCC4IweI4GmbeQ
+660,October Tide,A Thin Shell,28 September 2010,"Death Doom Metal, Melodic Death Metal",,"male vocals, dark, melancholic, sombre, atmospheric, melodic, heavy",331,9,3.28,0horwUR3FvAPT19w6pYbXk
+661,Annette Krebs / Taku Unami,Motubachii,April 2010,EAI,"Field Recordings, Onkyo, Musique concrète","sparse, avant-garde, cold, mysterious, soft, surreal, dark, improvisation",289,3,3.30,
+662,Helstar,Glory of Chaos,5 November 2010,Thrash Metal,"Speed Metal, Heavy Metal","male vocals, heavy, energetic, aggressive",253,14,3.39,7rAyyh8G8az9Pj7zpxThCb
+663,Rumer,Seasons of My Soul,1 November 2010,"Pop Soul, Blue-Eyed Soul",,"calm, female vocals",258,11,3.38,11lOkI76BF1vgoIhidvsgc
+664,Burzum,Belus,8 March 2010,"Atmospheric Black Metal, Black Metal",,"pagan, male vocals, mythology, atmospheric, forest, dark, concept album, sombre","3,516",69,3.22,2mhR354QT8ZqRI5Q4BPBEB
+665,Listener,Wooden Heart,6 July 2010,"Spoken Word, Indie Rock","Poetry, Indie Folk, Post-Rock","spiritual, bittersweet, passionate, introspective, poetic, optimistic, sentimental, love",316,7,3.22,73k7ekVsOQpnO3damAZG3l
+666,Belle and Sebastian,Write About Love,11 October 2010,"Twee Pop, Indie Pop",Chamber Pop,"male vocals, melodic, playful, female vocals, energetic, melancholic, love","2,697",71,3.25,13iVHOPq26YcY6kbTI09Jj
+667,Coconuts,Coconuts,9 March 2010,"Noise Rock, Experimental Rock","Drone, Psychedelic Rock, Post-Rock, Post-Punk, No Wave","dark, noisy, ominous, cryptic, mysterious, psychedelic, surreal, tribal",720,7,3.25,6VOoYo3Kp1y4uosNqKYkgD
+668,Katie Melua,The House,24 May 2010,"Pop, Jazz Pop","Art Pop, Adult Contemporary, Jazz Pop, Baroque Pop","mysterious, ethereal, female vocals",311,16,3.26,
+669,Sungrazer,Sungrazer,26 March 2010,"Stoner Rock, Psychedelic Rock",Heavy Psych,,223,4,3.49,
+670,My Sleeping Karma,Tri,20 March 2010,"Psychedelic Rock, Space Rock",Stoner Rock,,281,5,3.29,
+671,The Drums,The Drums,7 June 2010,"Indie Pop, Indie Surf","Post-Punk, Jangle Pop, Synthpop, Surf Rock, Post-Punk Revival","summer, breakup, sad, love, bittersweet, male vocals, playful, lonely","2,028",44,3.24,3pfNU5FIwyvTjtxxtQXK9l
+672,Areknamés,In Case of Loss...,2010,Progressive Rock,,,195,13,3.58,5U7a2epTVUNprUQIx0tkTv
+673,Tokyo Police Club,Champ,8 June 2010,"Indie Rock, Post-Punk Revival",Indie Pop,,659,12,3.25,6dbrywMBb8YMJMpOtFp7Mx
+674,Julian Lynch,Mare,28 June 2010,Psychedelic Folk,"Dream Pop, Avant-Folk, Hypnagogic Pop, Freak Folk","mellow, psychedelic, autumn, abstract",467,12,3.27,2ixpdV9PkmuTT59UhgX2eT
+675,Whispered,Thousand Swords,10 February 2010,"Melodic Death Metal, Symphonic Metal","Japanese Folk Music, Progressive Metal, Power Metal","mythology, folklore, epic, heavy, melodic",290,6,3.26,68bPZN8GD4OTQBPVbHg5iS
+676,El trío de Omar Rodriguez Lopez,Ciencia de los inútiles,14 February 2010,Contemporary Folk,"Progressive Folk, Hispanic American Music, Acoustic Rock, Psychedelic Folk","female vocals, minimalistic, atmospheric, bittersweet, ethereal, sentimental, soothing, calm",243,8,3.43,5as7hQXIniGbaltqM0yJud
+677,Blonde Redhead,Penny Sparkle,14 September 2010,"Dream Pop, Indie Pop","Downtempo, Indietronica","atmospheric, ethereal, melancholic, mellow, sensual, nocturnal, male vocals, romantic","1,164",30,3.24,4QV5imG1Iz9tzHOR0IfUwn
+678,Glasser,Ring,28 September 2010,"Indietronica, Art Pop","Synthpop, Progressive Pop, Dream Pop","melodic, mellow, soothing, tropical, female vocals, cold, nature, abstract",862,16,3.25,4yIc2xhi7JEBdMcvybuhbw
+679,Yann Tiersen,Dust Lane,11 October 2010,"Post-Rock, Dream Pop","Shoegaze, Chamber Folk",,379,12,3.26,
+680,Natalie Merchant,Leave Your Sleep,13 April 2010,"Contemporary Folk, Singer-Songwriter, Americana","Pop Rock, Folk Pop",,219,12,3.50,67EBjRRCfKTDI0ijGuugys
+681,Amiina,Puzzle,27 September 2010,Post-Rock,"Ambient, Chamber Music",,276,7,3.31,0rrt8WaT56NCrI4SPh8PDQ
+682,No Age,Everything in Between,28 September 2010,"Noise Pop, Indie Rock","Noise Rock, Lo-Fi / Slacker Rock","lo-fi, energetic, noisy, male vocals, atmospheric, melodic, rebellious, raw","1,442",30,3.24,2z4uH38UepxHIt6wKF0ArH
+683,Loma Prieta,Life/Less,June 2010,"Screamo, Emoviolence",,"male vocals, passionate",398,4,3.26,4YpfFdwcwj82aVTuxAtCTG
+684,She & Him,Volume Two,23 March 2010,"Indie Pop, Folk Pop","Twee Pop, Alt-Country, Countrypolitan, Baroque Pop","mellow, female vocals, melodic, soft","1,286",35,3.24,221n4vc2VnAGUyOrhKDNjX
+685,Grimes,Halfaxa,5 October 2010,"Ethereal Wave, Electronic","Synthpop, Art Pop, Witch House, Ambient Pop","ethereal, surreal, female vocals, fantasy, atmospheric, dark, spiritual, nocturnal","4,379",24,3.22,3ttWoxpmhvizD9yvhxfMqd
+686,Wavves,King of the Beach,3 August 2010,"Indie Rock, Surf Punk, Indie Surf","Noise Pop, Psychedelic Pop, Pop Punk","summer, energetic, warm, drugs, playful, psychedelic, hedonistic, male vocals","4,108",71,3.21,0cxv5saitGFOFPc6hGTHHg
+687,Brian Eno with Jon Hopkins & Leo Abrahams,Small Craft on a Milk Sea,2 November 2010,"Ambient, Electronic",IDM,"suspenseful, mysterious, ominous, atmospheric, instrumental, dark, sombre, cold","1,839",32,3.24,47e7SP8MtzYKK8Lm3gEK2i
+688,Dark Tranquillity,We Are the Void,24 February 2010,Melodic Death Metal,,"sombre, dark, melodic, heavy, aggressive, energetic, male vocals","1,292",45,3.22,36dEkcuRN9bt1GWyY9OCjk
+689,Magic Lantern,Platoon,8 April 2010,"Psychedelic Rock, Jam Band, Acid Rock",Krautrock,,271,9,3.31,53JreiALITbu1CSQf1IHUv
+690,Unleashed,As Yggdrasil Trembles,19 March 2010,Death Metal,"Melodic Death Metal, Melodic Black Metal",,342,7,3.26,2ZGDCKays96ffD4kBGBQ1m
+691,Shed,The Traveller,30 August 2010,"Minimal Techno, Dub Techno",Dubstep,"rhythmic, repetitive, minimalistic, atmospheric, sparse, instrumental, hypnotic",313,7,3.26,5qzaP8rzmPvzMG3ypsLT5V
+692,Punch,Push Pull,27 July 2010,"Hardcore Punk, Thrashcore",Powerviolence,"optimistic, female vocals, energetic, passionate",244,3,3.43,
+693,Stars,The Five Ghosts,22 June 2010,"Indie Pop, Synthpop",,"melodic, bittersweet, warm, male vocals, female vocals",609,13,3.25,1VNSdysVD6rAJKsW7IInNU
+694,Gogol Bordello,Trans-Continental Hustle,27 April 2010,Gypsy Punk,Balkan Folk Music,"male vocals, energetic",572,12,3.23,
+695,Autolux,Transit Transit,3 August 2010,"Noise Pop, Indie Rock","Dream Pop, Shoegaze, Experimental Rock","atmospheric, male vocals, lonely, introspective, progressive",563,11,3.25,6iJBreBJhU6Xrx5TON6UZo
+696,Elephant9,Walk the Nile,22 February 2010,"Jazz Fusion, Progressive Rock",,instrumental,235,4,3.41,2nhPYKY52vgXfJa6shs32U
+697,Krokus,Hoodoo,26 February 2010,Hard Rock,"Heavy Metal, Blues Rock",male vocals,212,9,3.51,2xIHNHmbm7DQoDKFQqxByO
+698,Masshysteri,Masshysteri,April 2010,Punk Rock,Post-Punk,"anxious, female vocals, male vocals, anti-religious, nihilistic, melodic, rhythmic, energetic",206,2,3.53,
+699,Tindersticks,Falling Down a Mountain,25 January 2010,Chamber Pop,,,659,17,3.25,1W11VFDu82DgZaw9D7tUOu
+700,The Black Dog,Music for Real Airports,May 2010,"Ambient, Ambient Techno","Field Recordings, IDM","alienation, lonely, dark, atmospheric, urban",312,9,3.26,14JF8KEjLOEAJPSUsUGdzm
+701,Cosa Brava,Ragged Atlas,5 March 2010,"Avant-Prog, Avant-Folk","Jazz Fusion, Rock in Opposition","female vocals, melodic, progressive, avant-garde, passionate, chamber music, male vocals, instrumental",202,5,3.55,28kxlMtRpcXE9ahMN2y3g3
+702,Black Bombaim,Saturdays and Space Travels,15 March 2010,"Heavy Psych, Jam Band, Acid Rock","Stoner Rock, Space Rock",instrumental,207,7,3.53,419OXgFUes7obvi6U7ZF1w
+703,Blood Red Shoes,Fire Like This,1 March 2010,Indie Rock,Garage Rock Revival,"energetic, female vocals",504,13,3.25,3iaIKeaDdQ42wCDIgjwMHq
+704,John Zorn,The Goddess: Music for the Ancient of Days,29 June 2010,Chamber Jazz,,"mellow, uncommon time signatures, peaceful, improvisation",247,2,3.40,
+705,Parkway Drive,Deep Blue,25 June 2010,"Metalcore, Melodic Metalcore",,"energetic, heavy, aggressive, melodic, angry, male vocals",942,10,3.21,3sj64vlMjeymCV05otr8FA
+706,Foxes in Fiction,Swung From the Branches,19 February 2010,"Dream Pop, Bedroom Pop, Ambient Pop",Ambient,"warm, ethereal, soft, male vocals, sampling, summer",264,2,3.40,4jF9LBNJUgbggtetEZmeDh
+707,Ital Tek,Midnight Colour,7 June 2010,"Purple Sound, Dubstep, IDM",Wonky,"instrumental, melodic, rhythmic, urban, mysterious, lush, nocturnal, futuristic",425,6,3.25,6QzPBVBy3I0KvqAgx8fwk0
+708,Thulcandra,Fallen Angel's Dominion,4 June 2010,Melodic Black Metal,Melodic Death Metal,male vocals,247,2,3.40,07cUl2RIKVU3zVBqQoK9CJ
+709,goreshit,Dancefloor Degrader,14 September 2010,"Lolicore, Mashcore, Gabber","Happy Hardcore, Breakcore, Nightcore","energetic, happy, melodic, playful, sampling, uplifting, bittersweet",493,5,3.23,
+710,Yakuza,Of Seismic Consequence,8 June 2010,"Progressive Metal, Avant-Garde Metal","Jazz-Rock, Post-Hardcore, Djent, Post-Metal","progressive, male vocals",299,8,3.24,5YMgTM8p7AZCyvTyjCj7Ag
+711,Stornoway,Beachcomber's Windowsill,24 May 2010,Indie Folk,"Indie Pop, Chamber Pop",,286,10,3.30,2AMtm1De0VgqU4ubap8rbl
+712,Borknagar,Universal,22 February 2010,"Progressive Metal, Black Metal",Melodic Black Metal,"epic, male vocals",510,8,3.23,5kaeogG1tWxKUpj46c32mr
+713,Turnpike Troubadours,Diamonds & Gasoline,31 August 2010,Red Dirt,,male vocals,178,2,3.66,5I249HRmXIxJw3IQDUOP5p
+714,Black Mountain,Wilderness Heart,14 September 2010,Psychedelic Rock,"Hard Rock, Folk Rock, Stoner Rock, Indie Rock",,827,20,3.23,7HiIz7nui3LtGVY62ORP3b
+715,Clogs,The Creatures in the Garden of Lady Walton,2 March 2010,"Chamber Folk, Modern Classical",Chamber Music,"female vocals, choral, male vocals",320,7,3.24,5d6I8mYarX7AeOoN1RFumn
+716,Coffinworm,When All Became None,April 2010,"Sludge Metal, Doom Metal",Black Metal,"death, apocalyptic, hateful, raw, anti-religious, self-hatred, misanthropic, dense",263,2,3.36,2MwKjj2gnwCrQKOMsaErew
+717,The Wounded Kings,The Shadow Over Atlantis,4 January 2010,"Traditional Doom Metal, Doom Metal",,"heavy, dark, lethargic, occult, atmospheric, funereal, suspenseful, male vocals",218,4,3.51,
+718,Frenchbloke & Son,Société de radiodiffusion de l'homme et du fils français : bruit dans l'intéret de musique,December 2010,"Sound Collage, Musique concrète","Spoken Word, Field Recordings, Regional Music, Electronic","surreal, eclectic, mysterious, psychedelic, suspenseful, spiritual, complex, sampling",174,2,3.69,
+719,The Blood of Heroes,The Blood of Heroes,6 April 2010,"Drum and Bass, Drill and Bass","Dub, Breakcore, Industrial Hip Hop","futuristic, rhythmic, apocalyptic, urban, aggressive, energetic, sampling, atmospheric",404,7,3.24,1JD8jkEn9N6zLDlH42Bja9
+720,Atheist,Jupiter,8 November 2010,Technical Death Metal,,"technical, complex, uncommon time signatures, male vocals, energetic, mythology, progressive, existential","1,588",45,3.21,3jswGnew2M99zz6ZrTTVIS
+721,Stereolab,Not Music,16 November 2010,"Art Pop, Indie Pop, Indietronica","Progressive Pop, Krautrock, Indietronica","female vocals, male vocals",674,24,3.23,7HHH7TPpi5dxdsDMy9xj8G
+722,Access to Arasaka,Void();,14 September 2010,IDM,"Glitch, Ambient","futuristic, mechanical, dark, sampling, rhythmic, cold",271,3,3.33,2UdNnR6j8X3LjwahQyjGTV
+723,gru,Cosmogenesis,18 October 2010,"Progressive Metal, Djent",Jazz Fusion,"space, instrumental, melodic",239,8,3.45,
+724,Blood of Kingu,Sun in the House of the Scorpion,24 May 2010,Black Metal,"Death Doom Metal, Ritual Ambient","male vocals, heavy, dark, aggressive, ominous, mythology, raw, ritualistic",336,10,3.23,4OczHkHgLNG4GMzRpWFxPW
+725,Candy Cane / Oranssi Pazuzu,Candy Cane / Oranssi Pazuzu,24 November 2010,"Avant-Garde Metal, Black Metal","Psychedelic Rock, Space Rock","sombre, heavy, dense, energetic, dark, atmospheric, male vocals, avant-garde",255,2,3.35,4Jm5ZgBORocrTw22EzKjA0
+726,James Ferraro,Feed Me,17 May 2010,Hypnagogic Pop,"Sound Collage, Glam Rock, Progressive Electronic","playful, androgynous vocals, psychedelic, energetic, eclectic, lo-fi, surreal, disturbing",260,2,3.41,
+727,Nachtmystium,Addicts: Black Meddle Pt. II,7 June 2010,Black Metal,"Psychedelic Rock, Post-Punk, Black 'n' Roll, Post-Metal","drugs, male vocals, depressive, introspective, pessimistic, passionate",627,17,3.20,
+728,Ratatat,LP4: Let Your Bird Eat Its Beak,8 June 2010,Indietronica,"Neo-Psychedelia, New Rave",instrumental,922,13,3.22,72aBWaiTnk9GHNcuMuZwcJ
+729,The Pretty Reckless,Light Me Up,27 August 2010,"Post-Grunge, Hard Rock",Alternative Rock,"female vocals, sensual, energetic, nocturnal, alienation, melodic, bittersweet, anthemic",880,16,3.20,2vv6A1vmzEcnzaIkrKveJy
+730,The Morning Benders,Big Echo,9 March 2010,"Indie Pop, Psychedelic Pop","Chamber Pop, Neo-Psychedelia","warm, romantic, Wall of Sound","1,008",22,3.22,4GGwYDNw2tNHbmK93bygqm
+731,Wire,Red Barked Tree,20 December 2010,"Indie Rock, Post-Punk","Post-Punk, Art Punk, Neo-Psychedelia","male vocals, abstract",905,19,3.22,3Tm6OMfXk7PffAEt4NAkmX
+732,Forbidden,Omega Wave,22 October 2010,Thrash Metal,"Technical Thrash Metal, Heavy Metal",,460,11,3.21,
+733,The Damned Things,Ironiclast,14 December 2010,Hard Rock,"Stoner Rock, Alternative Rock, Heavy Metal","male vocals, energetic, melodic, anxious",280,10,3.33,5ZmkAzsIitDu8lT2LlmeNO
+734,Sabaton,Coat of Arms,21 May 2010,Power Metal,"Heavy Metal, Symphonic Metal","male vocals, war, history, heavy, anthemic, melodic, energetic, martial","1,014",17,3.14,2IcMtE3h9wDUc0hTS0AS1S
+735,Earl Sweatshirt,Earl,31 March 2010,"West Coast Hip Hop, Horrorcore, Hardcore Hip Hop",Experimental Hip Hop,"vulgar, misanthropic, dark, playful, humorous, angry, death, male vocals","7,453",79,3.18,
+736,Pendulum,Immersion,24 May 2010,Dancefloor Drum and Bass,"Breakbeat, Electro House, Alternative Rock, Liquid Drum and Bass, Brostep","male vocals, energetic, aquatic, rhythmic, epic, passionate, party, bittersweet","2,125",35,3.17,3XtEGVx9uh7J46nBzEc1VS
+737,Amy Macdonald,A Curious Thing,8 March 2010,"Pop Rock, Singer-Songwriter",,"serious, introspective, longing, soft",391,6,3.22,4RD2mSuPjFpB0uORHKNOQc
+738,As I Lay Dying,The Powerless Rise,11 May 2010,Melodic Metalcore,Thrash Metal,"Christian, heavy, aggressive, male vocals, energetic",871,14,3.19,4vJxMmzmQsm0lvVo8QF6Lk
+739,Lemon's Chair,I Hate? I Hope?,7 April 2010,"Shoegaze, Post-Rock","Dream Pop, Ambient","ethereal, instrumental",335,3,3.23,
+740,Grave,Burial Ground,14 June 2010,Death Metal,,,302,6,3.24,
+741,The Ghost Inside,Returners,8 June 2010,Metalcore,"Melodic Hardcore, Hardcore Punk",,304,4,3.27,0oh5oBvyHOLYFoSxbJM7pg
+742,Ludicra,The Tenant,3 March 2010,Black Metal,"Progressive Metal, Post-Metal","dark, pessimistic, poetic, depressive, complex, atmospheric, eclectic, female vocals",218,1,3.47,156jl5DzVWjnBL4Ka3lAGC
+743,Tonbruket,Dan Berglund's Tonbruket,22 January 2010,Post-Rock,"Jazz-Rock, Acoustic Rock",instrumental,190,6,3.56,7gmwPl78M6JHaHFmx2m4Or
+744,Manticora,Safe,20 September 2010,"Power Metal, Progressive Metal",Thrash Metal,"technical, male vocals, energetic, aggressive",198,11,3.51,4vr4P0c0zqtDehlm8Avlzg
+745,Philip Jeck,An Ark for the Listener,28 September 2010,"Ambient, Turntable Music",Experimental,"surreal, sombre, atmospheric, instrumental",229,2,3.40,6qbXkYdqpxPCSMj8u825ix
+746,Angelus Apatrida,Clockwork,18 June 2010,Thrash Metal,,"heavy, male vocals, aggressive",236,4,3.48,7neHM4n7sl7h4UoETHEAkl
+747,Pryapisme,Rococo Holocaust,1 October 2010,"Avant-Garde Metal, Experimental Rock","Electronic, Progressive Metal, Chiptune, Jazz Fusion, Progressive Rock","uncommon time signatures, manic, energetic, chaotic, aggressive, technical, complex, playful",229,7,3.40,2iuftfHy8BAyG4ePAB7xcY
+748,Anika,Anika,25 October 2010,"Post-Punk, Minimal Wave",Dub,"dark, female vocals, nocturnal, ominous, minimalistic, sad, mechanical, cold",716,9,3.21,0wcr6i3pA9jWXEBD8V44rM
+749,Halford,Halford IV: Made of Metal,27 September 2010,Heavy Metal,Power Metal,"heavy, male vocals",337,16,3.22,
+750,Zoroaster,Matador,13 July 2010,"Stoner Metal, Sludge Metal","Psychedelic Rock, Heavy Psych, Doom Metal","heavy, psychedelic, energetic",238,3,3.35,6SJGkcZ9eBnNkudGV9lxOj
+751,Front Line Assembly,Improvised Electronic Device,25 June 2010,Electro-Industrial,Industrial Metal,"science fiction, futuristic, male vocals",241,6,3.45,5gb3liRNQ7XRlFmi9MWa0j
+752,Youth Pictures of Florence Henderson,Youth Pictures of Florence Henderson,25 January 2010,"Post-Rock, Midwest Emo","Slowcore, Indie Rock, Dream Pop",,226,,3.46,5eJMTWhO4SaFi3hq9d7YZq
+753,Buckethead,Captain EO's Voyage,20 October 2010,Progressive Rock,"Ambient, Post-Rock","concept album, space, instrumental",202,5,3.58,4TQ9l4wp33Xnfzh0JIWUB2
+754,Big Blood,Dead Songs,4 July 2010,"Folk Rock, Psychedelic Folk",,"existential, pastoral, poetic, soothing, spiritual, serious, sentimental, female vocals",298,7,3.24,
+755,Yeasayer,Odd Blood,9 February 2010,"Psychedelic Pop, Neo-Psychedelia","Indietronica, Synthpop, New Rave, Alternative Dance","energetic, anxious, psychedelic, playful, summer, bittersweet, male vocals, futuristic","2,534",78,3.18,2W9L68YdbM7mYSfNuy3bGK
+756,OMD,History of Modern,20 September 2010,Synthpop,"Dance-Pop, Electronic","male vocals, futuristic, melodic",336,20,3.22,
+757,Shipping News,One Less Heartless to Fear,9 November 2010,"Post-Hardcore, Noise Rock",Math Rock,,212,4,3.48,6qb8Cp2AP86c1xiXwkZDCK
+758,Ben Folds / Nick Hornby,Lonely Avenue,28 September 2010,Piano Rock,"Alternative Rock, Chamber Pop",,341,7,3.21,2B8xDhlnLu42Aaeri5Z9Mi
+759,Lissie,Catching a Tiger,21 June 2010,"Pop, Pop Rock","Folk Pop, Country Pop","female vocals, eclectic",272,10,3.34,6pqkj2YtzJ99SPqE1mAZM5
+760,Peter Van Hoesen,Entropic City,22 March 2010,Techno,Dub Techno,,212,5,3.43,4NHpmcrRw3QeJY4P5GT9Um
+761,Veil of Maya,[id],6 April 2010,"Deathcore, Djent",Progressive Metal,"technical, aggressive, energetic, heavy, male vocals, rhythmic",685,11,3.18,1KtPstaKGc1M6ySvBfkiyC
+762,Thee Silver Mt. Zion Memorial Orchestra,Kollaps Tradixionales,8 February 2010,"Post-Rock, Art Rock","Chamber Folk, Chamber Music","male vocals, passionate, epic, atmospheric, political, dense","1,516",26,3.19,1FJlRbDDgZSbUPR9hxEaF9
+763,Armored Saint,La Raza,16 March 2010,Heavy Metal,Hard Rock,"male vocals, energetic",281,10,3.24,2nJNj3CZyTH9oOvmTPHZAc
+764,Aeternam,Disciples of the Unseen,16 February 2010,"Melodic Death Metal, Death Metal","Symphonic Metal, Arabic Folk Music, Folk Metal",,233,12,3.39,2Y8fFIHaB1Q2Udf40lL3fo
+765,How to Dress Well,Love Remains,19 October 2010,"Ambient Pop, Alternative R&B, Dream Pop","Ambient, Contemporary R&B","lo-fi, bittersweet, love, sad, cryptic, androgynous vocals, noisy, death","1,724",38,3.18,1PPXfny6bTg4AwboeIBT5h
+766,Avi Buffalo,Avi Buffalo,27 April 2010,"Indie Pop, Indie Folk","Bedroom Pop, Indie Rock","playful, cryptic, bittersweet, warm",684,15,3.20,5JPyoZPnsOndBmv2Y3vDrH
+767,The Soft Pack,The Soft Pack,1 February 2010,"Indie Rock, Garage Rock Revival",Surf Rock,"repetitive, raw, playful, male vocals, energetic",429,15,3.21,7mUpMiYpyDWCQqlZYhC2nc
+768,Les Savy Fav,Root for Ruin,14 September 2010,"Indie Rock, Dance-Punk, Post-Punk Revival","Post-Punk, Post-Hardcore",male vocals,396,4,3.22,10NrOYX6Tf9fDrptmzUDAw
+769,Spiritual Beggars,Return to Zero,30 August 2010,"Hard Rock, Heavy Metal","Stoner Rock, Stoner Metal",male vocals,312,13,3.22,
+770,The Vaselines,Sex With an X,13 September 2010,Indie Rock,"Alternative Rock, Indie Pop",,295,11,3.22,
+771,Cee Lo Green,The Lady Killer,9 November 2010,Pop Soul,"Funk, Neo-Soul, Contemporary R&B","male vocals, urban, energetic, passionate, lush, sensual, love","1,215",31,3.19,2C6PoS3fs0ZHKcWzdJMyIX
+772,Zaz,Zaz,10 May 2010,"Nouvelle chanson française, French Pop, Chanson","Cabaret, Jazz manouche","playful, energetic, urban, warm, optimistic, female vocals",509,9,3.17,6MuoqipFgorIZEYwGWEFAU
+773,S. Carey,All We Grow,24 August 2010,Indie Folk,Ambient Pop,"melancholic, autumn, atmospheric, serious, sentimental, meditative, lethargic, aquatic",290,6,3.22,7hoiuRyh1XBh4YUOB0ZeGx
+774,Jenny and Johnny,I'm Having Fun Now,31 August 2010,"Indie Pop, Pop Rock","Twee Pop, Alt-Country","female vocals, melodic, male vocals",276,11,3.23,3Tma0D5vBup8Y0vldEyHuW
+775,Lustre,A Glimpse of Glory,20 September 2010,"Ambient, Atmospheric Black Metal",Nature Recordings,"instrumental, nocturnal, triumphant, sombre, ethereal, nature, male vocals",253,2,3.34,2YSWYEE77g7MNiztSLcR9B
+776,Ef,Mourning Golden Morning,1 April 2010,Post-Rock,,,313,7,3.22,7M6D3WI8bRGHUQDaptAitE
+777,Surfer Blood,Astro Coast,19 January 2010,"Indie Rock, Indie Surf, Indie Pop","Surf Rock, Lo-Fi / Slacker Rock","summer, introspective, raw, warm, psychedelic, romantic, melodic, noisy","1,982",61,3.18,5ToC9VWNXK7smeo8b5EvCO
+778,KT Tunstall,Tiger Suit,28 September 2010,"Singer-Songwriter, Pop Rock, Pop","Folk Pop, Indie Pop, Folktronica, Rhythm & Blues",female vocals,251,7,3.38,
+779,Vinnie Paz,Season of the Assassin,22 June 2010,"Hardcore Hip Hop, East Coast Hip Hop, Boom Bap","Gangsta Rap, Conscious Hip Hop","violence, aggressive, male vocals, conscious",322,6,3.20,1ZB3v2FJtbPAqPwLBoV91I
+780,First Aid Kit,The Big Black and the Blue,25 May 2010,"Indie Folk, Folk Pop","Chamber Folk, Contemporary Folk","female vocals, melancholic, warm, acoustic, romantic, melodic, summer, bittersweet",613,8,3.20,7gktUhPz1PrJIfoEgZxCeI
+781,Her Name Is Calla,The Quiet Lamb,22 October 2010,Post-Rock,"Slowcore, Chamber Music","atmospheric, ethereal, longing, lush, soothing, calm, male vocals, passionate",252,8,3.35,1CmgPAK6GFb35WdoLZ1qoY
+782,Carolina Chocolate Drops,Genuine Negro Jig,25 January 2010,"Bluegrass, Progressive Bluegrass, Old-Time","Old-Time, Country Blues",,230,7,3.44,7gXh0cuAlgJhr9sr3bi3l9
+783,Tigers Jaw,Two Worlds,23 November 2010,"Indie Rock, Emo","Pop Punk, Emo-Pop, Midwest Emo","lonely, anxious, melodic, self-hatred, mellow, male vocals, depressive, pessimistic",427,3,3.21,6mlfzNwRRDUvid6KNIxvna
+784,Jeff Beck,Emotion & Commotion,13 April 2010,"Rock, Progressive Rock","Blues Rock, Hard Rock",,339,13,3.21,
+785,Menace Ruine,Union of Irreconcilables,May 2010,"Drone Metal, Noise","Neo-Medieval Folk, Neoclassical Darkwave, Drone, Death Industrial","noisy, female vocals",276,2,3.30,
+786,The Head and the Heart,The Head and the Heart,29 June 2010,"Indie Folk, Folk Pop, Americana",Indie Pop,"melodic, male vocals",707,9,3.18,4sRUr5XaJYlc17t4jUrqYB
+787,ceo,White Magic,29 June 2010,"Indie Pop, Indietronica, Art Pop","Synthpop, Balearic Beat",,571,8,3.19,6E3UGUme77M1jGt8jDetwJ
+788,Tides of Man,Dreamhouse,14 September 2010,"Progressive Rock, Alternative Rock",Post-Hardcore,,238,3,3.44,4uPoodop229epVvvUWj8pL
+789,Band of Horses,Infinite Arms,18 May 2010,"Indie Rock, Americana","Alt-Country, Indie Folk","melodic, male vocals","1,645",56,3.18,08fkw9uDP2KET6cPIl74Xo
+790,Jon Oliva's Pain,Festival,19 February 2010,"Heavy Metal, Progressive Metal",Power Metal,,208,7,3.51,3ej7uoMIqi8fixd8iwyDMg
+791,Polite Refusal Вежливый отказ,Гуси-лебеди,9 April 2010,"Avant-Prog, Art Rock, Progressive Rock",Avant-Garde Jazz,"complex, melodic, rhythmic, technical, energetic, progressive, uncommon time signatures, playful",189,7,3.53,7BZ0llt8pvxzzT76xhXLO0
+792,Gayngs,Relayted,11 May 2010,"Downtempo, Pop Soul, Art Pop","Soft Rock, Ambient Pop, Neo-Psychedelia, Alternative R&B, Trip Hop","nocturnal, lush, male vocals, mellow, female vocals, melodic, atmospheric, ethereal",599,18,3.19,31oyGwiewTzgbSLuE9tBgy
+793,Skeleton 骷,Skeleton,2 October 2010,"Vaporwave, Ambient","Dark Ambient, Drone","dark, atmospheric, sampling, avant-garde, lethargic, mysterious, lobit, ominous",675,14,3.18,
+794,Foetus,Hide,29 September 2010,"Symphonic Rock, Industrial Rock","Experimental Rock, Classical Crossover, Electronic, Orchestral, Psychedelic Pop",,268,6,3.35,
+795,Evelyn Evelyn,Evelyn Evelyn,30 March 2010,Dark Cabaret,"Spoken Word, Chamber Pop, Anti-Folk","concept album, introspective, female vocals, dark, sombre, male vocals",339,10,3.15,5s7vpnOoRH7dqOUevPITUT
+796,Asura,360,10 October 2010,"Psybient, Downtempo","Ambient, New Age, Progressive Psytrance","warm, hypnotic, ethereal, psychedelic, rhythmic, calm",197,4,3.53,2JIN8Dq1rHdUUWYPjWQ4XX
+797,Il Tempio delle Clessidre,Il Tempio delle Clessidre,September 2010,"Progressive Rock, Symphonic Prog",,,191,11,3.52,1NOCEhYJDeIoPFHIYOWxm6
+798,Manic Street Preachers,Postcards From a Young Man,20 September 2010,"Pop Rock, Alternative Rock",,"energetic, male vocals, anthemic","1,059",31,3.17,5WjsdfcpTc0mIaASlvlHhG
+799,Kamelot,Poetry for the Poisoned,10 September 2010,Progressive Metal,"Symphonic Metal, Power Metal","complex, dark, melodic, sombre, male vocals, technical, melancholic, pessimistic",789,46,3.17,5ZOjHX6pBz3HEnVGDgpguD
+800,Sadist,Season in Silence,19 March 2010,"Progressive Metal, Death Metal",Technical Death Metal,"heavy, winter, technical, progressive, male vocals",250,8,3.30,2GQ5JUZFWZ8GP3ran9Zky9
+801,Cyclobe,Wounded Galaxies Tap at the Window,13 October 2010,"Dark Ambient, Electronic","Drone, Tribal Ambient","ominous, instrumental, atmospheric, hypnotic, cold, surreal",204,3,3.52,
+802,Kate Nash,My Best Friend Is You,19 April 2010,"Indie Pop, Singer-Songwriter","Art Pop, Chamber Pop, Twee Pop, Riot Grrrl, Power Pop","angry, sarcastic, political, conscious, eclectic, anxious, introspective, female vocals",501,17,3.17,3jihHgHiUNXEjboel1TgaX
+803,Anthriel,The Pathway,17 September 2010,Progressive Metal,"Power Metal, Symphonic Metal, Progressive Rock, Neoclassical Metal","male vocals, melodic, progressive",169,11,3.63,6lEpZ5duHD1KWFVUGPNlPW
+804,Alesana,The Emptiness,26 January 2010,Post-Hardcore,Emo-Pop,"concept album, death, violence, passionate, longing, dark, energetic, crime",426,9,3.12,4HOobzcnXNTNaKxP2MIBrg
+805,Erland & the Carnival,Erland & The Carnival,25 January 2010,Indie Folk,"Psychedelic Folk, Psychedelic Rock",,225,9,3.38,
+806,Ted Leo and The Pharmacists,The Brutalist Bricks,9 March 2010,"Indie Rock, Alternative Rock, Power Pop","Pub Rock, Post-Punk Revival","male vocals, energetic, passionate",379,6,3.19,4fP9O0Pr5CAcT5Nm7lVZWu
+807,Lorn,Nothing Else,8 June 2010,"IDM, Glitch Hop","Dubstep, Glitch Hop, Post-Industrial","dark, atmospheric, instrumental, futuristic, urban",361,7,3.19,4yJRiHgjkDz25FyNNfH65I
+808,Counterparts,Prophets,23 February 2010,"Metalcore, Melodic Hardcore",Melodic Hardcore,,328,2,3.23,6Dv2TojFa9hDgUrpAxMo5F
+809,Ellie Goulding,Lights,1 March 2010,"Electropop, Synthpop, Folktronica","Indietronica, Alt-Pop","ethereal, female vocals, melodic, mellow, passionate, love, bittersweet","1,332",30,3.16,0eQwEistImu6rYY5NjNJNm
+810,Ceremony,Rocket Fire,27 April 2010,"Shoegaze, Noise Pop",Post-Punk,,262,10,3.29,
+811,Chancha Vía Circuito,Río Arriba,July 2010,Digital Cumbia,"Latin Rap, Dub, Wonky","rhythmic, female vocals, tropical, forest, nature, male vocals",244,6,3.34,3pqKIPHYh7rTiVsWwW00qZ
+812,Asteroid,II,22 January 2010,"Stoner Rock, Psychedelic Rock",Blues Rock,"psychedelic, heavy, male vocals",233,7,3.42,6Ngf2Rnzg5yP7I2Hf2Cn1F
+813,Ryan Adams & The Cardinals,III / IV,14 December 2010,"Americana, Alternative Rock, Indie Rock","Alt-Country, Heartland Rock, Pop Rock, Garage Rock, Hard Rock",,308,7,3.19,5ZkPAOsEg0G1JkWvjUC6X1
+814,Cruel Force,The Rise of Satanic Might,5 February 2010,Thrash Metal,"Black Metal, Speed Metal","satanic, energetic, infernal, aggressive, occult, rhythmic",241,,3.43,4iEwcPOk9zwwGLPUEQ5KpH
+815,Extra Life,Made Flesh,22 March 2010,Experimental Rock,"Math Rock, Avant-Prog, Progressive Rock, Avant-Folk","technical, uncommon time signatures",313,15,3.16,43M7NtuP6i16wxC1RZrIDP
+816,Gray,Shades Of...,2010,"Downtempo, Sound Collage","Experimental Hip Hop, Spoken Word, Trip Hop, Industrial, Instrumental Hip Hop","urban, sampling, nihilistic, mysterious, avant-garde, lo-fi, dissonant, male vocals",251,2,3.33,0k2dsulibA9HD8yZbWpX9j
+817,65daysofstatic,We Were Exploding Anyway,26 April 2010,Electronic,"Post-Rock, IDM, Breakbeat","uncommon time signatures, instrumental, complex, energetic, rhythmic, introspective, urban, atmospheric","1,537",33,3.15,1JorSz3YkTUuNMyLu18dUd
+818,Drudkh,Пригорща зірок (Handful of Stars),20 September 2010,Atmospheric Black Metal,"Blackgaze, Post-Rock, Post-Metal","cold, pagan, mellow, mysterious, male vocals, repetitive",938,31,3.16,3zw1bFY82n5lSTweMHlrjx
+819,Röyksopp,Senior,13 September 2010,Downtempo,"Ambient Techno, Progressive Electronic, Ambient Pop, Ambient","instrumental, mysterious, calm, dark, nocturnal, autumn, atmospheric, ominous",964,28,3.17,3UmeKB7yfDWGue5RdX1HnG
+820,Serena Maneesh,No 2: Abyss in B Minor,22 March 2010,Shoegaze,,,287,11,3.17,6rDHk5lHpUM9C3u1HJ6HjD
+821,Yūgen,Iridule,17 September 2010,Avant-Prog,"Rock in Opposition, Brutal Prog",,178,4,3.56,09g8BLXLpqxdKFO9x29wGW
+822,Anberlin,"Dark Is the Way, Light Is a Place",7 September 2010,Alternative Rock,,"anthemic, melancholic, melodic, male vocals, energetic",362,7,3.17,0aJvU0peEjLVYTOhaPVLXv
+823,Pat Metheny,Orchestrion,25 January 2010,"Jazz, Jazz Fusion",Post-Bop,"calm, complex, technical, instrumental",248,6,3.31,1TzS5WLoiM5UnFtfi9Yy87
+824,Crowded House,Intriguer,13 July 2010,Pop Rock,,,278,13,3.22,
+825,klaus&kinski,"Tierra, trágalos",5 April 2010,"Indie Pop, Dream Pop","Twee Pop, Shoegaze","melodic, ethereal, bittersweet, melancholic, mellow, female vocals, energetic, eclectic",199,4,3.52,0b0IxjFY0QN5WkhKTyUyb3
+826,A Sunny Day in Glasgow,"Autumn, Again",18 October 2010,Dream Pop,"Shoegaze, Indietronica","female vocals, autumn, melodic, atmospheric, ethereal, lush",436,6,3.18,2iME9zWaS1jUcztTmzPHSB
+827,Hot Chip,One Life Stand,9 February 2010,"Indietronica, Synthpop, Electropop","Alternative Dance, Dance-Pop","melancholic, male vocals, energetic","1,898",48,3.14,4g9B6VXmdHhmqYhVHIXsbc
+828,Brotha Lynch Hung,Dinner and a Movie,23 March 2010,"Horrorcore, West Coast Hip Hop",,,255,10,3.41,2oQtCUq4P7UrYZPPP8t5O4
+829,Endless Boogie,Full House Head,20 July 2010,"Blues Rock, Boogie Rock","Jam Band, Psychedelic Rock","warm, male vocals, passionate, rhythmic, repetitive, psychedelic, raw",170,10,3.62,7gBOS0QRmUuRVCilLJbAUp
+830,Mountain Man,Made the Harbor,14 June 2010,Contemporary Folk,Close Harmony,,261,11,3.26,67aVWwFKfxnRaLJWJvsSM3
+831,Scout Niblett,The Calcination of Scout Niblett,26 January 2010,"Singer-Songwriter, Alternative Rock",,female vocals,252,10,3.31,3gZ50mRPWAKWtB49aYLRAA
+832,Child Abuse,Cut and Run,13 April 2010,"Avant-Garde Metal, Noisecore, Brutal Prog","Mathcore, Noise Rock","uncommon time signatures, avant-garde, male vocals, noisy, complex, technical, dissonant, chaotic",245,3,3.30,742eXbHVYsnJeuIDZniDro
+833,Airbourne,No Guts. No Glory.,20 April 2010,Hard Rock,,"rebellious, male vocals, energetic",589,20,3.14,0Aqzdxjw5IuTpqB7EpZQx4
+834,Nobunny,First Blood,21 September 2010,Garage Rock,Glam Rock,,222,9,3.41,
+835,The Glitch Mob,Drink the Sea,8 June 2010,"Glitch Hop, Glitch Hop [EDM]","Dubstep, Wonky, Glitch Hop [EDM]","instrumental, melodic, epic, energetic, rhythmic, suspenseful, uplifting, futuristic","1,345",18,3.15,4c5fhgLoAaFzwjNTxC57jK
+836,Interment,Into the Crypts of Blasphemy,2 August 2010,Death Metal,,,230,3,3.41,7xnMhud1EHDywK6vtBvf7e
+837,Imelda May,Mayhem,6 September 2010,Rockabilly,,female vocals,203,6,3.48,6QLKR2LZaSZzZuZpiosZNR
+838,Best Coast,Crazy for You,27 July 2010,"Indie Pop, Indie Surf","Twee Pop, Lo-Fi / Slacker Rock, Surf Rock, Garage Rock","summer, Wall of Sound, romantic, warm, sentimental, lo-fi, female vocals, bittersweet","3,792",100,3.12,6nz1yXsTA6bEyeATun1K0L
+839,Get Well Soon,Vexations,22 January 2010,"Chamber Pop, Indie Pop",,,270,6,3.24,6PA4SFOWmJcDkrAbPjDPkd
+840,Skunk Anansie,Wonderlustre,13 September 2010,Alternative Rock,Garage Rock Revival,"female vocals, dark, melodic, love, energetic",296,5,3.17,5QeLE7nCaLnekKTugxqLC5
+841,Frog Eyes,Paul's Tomb: A Triumph,27 April 2010,Indie Rock,"Art Rock, Post-Punk Revival",,243,9,3.28,4kdjOpj8BtylxvGvTDeFLS
+842,Suckers,Wild Smile,8 June 2010,Indie Pop,"Psychedelic Pop, Indie Rock, Art Pop",male vocals,244,6,3.33,
+843,Bad Religion,The Dissent of Man,28 September 2010,"Punk Rock, Melodic Hardcore, Pop Punk",Skate Punk,,746,24,3.16,1wMkiD60ZCqlZQZ3m7kXSc
+844,Onra,Long Distance,3 May 2010,"Synth Funk, Funk","Instrumental Hip Hop, Funk",sampling,284,4,3.20,
+845,Kaki King,Junior,13 April 2010,"Indie Rock, Acoustic Rock","Dream Pop, Post-Rock",,234,6,3.36,4r0WhfGMzek67QH2LIc881
+846,Red Sparowes,"The Fear Is Excruciating, but Therein Lies the Answer",6 April 2010,Post-Rock,,"melodic, atmospheric, instrumental, melancholic, progressive",775,15,3.15,1mLisF7qgSwVDrQ4gklpcR
+847,Darkstar,North,18 October 2010,Synthpop,"Glitch Pop, Future Garage, Dubstep","lonely, male vocals, futuristic, nocturnal",545,9,3.15,3L8CxEIZ2lVkKgTo9GHeyw
+848,Reckless Love,Reckless Love,24 February 2010,"Glam Metal, Hard Rock",AOR,"anthemic, sexual, melodic, playful, love, male vocals",190,8,3.51,7aojdPh4cmQLRkvJeiUMmU
+849,Nightbringer,Apocalypse Sun,11 May 2010,Black Metal,,,255,5,3.34,7mc4QXvaMLo5ZiI1anrZbz
+850,Nikos Veliotis & Klaus Filip,Slugabed,December 2010,EAI,"Drone, Birdsong","instrumental, meditative, improvisation, lethargic",234,3,3.41,
+851,Yelawolf,Trunk Muzik: 0-60,22 November 2010,Southern Hip Hop,"Dirty South, Pop Rap","male vocals, rhythmic, urban, misanthropic, violence, crime, playful, vulgar",440,9,3.13,6Vg7HgTCyGdcRikqPGhPl4
+852,Cold Body Radiation,The Great White Emptiness,15 July 2010,"Post-Rock, Blackgaze",Shoegaze,"lo-fi, melodic, atmospheric, male vocals",382,5,3.16,6UlPsHJH2dTkI2YQ2Nyg1E
+853,Adam Lane's Full Throttle Orchestra,Ashcan Rantings,September 2010,Avant-Garde Jazz,"Experimental Big Band, Free Jazz","avant-garde, improvisation, instrumental, acoustic",174,1,3.62,4373vIl0sIyAMsXvOrlvmA
+854,Instanzia,Ghosts,22 November 2010,Power Metal,"Symphonic Metal, Progressive Metal","melodic, male vocals, energetic, anthemic, passionate, optimistic, introspective, uplifting",178,11,3.59,6qtXjVSW7riEHoSJrJjACD
+855,Nice Face,Immer Etwas,February 2010,"Synth Punk, Lo-Fi / Slacker Rock","Garage Punk, Noise Rock, Post-Punk",male vocals,262,6,3.23,0ptIpbaTMpY2wNn8gIwRyP
+856,Digital Mystikz,Return II Space,30 June 2010,Dubstep,"UK Garage, UK Bass",,249,4,3.32,
+857,Versailles,Jubilee,20 January 2010,"Symphonic Metal, Power Metal, Visual kei","Progressive Metal, Neoclassical Metal","epic, triumphant, energetic, melodic, male vocals, passionate, progressive, technical",240,7,3.33,4if2RUTlKj4TixjTRBAmvr
+858,of Montreal,False Priest,14 September 2010,"Indie Pop, Synth Funk","Psychedelic Pop, Synth Funk, Glam Rock, Pop Rock, Funk Rock","sexual, energetic, eclectic, anxious, romantic, breakup, melodic, playful","1,623",41,3.12,5SFAreGbKibBApvimb4srL
+859,Pure Reason Revolution,Hammer and Anvil,18 October 2010,Alternative Rock,"Industrial Rock, Electronic, Progressive Rock","melodic, energetic",368,17,3.14,1FlOmKtLz0PImGZA1GqVFv
+860,Sete Star Sept,Revision of Noise,2010,Grindcore,"Deathgrind, Noisecore","noisy, raw, aggressive, disturbing, lo-fi, dissonant, female vocals, chaotic",200,,3.44,0NNPscgI4d7OqiraughLbm
+861,Dhafer Youssef,Abu Nawas Rhapsody,22 February 2010,"Arabic Jazz, Jazz Fusion",Arabic Music,,162,5,3.66,4iwU4rmHPrApGT7isexQ8J
+862,God Is an Astronaut,Age of the Fifth Sun,17 May 2010,Post-Rock,"Ambient, Electronic","instrumental, progressive, atmospheric, melancholic, uplifting, dense","1,093",16,3.13,4e7YGE1QqdJuxCKcmOqIit
+863,Darwin Deez,Darwin Deez,12 April 2010,Indie Pop,Indietronica,male vocals,401,7,3.15,0IjdED7yHj7572sm0uFBSU
+864,CocoRosie,Grey Oceans,11 May 2010,"Freak Folk, Indie Folk, Art Pop","Folktronica, Lo-Fi / Slacker Rock, Ethereal Wave, Ambient Pop","melancholic, nature, complex, forest, psychedelic, abstract, rebellious, surreal",843,18,3.11,4P8g1LaXZqEQUiGiMBPejY
+865,bvdub,The Art of Dying Alone,5 July 2010,Ambient,"Ambient Techno, Minimalism, Ambient Dub","lonely, ethereal, atmospheric, sombre, bittersweet, existential, cold, soft",259,5,3.24,33xYm6acxDWrWCIJuMh2DN
+866,Gamma Ray,To the Metal!,29 January 2010,Power Metal,Heavy Metal,"melodic, energetic, male vocals, playful",617,24,3.13,
+867,Eldo,Zapiski z 1001 nocy,29 June 2010,"Conscious Hip Hop, Boom Bap, Hip Hop",,,297,6,3.30,2Vbt7IaziYrI7KWqgA4z0n
+868,The Ocean,Heliocentric,13 April 2010,"Progressive Metal, Atmospheric Sludge Metal, Post-Metal",,"atmospheric, anti-religious, philosophical, complex, heavy, concept album, nihilistic, progressive","1,172",28,3.12,7hSwIfP1OzgaaahxFCaEBj
+869,Fang Island,Fang Island,23 February 2010,"Indie Rock, Neo-Psychedelia","Math Rock, Progressive Pop","uplifting, happy, energetic, optimistic, anthemic, complex, epic, triumphant","1,500",55,3.12,7r8q1bbpeOAU0aCpXyn8mr
+870,Sage Francis,Li(f)e,11 May 2010,"East Coast Hip Hop, Conscious Hip Hop",Rap Rock,,323,11,3.14,3UfFzRYFk2eLmDVMm0gB3n
+871,No Joy,Ghost Blonde,16 November 2010,Shoegaze,"Dream Pop, Noise Pop, Lo-Fi / Slacker Rock",,405,7,3.16,2aMhSbJYAyky7TUlahgnH6
+872,Groove Armada,Black Light,1 March 2010,"Synthpop, Electropop",,"rhythmic, male vocals",323,8,3.15,6E3ownsPSmC5wTzfxcr78Y
+873,Edwyn Collins,Losing Sleep,20 September 2010,Pop Rock,Indie Rock,male vocals,221,8,3.33,
+874,Ensemble Economique,Psychical,1 November 2010,"Dark Ambient, Drone","Tribal Ambient, Horror Synth","cryptic, ominous, dark, instrumental, mysterious, paranormal, occult, tribal",225,4,3.31,1vk8ge3Yyq23DmzJr9UPHt
+875,Forteresse,Par hauts bois et vastes plaines,9 November 2010,Atmospheric Black Metal,Depressive Black Metal,"melancholic, minimalistic, atmospheric, nature, cold",237,2,3.35,7GUs7CRiVfU39COxhuoCmD
+876,The Sadies,Darker Circles,18 May 2010,"Alt-Country, Country Rock","Folk Rock, Americana",male vocals,165,5,3.60,0rxG3s3bC5OD2ANhNhgQr9
+877,Beach Fossils,Beach Fossils,25 May 2010,"Dream Pop, Indie Pop, Lo-Fi / Slacker Rock",Jangle Pop,"lo-fi, mellow, melancholic, summer, ethereal, male vocals, warm, bittersweet","1,718",31,3.13,0CKh6tOBbML2fqazPIbkVW
+878,Diddy - Dirty Money,Last Train to Paris,14 December 2010,"Pop Rap, Contemporary R&B","Electropop, House","female vocals, melodic, male vocals, introspective, concept album, sexual",343,8,3.12,2psjRixnoePs8ZqE8cuU5Z
+879,William Tyler,Behold the Spirit,22 November 2010,American Primitivism,"Psychedelic Folk, Avant-Folk",,207,3,3.44,
+880,Dum Dum Girls,I Will Be,30 March 2010,"Noise Pop, Lo-Fi / Slacker Rock, Indie Surf","Twee Pop, Garage Rock","raw, melodic, female vocals, lo-fi, uplifting, summer, sentimental, energetic","1,193",27,3.13,02bHncohpkYxdTHHzy34Y0
+881,Procession,Destroyers of the Faith,October 2010,"Doom Metal, Epic Doom Metal",,"dark, male vocals, ominous",167,3,3.63,
+882,Small Black,New Chain,26 October 2010,Chillwave,"Synthpop, Indietronica, Dream Pop","rhythmic, warm, uplifting, bittersweet, lush, male vocals, energetic",372,5,3.15,62GbuN0YhO6jAggFCaukWX
+883,Cancer Bats,"Bears, Mayors, Scraps & Bones",13 April 2010,Hardcore Punk,"Metalcore, Southern Metal, Sludge Metal","male vocals, aggressive, melodic, passionate, angry, heavy, energetic, rebellious",288,3,3.24,43jLCxKAFLArUpKDC5KEQC
+884,Calibro 35,Ritornano quelli di... Calibro 35,19 February 2010,"Psychedelic Rock, Jazz-Funk",Funk,"energetic, melodic, instrumental, rhythmic, psychedelic, lush",183,4,3.51,52kwU6Cn2vV8LKq6ZpqP3F
+885,Khors,Return to Abandoned,14 December 2010,Atmospheric Black Metal,"Pagan Black Metal, Melodic Black Metal, Melodic Death Metal","male vocals, forest, space, melodic, ethereal, folklore, mythology, dense",192,5,3.50,3RP6YBlOhPO1CxU2F38tzY
+886,Keith Fullerton Whitman,Disingenuity / Disingenuousness,September 2010,"Electronic, Sound Collage","Glitch, Noise, Drone, Electroacoustic",,225,3,3.37,37eM7gJ9vdvm2QLVnFrKRB
+887,Morcheeba,Blood Like Lemonade,7 June 2010,Downtempo,"Trip Hop, Folktronica, Folk Pop",,361,13,3.15,7cItd7m5La8KtwMk9T63MQ
+888,Phaeleh,Fallen Light,October 2010,"Future Garage, Chillstep, Dubstep","Ambient Dub, Deep House","rhythmic, mellow, female vocals, sampling, ethereal, cold, soothing, futuristic",265,7,3.24,0haNUUWudCuOyGqDK7troT
+889,Pink Freud,Monster of Jazz,16 April 2010,"Nu Jazz, Jazz, Jazz Fusion","Free Jazz, Yass","playful, improvisation, surreal, instrumental, urban, quirky, avant-garde, energetic",227,2,3.39,0Udf0OF0zRCp8L92PIVlzh
+890,Christian Scott,Yesterday You Said Tomorrow,30 March 2010,Post-Bop,Jazz Fusion,,198,8,3.51,1yEatbNaAycy7doYijdili
+891,Candy Claws,Hidden Lands,3 August 2010,"Dream Pop, Neo-Psychedelia, Psychedelic Pop",Ambient Pop,"ethereal, psychedelic, soft, mellow, soothing, lush, nature, uplifting",729,5,3.13,1nPQ7vnX6NJZCfhHJQqUL0
+892,Death in June,Peaceful Snow [+ Lounge Corps],9 November 2010,Singer-Songwriter,,"repetitive, sombre, satirical, male vocals, depressive",511,16,3.11,4ajmIVxizgSg7lVxhPnRgV
+893,Diamond Rings,Special Affections,25 October 2010,Synthpop,Electropop,,248,4,3.32,
+894,Elvis Costello,National Ransom,25 October 2010,"Americana, Singer-Songwriter","Folk Rock, Alt-Country, Boogie Rock","melodic, male vocals",343,10,3.14,7lbH259xf1W5S5DRvEu2ST
+895,Trash Talk,Eyes & Nines,8 June 2010,"Hardcore Punk, Powerviolence",Sludge Metal,"male vocals, energetic, aggressive",386,5,3.14,7tAR5386YdAzRatex3gIDq
+896,Crystal Fighters,Star of Love,4 October 2010,"Indietronica, Dance-Pop, New Rave","Indie Pop, Electropop, Folktronica, Dance-Punk",energetic,528,6,3.12,00v21bgN2da5KonMWEAMec
+897,Grown Ups,More Songs,18 May 2010,"Midwest Emo, Emo","Math Rock, Pop Punk","melodic, passionate, male vocals, energetic",260,6,3.28,49C3wzKhGifFEwnzAjEVgA
+898,Steve Reich / Eighth Blackbird / Bang on a Can,Double Sextet; 2x5,14 September 2010,"Minimalism, Chamber Music",,"uncommon time signatures, abstract, lush, composition, complex",198,6,3.48,2WdpO5OnxcSzOtjDf88k2m
+899,Rökkurró,Í Annan Heim,12 August 2010,"Post-Rock, Dream Pop","Slowcore, Art Pop","lethargic, female vocals, melancholic, longing, playful, uplifting, winter, surreal",247,4,3.33,22L306NmL2I7XM3jhW9KB4
+900,LA Vampires,So Unreal,15 November 2010,Hypnagogic Pop,"Dub, Synthpop","lo-fi, female vocals, repetitive, surreal, nocturnal, psychedelic, lethargic, mysterious",215,5,3.42,0Numd00mZblUTNjssPxZgz
+901,Crazy Lixx,New Religion,19 March 2010,"Glam Metal, Hard Rock",Heavy Metal,"rhythmic, melodic, love, male vocals, energetic",173,5,3.58,4hdK3YjlI5JFKqwuKsPscx
+902,Annihilator,Annihilator,17 May 2010,Thrash Metal,"Heavy Metal, Technical Thrash Metal","aggressive, male vocals, violence, technical, heavy, angry, death, rebellious",634,19,3.11,2OW99eTSu0qwDx1Is22h35
+903,Bosse-de-Nage,Bosse-de-Nage,29 June 2010,"Black Metal, Atmospheric Black Metal","Depressive Black Metal, Blackgaze","repetitive, depressive",305,4,3.14,6L5cS7wmU5xvhKLGE7UHzv
+904,Northern Portrait,Criminal Art Lovers,January 2010,"Jangle Pop, Indie Pop",,"energetic, passionate, melodic, bittersweet, melancholic, male vocals",210,12,3.39,2gXOixBE57GBq5wluRGF19
+905,Eric Clapton,Clapton,27 September 2010,"Blues, Blues Rock",Jazz Pop,"melodic, male vocals",366,16,3.13,2kuvLiT8HjMGWzsOq4k1Uk
+906,Avey Tare,Down There,26 October 2010,"Neo-Psychedelia, Electronic","Psychedelic Pop, Ambient Pop, Ambient Dub","sad, aquatic, breakup, lonely, psychedelic, atmospheric, male vocals, mellow","2,022",30,3.10,0NCoz2HOENum5BVShVJlXe
+907,1349,Demonoir,26 April 2010,Black Metal,Dark Ambient,"male vocals, satanic, aggressive, infernal",476,11,3.12,6ix6i3VePpwqaWEZ8EeNxv
+908,Elvenking,Red Silent Tides,17 September 2010,Power Metal,"Folk Metal, Hard Rock, Heavy Metal","male vocals, energetic, melodic",262,9,3.23,2T5orfT0zNrppQbvhOsgRB
+909,Lebowski,Cinematic,10 October 2010,"Progressive Rock, Art Rock",Post-Rock,"playful, atmospheric, dense, progressive, instrumental, melancholic",180,6,3.55,0h8djhTnvEh4TniFovcJ65
+910,Brad Mehldau,Highway Rider,15 March 2010,"Jazz, ECM Style Jazz, Post-Bop",Third Stream,,192,5,3.51,4tYokQ6vjGVHC0wEBMbeY0
+911,Eluvium,Similes,23 February 2010,"Ambient, Ambient Pop","Drone, Chamber Pop","mellow, melodic, atmospheric, ethereal, lush, sentimental, male vocals, soothing",607,17,3.12,2WLTvNhNd2ExHKLMeMGUqh
+912,Guilty Simpson,OJ Simpson,29 March 2010,"Hardcore Hip Hop, Experimental Hip Hop","Instrumental Hip Hop, Sound Collage",male vocals,431,27,3.12,2ZBt5mSuxPhkMKNktznFUb
+913,Mystery Jets,Serotonin,13 July 2010,"Indie Pop, Indie Rock",Post-Punk,,282,10,3.18,
+914,Manierisme,過去と悲哀 (The Past and Sorrow),10 November 2010,Black Metal,"Depressive Black Metal, Avant-Garde Metal","disturbing, surreal, raw, noisy, self-hatred, male vocals, depressive, dissonant",257,1,3.32,
+915,El-P,Weareallgoingtoburninhellmegamixxx3,3 August 2010,"Instrumental Hip Hop, Experimental Hip Hop",,"rhythmic, sampling, playful, progressive, instrumental",311,2,3.15,2RReK7Btyoe2KtnUS2DBgB
+916,Iron Maiden,The Final Frontier,16 August 2010,Heavy Metal,Progressive Metal,"epic, male vocals, fantasy, melodic, energetic, science fiction, space, passionate","4,797",151,3.07,5YAfxU5OZKqAvE1GZPRQYY
+917,Nobuo Uematsu 植松伸夫,Distant Worlds II: More Music From Final Fantasy,1 May 2010,"Video Game Music, Orchestral",Cinematic Classical,,151,2,3.81,1WUnKluVNj06DrGDAlsQyr
+918,Whitechapel,A New Era of Corruption,8 June 2010,Deathcore,Death Metal,"heavy, misanthropic, technical, dense, political, death, hateful, ominous",601,10,3.10,7HpJb1qC68Xvy6t0YXWHib
+919,TwinSisterMoon,Then Fell the Ashes...,2010,"Drone, Ambient",Free Folk,"ominous, dark, pastoral, nocturnal, mysterious",200,2,3.46,
+920,A Pale Horse Named Death,And Hell Will Follow Me,August 2010,"Doom Metal, Alternative Metal",Gothic Metal,"lonely, misanthropic, dark, pessimistic, alienation, death, self-hatred, drugs",342,8,3.12,76evuNDrc7LG95becPrSIJ
+921,Grimes,Geidi Primes,14 January 2010,"Ethereal Wave, Indietronica, Dream Pop","Synthpop, Ambient Pop","lo-fi, female vocals, abstract, surreal, ethereal, quirky, fantasy, sombre","3,648",25,3.09,3M5v4kVIOcncI9O8KpINc1
+922,Arvo Pärt / Angèle Dubeau & La Pietà,Arvo Pärt: Portrait,2 March 2010,Minimalism,Chamber Music,,137,,3.89,5lSNHTsXwVA7wLlplt92HH
+923,Reflection Eternal,Revolutions Per Minute,18 May 2010,"Conscious Hip Hop, East Coast Hip Hop",,male vocals,486,20,3.13,3uwRp5ehO2wWRBKcpjjQdR
+924,Heaven Shall Burn,Invictus,21 May 2010,"Melodic Death Metal, Metalcore, Melodic Metalcore",,,357,7,3.11,7pAxDxspDfJJG1J41laBnn
+925,Pausal,Lapses,9 March 2010,"Ambient, Drone",,"calm, aquatic, longing, forest, warm, autumn, meditative, sombre",202,2,3.42,0qZqgtBgIndDuYWa1qHOMe
+926,Pierce the Veil,Selfish Machines,22 June 2010,"Pop Punk, Post-Hardcore",Emo-Pop,"passionate, androgynous vocals, male vocals, energetic, suicide, eclectic",907,15,3.05,01dcOm8Whefyve6zChrq9Q
+927,Man's Gin,Smiling Dogs,August 2010,"Folk Rock, Acoustic Rock, Gothic Country","Americana, Grunge, Southern Rock, Gothic Country","alcohol, lonely, rhythmic, dark, death, sarcastic, sombre, passionate",199,6,3.43,3ey4xceHWt1dtiIg6AGhWs
+928,Devo,Something for Everybody,15 June 2010,"New Wave, New Rave","Synthpop, Dance-Punk","male vocals, playful, satirical, energetic",899,37,3.09,4y8hWlVgKfFZaBb4iVYyNE
+929,Melvins,The Bride Screamed Murder,1 June 2010,Sludge Metal,"Experimental Rock, Stoner Metal",,729,23,3.11,3lXx4iMlQSmNiqZqRoWS7D
+930,John Mellencamp,No Better Than This,17 August 2010,"Americana, Country Rock, Folk Rock",Folk Rock,,200,7,3.42,4LwEiwlcAH72gxNTg4sGII
+931,Bilal,Airtight's Revenge,14 September 2010,Neo-Soul,"Psychedelic Soul, Contemporary R&B","dark, drugs, melancholic, psychedelic, introspective, sad, passionate, political",203,6,3.42,5BP6rxVKYIUCXR7hTR2t0W
+932,Witchrist,Beheaded Ouroboros,23 August 2010,Death Metal,"Black Metal, Death Doom Metal",,212,2,3.41,4EpWiPSLtw0ehThisnh2Ue
+933,Lil B,Rain in England,20 September 2010,"Ambient, Spoken Word, Experimental Hip Hop","New Age, Conscious Hip Hop, Poetry, Drone","spiritual, existential, meditative, concept album, peaceful, introspective, ethereal, surreal","1,105",27,3.05,65SD8uIn7EeP2KZBPpYDTZ
+934,Against Me!,White Crosses,8 June 2010,"Alternative Rock, Power Pop","Punk Rock, Heartland Rock","female vocals, political, energetic, melodic, rebellious, anthemic, summer, love",830,21,3.08,5VLEp4UIDkIowATwaveKUQ
+935,Miami Nights 1984,Early Summer,5 April 2010,"Synthwave, Electro-Disco",Spacesynth,"rhythmic, mellow, warm, summer, atmospheric, instrumental",251,5,3.22,1ncozZCW2Bc85yWqPhbVnE
+936,Male Bonding,Nothing Hurts,11 May 2010,"Lo-Fi / Slacker Rock, Garage Punk",,,547,13,3.10,3apaCWcncNFRoMJ4J7GvXV
+937,1958-2009,II,January 2010,"Ambient, Drone",,"funereal, meditative, lo-fi, atmospheric, bittersweet, mysterious, soothing, instrumental",210,4,3.47,
+938,Electric Moon,Lunatics,2010,"Psychedelic Rock, Space Rock","Krautrock, Jam Band",psychedelic,181,5,3.52,1w7aH8CXGiRsUpNznYvE95
+939,Wino,Adrift,24 September 2010,"Singer-Songwriter, Acoustic Rock",,,172,6,3.57,
+940,Eddy Current Suppression Ring,Rush to Relax,19 February 2010,"Garage Rock, Indie Rock",,"apathetic, anxious, sexual, bittersweet, male vocals, energetic, summer",205,6,3.41,10jpxip0J5Ag4mUpyJNt0S
+941,Glass Hammer,If,14 September 2010,"Progressive Rock, Symphonic Prog",,,154,13,3.62,
+942,Deer Tick,The Black Dirt Sessions,8 June 2010,"Folk Rock, Americana","Americana, Alt-Country","death, dark, sombre, depressive",216,4,3.39,2XsWRPltTHzmdDtzwevG0w
+943,UNKLE,Where Did the Night Fall,10 May 2010,"Electronic, Alternative Rock, Trip Hop",,"female vocals, dark, male vocals",623,13,3.10,1zU4IVCraoTYwL4bFZ2Inh
+944,Goldfrapp,Head First,22 March 2010,"Synthpop, Electropop","Electro-Disco, Dance-Pop, Synthwave, Europop","uplifting, happy, playful, female vocals, romantic, summer, lush, atmospheric","1,342",34,3.08,1wwazNvPsfWfQU6vkmZiR4
+945,The Corin Tucker Band,"1,000 Years",5 October 2010,Indie Rock,,female vocals,191,9,3.41,3W8h6w1KpZcdBTlhjJL7kO
+946,Netsky,Netsky,31 May 2010,Liquid Drum and Bass,Dancefloor Drum and Bass,"atmospheric, instrumental, ethereal, rhythmic, lush, complex, male vocals, female vocals",348,7,3.10,0SIXPkCP0ZsS1j5JtQfSqn
+947,Tarja,What Lies Beneath,September 2010,"Symphonic Metal, Symphonic Rock",Classical Crossover,female vocals,324,6,3.10,1pwPRkDL2HzGLJVxGYQpQi
+948,Hightide Hotel,"Nothing Was Missing, Except Me",2010,Midwest Emo,,"melancholic, pessimistic, technical, bittersweet, male vocals, energetic, depressive, anxious",257,5,3.24,4PTPhfVJ61m3UH4IYT90At
+949,The Foreshadowing,Oionos,2 April 2010,"Gothic Metal, Doom Metal",,"melancholic, passionate, dark",216,6,3.36,74zrXTVrC7unOWOa518JOM
+950,Gigi,Maintenant,12 January 2010,"Brill Building, Indie Pop, Chamber Pop","Girl Group, Baroque Pop",,197,10,3.42,
+951,Autre Ne Veut,Autre Ne Veut,30 August 2010,"Synthpop, Alternative R&B, Art Pop","Contemporary R&B, Chillwave, Glitch Pop",,412,9,3.09,0A3xs8iUUCn7Q29rOAcfn6
+952,Johnny Flynn,Been Listening,7 June 2010,"Contemporary Folk, Singer-Songwriter",British Folk Rock,,202,2,3.48,6zhW0ymzbX1lgiJB2ptape
+953,Slash,Slash,6 April 2010,Hard Rock,"Pop Rock, Acoustic Rock","male vocals, melodic, heavy, female vocals, energetic, passionate","1,234",32,3.05,5PmI6apXuMeGZuv9ninvl6
+954,Los Planetas,Una ópera egipcia,13 April 2010,"Indie Pop, Indie Rock","Flamenco nuevo, Neo-Psychedelia, Indietronica, Indie Pop","psychedelic, male vocals, dense",294,12,3.17,4ntDDrU3fnX9TFyL3JkFw0
+955,The Acacia Strain,Wormwood,20 July 2010,"Deathcore, Metalcore",Sludge Metal,"angry, anti-religious, violence, hateful, heavy, misanthropic, aggressive, rhythmic",504,10,3.06,5pZD06jMRqNicKO4AlcK06
+956,Bag Raiders,Bag Raiders,1 October 2010,"Electropop, Dance-Pop","Nu-Disco, Electro-Disco, Synth Funk, Funktronica","male vocals, warm, uplifting, party, melodic, summer, lush, sentimental",360,5,3.10,6zVi5jNALX1GeD3MxiFmqo
+957,Cerebral Bore,Maniacal Miscreation,12 August 2010,Brutal Death Metal,"Slam Death Metal, Technical Death Metal","heavy, female vocals, violence, technical, death",300,3,3.14,2cnrXiaPOAw4W4HkhSkNha
+958,Various Artists,Music From Saharan Cellphones Vol. 2,2010,"West African Music, Tuareg Music, Amazigh Music","Tishoumaren, Hip Hop, Electronic",,235,,3.30,2ec7StRUkm51joitBXItbK
+959,Paul Baribeau,Unbearable,March 2010,"Anti-Folk, Singer-Songwriter",Folk Punk,,214,5,3.46,22sqrV9DmWenqzpAcKHqJX
+960,Maps & Atlases,Perch Patchwork,29 June 2010,Indie Rock,"Math Rock, Progressive Pop",,441,15,3.10,6jy3vPe7wZC3qfhmQ8EKr2
+961,Marcel Dettmann,Dettmann,26 April 2010,Minimal Techno,Dub Techno,,221,6,3.33,75ilFqVdPdEXeA1EZmW8oC
+962,Klone,Black Days,19 April 2010,"Alternative Metal, Progressive Metal","Groove Metal, Post-Metal","heavy, rhythmic, melodic, progressive, atmospheric, male vocals",197,6,3.45,4ncpsdRI9HJjLlECxaSGYW
+963,Efdemin,Chicago,24 May 2010,"Deep House, Minimal Techno",Microhouse,"repetitive, hypnotic, minimalistic, rhythmic",231,6,3.27,4LMkTg9XyrK5BqcSmH8Owf
+964,ASC,Nothing Is Certain,16 July 2010,"Minimal Drum and Bass, IDM","Ambient, Halftime","atmospheric, ethereal, sombre, warm, space, calm",234,8,3.26,5CkGFCk100Az1VXR8ObTvV
+965,Ajilvsga,The Origin of the Chaul,9 July 2010,Drone,"Noise, Dark Ambient","cold, instrumental",195,1,3.43,
+966,Super Chron Flight Brothers,Cape Verde,23 July 2010,"East Coast Hip Hop, Boom Bap","Jazz Rap, Abstract Hip Hop, Political Hip Hop","political, anxious, urban, male vocals, serious",182,7,3.53,1bd3GJ58sOJF3xKVXTdS0t
+967,Delorean,Subiza,15 March 2010,"Indietronica, Balearic Beat",Indie Pop,,800,14,3.08,1Xl3ibPzUoDmMrHcr8J32T
+968,Black Tusk,Taste the Sin,25 May 2010,Sludge Metal,"Hardcore Punk, Stoner Metal",,319,6,3.11,5ZyaE4zY5eTfLpOoLw2g8C
+969,Grum,Heartbeats,18 May 2010,"Electropop, Synthwave","Electro House, Electro-Disco",,248,2,3.23,02qkAjx3obMUsg0wQcCING
+970,Blood Axis,Born Again,January 2010,Neofolk,"Irish Folk Music, Dark Ambient",,241,3,3.28,0Wp5NDgVL4NoZdySn71FMs
+971,The Posies,Blood/Candy,28 September 2010,Power Pop,,,191,8,3.44,5iq5ZLbiZE8AfYGKagiDFb
+972,Hurts,Happiness,6 September 2010,Synthpop,"Sophisti-Pop, Electropop",male vocals,"1,129",40,3.04,4PlKlEPCoEvqzzKcPEKwh0
+973,Magic Kids,Memphis,24 August 2010,"Indie Pop, Sunshine Pop","Twee Pop, Power Pop",,273,8,3.16,3pNoBx5913VWGKfd5X51w1
+974,Cloud Control,Bliss Release,14 May 2010,"Indie Pop, Psychedelic Folk",Psychedelic Pop,,220,8,3.32,3gV3aHDmFNzXFmQKeoSVbx
+975,Dark Dark Dark,Wild Go,5 October 2010,Chamber Folk,"Indie Folk, Balkan Folk Music",,231,5,3.32,1F8nZAZYDpmCz4dPRfRLdx
+976,Eels,Tomorrow Morning,24 August 2010,"Indie Pop, Singer-Songwriter",,"optimistic, bittersweet, love, male vocals, romantic",660,24,3.08,1dOuxrnoDJRHQjmMKsaWGu
+977,Blackbird Blackbird,Summer Heart,2 July 2010,Chillwave,"Dream Pop, Hypnagogic Pop","mellow, tropical, warm, uplifting, playful, summer, atmospheric, ethereal",517,14,3.09,4btyJV28pMM7jsTwbgdJ9U
+978,Sara Bareilles,Kaleidoscope Heart,7 September 2010,"Singer-Songwriter, Pop, Piano Rock","Chamber Pop, Pop Rock","female vocals, melodic, sentimental, sad",267,7,3.26,627ukPRwYxyBREHxBq0vGJ
+979,Jakob Dylan,Women + Country,6 April 2010,"Alt-Country, Americana, Singer-Songwriter",,,230,11,3.33,
+980,The Young Gods,Everybody Knows,5 November 2010,"Electronic, Experimental Rock, Electro-Industrial","Industrial Rock, Breakbeat","cryptic, futuristic, atmospheric, abstract, complex, male vocals, eclectic",190,3,3.43,7yMIBqSdvRh2d80QWe2sEQ
+981,Homeboy Sandman,The Good Sun,1 June 2010,"East Coast Hip Hop, Abstract Hip Hop",Conscious Hip Hop,"male vocals, conscious",198,7,3.44,1wT6cM9OeKuA6zxMpWEPSv
+982,Adam Green,Minor Love,16 February 2010,"Indie Pop, Singer-Songwriter","Anti-Folk, Indie Folk, Lo-Fi / Slacker Rock",,344,12,3.09,5UJC1dW4lLlfpoclsi1FfM
+983,Broken Water,Whet,March 2010,Noise Rock,"Noise Pop, Shoegaze","melancholic, sombre, atmospheric, noisy",240,4,3.29,7vJZUQz4ligqwfU7YcewuI
+984,"Hank Williams, III",Rebel Within,25 May 2010,"Cowpunk, Alt-Country, Country",,,195,7,3.44,3iJAChYyS4xHHSk2gSbr0F
+985,Madlib,Madlib Medicine Show: No. 7 - High Jazz,27 July 2010,Avant-Garde Jazz,,"avant-garde, instrumental",231,4,3.32,4qfZaYDq9FnYvdppk7SO6p
+986,Blue Hawaii,Blooming Summer,May 2010,Chillwave,"Ethereal Wave, Art Pop, Synthpop","female vocals, atmospheric, ethereal, uplifting",310,6,3.08,1ppRCAE0TT4h1U5oFW8TMn
+987,Paul Gilbert,Fuzz Universe,3 August 2010,Hard Rock,Progressive Metal,instrumental,181,8,3.55,7bdQegwxx8YwlyOZ2SQdMQ
+988,The Hold Steady,Heaven Is Whenever,4 May 2010,Indie Rock,"Pub Rock, Heartland Rock",male vocals,652,28,3.06,0luu80wDt625BzHvk7zjiM
+989,Shout Out Louds,Work,23 February 2010,"Indie Pop, Indie Rock",,,313,7,3.09,7HilMFwE3sdYIeP5hyFWPu
+990,Take That,Progress,22 November 2010,"Electropop, Synthpop, Pop","Pop Rock, Dance-Pop","male vocals, melodic",305,17,3.07,
+991,Shigeto,Full Circle,9 November 2010,"Glitch Hop, Wonky",Downtempo,"rhythmic, sampling, atmospheric",254,,3.23,21MzP25d9STHC9zRrnvBYz
+992,Kids & Explosions,Shit Computer,2010,"Mashup, Glitch Hop","Folktronica, Plunderphonics","humorous, sampling, playful, rhythmic, quirky",259,12,3.20,
+993,Periphery,Periphery,20 April 2010,"Djent, Progressive Metal","Metalcore, Electronic","technical, energetic, heavy, uncommon time signatures, progressive, male vocals, atmospheric, futuristic","1,818",61,3.01,1UUO1uNhwVktqQqxYYViU1
+994,The Amity Affliction,Youngbloods,18 June 2010,Post-Hardcore,Metalcore,"suicide, sad, optimistic, male vocals, depressive, passionate, uplifting, melodic",287,6,3.19,30qDcrg8hYCBi64TXOM5gb
+995,Two Steps From Hell,Invincible,3 May 2010,"Epic Music, Choral",,"epic, orchestral, choral, martial, uplifting, suspenseful, melodic, atmospheric",243,3,3.20,0zOdkaCbYN1B42zw8TUYlY
+996,Eels,End Times,19 January 2010,"Singer-Songwriter, Acoustic Rock",Lo-Fi / Slacker Rock,"melancholic, alienation, breakup, bittersweet, lonely, sad, male vocals","1,009",31,3.06,1IjF1ssUkmrjLcHVMUSQ1w
+997,Underworld,Barking,13 September 2010,Progressive House,"Drum and Bass, Trance","male vocals, energetic, uplifting, rhythmic, melodic, party, anthemic",497,14,3.06,5LUJemyMzTC0KxSGKnamOd
+998,Kent,En plats i solen,30 June 2010,"Pop Rock, Synthpop",Synthpop,"warm, male vocals",330,7,3.07,7ABYhkgpW9GIhOU70M1A1P
+999,Nils Frahm & Anne Müller,7fingers,13 July 2010,"IDM, Modern Classical",,,223,3,3.32,3HbZx9kGBaHIDBqOZStLG9
+1000,Tyvek,Nothing Fits,9 November 2010,Garage Punk,Hardcore Punk,,184,5,3.42,5ycxiuQ20sT3DXfMHCkcQ1
